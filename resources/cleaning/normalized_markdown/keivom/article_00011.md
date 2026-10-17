@@ -1,0 +1,46 @@
+# Phuok Fawm Histawri-1
+
+* **Source URL:** [https://keivom.blogspot.com/2005/04/phuok-fawm-histawri-1.html](https://keivom.blogspot.com/2005/04/phuok-fawm-histawri-1.html)
+* **Date:** `2005-04-23`
+* **Source Archive:** `keivom`
+* **Hmar Ratio:** `0.84`
+
+---
+
+June 25, 2004 a
+
+Times of India
+
+phek tontirah
+
+‘Scrap ‘toxic’ texts : HRD panel’
+
+ti a um a, a parakraf hmasa taka chun,
+
+“The three-member committee, set up by the HRD ministry to review ‘saffronised’ NCERT history text books, has recommended scrapping the books immediately”
+
+tiin a’n ziek a. Hi thil hin kum 1973-74 laia Pu L. Rokung leh nasa taka ṭhang laa Pu Hranglien Songate ziek ‘Hmar History’ chu sut nawk a ni hmaa umzie nei meta siem ṭhatpui kan tum lai hun a mi’n hriet suoktir a. Chuleiin, hi artikul hi ka Baibul inlet buoi lai hun tepter tak karah ka hung ziek pha ta hiel a nih.
+
+A hmasain, chanchin ei tar lang tah thu hi a ṭobul hang thlir hmasa inla. Delhi tlanga BJP sorkar an hung inlal khan an thilthaw tum laia pakhat chu Hindu kulmuthai ril rem zawng le an chanvo sukvawng zawnga India histawri ziek ṭhat a nih. Chu ding chun sikula histawri lekhabu po po siem ṭhat phot a nih. Chu chu thaw thei ding chun a ram puma hmang thei text books siemtu dinga pawl indin, National Council of Educational Research and Training (NCERT) bu zawla an mi le sahai sie lut a, chu taka kuo suot nghet chu a nih.
+
+Hieng tieng thil po po sorkor laipuia cheltu chu kha hmaa Ministry of Education ti hlak, tuta Human Resources Development (HRD) ti hung ni ta hi a nih. Chu ministry enkoltu dinga Minister an ruot chu Hindu pachal, Hindu a nih ti miin an hriet naw inlau ang ziezang anga a chal nal sen zing hlak Pu M. M. Joshi a nih. Pa fel tak le lekha thiem tak a ni zing laiin ngolvei pakhat a nei a, chu chun a mit meng le khaw hmu a sukvai hlak bakah phuok fawm histawri ziek chaknain a kut a sukza zok zok bok a. Chu chalrang chun a thiltum sukhlawtlingtu dingin pa vun sa, hmai phak lul el, khel thu ṭan leia hmai ṭimna nei der lo, a hming Rajput an ti chu NCERT lu takah a hung sie a. Rajput chun kha hmaa history textbooks ziektuhai po po chu hnawlin, a pu ditzawng ang taka histawri her rem thei ding mihai chu a thlang khawm a, ei ram histawri an suosam a, a por chu nasa tak a nih.
+
+Hindu kulmuthai rong kaia naupang inchuk dinga histawri an ziek thar chu a nih ei thu bula chanchinbu ripawt ei tar langa hnawl vong nghal dinga an ti kha. Hi hi May 2004 inthlangpuia Congress le a sangawi zawnpuihaiin BJP le an chekawihai an hung suom thlak leia thil um a nih. BJP sorkar inlal zom pei hai sien chu histawri phuokfawm mi’n ba lui pei an ta, ram dang nuizat bûr ei kai ding a nih.
+
+Hindu kulmuthaiin an histawri an inzapui bek bek laia pakhat chu bawng sa an fak hlak thu a nih. Pathien anga bawng an hung bieka inthokin hi thil hi an inzapui a, histawri bua inthoka thai bo an tum ṭêp ṭêp a nih. Amiruokchu, an lekha hluiah bawng sa an fak thu hi ziekin a um bok si. Aryan Civilisation huna khan, Judahai ang bokin, Pathien hmaa inthawina pom tlak taka an nei chu bawngchal tuoia inthawi a nih. Chu sa chu an thiempu Brahmin-hai chanpuol a ni leiin, an bawng tuoi ṭha ṭha sa fa zotu chu an thiempuhai an nih. Chuonga bawngchal tuoi a hlu lei le a thei phot chun inthawinaa hmang an hung tum seng leiin rana sor ding bawngchal an hung tlawm pha ta a. Hun a hung sawt deu chun bawng sa chu Brahmin-hai chauh fak thiengah an hung sie a, inthawina dinga sa ser bik a hung inchang a. Hun a fe pei a, Brahmin-hai ngei khomin bawng sa fak chu an hung bàn a, fak thieng loa ngai a hung ni tah a nih. Chik taka ei sui chun, bawng sa an fak ta nawna san hi sakhuona thil lei ni loin, bawng hi mihriem khawsaknaa sor ṭangkai ran a ni lei a nih.
+
+Chu chu thil um dan a nih. An lo fak hlak thu hi an fak ta naw leia sukbo el thei a ni nawh, thil tlung ta sa a ni leiin. Chuong chu ni loin, thil liem ta hnung hi her kira thlak thei ni sien chu, Evi thei fak khom kha a fak hma charin her kir ei ta, a hnung peia Pathien le mihriem inlaichinna thu po po le Isu Krista hungna thu po po khom pei hmang vong hung ngai a tih. Chu chu thil thei a ni naw a, thei khom ni sien thil ditum ni kher naw nih. Chu chun thil tlung tahnung, mani ṭanghma kei zawnga hêm kuol tuma phuok fawm histawri le hmet rem tum hang ṭiumzie a hril chieng hle. Zani khan voisun a hring a, voisun hin a tuk a hring a, ni kum khan tu kum a hring a, tu kumin kum nawk a hring pei hlak ang bokin thilthaw pakhatin thilthaw dang a hring a, a’n kakhawk sawng pei a nih. Khel le phuok fawm histawri chu thil tlung lo a ni leiin tak ramah kakhawk a nei naw a, iemani hunah mihaiin lo ring hai sienkhom, tuili lut angin, khêl chu a hung inlàng suok hun a um a, chu pha chun hnawl a ni tho tho hlak a nih.
+
+Hi ngirhmuna inthok hin tienami anga hril le zieka um ei histawri hin bel chieng a dawl nawzie hmu nghal ei tih. Pu Hranglien Songate chun ziek ngeia Hmar chanchin sie nuomin hmun hrang hrang fangin chanchin a khon khawm a. Chuong a thil lak khawmhai chu ‘Hmar History’ ti hmingin lekhabuin a siem a, kum 1958 khan sut a na, Hmar ṭawnga ziek histawri bu ei nei hmasa tak a nih. A sung thu a tam lem chu histawri huong (historical framework) a khum thei ni naw sienkhom a um sun a ni leiin a poimaw êm êm a, a hnunga ei chanchin hung ziektu taphotin besanin an hung nei ta vong a nih.
+
+Pu Hranglien lekhabu hi histawri huonga khum ding chun thil tlung hun le a tlungna hmun le hmet rem a hung ngai a, chu chu ama dam lai ngeia thawpui kan tum chu a nih. Hi thil hi kan buoipui laia Pu Hranglien le Pu Rokung ngaidan chun, chanchin kan hlu lut taphot chu mi dang a hre lem an um naw leiin mihaiin an hung pom vong ding a nih ti a na. Kei ruok chun, “Ei thil ziekhai hi lungvar le hrietna nei tak tak ṭhangtharhaiin la hung sui an ta, historical framework-ah hung bel rem tum an ta, a thei si naw chun an la hung hnawl vong ding a na, chuleiin histawri huonga khum thei chin po thlier hrang ei ta, a dang po chu thusim le thurachi (legends and myths) hnuoiah tienami angin ei sie lut ding a nih” ka ta.
+
+Pu Hranglien le Pu Rokung thlir dan le ṭhahnemngaina hi Hindu kulmuthaiin an thusim le thurachi hmanga India histawri ziek ṭhat an tum ang hi a nina chin a um a. Chu umzie chu story ni si history anga hlu lut, tienami ni si, a tak anga inchangtir tina nih. Chu chu tu chena eini rawiin lekhabu ei ziek changa ei thaw dan chu a ni tlangpui. Ei hlaa San/Shan chu tu laia Burma rama Shan State ni dingin mi tam tak chun ei bel. Amiruokchu, historical framework-ah hang thun lut tum inla, a’n leng tlat si nawh. A ṭhen lem chun Rakhen khuoa inthokin Shan-ah ei inpemtir a, chu hnungah Kawl phai (Kabaw Valley) ah ei inluttir a, Khampatah Luopui inlaltirin, a tupa Chonhmang chu Ṭipura tlung raka Reng nina ngirhmun chelin ei inpemthlaktir a tih. Chu lai chanchina chun Sortuia Neilal le Ṭuoni chanchin khom ei inṭhangtir a nih.
+
+Hieng ei thil hmet bel tumhai hi a karinkik thei khop el a, ei bi chieng po leh a nuizatumzie ei hmu suok zuol. Chonhmang hi kum zathum vel bek ei indamtir a ni naw chun a chanchin ni awma ei hril vet hi historical framework-ah inleng thei naw nih. Rakhen khuo ei ti vet khom hi chik lema ei bi chun Saphaiin Arakan an ti, Kawlhaiin Rakhine an ti, Bangladesh rama Chittagong Tract le inramri, Burma rama State lai po poa thlang dep tak biela khaw pakhat a ni ring a um. Rakhine (Rakhen) biel tlung ta hnunga Shan rama hang inpêm tungtir nawk chu thil bangbo le thu lu bul a nih.
+
+Ei tienami le ei histawri anga ei ngai tam tak hi thutak leh inzawlna an nei nawh. Chun, Zo hnathlakhai po po hi Kabaw phai vel le Chin Hills-a kum zathum neka tam ei um lai khan tu laia ei satpui rak rak hnam hminghai hi an la pieng nawh. HMAR hming lem lem hi chu Hmar hnathlak a tam lemin Mizoram an suoksan hnunga pieng chauh a nih. ‘EICH EM A AR HMAR hi a lo nih, Pi le pu chen khoma an lo sak sa” ti hla dam hi histawri khel tieng rama um a nih. HMAR hming hi pi le puhai phuok ni loin, kum 1800 A.D hnunga Lusei lalhaiin Mizorama inthoka hmar tieng pana fe pawl an hrilna ṭawng, hnam hminga ei put ta mei mei a nih.
+
+Zo hnathlakhai histawria chieng tak, sel ngaina um lo thutak chu ser khat suok, sul khat kuol, iemani chen ei um dar hnunga hnam hrang hrang anga insal ta mei mei ei nina hi a nih. A tu hnam histawri khom ei unau danghai le inkop loa a hrana ziek thei a ni nawh. A hrana Hmar History amanih Lusei History amanih ziek tum chu taksa bung laia peng pakhat chauh sui tum ang a na, ziek ṭal ei tum a ni chun phuok fawm histawria hnaw puom a ngai naw thei nawh. Tu chena Mizo History anga ziek tahaiin bel chieng an dawl nawna san khom Luseihai chanchin ziek hi Mizo History ziek an insawn tawl lei a nih. Chu chu a nih ka hril nuom.
+
+(April 23, 2005)

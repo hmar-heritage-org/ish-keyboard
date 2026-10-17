@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>18.0</KeymanDeveloperVersion>
+    <FileVersion>12.0</FileVersion>
+  </System>
+  <Info>
+    <Name URL="">ISH Dual Lexicon</Name>
+    <Version URL="">1.0.0</Version>
+    <Copyright URL="">© Hmar Heritage Foundation</Copyright>
+    <Author URL="">Hmar Heritage Foundation</Author>
+    <Description URL="">Intelligent dual-lexicon prediction model (Hmar canonical + English loanwords) for ISH Keyboard.</Description>
+  </Info>
+  <Files>
+    <File>
+      <Name>hhf.hmr.ish.model.js</Name>
+      <Description>Lexical Model</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+  </Files>
+  <LexicalModels>
+    <LexicalModel>
+      <Name>ISH Dual Lexicon</Name>
+      <ID>hhf.hmr.ish</ID>
+      <Languages>
+        <Language ID="hmr">Hmar</Language>
+      </Languages>
+    </LexicalModel>
+  </LexicalModels>
+</Package>

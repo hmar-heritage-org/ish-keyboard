@@ -1,0 +1,72 @@
+# HSA Emblem
+
+* **Source URL:** [https://keivom.blogspot.com/2008/06/hsa-emblem.html](https://keivom.blogspot.com/2008/06/hsa-emblem.html)
+* **Date:** `2008-06-25`
+* **Source Archive:** `keivom`
+* **Hmar Ratio:** `0.83`
+
+---
+
+Sinin, hrilin, sanin, ṭhuoiin,
+
+Serve the nation: hnam rongbawl di’n.
+
+-Lalruotthang
+
+Kum 1962-a Hmar Students’ Association General Assembly chu HSA pieng champha October 2 huom ngeia Sielmata hmang hman dingin kan insingsa mup mup a. Chuong laia HSA phurtu tak chu D.M.College-a kai laihai kan ni a, college pakhata Hmar hnathlak inchuk lai kan fuon khawm rawnna tak le tlang hrieta hming ser phak kan suok rawnna tak a nih. Chuong lai chun HSA chanchinbu thla kip suok
+
+Inchuklai Nun
+
+khom keini rawi enkolna hnuoia um a ni a, Editor chu kan pawla mi S. N.Ngurte a ni a, a hun takah a suok zat zat hlak a nih.
+
+HSA hi kum 1939-a indin tah ni sien khom kum 1961 chen khan amain puonzar (flag) a la nei naw a, ieng khom inziek lo puon hlap, a rong hring hi puonzar lailawka hmangin kan khai hlak a. Kum 1962-a hmang hman ngei dinga puonzar buotsai dinga ti a ni a, a buotsaitu dingin an mi dànde a. College-a ka kai sung po po khan HSA pumpuia Secretary, Culture & Information ka ni tluon suok leiin HSA puonzar le emblem buotsai sin khom chu ka liengkoah an innghat ni takin ka hriet. Tu laia internet hmanga information mamaw ei dap khawm zung zung ang hin chuong lai huna chun thaw thei a la ni naw bakah HSA Constitution-a a pawl thil tum tawitea ziek a ni bak chu a motto ding le a emblem ding ieng khom siem fel a la um naw a. A motto siem fel zet naw hlak chun Emblem buotsai ngaina a um naw leiin mawphurna an mi pek kha hautak ve tak a nih.
+
+Thaw dinga ka chunga mawphurna innghat a ni tah si, mi hang rawn ding ka hriet bok si naw leiin kan college laibrari-ah khawvel hmun dang danga mi thaw dan ka hmu thei ang ang le Manipura tlangmi hnam dang dang magazine insuoa an emblem hmanghai chu ka dap khawm a. Dit dan chieng tak ka nei a. A hmasa taka ṭhang ngei ngei ding le a laili tak hluotu dinga ka dit chu Hmar Arsi (Pole Star) a nih. Chu Hmar Arsi chu arasi dang ang ni lo, inson ngai lo, tien lai compass an hmu suok hma le hmu suok hnung khoma tuipuia lam inhmanghaiin panna tieng ding lampui kawkhmutu ringuma an hmang hlak a nih. Nunghak tlangval tam tak khomin hi arasi ringum le nghet hming sâl hin hmangaina biethu an thlung hlak a. Ka ruolpa Lalthanzau Pudaite khomin tienami tawi, ‘Ei tiem Hmar Arsi’ ti ngainuomum deu el a ziek nghe nghe a, a hnungin Hmar Literature Society haiin an sukhmangpek a, inpâm a um kher el.
+
+Dannarana arasi lim an ziek hi kil ngaa inki a ni hlak. Amiruokchu, chuong ang chu hmang nekin
+
+Davida Arsi (Star of David)
+
+an ti, kil ruk nei, triangle intie pahnih, a kil inchen vonga bel thuo ang chu hmang ka tum a nih. Hi hi
+
+Shield of David
+
+(Davida Phaw) ti a ni bok (Sam 18:30,35). Hi lim char hi Solomonin a hming namna suoiah (seal) a hung hmang leiin
+
+Seal of Solomon (Solomon Suoi)
+
+ti a ni bok a. Isu hung pieng laia Bethlehem chunga arasi mak hung inlang leh keikopin
+
+Star of Bethlehem (Bethlehem Arai)
+
+ti pawl an um bok. Kum 1948-a Israelhaiin Israel State thar an hung indin nawk khan an hnam puonzara a laili tak hluotuah an hung hmang nawk a. Isu Krista tlanna zara Pathien hnam thlang Israel tharhai chu ringtuhai ei ni lei le chu sakhuo zuitu Hmar hnathlakhai chu Israel thar ei hung ni tak leiin arasi kil ruk nei chu hmang lo thei loah ka ngai a nih.
+
+Chun, chu arasi lim chu thil biel (circle) sungah um a ta, arasi sunga chun a pawl hming lamtawi ‘HSA’ ti chieng deua hawroppuia inchuon ṭhain ka hriet bok a. Chu kuol sunga arasi lim mi dangin an sie dan chu: hmar le sim tieng zawng, a chung le a hnuoi tieng laili takah arasi sir zumin a kuol hmawr ve ve a sun a, sak le thlang tieng ruok chu arasi zum pahniin a kuol hmawr ve ve an insuntir thung a nih. Sienkhom, chuong anga sie ve chun a sunga HSA sie ka tum hawrophai leh khan a kil rem fuk thei a ni naw a, a letling chara sie ruok chun a kil invuok rem dan (symmetrical order) a hung indik thlap thei a nih.
+
+A laia sie ding Hmar Arsi lim le a sunga inchuon ding ka rem fel hnung chun, arasi lim chu inlir thei ke kuol sunga sie ṭhain ka hriet a. Chu hminga chun ‘Hmasawnna Kekuol’ (Wheel of Progress) ti inbuk ṭha dingin ka ngai a. Mihriemin mei a hmu suok hnunga hmasawnna sirbi a kai tung tak tak hun chu tawlailir ke (wheel) a hmu suoka inthok le a hmang dan chi hrang hrang a hung thiema inthok a nih. Chu chu a hmingah ‘lirkuol’ ti inla, a fûk el thei. Chu lirkuol le arasi inkara chun HSA pieng kum 1939 le HSA motto ziek ṭhain ka hriet a. Sienkhom a motto hang sie ding chu ieng khom siem a la ni si nawh. Institution hrang hrangin an thaw dan ka zong khawm a, abikin sikul le kawlez ṭha deuhai chu Roman Catholic ta an ni tlangpui bakah an motto khom Latin ṭawng besana ser deu vong a nih. Ka thil hmuhai chu besana hmangin “SININ, HRILIN, SANIN, ṬHUOIIN” ti thupui hi ka hung duong suok tah a nih.
+
+A umzie tlângpui chu hieng ang hin a nih: SININ=Inchuklaihai chun lekha inchukna sin nasa taka thawin, thiemna an hai suok ding a nih; HRILIN=Chuong thiemna le hmasawnna kong an hai suokhai chu an mipuihai hrilin an inchuktir ding a nih; SANIN= An hratna le theina po po hmangin ram le hnam sanin an inhmang ding a nih; ṬHUOIIN= Thiemna le varna an inchuk suokhai chu hmangin ram le hnam an keiṭhuoi ding a nih. Chu motto chu lirkuol sungah voi tieng SININ, HRILIN, chang tieng SANIN, ṬHUOIIN ti ka sie a, a lu tieng Sapṭawngin, SERVE THE NATION ti le a mong tieng HSA pieng kum 1939 ka sie bok a. Chu lirkuol inkhumtu ding chun UNO flag-a mi, huit (wheat) buvui lim, fak le dawn tienga hmingilna le hnienghnarna inentirna (sign of prosperity) chu ka sie nawk a. Chu ṭhuta chun HMAR STUDENTS’ ORGANISATION ti hawroppuiin ka sie a, HSA Emblem ruongam ding chu a hung suok tah a nih.
+
+A ruongâm ding ka rel hnung chun geometry kan thaw chânga biel rinna dinga hmangruo kan hmang hlak, bân pahni nei (compasses) ka haw a, chu chu hmangin lekhapuonah ka ziek thlak phot a. Ruolhai kan entir a, ṭha an mi tipui seng a. Chu zoah bazarah ka fe a, lekhakhong (cardboard), a rong uk lien tawk tak ka’n chawk a, chu taka chun uluk deuin ka ziek thlak a, hawrop le a lim ker ngai po chu ngunthluk takin ka ker a. Ka thaw zo chun kan hostel-a inthoka minit nga lawn chauha hla Girls’ Hostel-a um Nk Lalring, a hnunga Rev. Hrilrokhum Ṭhiek nuhmei hung ni tah kuomah ka fe a, flag-a hmang ding puon hlap, a rong hring kan inchawka HSA Emblem thar ka ziek thlak chu ka dizain anga tlawmngaia kuta lo ṭhuichei dingin ka pek a. Arasi lim kha rong vara ṭhui ding a ni a, a sunga HSA inziek chu rong sena ṭhui ding a nih. A dang a lim le hawropa ziek po po chu a var vonga ṭhui ding a ni bok.
+
+HSA puonzar dinga rong hring thlang a nina san chu HSA member-hai chu thudik le ram le hnam ṭana hring zing tina a ni bâkah an chèngna tlangram hring dum dur inentirna a ni bok. HSA Emblem-a Hmar Arsi (Pole Star) chun HSA chu ringum taka ram le hnam keiṭhuoitu le lampui kawkhmutu ding pawl a nizie dam, arasi kil ruk nei a nina chun a memberhai chu Isu Krista ringna leia thuthlung nau, Pathien hnam thlang, Israel thar an nina dam le rong vâra arasi lim ziek chun thienghlimna le mi tin elvartu ding an nizie a’n entir a. Rong sena a laia HSA ziek chun ram le hnam ta dinga thisen far kang rawt khopa a tawp chena mani theina po po hmang dinga inpumpekna an entir bok a nih. A motto, SININ, HRILIN, SANIN, ṬHUOIIN ti hin HSA memberhai thaw dinga bituk le mawphurna an hlen ngei ding chu a hril a. Tawlailir ke, lirkuol, Hmasawnna Kekuol (Wheel of Progress) chun kal pêna hma tieng sawn pei ding pawl a nizie le a kekuol tuomtu huit buvui chun fak le dawn tienga hmuingilna le hnienghnarna a’n entir bok a nih.
+
+A hnung daia ka hang ngaituo lèt chângin, iengtin am HSA Emblem hi ka lo dizain suok thei a ni aw! ti hi keima le keima zawna ka’n don rop hlak chu a nih. Khang hun laia D.M.College-a kaihai kha a tlangpuiin Imphal phairuom khêl la dak phak lo, rêl (train) lu takngiel khom la hmu lo deu vong kan nih. Lekhabu ṭha inchawkna ding dawr a la um naw a (tu chen khom hin a la um chuong nawh), um khom ni sien, inchawkna ding sum kan nei tawl bok nawh. College laibrari kha kan innghatna um sun a ni a, lekhabu hlui, ṭhing tak tak a tam a, lekhabu thar ruok chu hmu ding a um naw tluk a nih. Hrietna hang zauhna dingin television a la um naw a, Shillong/Gauhati-a inthoka an hung insuo All India Radio-a Mizo prokram zan dar 8-a suok hlak chu boruoka inthoka thu le hla kan dong thei um sun a nih. Vuongnain Calcutta inthoka Sapṭawnga chanchinbu suok Hindusthan Standard, Amrita Bazar Paṭika le Statesman hai hi a hung phur hlak a, a tûkah vangnei chun College laibrari-ah kan tiem phâk ṭawk a. Kar tin suok, Bombay-a inthoka Karanjia rawia an insuo
+
+Blitz
+
+, masala le maru marang inthak le inhmui deu tak tak an pol hlak chu kan khûkpui nasa thei hle.
+
+Chu khawvela chêng chu kan la ni leiin kan text book bak kha chu hriet kan nei tlawm êm êm. Chu ngirhmuna intâl ni sia HSA Emblem, umzie inril tak nei ka lo hang duong suok el dam hi a hnungin mak ka ti hlak a. Tu hin hang duong nawk ding ni lang, hieng ang hin ka duong suok phak teuh teuh ka ring ta nawh. Ieng leia Hmar Arsi aiawa Star of David kher kher dam hi ka lo hmang am ning a ta? Chuong ang thil chu ka ngaituonaah a chêng phak ta’m a ni ding maw? Chuong anga ka thilthaw, ka thaw laia a umzie ka man phak chie loa ka hriet, a hnunga inril lema a umzie ka hung hriet suok chauh leia mak ka ti êm êm iemani zat zet a um. Mi dang khomin hi thil hi an tuok ve hlak ka ring. Chu huna chun a nih, ka hriet loa keimaa sinthaw, mi keiṭhuoitu a lo um ngei a nih ti ka hung hriet suok chauh hlak chuh. Chuong ka tonhriethai laia entirna pakhat chu HSA Emblem ka dizain hi a nih.
+
+Tlawmngaiin Nk. Laringin flag puon ding kan peka chun HSA Emblem thar lim chu ngun tak le thiem takin a hung ṭhui a, inkhawmpui hmain a zo hman hràm a, Churachandpur tieng hlim takin kan phur tung tah a nih. October 2, 1962 tuk, HSA piengcham voi 23 ni chun favang khaw thieng innui ver ver hnuoiah HSA puonzar thar hi zârin, inkhawmpui ropui chu hlim takin kan ṭan tah a nih. Ka hriet suol a ni naw chun, ka emblem duong le Lalring le kan flag buotsai kha Assembly khan a pom le pom naw thu le a umzie hril tlangna khom um loin ei hmang song el ni awm a nih.
+
+Hi ṭuma Assembly sung ngeia dramaa insuo hman ding tiin kum nga liem tah 1957/58 a ka tienami ziek SANGI LE THANGSIEM chu lemchang ruongin ka hriet suok thei po chu hmawsarumin ka ziek suok a. Voi khat char kan inchang sin hman a, huoisen takin kan thaw ve top el a nih. Sangi-a chang chu Thangkhawl (T,Kholly), Thangsiema chang chu keima kan nih. Commentator-ah Lalzar B.Sinate a ṭhang a, Sapṭawng ngatin a thaw a nih. Hi hi HSA General Assembly le inkhawmpui dang hrim hrima drama inchangna hmasa tak a nih. Hi tienami hi ka tienami ziek hmasa tak a ni a, ka ruolpa Khamlienin a haw a, Kangreng tieng a chawi thlak a, an sukhmang tah a nih. Ka kutsuok thil inhmang laia ka thil inro pawl tak a nih.
+
+Hi ṭuma kan drama inchanga hin Dari khom Sangi nu-ah a chang ve a. Chu ṭuma kan inman chu kan inman det fu ning a tih, tu chen hin kan la sunzom tah zing a nih. Kum 1962 kha ka nuna mellung poimaw iemani zat, abikin thu le hla tieng ka phunna kum a ni ve a, chuonghai laia muol ka liem hnung khoma, hnama ei hung damkhawsuok ve ngai a ni chun, ram le hnam ta dinga ka kutsuok ka maksan laia ka sàkhi (witness) a ngir rop dinga ka ngai ve laia pakhat chu
+
+HSA Emblem
+
+hi a nih.
+
+(June 25, 2008, Delhi)

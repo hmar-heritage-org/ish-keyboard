@@ -1,0 +1,52 @@
+c *******************************************************************
+c ISH Keyboard (Internet Standard Hmar)
+c Maintained by Hmar Heritage Foundation (HHF)
+c *******************************************************************
+
+store(&VERSION) '10.0'
+store(&NAME) 'ISH Keyboard'
+store(&TARGETS) 'any'
+store(&KEYBOARDVERSION) '1.1.1'
+store(&LAYOUTFILE) 'hmar_ish.keyman-touch-layout'
+store(&MESSAGE) 'Internet Standard Hmar (ISH) Mobile & Desktop Keyboard'
+store(&COPYRIGHT) '© Hmar Heritage Foundation'
+
+begin Unicode > use(main)
+
+group(main) using keys
+
+c --- Smart Retroflex Transformation Rules ---
+c 1. Aspirated Retroflex (ṭh / Ṭh)
+'th' + 'r' > 'ṭh'
+'Th' + 'r' > 'Ṭh'
+'TH' + 'R' > 'ṬH'
+'th' + 'R' > 'ṭh'
+'TH' + 'r' > 'Ṭh'
+
+c 2. Unaspirated Retroflex (ṭ / Ṭ)
+'t' + 'r' > 'ṭ'
+'T' + 'r' > 'Ṭ'
+'T' + 'R' > 'Ṭ'
+'t' + 'R' > 'ṭ'
+
+c --- Escape Sequences ---
+c If user specifically wants literal 'tr' or 'thr', tapping 'r' again expands back
+'ṭ' + 'r' > 'tr'
+'Ṭ' + 'r' > 'Tr'
+'Ṭ' + 'R' > 'TR'
+'ṭh' + 'r' > 'thr'
+'Ṭh' + 'r' > 'Thr'
+'ṬH' + 'R' > 'THR'
+
+c --- Accent Shortcuts via circumflex (^) deadkey if typed on desktop/hardware ---
+'^' + 'a' > 'â'
+'^' + 'e' > 'ê'
+'^' + 'i' > 'î'
+'^' + 'o' > 'ô'
+'^' + 'u' > 'û'
+'^' + 'A' > 'Â'
+'^' + 'E' > 'Ê'
+'^' + 'I' > 'Î'
+'^' + 'O' > 'Ô'
+'^' + 'U' > 'Û'
+

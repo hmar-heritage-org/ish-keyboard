@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>ISH Keyboard — Local Testbench</title>
+  <script src="https://s.keyman.com/kmw/engine/17.0.329/keymanweb.js"></script>
+  <script src="../engine/hmar_ish.js"></script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700&family=JetBrains+Mono:wght@400;600&display=swap');
+
+    body {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      background: #f8fafc;
+      color: #0f172a;
+      margin: 0;
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .card {
+      background: #ffffff;
+      border: 1px solid #e2e8f0;
+      border-radius: 12px;
+      padding: 24px;
+      max-width: 650px;
+      width: 100%;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    }
+    h1 {
+      font-size: 20pt;
+      color: #0369a1;
+      margin-top: 0;
+      margin-bottom: 8px;
+    }
+    p {
+      color: #475569;
+      font-size: 10pt;
+      line-height: 1.5;
+    }
+    textarea {
+      width: 100%;
+      height: 120px;
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      font-size: 14pt;
+      padding: 14px;
+      border: 2px solid #cbd5e1;
+      border-radius: 8px;
+      box-sizing: border-box;
+      margin-top: 12px;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    textarea:focus {
+      border-color: #0284c7;
+    }
+    .badge {
+      display: inline-block;
+      background: #e0f2fe;
+      color: #0369a1;
+      font-size: 8pt;
+      font-weight: 600;
+      padding: 3px 8px;
+      border-radius: 4px;
+      margin-bottom: 12px;
+    }
+    .rules-box {
+      background: #f1f5f9;
+      border-radius: 8px;
+      padding: 12px 16px;
+      margin-top: 16px;
+      font-size: 8.5pt;
+    }
+    .rules-box code {
+      font-family: 'JetBrains Mono', monospace;
+      color: #0284c7;
+      font-weight: 600;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="card">
+    <span class="badge">Hmar Heritage Foundation</span>
+    <h1>ISH Keyboard Testbench</h1>
+    <p>Type in the text box below using your keyboard. Test the smart transformation rules and long-press diacritics:</p>
+
+    <textarea id="hmar_input" placeholder="Type here in Hmar (e.g. 'hmar trawng' or 'thra')..."></textarea>
+
+    <div class="rules-box">
+      <strong>Active Smart Rules:</strong>
+      <ul>
+        <li>Type <code>tr</code> ➔ produces <strong><code>ṭ</code></strong> (e.g. <em>trawng</em> ➔ <em>ṭawng</em>, <em>tran</em> ➔ <em>ṭan</em>)</li>
+        <li>Type <code>thr</code> ➔ produces <strong><code>ṭh</code></strong> (e.g. <em>thra</em> ➔ <em>ṭha</em>, <em>thrung</em> ➔ <em>ṭhung</em>)</li>
+        <li>Type <code>^a</code>, <code>^e</code>, <code>^i</code>, <code>^o</code>, <code>^u</code> ➔ produces circumflexes (<strong>â, ê, î, ô, û</strong>)</li>
+        <li>Escape: tap <code>r</code> again on <code>ṭ</code> to revert to literal <code>tr</code></li>
+      </ul>
+    </div>
+  </div>
+
+  <script>
+    window.addEventListener('load', function () {
+      keyman.init({
+        ui: 'toggle'
+      });
+      keyman.addKeyboards({
+        id: 'hmar_ish',
+        name: 'ISH Keyboard',
+        language: {
+          id: 'hmr',
+          name: 'Hmar'
+        },
+        filename: '../engine/hmar_ish.js'
+      });
+      keyman.setActiveKeyboard('Keyboard_hmar_ish', 'hmr');
+    });
+  </script>
+</body>
+</html>

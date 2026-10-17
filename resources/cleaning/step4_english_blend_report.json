@@ -1,0 +1,193 @@
+{
+  "step": 4,
+  "action": "english_loanword_blend",
+  "hmar_native_words": 45379,
+  "english_top_k_loaded": 25000,
+  "homographs_guarded_count": 5566,
+  "pure_loanwords_added_count": 19434,
+  "total_dual_vocabulary_size": 64813,
+  "sample_guarded_homographs": [
+    {
+      "word": "the",
+      "hmar_corpus_count": 1001
+    },
+    {
+      "word": "of",
+      "hmar_corpus_count": 922
+    },
+    {
+      "word": "and",
+      "hmar_corpus_count": 369
+    },
+    {
+      "word": "to",
+      "hmar_corpus_count": 660
+    },
+    {
+      "word": "a",
+      "hmar_corpus_count": 323527
+    },
+    {
+      "word": "in",
+      "hmar_corpus_count": 126617
+    },
+    {
+      "word": "for",
+      "hmar_corpus_count": 138
+    },
+    {
+      "word": "is",
+      "hmar_corpus_count": 322
+    },
+    {
+      "word": "on",
+      "hmar_corpus_count": 122
+    },
+    {
+      "word": "that",
+      "hmar_corpus_count": 1484
+    },
+    {
+      "word": "by",
+      "hmar_corpus_count": 246
+    },
+    {
+      "word": "this",
+      "hmar_corpus_count": 59
+    },
+    {
+      "word": "with",
+      "hmar_corpus_count": 70
+    },
+    {
+      "word": "i",
+      "hmar_corpus_count": 22822
+    },
+    {
+      "word": "you",
+      "hmar_corpus_count": 81
+    },
+    {
+      "word": "it",
+      "hmar_corpus_count": 62
+    },
+    {
+      "word": "not",
+      "hmar_corpus_count": 83
+    },
+    {
+      "word": "or",
+      "hmar_corpus_count": 90
+    },
+    {
+      "word": "be",
+      "hmar_corpus_count": 304
+    },
+    {
+      "word": "are",
+      "hmar_corpus_count": 58
+    }
+  ],
+  "sample_loanwords_added": [
+    {
+      "word": "some",
+      "scaled_count": 220
+    },
+    {
+      "word": "click",
+      "scaled_count": 219
+    },
+    {
+      "word": "used",
+      "scaled_count": 211
+    },
+    {
+      "word": "products",
+      "scaled_count": 210
+    },
+    {
+      "word": "product",
+      "scaled_count": 209
+    },
+    {
+      "word": "please",
+      "scaled_count": 207
+    },
+    {
+      "word": "available",
+      "scaled_count": 207
+    },
+    {
+      "word": "links",
+      "scaled_count": 203
+    },
+    {
+      "word": "privacy",
+      "scaled_count": 203
+    },
+    {
+      "word": "user",
+      "scaled_count": 201
+    },
+    {
+      "word": "reviews",
+      "scaled_count": 200
+    },
+    {
+      "word": "ebay",
+      "scaled_count": 198
+    },
+    {
+      "word": "hotels",
+      "scaled_count": 196
+    },
+    {
+      "word": "send",
+      "scaled_count": 196
+    },
+    {
+      "word": "type",
+      "scaled_count": 196
+    },
+    {
+      "word": "using",
+      "scaled_count": 195
+    },
+    {
+      "word": "results",
+      "scaled_count": 195
+    },
+    {
+      "word": "posted",
+      "scaled_count": 195
+    },
+    {
+      "word": "within",
+      "scaled_count": 194
+    },
+    {
+      "word": "dvd",
+      "scaled_count": 194
+    },
+    {
+      "word": "shipping",
+      "scaled_count": 194
+    },
+    {
+      "word": "prices",
+      "scaled_count": 192
+    },
+    {
+      "word": "found",
+      "scaled_count": 190
+    },
+    {
+      "word": "related",
+      "scaled_count": 190
+    },
+    {
+      "word": "both",
+      "scaled_count": 190
+    }
+  ]
+}

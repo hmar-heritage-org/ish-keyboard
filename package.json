@@ -1,0 +1,17 @@
+{
+  "name": "ish-key",
+  "version": "1.0.0",
+  "description": "**Official Cross-Platform Mobile & Desktop Keyboard for the Hmar Language**   *Maintained by the Hmar Heritage Foundation (HHF)*",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "@keymanapp/kmc": "^18.0.253"
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "step": 1,
+  "description": "Sequential normalization of web/markdown corpus using English baseline loanword guard",
+  "total_files": 587,
+  "total_substitutions": 20583,
+  "total_loanwords_protected": 1602,
+  "top_substitutions": [
+    {
+      "from": "thra",
+      "to": "ṭha",
+      "count": 2345
+    },
+    {
+      "from": "trong",
+      "to": "ṭawng",
+      "count": 2283
+    },
+    {
+      "from": "thrang",
+      "to": "ṭhang",
+      "count": 1072
+    },
+    {
+      "from": "tronga",
+      "to": "ṭawnga",
+      "count": 762
+    },
+    {
+      "from": "tran",
+      "to": "ṭan",
+      "count": 743
+    },
+    {
+      "from": "trongkam",
+      "to": "ṭawngkam",
+      "count": 601
+    },
+    {
+      "from": "thruoi",
+      "to": "ṭhuoi",
+      "count": 470
+    },
+    {
+      "from": "threnkhat",
+      "to": "ṭhenkhat",
+      "count": 377
+    },
+    {
+      "from": "thrat",
+      "to": "ṭhat",
+      "count": 355
+    },
+    {
+      "from": "Saptrong",
+      "to": "Sapṭawng",
+      "count": 319
+    },
+    {
+      "from": "thren",
+      "to": "ṭhen",
+      "count": 312
+    },
+    {
+      "from": "Saptronga",
+      "to": "Sapṭawnga",
+      "count": 292
+    },
+    {
+      "from": "trum",
+      "to": "ṭum",
+      "count": 283
+    },
+    {
+      "from": "thruoitu",
+      "to": "ṭhuoitu",
+      "count": 266
+    },
+    {
+      "from": "trangkai",
+      "to": "ṭangkai",
+      "count": 210
+    },
+    {
+      "from": "Thra",
+      "to": "Ṭha",
+      "count": 199
+    },
+    {
+      "from": "truma",
+      "to": "ṭuma",
+      "count": 193
+    },
+    {
+      "from": "inthrung",
+      "to": "inṭhung",
+      "count": 182
+    },
+    {
+      "from": "Trong",
+      "to": "Ṭawng",
+      "count": 169
+    },
+    {
+      "from": "trongin",
+      "to": "ṭawngin",
+      "count": 163
+    },
+    {
+      "from": "trul",
+      "to": "ṭul",
+      "count": 158
+    },
+    {
+      "from": "thre",
+      "to": "ṭhe",
+      "count": 146
+    },
+    {
+      "from": "thratna",
+      "to": "ṭhatna",
+      "count": 143
+    },
+    {
+      "from": "inthrang",
+      "to": "inṭhang",
+      "count": 139
+    },
+    {
+      "from": "thrak",
+      "to": "ṭhak",
+      "count": 137
+    },
+    {
+      "from": "thrung",
+      "to": "ṭhung",
+      "count": 129
+    },
+    {
+      "from": "trawk",
+      "to": "ṭawk",
+      "count": 124
+    },
+    {
+      "from": "trûl",
+      "to": "ṭûl",
+      "count": 124
+    },
+    {
+      "from": "trongtrai",
+      "to": "ṭawngṭai",
+      "count": 121
+    },
+    {
+      "from": "tri",
+      "to": "ṭi",
+      "count": 117
+    },
+    {
+      "from": "Tripura",
+      "to": "Ṭipura",
+      "count": 109
+    },
+    {
+      "from": "intran",
+      "to": "inṭan",
+      "count": 107
+    },
+    {
+      "from": "thruoituhai",
+      "to": "ṭhuoituhai",
+      "count": 106
+    },
+    {
+      "from": "trap",
+      "to": "ṭap",
+      "count": 99
+    },
+    {
+      "from": "bulthrut",
+      "to": "bulṭhut",
+      "count": 98
+    },
+    {
+      "from": "trok",
+      "to": "ṭawk",
+      "count": 98
+    },
+    {
+      "from": "tranna",
+      "to": "ṭanna",
+      "count": 98
+    },
+    {
+      "from": "trium",
+      "to": "ṭium",
+      "count": 96
+    },
+    {
+      "from": "inthre",
+      "to": "inṭhe",
+      "count": 92
+    },
+    {
+      "from": "thring",
+      "to": "ṭhing",
+      "count": 91
+    }
+  ],
+  "top_protected_loanwords": [
+    {
+      "word": "district",
+      "count": 217
+    },
+    {
+      "word": "tr",
+      "count": 217
+    },
+    {
+      "word": "translation",
+      "count": 57
+    },
+    {
+      "word": "tribal",
+      "count": 55
+    },
+    {
+      "word": "thr",
+      "count": 51
+    },
+    {
+      "word": "matric",
+      "count": 50
+    },
+    {
+      "word": "central",
+      "count": 37
+    },
+    {
+      "word": "centre",
+      "count": 35
+    },
+    {
+      "word": "country",
+      "count": 28
+    },
+    {
+      "word": "ministry",
+      "count": 27
+    },
+    {
+      "word": "training",
+      "count": 27
+    },
+    {
+      "word": "tract",
+      "count": 23
+    },
+    {
+      "word": "electric",
+      "count": 23
+    },
+    {
+      "word": "through",
+      "count": 21
+    },
+    {
+      "word": "tribes",
+      "count": 20
+    },
+    {
+      "word": "structure",
+      "count": 15
+    },
+    {
+      "word": "apostrophe",
+      "count": 15
+    },
+    {
+      "word": "tribe",
+      "count": 14
+    },
+    {
+      "word": "intransitive",
+      "count": 14
+    },
+    {
+      "word": "electronic",
+      "count": 14
+    },
+    {
+      "word": "train",
+      "count": 13
+    },
+    {
+      "word": "anthropologist",
+      "count": 13
+    },
+    {
+      "word": "street",
+      "count": 13
+    },
+    {
+      "word": "intr",
+      "count": 13
+    },
+    {
+      "word": "matriculation",
+      "count": 12
+    },
+    {
+      "word": "geometry",
+      "count": 11
+    },
+    {
+      "word": "troupe",
+      "count": 11
+    },
+    {
+      "word": "true",
+      "count": 11
+    },
+    {
+      "word": "tradition",
+      "count": 11
+    },
+    {
+      "word": "retreat",
+      "count": 11
+    },
+    {
+      "word": "three",
+      "count": 9
+    },
+    {
+      "word": "trust",
+      "count": 9
+    },
+    {
+      "word": "transitive",
+      "count": 9
+    },
+    {
+      "word": "doctrine",
+      "count": 9
+    },
+    {
+      "word": "electricity",
+      "count": 9
+    },
+    {
+      "word": "truth",
+      "count": 9
+    },
+    {
+      "word": "truck",
+      "count": 9
+    },
+    {
+      "word": "translator",
+      "count": 9
+    },
+    {
+      "word": "trinity",
+      "count": 9
+    },
+    {
+      "word": "demonstrative",
+      "count": 9
+    }
+  ]
+}

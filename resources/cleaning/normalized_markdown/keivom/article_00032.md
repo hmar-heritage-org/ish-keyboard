@@ -1,0 +1,62 @@
+# Senvon Diary-3
+
+* **Source URL:** [https://keivom.blogspot.com/2007/11/senvon-diary-3.html](https://keivom.blogspot.com/2007/11/senvon-diary-3.html)
+* **Date:** `2007-11-02`
+* **Source Archive:** `keivom`
+* **Hmar Ratio:** `0.88`
+
+---
+
+Aizawl-Tipaimukh
+
+October 11, 2007 Ningani. Ni hni zet Aizawla kan cham sungin kan ding le ràl ding poimaw zuolhai sir bakah ngaina taka thlaithleng kîl dinga mi fiel an tam leiin zing le zan hun indai naw takin ni hni sung chu ka hmang ral a, ruol hlui le ki le kauhai kanna hun takngiel khom ka nei der nawh. Aizawl buoithlakna chu, hi ṭenbaram khaw chiktea Maruti 800 taxi 3000 chuong hiel an inbeng sip el hi a nih. Airuoching leiin taxi a hlu zuol a, fena taphotah tirameikai thaw ang elin an intlar sip dul el a, chengkol hniek tiemin ei intawl a, lampuiah hun ei khawral rawn em em. Inhmaw deu chun kea fe a ṭha tak a, sienkhom raw sur hnuoiah chu chu a thei si nawh.
+
+Zanah Lala Khobung leh kan meng sawt leiin a inah kai tung tah loin ka riekna VVIP Room-ah a riek ve nghal a. Kan hang in met ti chun zing dar rukah kan inzinpui dinghaiin kot an hung nok a ni awm a, sienkhom kan hriet naw a. An beidongin Lala Khobung nuhmei Lalruot an hang inpun a, a siruk lak nokin kotkhar an hung nok a, chu chun a mi sukṭhang a. Mang ka sawn a, sienkhom ka tho a, ka va en chieng chun tak a lo ni a. Ka thuomhnawhai ka suitcase le bag-ah ka hnaw lut sok sok a, ka mit ek ka nuoi ṭil a, Lala chu kei tho loin ka maksan a. Tuiriel tieng panna Aizawl khawfema um Beraw tlang, kum 2006 April-a Isaac Lalmalsawm an thatna muol ṭhut, Manipura Minister ni lai Phungzathangin peṭawl station siemna dinga fur laia tlang ṭhut a’n chotir leia a chung tieng po po a chim thlakna lai hmun kan tlung chun ka har chieng chauh a nih.
+
+Aizawl le Tipaimukh inkar hi sorkar rikawta chu kilometer 192-a hla a nih. Hi lamlien hi National Highway (NH) 150 an ti chu a ni a, Manipur tieng fe peiin Churachandpur a sun a. Kum 18 liem tah khan hi lampui hi voi hnih ka hraw ta a, chuong lai chun Aizawla inthoka New Vervek chen chu duthusama ṭha a la nih. Tu khom hin Manipur tieng ngaituo chun ṭha tak a la nih. Selingah zingbu kan fak sok sok a, nguk taka fein chawhnung dar li velah New Vervek kan tlung a. Hi hi Sinlung Hills Development Council hnuoia um a ni ta a, chu taka inthoka km nga vela chun an khawpui Sakordai a um a. Aizawla inthoka New Vervek hi km 158-a hla a nih. Hi taka inthok hin NH 150 chun Tipaimukh tieng fe loin Tuivai kai tieng a pan a, km 20 vela hla a la nih. A hnai taa chu a lampui hi a turu a, Sinlung Hills Development Council speed hmanga fe a ni tak leiin hun a lak chen ding hril thei a ni nawh.
+
+Mâutâm rim
+
+Hi lampuia kan zin hmasakna tak chu March 5/6, 1989, chapchar lai tak a ni leiin a ram phêkin a ṭawl vung el a, thlirna tieng tieng vachap hmu ding a um a. Tuta ṭum ruok chu ruotui tam kum a ni bakah favang khaw hul khom um hman loa ruo a sûr zom deuh zing leiin thlirna tieng taphot a hring dup a. Rawmau tamna muol le raw bil taphot chu mau a’n tàm leiin hna hring karah raw zîk ṭawl an ngîr fuk a. Rawmau hi kum 50 vel dana intâm hlak a ni leiin a’n tàm hun a tlung pha chun a hung pàr a, a ra ṭek ṭuk a, chu chu mazu-in an fak a, awium lo khopin an hung pung a, lo tin an rùn a, bu an fak siet a, sìk ding a um naw leiin a kum nawk ṭam a tla hlak a nih.
+
+Chîk lema ei ngaituo chun mautam hi vangduoina neka vangneina intluntu dinga khuonu ruot ni lem awm tak a nih.
+
+Hi hi kum sawmnga dan peia khuonun a ram leilung a thuom tharna a nih. Ruo hi phun la, hnuoiah zung nghet tak a keina dingin kum li vel a ngai a. Zung nghet a thlak hnung chun raw buk lien le insang tak tak khom tlu kar el loin a dawl zo hlak a nih. Chuleiin, ruo mizie hi mihriem khawsakna indinna dinga bulṭhut nghet siem a poimawzie entirna dingin an hmang rop hlak hrim a nih. Chu raw zung indar pei chun raw bil lien tak tak a siem a. Kum sawmnga dana a hung intàm khan a zung a hung hmon a, pil hangin a hung inchang a, kum sawmnga sunga pil a fak da tah kha thuom tharin a hung um nawk hlak a nih. Chu chu vangneina ropui tak a ni lai zingin einin inring lawkna le inbuotsai lawkna ei nei ngai naw leiin khuonun ei ram a thuom tharna hi ei tràm pha a, vangduoina thilah ei inchangtir hlak a nih.
+
+Hi hun hung tlung ding phaa sinsiena thil mak danglam hung inlang hlak chu tràm ṭhuoitu nia an hril, thlangdar chîn chi ‘thlangnang’ amanih ‘thangnang’ an ti an hung inlang hlak chu a nih.
+
+Pipuhai chun, an bu zawl, ramhuoi khawpui, Khawbon tlanga inthoka hung niin an hril. Zanah a honpuiin, a tlukledingawn zawnga tam chu an inpem a, sunah an chawl ve thung a. Zing thoin hang ngha vel inla, an fukna thing chu a hna dum khupa inlang khopin an bawm kûr luoi a, an bawm tamna kau ṭhenkhat lem chun zo loin an tliekpui hlol hlak a nih. Chuong thlangnanghai chu hmun tinah an hung inlang tah bakah ni danga an hmu ngai lo, vaak ruol khom an huongtau ṭan tah bok a nih. Thlirna tieng taphotah mautam rim ei hriet a, lam sira thil ziek an tarhai chenin, mautam le tràm thu deu ngot a nih.
+
+Thil poi bèk bék nia ka ngai chu Josefa ang mi ei tlaksam hi a nih. Faraw mang hrilfietu Josefa chun Aigupta le a sevel rama kum sari ṭam tlak ding thu a hril lawk zo charin kum sari dai ding bu a sek khawl ṭan nghal a nih ti Genesis-ah ei hmu a. Eini ruok chu mautam hung tlung nawk huna inbuotsaina dingin kum sawmnga veng vong ei nei a, sienkhom ei inbuotsai ve nawh niin a’n lang. Chu chu a nih thil poi chuh. Kum nga dana inthlang dinga inbuotsai naw chu ṭhuoitu intihai khomin thaw dang ei nei nawh niin a’n lang. Khuonu remruot dan enin, mau intàmna hmun le mazu an pungna hmuna chu an intàm sung kum hni vel chu lo nei lo a, hnuoi khom sie awl ding ni awm tak a nih. Israelhai kuoma Pathien thupek chu kum sarina peiah ram inchawltir le a kum sari hmun sari, kum sawmli pakuo zoah kum khat sung a ramah iengkhom ching lo dinga inchawltir a nih. Chu chu Jubili Kum ti a nih (Lev 25). Hi Jubili Kum le ei mautam kuma ruot hi a’n zat char a nih. Chu thil chu tu chen chena ieng leia man fu thei loa ei la um am a na? Ieng leia ei taksa le thlarau mit hi a’n del zing am a na? Kum sawmngana, mautam lai bek chu ei ram inchawltir veng ei tiu. Chu ding chun inbuotsai lawk ei tiu. Chu chu Pathien remti zawng tak khom ni ngei a tih.
+
+New Vervek-Tuivai lampui
+
+Kan motor ṭhuoi Tata Sumo khaltu chu pa cher dâk el a nia chu a hming dingin ‘Rambo’ ti kan phuokpek a. A fena ding lampui hi ram thimpuia um a ni leiin ram thim baw ding a ni a, ‘Rambaw’ hming put tlak a ni hrim a nih.
+
+Hi ram thima hin la fe ve ngai lo a ni leiin New Verveka Sakordai tieng le Tipaimukh tieng panna lamṭhuoma chun lampui indon dingin kan chawl a. Lam sira ina umhai chu kan hei biek a, Lusei ṭawng inawn deuin lampui an mi hril a. Hmar ṭawnga kan hang biek hlak chun indak hloka thiem vong an lo ni a. Lampui hre chieng dinga an ring an khawtlang hotu pakhat in an mi kawkhmu a, kan zuk inhril chun a mi lo ralkang hriet tawl khop el a. Pa tlawmngai thei tak a ni leiin lam mi hril dingin kan motora chun a hung chuong ve nghal a. Ama hi New Vervek khuo indintu laia pakhat a nih.
+
+Kan zuk fea leh, ei pipu thuvara, “Nuhmei vauh lo le hnawm vai lo chu an pawng hlak” ti ang khan, hi lampui km 20 vel chauh hi kum tam enkol lo le vai nam lo a ni leiin fena ding lampui
+
+chè ché kha mazu kong angin a’n kuo a, lam sir khing tieng le khing tienga thrùlbuk chu inpawng insiek thawin an infawp phak zing a. Hmun pakhat, ieng lai khoma mîmin a kei zing leia ‘chatuon mîmkei’ (chatuan leimin) an ti chen chu a zie a la um a, chu hmun chu fe theina tawk char lampui a la hla a, kan hraw lai motor leh mi chimpek a tih ti ruok chu hisap buoi lo a hadam tak.
+
+Kan motor-a chuonghai lai khan Pastor pahnih, Lalditsak le Lalrochung an um a, a dang chu kei, Lal Remsiem, Hrangthangvung, David Buhril le Mizorama an hla sak thiem laia pakhat Joseph Zaihmingthang kan nih. Hi lampui zet hi chu ṭawngṭai hrat le thiema nor chi a ni ta nawh. Pathien ring le amaah innghat a, huoi taka nor thleng a ni top el a nih. Luin motor chung hang sik zok zok khopa a mi nok vawr khoma innui ver ver thei a ngai. Exercise la ngai lohai ta ding lem chun thaw chi tak ni nghe nghe mei a tih. Ei taksa bung tin le ei ru le chang inchuktuona a sawi phin nawna lai hrim a um nawh. Nuhmei nau pai lai ruok chu ṭhuoina chi ni naw nih, a hun le hun naw hril loin inzo el thei an tih.
+
+Hi hi ei lamlien suong NH 150 chu a nih. Lampuia ka ngaituo pakhat chu hi hi a nih. Ei Prime Minister Manmohan Singh hi ṭhuoi ve inla, Pastor Lalditsak inṭhungna a hnung takah inṭhungtir inla, a lukawm (turban) ral rai deuthaw khopin a lusipin motor chung hang tauh ve sien. Chuong lai chun lam sira dawk ding zonga sir tina inthoka rîng lo daw fan, invota khom invot ṭiel ngeiin hung kai hai sien, a lukawm hnuoiah inbiin dawk hai sien, motor lu chung a tauh zatin invot hmin tauh koi sien. Hun sawtnawteah Mel Gibson film-a Isu a’n vuoktir hrep ang khan a lu le a lukawm thisena sipin a biengah far thla kuong kuong sien. Chu zet chun aw,
+
+123 Nuclear Agreement a ti tawp lo hi theinghilin, a rorelna, a hnâr hnuoia um ei ram lungsietum tieng hung nghain a hung ngaisak lop lop ka ring tlat chu tie! Iengkim siemtu, neitu, hretu le hmutu, ni tina ei ko khek khom hin a hmu ve naw am a ni ding maw, hieng lawm lawma ei ngirhmun a hang siet el hi chu? An naw leh, ei suol ang phuin a mi la hrem naw lem leia hienga hring inhroa a mi la sie ṭawk ṭawk lem am a ni ding maw?
+
+Hriet thiem a harsa ngei el.
+
+Tuivai tlung hma km 6 vel chu a hmun a’n dàm bakah a hnuoi a dûp a. Ruo a sur zing bakah sipai motor-in an hraw por leiin namen loin a’n diek a. Sawtnawteah kan intâng nghal a. Kan motor kha 4-wheel drive a ni naw bakah kan driver kha a la fe ngai nawna hmun a ni leiin a lungril a zâm a, fe thei dingin a ring tlat naw a. Keini hlak chun fe ngei ngei kan tum tlat bok si. A ke hnuoiah lung le ṭieu kan hmu thei thei kan sie a, kan nam a, a suok thei hram a. Sienkhom, hlam tam a fe hmain a’n tang nawk a. A sir ve ve kha motorin a hraw khuor a, a kar kha a pawng a, a pawngna chu motor kalin a hrut a, an tang hlak a nih. Chu cho thlakna ding chu bawngtuthlaw amanih suodur takngiel khom driver khan a lo chawi bok si nawh. Thuok dongum tak chu a nih. Kan Pastor ṭhuoi Lalrochung kha inpak a um khop el. Fe tlung ngei dinga beiseina hring a nei tlat a, chu ding chun a bei tràng tráng a. Khang ang mi kha hringnun lampui kho inkham le suor se hmuna hma tieng pana ei inzin lai hin a ram le hnamin ei mamaw a nih.
+
+Iemani chen kan intang hnung chun a mi tuoka hunghai inpun dingin New Verveka inthoka kan mi ṭhuoi leh David Buhril leh kein kan fe a. Kan tlung el ding kan sawn kha km 4 neka sei zet kan fe hnungin kan tlung chauh a nih. Ruo a sur nasa leiin Tuivai khom a kuong a sip deuthaw a. Kha hmaa 1989 March thlaa ka’n zin chun Tuivai leilak hi motorin ka kân a. Hi kum fur tui lien hin hi leilak hi a lèn hmang a nih. Chu hnung chun bawl thar dingin hma an laka chu sunzom loin tu chen hin a um a. A san tak nia mi mi hril chu, leilak bawlhai laia an thoktuhai HPC (D) hai rawiin an ‘kidnap’ a, intlanna sum tam tak an ngiet a, chuleiin an sunzom nuom ta naw a nih. An hril dan pei chun, an hotuhai lungsenin, “Hmun dangah leilak kan bawl chun an ramhnuoi sipaihaiin kan bawl zo ngei theina dingin sukbuoi theitu lakah an mi veng a, nangni ramhnuoi sipaihai ruok chun a letlingin an mi rok lem a, bawl zom tah nawng kan tih” tiin an
+
+hril a nih. Ram le hnam san dinga sum le pai tam tak senga ei indin ve ei hnam sipai ei tihai hin kong iengkimah ei hma an sukkhawk lem pei khom a hoi a, a vangduoithlak khop el.
+
+Tu hin chu Tuivai leilak umna hmuna chun thirzai an zam phei a, a hnuoi tieng pahnih, a chung tieng pahnih. A chung tieng tlangbana chun nylon hruolin hlam khat dan vel peiah a hnuoi tieng thirzai leh an khai mat a, a ṭuonga dingin raw phel an zam phei a, a chel bàn dingin nylon hruol an thlung mar a, a khaina hrui tinah an suizom a. Ṭum khatin mi pakhat chauh fe an phal leiin mi sawmruk kaina ding chun, mi pakhat kaina dingin minit hni pei chauh khom la sien, darkar hni vel bek a ngai. David Buhril a kai hmasa a, chu zoah kei khom ka kai phei ve a. Huihah, kum 18 hnungah ka pieng le murna Hmar Biel chu ke ngeiin ka sir ve nawk tah a nih. A pil le a leilung rima inthok chun ‘Lalpa malsawm ram rim’ a la’n nam zing chu tie!
+
+A sunga chenghai hin ieng rim top am an put ve ta ding maw?
+
+Chu chu zong suok malam dinga fe ka nih.
+
+(November 2, 2007, Delhi)

@@ -1,0 +1,82 @@
+# HNÈNA HLADO INSAMTU*
+
+* **Source URL:** [https://inpui.blogspot.com/2013/03/hnena-hlado-insamtu.html](https://inpui.blogspot.com/2013/03/hnena-hlado-insamtu.html)
+* **Date:** `2013-03-28`
+* **Source Archive:** `inpui`
+* **Hmar Ratio:** `0.89`
+
+---
+
+By L.Keivom, Inpui.com Columnist
+
+Aw Pa, anni hi ngaidam rawh, an thilthaw hi an hriet naw a nih.-Luka 23:34
+
+Pa mak le dangdai tak chu a ni phot el.
+
+Hming khom a hau hle.
+
+Mihriemin thil inkawkal le inpersana ei ngai po po nei kimtu a nih. Mihriem ni si Pathien; Pathien ni si Pathien Naupa; Pathien Naupa ni si Mihriem Naupa; rethei hle sia hausakna po po neitu; tlawm le inhnuoi hlê sia lalna le thuneina po po changtu; pienhmang ṭhatna le hmêl mawina, hang lungdumna hrim hrim nei loa zawlnei Isaiin a hril ni bok sia ngainobeinaa sip; lungngaina le natna hre ve ni sia thlamuongtu; sikul kai phâk ve si loa thiemna po po koltu; dàn inchûk si loa ukîlhai ukil; damdawi tieng inchuk si loa daktorhai daktor; innêm vieu sia pa khauh tak el; inngaitlawm èm ém sia inngaihnuoi ngai lo hrim hrim; indo inlengtir dinga hung ni sia Remna Lal ni bok si; suol nei si loa misuolhai ruol ṭha le misuolhai ta dinga hemde; thi bok sia tho nawk, chatuona hring zing chu a nih.
+
+A chanchin ei bi chieng po leh a makna ei hmu rawn ting el a nih. A hming pakhat khom ‘Remruottu Mak’ a ni hrim a nih. Chu hming chu put naw ruol a ni nawh. Eini rawi lem chun a makna tieng, ‘Maka’ a nina hi ei uor nuom zawng tak a nih.
+
+Mihriem insieng dan pangngai anga hung insieng a ni naw bakah ran bûkah a pieng a, a khum chu ranthleng a nih. Sienkhom, a piengna hmun tlawm le inhmè lo zetin khawvela naute pieng tah po po laia hril hlaw tak le chawimawina dong ropui tak a nih. A pieng thu puong dingin vanin zaipawl le vantirko tlangsam a hung tir a. Van ropuina aiawtu dingin palai ringum, arasi var tak a hung inlang a, a piengna zawn chunga chun chibai buka ngîrin a êng sèt a. Chu arasi mak chun chibai bukpuitu ding khawsak tienga inthokin mi var pathum a hung ṭhuoi bok a. Hmêl hriet lo, berampuhai chenin, chibai bûka hung an insùlpêl zut el a nih. Ran zun hìng le ek rimsie ur kârah chuong ang khopa vàn le hnuoiin chibai a buk lut lut khopa ropui si a hang pieng el chu, tienami phuoktuhai hisapna khel tieng daia lêng chanchin mak, kumkhuoa hril tawp ngai lo ding chu a nih. Kum sanghni invoi hnung khomin khawvel hmun tinah a piengcham ei la lawm lut lut zing a, a piengcham lawmnaa ran tlu zât hi tu piengcham lawmnaah khom ran a la tlu ngai nawh. A hming “Remruottu Mak’ hi a phû hlie hlie a nih.
+
+Chuong anga tlawm le chuong ang khopa ropui ni si chu a hung seilien dan chanchin sui ding a um mang dèr nawh. A pieng dan le naute a ni lai a chanchin tlawmte le kum sawmthum a tling hnunga rong a bawl hun inkarah voi khat chauh a’n lang a. Chu chu kum sawmpahni a tling kuma a nu le pain Jerusalema an ṭhuoi thu le an hriet naw kara Tempula a lo fe leia an zong rak thu Luka’n a ziek chu a nih. Marka le Johan lem chun a pieng thu khom ziek loin kum sawmthum a tling hnunga rong a bawl chanchinah an ṭan top el a nih. A pil hmang sawt taluo lei hin annawm Tuolte Vanglaia thil zêldin thiemhai thukhawchang hmangin mi ṭhenkhat chun Kashmir-ah thlarau ṭêning a hung lak nia an hril hiel chu ni. Chuong ang hrilna lekhabu chu iemani zat a pieng tah bakah Japan rama chen Isu sulhnu uma hril le ring pawl an um hiel a nih.
+
+Chu chauh chu a ni le! A dam laia hmutu tu khomin a lim an ziek ti ei hriet nawh.
+
+A pieng hma, kum zasari neka tama zawlnei Isaiin a lo mitthla dan chun pienghmang ṭhatna le mawina hrim nei lo, lungngaina le natna bawm, mi hmusit le endong a nih. Chuonga ngainobeina hrim nei loa a hril chun lemziektuhai ngaituona mit a lâk tlat a, zaipuhai lung kuoiin, a chawimawina ding hla ropui tak tak an phuok a. A lim an zieknaa lekhapuon, lekhatui, puon le rong chi hrang hrang an hmang ral rawn tak dingzie chu hisap ngaina khom a um nawh. Lim ker le ser thiemhan a lim an kerna dinga sailungvar le lungmantam chi hrang hrang an hmang tahai chu intieng khawm inla, muol tam tiet ni tang a tih. A chanchin ziekna lekhabu chu khawvela lekhabu hlu tak, sut non rawn tak le ṭawng tum tuma inlet rawn tak a nih. A san iem ning a ta?
+
+Mihriem khawvela chun thaw ra sîk le inthungrul hi dàn ṭhaa ngai a nih. Mit aiah mit, hä aiah hä, kut aiah kut, ke aiah ke, hliem aiah hliem, vuok aiah vuok. Mi hmangaituhai hmangai a, mi hmêlmatuhai hmèlmàk. Mi’n pâktuhai inpâk a, mi demtuhai dem phier. Mi kantuhai kan a, mi tuithlàrtuhai tuithlàr. Mi fieltuhai fiel a, mi thlimtuhai thlim ve hmak. Chemsen mi’n lènkhumtuhai chunga chemsen inlèn. Inthungrulna khawvel a nih. Chu khom chu thil ṭha tienga inrul kongah a rultuin rul tlawm ni inchuin kut a’n tìm a, thil ṭha naw tienga inthungrulnaa ruok chu kut a hlawk a, bân khom a sei nuom.
+
+Ama ruok chun mihriem ngaia thil thei ruol loa inlang, dàn letling a hung zirtir a. Misuol chu khing lo ding.
+
+Bieng chang tieng bentu chu voi tieng khom dawpek ding.
+
+Zakuo mi’n chùpêktu kuoma chun puon khom inlâktir nghal ding. Hmêlma hmangai ding. Mi nghaisatu le suknomnatu chu ṭawngṭaipek ding.
+
+Mani ei inhmangai anga khuo le venghai hmangai ve ding.
+
+A hrila hril chu olsam tak el, a thawa thaw le a zawma zawm ruok chu harsa tak vong a nih.
+
+Chu tak chu a makna a nih. A mak nawkzuolna chu, ama ngeiin, mihriem taksa puta a hung zăwm muolsuo vong kha a nih. Mihriem taksa ngei puta a hung hlen suok ni naw sien chu, a thu inchuktirhai chu mihriem zawm thei ruol lo, duthusam a phulpui angah mihaiin ngai an tih.
+
+Mi tam tak chun a thil tuor po po a tuor muolsuo theina san chu Pathien Naupa a ni leiah ei ngai. Sienkhom, ama ngeiin a Pa ṭhang lo chun ieng khom a thaw thei nawzie le “Keimaa um zing Pa chun ama sin a thaw a ni lem,” tiin a hril (John 14:10). Pathien leh inzom zing a, a thu zawm a, a hratna hmangtuhai chun hmangaina nun a tak ngeiin an nunpui theizie thu chu ama nun ngeiin hril fiena a hung ziek a nih.
+
+Chu nêka hril fiena chieng lem chu a um thei nawh. Chu chu mihriema a hung insiem san thuruk ropui laia pakhat chu a nih.
+
+Roman lalram nêksawrna hnuoia intâng Judahaiin anni hung sansuoktu ding Messia beisei taka an Tlumte thlir lai chun an lo suongtuo dan naw takin ama, Judahai lal inti, Pathien Naupaa insâl, Messia nia inhril chu a hung inlang tah tlat el a. A pieng le murna tlawm hle sien khom thil mak thaw thei le mi hîp hrat èm ém el a ni a. Chuleiin, mi tam tak chun an bawi ringkol bàt chu hlîppek a, zalenna ram tlungpui a. Davida lalram indin thar a, kum sang rorel ṭanpuitu dingin an ring a, an beisei bok a nih. Hi lei hin zuitu khom a hau ṭan hle a.
+
+Sienkhom, Judahai lalram thar beisei le ama lalram thar indin tum chu an inmil ta tlat nawh. Judahai chun Roman lal Kaisar baksamah ṭhâm a, a bekah dumade inlêng chuoi khopa ben dingin an lo beisei kha a ni a. Ama hlak chun Kaisar thil chu Kaisar kuomah pe ding le Pathien thil chu Pathien kuoma pe dingin a lo hril daih el si. A zuituhai lung a hnuol; an hnàr a kîr. Judahai ser le sang le dàn kulmûthai chu chawi sang neka inchuktirna dangdai hmanga a hung sirsop hnung lem chun an năk a kal takzet a nih. Hlêpru, uirè le mi tuithlàr hai leh inpawl a, an inah thlaithleng a ot zeuh zeuh hnung lem chun, “Si si si, mi tirdakumpa, mi suol inah a lût ta rèk saw!” tiin a hnung tieng kutchalin an kawk zui ta huoi huoi el a nih. Hnama inthlierna le indaidanna bang, Juda mi firhai bawl, hmangaina chema a hang ṭhiek duoi duoi an hmu lem chun an hachang a’n thak zuol a. A dodâltu khom mautam mazu angin an hung pung a, a thi dan ding phierruk chu sinpui taka nei pawl khom an hung um ta hiel a nih. Kum thum rong a bawl hman chauh ti chun hmangaina maichamah hlanbiekna hring le thienghlima inhlànin a lo um tah a nih.
+
+Chu inhlàna a umna champha chu khawvel hmun tin deuthawha kum tin inser a ni hlak a. Mithi sûn ni ni siin a hmingah Zirtawpni Ṭha (Good Friday) ei ti nawk dai si a nih. Hi ni ropuia hin a chipuihaiin kros-a an hemde laia a’n rùm ri le hmangaina bau thlum taka inthoka hnĕna hlado a’n sam ri chun a mi hung dèng non nawk hlak. Mitthlain Jerusalem tieng vuongin Kalvari muol ka fang hlak a. Suolna nei dêr lo Nazaret tlangval, a chipuihai ngeiin man a, soisak a, vaw zot zot a, chil sakkhum a, a hmaiah ben a, khêl muhlum tinrênga an hĕk lai le Roman sipai lubawkhaiin insukphokna le insukparâpnaa hmang a, hemde dinga an pek suok hnunga siel lulul kei le som anga lunginsietna ṭhang dêr loa kut an thlak lai dam chu ka thlir a. A nih, khâng ang khopa thil thaw thei kha a tlawm a, a tlawm ngawi ngawi a nih. Sienkhom a dol zor nawh.
+
+Thi chena tlawm a thlang nuomna tak chu a makna a nih. A thilthawtheina hmang nuom chu ni sien, a suknomnatu le cheksoltuhai kha Maurawkel zawng khuong thilthawtheina nêk daia hrât lem le inrang lem hmangin, “Thi ro, pip” a ti ruolin bohmang song an tih.
+
+Kei chu ni lang, an du hmu naw chieng ngot an tih. Ei unau hnam ṭhenkhat, ṭawngsie inphur tienga hausahai lem chun rawn intàm tawl ngot dingin ka ring chu tie.
+
+Ama ruok chun a bău a ka nawh. A kut hmawr khomin tawk lêt a tum nawh. A sepui raw tuor tlok tlok el a nih. Mi danglam chungchuong a ni a. Hmêlmahai hmangai ding le mi suknomnatuhai ṭawngṭaipek dinga zirtirtu a nih. Chu chu ama nunah, mihai mithmuah ngei kros-a chun a hlen tah a nih. A nghaisatuhai chunga phuba la nêk hmanin, “Aw Pa, anni hi ngaidam rawh, an thilthaw hi an hriet naw a nih” tiin a hnipek lem hlauh a nih. Chu chu a nih hnĕna hlado. Chu chu a nih hnĕna nun.
+
+Hi ṭawngṭaina anga hnĕna hlado ropui lem hi a um ka ring nawh. ‘Rulpui Tar’ Setanin hi hlado ri hi a hang hriet chun thi hmun suolin inrûm ngur ngur ngei a tih. Chu hnêna chu mihriem siem ralthuom le tharum hrâtna leia chang thei a ni nawh. Kapathîr anga khauh le chang mihriem lungril khom sun tlang a. Vaṭhu anga nun nema siem thei hmangaina hriemhrei hmangin a nih a hnè lem chu. Kalvari hmangaina hriemhrei hmangtuhai chu Pathien hrâtna le thilthawtheina inṭawmpuitu an ni tlat leiin, chauin an tlu ngai nawh.
+
+Chuong ang hringna tui luong laiin,
+
+Tu’m dangchârin chàu an ta?
+
+Lalpa chu a petu a nih,
+
+Chatuonin tawp ta naw nih.
+
+Hi hnèna hlado insam ve thei hi mi ei um am: ram le ram inkarah, hnam le hnam inkarah, sungkuo le sungkuo inkarah, mi mal le mi mal inkarah, kohran le kohran inkarah, pawl le pawl inkarah?
+
+Ka theinghil ngai lo chu kum 1970-a Churachandpur-a chawl hmanga kan fe ṭuma ka thil tong a nih. Chuong lai chun kohran inkârah innghirnghona le inbakkeina a sosang hle a. Krista hming sâlin, Setan ralthuom intheidăna fei chu chelin an intin tuo ṭhup el a. Baal rorelna hmaah an thubuoi put lutin, thiem chang lem ni inchuin, sum tam tak sêngin, mong an inhlim ton zak zak el a. Court ngaidana a archal khong chan chang lemhai chun a tlawm lem hai chu kotthlêrah diriem takin hnĕna hlado an insam khum a. Kros-a Krista hlado insam le a hnung zuitua insâlhai hlado insam chu a va hang intu ta naw ngei de aw! ka ti lungril a.
+
+A ni hrim takluo a. “Aw Pa, anni hi ngaidam rawh” ti hi insamna le hmangna ding hun le hmun ei pal changin kohran ngei khomin Setan hlado insam ei thlang lem rop hlak. Pulpit tlangah hi thu ropui hi chil far zoi zoiin ei sermon hlak a. Sienkhom, miin ei poi an tawk pha chu ngaidam nêkin thungrulna hmola khom a rik tak ei inchŭ nawk lem el hlak. Chuong chu a ni lai zingin, inkhawm ṭin tâwm zătin “Kan chunga thil suksuoltuhai kan ngaidam angin” tiin khêl buru ei insam ruol nawk huk hlak.
+
+Krista hnĕna hlado hi ni tin mi mal, sungkuo, khawtlang le hnam nunah lungril takin insam thei inla chu ei ramah lawmna, hlimna, inremna le thlamuongna rimtui inzâm a ta; inkhawm zata “I ram hung tlung raw se” tia ei samphuol hlak hi a takin hung tlung bok a ta, hnuoiah van ram indin ei tih. Ngaidamna nun chu tlawmna nun indik tak, hmangainaa inthoka suok, hrătna hlâwm, hnĕna nun a nih.
+
+Chu Krista lungril le nina chu a nih tirko Paulan put ve dinga a mi’n fui mol mol chuh (Filipi 2:5-11). Chuong ang puttuhai baua inthok chauh chun Kalvari hnĕna hlado hi lungril taka insam thei a nih. Samphuol hlado a ni nawh.
+
+Tu kum Good Friday (March 29, 2013) hmangtuhai le hi thusep tiemtuhai po poin ieng amanih kong zawng bĕka Krista zara hnĕna hlado an insam theina dingin ditsakna chibai ka bûk. (March 27, 2013 Delhi. Original text written in Wellington, New Zealand April 30, 1984)
+
+Originally written in Wellington, New Zealand on April 30, 1984.

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="@color/bg_page">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- ======================================================== -->
+        <!-- VIEW 1: FIRST-TIME ONBOARDING SETUP (Hidden once active) -->
+        <!-- ======================================================== -->
+        <LinearLayout
+            android:id="@+id/layout_onboarding"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="24dp"
+            android:gravity="center_horizontal"
+            android:visibility="gone">
+
+            <!-- Hero Emblem -->
+            <ImageView
+                android:layout_width="88dp"
+                android:layout_height="88dp"
+                android:src="@drawable/ic_brand_emblem"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="16dp"
+                android:contentDescription="ISH Keyboard Emblem" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Welcome to ISH Keyboard"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="@color/brand_emerald"
+                android:gravity="center" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hmar Heritage Foundation"
+                android:textSize="14sp"
+                android:textColor="@color/text_sub"
+                android:layout_marginTop="4dp"
+                android:layout_marginBottom="24dp" />
+
+            <!-- Instructions Card -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card"
+                android:padding="20dp"
+                android:elevation="2dp"
+                android:layout_marginBottom="20dp">
+
+                <TextView
+                    android:id="@+id/onboarding_status_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Complete the two quick steps below to start typing in Hmar:"
+                    android:textSize="14sp"
+                    android:textColor="@color/text_main"
+                    android:lineSpacingExtra="3dp"
+                    android:layout_marginBottom="20dp" />
+
+                <!-- Step 1 Button -->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="STEP 1"
+                    android:textSize="11sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/brand_emerald"
+                    android:letterSpacing="0.08"
+                    android:layout_marginBottom="4dp" />
+
+                <Button
+                    android:id="@+id/btn_enable"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:text="Enable in System Settings"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:background="@drawable/btn_primary"
+                    android:textColor="#FFFFFF"
+                    android:textAllCaps="false"
+                    android:layout_marginBottom="18dp" />
+
+                <!-- Step 2 Button -->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="STEP 2"
+                    android:textSize="11sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/brand_emerald"
+                    android:letterSpacing="0.08"
+                    android:layout_marginBottom="4dp" />
+
+                <Button
+                    android:id="@+id/btn_select"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:text="Select ISH Keyboard"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:background="@drawable/btn_secondary"
+                    android:textColor="@color/brand_emerald"
+                    android:textAllCaps="false" />
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="100% Private &amp; Offline. Your keystrokes never leave your phone."
+                android:textSize="12sp"
+                android:textColor="@color/text_hint"
+                android:gravity="center" />
+
+        </LinearLayout>
+
+
+        <!-- ======================================================== -->
+        <!-- VIEW 2: MAIN COMPANION APP DASHBOARD (Visible once active) -->
+        <!-- ======================================================== -->
+        <LinearLayout
+            android:id="@+id/layout_main_settings"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp"
+            android:visibility="visible">
+
+            <!-- Hero Brand Header -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="16dp">
+
+                <ImageView
+                    android:layout_width="56dp"
+                    android:layout_height="56dp"
+                    android:src="@drawable/ic_brand_emblem"
+                    android:contentDescription="ISH Emblem" />
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical"
+                    android:layout_marginStart="14dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="ISH Keyboard"
+                        android:textSize="22sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/brand_emerald" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Hmar Heritage Foundation"
+                        android:textSize="13sp"
+                        android:textColor="@color/text_sub" />
+                </LinearLayout>
+
+                <!-- Active Status Chip (Tap to switch IME) -->
+                <TextView
+                    android:id="@+id/status_chip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="● Active"
+                    android:textSize="12sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/badge_active_text"
+                    android:background="@drawable/badge_active"
+                    android:paddingStart="12dp"
+                    android:paddingEnd="12dp"
+                    android:paddingTop="6dp"
+                    android:paddingBottom="6dp" />
+
+            </LinearLayout>
+
+            <!-- Card 0: Alpha Pre-release Notice (In Hmar) -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card_notice"
+                android:padding="16dp"
+                android:layout_marginBottom="16dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical"
+                    android:layout_marginBottom="8dp">
+
+                    <ImageView
+                        android:layout_width="18dp"
+                        android:layout_height="18dp"
+                        android:src="@drawable/ic_security"
+                        android:contentDescription="Alpha Notice" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="INTERNAL ALPHA PREVIEW"
+                        android:textSize="11sp"
+                        android:textStyle="bold"
+                        android:letterSpacing="0.06"
+                        android:textColor="@color/brand_emerald"
+                        android:layout_marginStart="8dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="v1.1.1-alpha"
+                        android:textSize="11sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/notice_tag_text"
+                        android:background="@drawable/badge_notice"
+                        android:paddingStart="8dp"
+                        android:paddingEnd="8dp"
+                        android:paddingTop="3dp"
+                        android:paddingBottom="3dp" />
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Hi pre-release version hi HHF member hai ta ding cho a buotsei a ni a, prediction le suggestion hai enfie le siem rem a ni hma chu sem dar phal a ni naw a nih."
+                    android:textSize="13sp"
+                    android:textColor="@color/text_main"
+                    android:lineSpacingExtra="3dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="— Hmar Heritage Foundation"
+                    android:textSize="11sp"
+                    android:textStyle="italic"
+                    android:textColor="@color/text_sub"
+                    android:layout_marginTop="8dp" />
+
+            </LinearLayout>
+
+            <!-- Card 1: Interactive Live Typing Sandbox -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card"
+                android:padding="16dp"
+                android:elevation="2dp"
+                android:layout_marginBottom="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Quick Typing Sandbox"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_main" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Tap below to test predictive suggestions and retroflex typing:"
+                    android:textSize="12sp"
+                    android:textColor="@color/text_sub"
+                    android:layout_marginTop="2dp"
+                    android:layout_marginBottom="12dp" />
+
+                <EditText
+                    android:id="@+id/edit_test"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Type here (tr ➔ ṭ, thr ➔ ṭh, ka ➔ suggestions...)"
+                    android:padding="14dp"
+                    android:background="@drawable/edit_text_bg"
+                    android:textSize="15sp"
+                    android:textColor="@color/text_main" />
+
+            </LinearLayout>
+
+            <!-- Card 2: Keyboard Height Slider -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card"
+                android:padding="16dp"
+                android:elevation="2dp"
+                android:layout_marginBottom="16dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Keyboard Height"
+                        android:textSize="15sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/text_main" />
+
+                    <TextView
+                        android:id="@+id/text_height_value"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="275 dp (Normal)"
+                        android:textSize="13sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/brand_emerald" />
+                </LinearLayout>
+
+                <SeekBar
+                    android:id="@+id/seek_height"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:max="140"
+                    android:progress="55"
+                    android:progressTint="@color/brand_emerald"
+                    android:thumbTint="@color/brand_emerald"
+                    android:layout_marginTop="12dp" />
+
+            </LinearLayout>
+
+            <!-- Card 3: Menu Categories Placeholder -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card"
+                android:padding="8dp"
+                android:elevation="2dp"
+                android:layout_marginBottom="24dp">
+
+                <!-- Row 1: Themes -->
+                <LinearLayout
+                    android:id="@+id/menu_item_theme"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical"
+                    android:paddingStart="12dp"
+                    android:paddingEnd="12dp"
+                    android:background="?attr/selectableItemBackground">
+
+                    <ImageView
+                        android:layout_width="22dp"
+                        android:layout_height="22dp"
+                        android:src="@drawable/ic_menu_palette"
+                        android:contentDescription="Themes" />
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:layout_marginStart="14dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Themes &amp; Appearance"
+                            android:textSize="14sp"
+                            android:textStyle="bold"
+                            android:textColor="@color/text_main" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Deep Forest Emerald (Dark)"
+                            android:textSize="12sp"
+                            android:textColor="@color/text_hint" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="›"
+                        android:textSize="20sp"
+                        android:textColor="@color/text_hint" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/border_light"
+                    android:layout_marginStart="44dp" />
+
+                <!-- Row 2: Typing Preferences -->
+                <LinearLayout
+                    android:id="@+id/menu_item_preferences"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical"
+                    android:paddingStart="12dp"
+                    android:paddingEnd="12dp"
+                    android:background="?attr/selectableItemBackground">
+
+                    <ImageView
+                        android:layout_width="22dp"
+                        android:layout_height="22dp"
+                        android:src="@drawable/ic_menu_tune"
+                        android:contentDescription="Preferences" />
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:layout_marginStart="14dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Typing &amp; Preferences"
+                            android:textSize="14sp"
+                            android:textStyle="bold"
+                            android:textColor="@color/text_main" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Vibration, sound, double-tap period"
+                            android:textSize="12sp"
+                            android:textColor="@color/text_hint" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="›"
+                        android:textSize="20sp"
+                        android:textColor="@color/text_hint" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/border_light"
+                    android:layout_marginStart="44dp" />
+
+                <!-- Row 3: Predictions & AI -->
+                <LinearLayout
+                    android:id="@+id/menu_item_predictions"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical"
+                    android:paddingStart="12dp"
+                    android:paddingEnd="12dp"
+                    android:background="?attr/selectableItemBackground">
+
+                    <ImageView
+                        android:layout_width="22dp"
+                        android:layout_height="22dp"
+                        android:src="@drawable/ic_menu_sparkle"
+                        android:contentDescription="Predictions" />
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:layout_marginStart="14dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Predictions &amp; AI Research"
+                            android:textSize="14sp"
+                            android:textStyle="bold"
+                            android:textColor="@color/text_main" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Next-word model &amp; research opt-in"
+                            android:textSize="12sp"
+                            android:textColor="@color/text_hint" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="›"
+                        android:textSize="20sp"
+                        android:textColor="@color/text_hint" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/border_light"
+                    android:layout_marginStart="44dp" />
+
+                <!-- Row 4: Orthography Guide -->
+                <LinearLayout
+                    android:id="@+id/menu_item_guide"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical"
+                    android:paddingStart="12dp"
+                    android:paddingEnd="12dp"
+                    android:background="?attr/selectableItemBackground">
+
+                    <ImageView
+                        android:layout_width="22dp"
+                        android:layout_height="22dp"
+                        android:src="@drawable/ic_menu_book"
+                        android:contentDescription="Orthography Guide" />
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:layout_marginStart="14dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="ISH Orthography Guide"
+                            android:textSize="14sp"
+                            android:textStyle="bold"
+                            android:textColor="@color/text_main" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="How to type ṭ, ṭh, â, ê, î, ô, û"
+                            android:textSize="12sp"
+                            android:textColor="@color/text_hint" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="›"
+                        android:textSize="20sp"
+                        android:textColor="@color/text_hint" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/border_light"
+                    android:layout_marginStart="44dp" />
+
+                <!-- Row 5: About & Community -->
+                <LinearLayout
+                    android:id="@+id/menu_item_about"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical"
+                    android:paddingStart="12dp"
+                    android:paddingEnd="12dp"
+                    android:background="?attr/selectableItemBackground">
+
+                    <ImageView
+                        android:layout_width="22dp"
+                        android:layout_height="22dp"
+                        android:src="@drawable/ic_menu_info"
+                        android:contentDescription="About" />
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:layout_marginStart="14dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="About Hmar Heritage"
+                            android:textSize="14sp"
+                            android:textStyle="bold"
+                            android:textColor="@color/text_main" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Version 1.1.1 • HHF Community"
+                            android:textSize="12sp"
+                            android:textColor="@color/text_hint" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="›"
+                        android:textSize="20sp"
+                        android:textColor="@color/text_hint" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </FrameLayout>
+</ScrollView>

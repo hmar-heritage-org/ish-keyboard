@@ -1,0 +1,2238 @@
+fused_word	action	reason	ish_target	tokens
+in	KEEP	inviolate_root	in	22178
+hin	KEEP	inviolate_root	hin	12733
+tah	KEEP	inviolate_root	tah	10760
+tin	KEEP	inviolate_root	tin	2397
+chuleiin	SPLIT	chulei_plus_in	chulei in	2296
+ah	KEEP	inviolate_root	ah	2030
+chanchin	KEEP	inviolate_root	chanchin	1868
+sin	KEEP	inviolate_root	sin	1662
+tuhin	SPLIT	tu_plus_hin	tu hin	939
+lovin	SPLIT	lov_plus_in	lo in	842
+chin	KEEP	inviolate_root	chin	799
+inah	SPLIT	in_plus_ah	in ah	599
+philistin	KEEP	inviolate_root	philistin	570
+tinin	SPLIT	tin_plus_in	tin in	527
+iengtin	KEEP	inviolate_root	iengtin	490
+khah	KEEP	inviolate_root	khah	467
+indin	SPLIT	corpus_stem_in	ind in	429
+min	KEEP	inviolate_root	min	361
+benjamin	KEEP	inviolate_root	benjamin	357
+abikin	SPLIT	corpus_stem_in	abik in	301
+tinah	SPLIT	tin_plus_ah	tin ah	279
+titakzetin	SPLIT	corpus_stem_in	titakzet in	220
+khin	KEEP	inviolate_root	khin	194
+thin	KEEP	inviolate_root	thin	164
+inthin	SPLIT	corpus_stem_in	inth in	163
+dannaranin	REVIEW	unverified	dannaranin	142
+watkin	KEEP	inviolate_root	watkin	138
+inringtakin	SPLIT	corpus_stem_in	inringtak in	134
+hmin	SPLIT	corpus_stem_in	hm in	134
+hlimtakin	SPLIT	corpus_stem_in	hlimtak in	134
+zin	REVIEW	unverified	zin	119
+lunginsiettakin	SPLIT	corpus_stem_in	lunginsiettak in	116
+bah	KEEP	inviolate_root	bah	107
+thlah	KEEP	inviolate_root	thlah	103
+din	KEEP	inviolate_root	din	103
+iengdingin	SPLIT	corpus_stem_in	iengding in	80
+lâwmtakin	SPLIT	corpus_stem_in	lâwmtak in	79
+nin	KEEP	inviolate_root	nin	70
+tûin	SPLIT	corpus_stem_in	tû in	69
+huoitakin	SPLIT	corpus_stem_in	huoitak in	67
+kin	KEEP	inviolate_root	kin	63
+phaiphin	REVIEW	unverified	phaiphin	61
+sûnnithlâkin	SPLIT	corpus_stem_in	sûnnithlâk in	57
+rin	KEEP	inviolate_root	rin	54
+inhmatakin	SPLIT	corpus_stem_in	inhmatak in	53
+matheiloin	REVIEW	unverified	matheiloin	52
+thlamuongtakin	REVIEW	unverified	thlamuongtakin	51
+tlin	SPLIT	corpus_stem_in	tl in	51
+himtakin	REVIEW	unverified	himtakin	50
+lungmuongtakin	SPLIT	corpus_stem_in	lungmuongtak in	48
+nguntakin	SPLIT	corpus_stem_in	nguntak in	48
+biekinah	SPLIT	corpus_stem_ah	biekin ah	47
+matheilovin	REVIEW	unverified	matheilovin	47
+tlah	KEEP	inviolate_root	tlah	45
+ṭhahnemngaitakin	SPLIT	corpus_stem_in	ṭhahnemngaitak in	44
+nghah	KEEP	inviolate_root	nghah	43
+edwin	REVIEW	unverified	edwin	42
+ṭin	REVIEW	unverified	ṭin	41
+nilovin	REVIEW	unverified	nilovin	41
+jepthah	REVIEW	unverified	jepthah	40
+zeldin	REVIEW	unverified	zeldin	37
+virgin	REVIEW	unverified	virgin	36
+inhmâwtakin	SPLIT	corpus_stem_in	inhmâwtak in	35
+zânkhawvârin	SPLIT	corpus_stem_in	zânkhawvâr in	35
+jehoiachin	REVIEW	unverified	jehoiachin	34
+inhmawtakin	REVIEW	unverified	inhmawtakin	33
+nah	REVIEW	unverified	nah	31
+chinah	SPLIT	corpus_stem_ah	chin ah	30
+einin	REVIEW	unverified	einin	30
+chapotakin	SPLIT	corpus_stem_in	chapotak in	30
+kârlovin	REVIEW	unverified	kârlovin	30
+indinin	SPLIT	corpus_stem_in	indin in	30
+hienghin	REVIEW	unverified	hienghin	27
+kârloin	REVIEW	unverified	kârloin	27
+kah	REVIEW	unverified	kah	26
+jehoiakin	REVIEW	unverified	jehoiakin	26
+khawhlotakin	REVIEW	unverified	khawhlotakin	26
+sinin	SPLIT	corpus_stem_in	sin in	26
+latin	SPLIT	corpus_stem_in	lat in	26
+dizain	REVIEW	unverified	dizain	26
+khuolzin	REVIEW	unverified	khuolzin	25
+chubakah	REVIEW	unverified	chubakah	25
+râlmuongin	SPLIT	corpus_stem_in	râlmuong in	24
+inzinin	SPLIT	corpus_stem_in	inzin in	24
+chiengtakin	REVIEW	unverified	chiengtakin	23
+tuithlârin	SPLIT	corpus_stem_in	tuithlâr in	23
+iengleiin	SPLIT	corpus_stem_in	ienglei in	22
+rezin	REVIEW	unverified	rezin	22
+jehovah	REVIEW	unverified	jehovah	22
+magdalin	REVIEW	unverified	magdalin	22
+annin	REVIEW	unverified	annin	21
+biekzin	REVIEW	unverified	biekzin	21
+ngah	KEEP	inviolate_root	ngah	20
+phah	SPLIT	corpus_stem_ah	ph ah	19
+intluonin	SPLIT	corpus_stem_in	intluon in	19
+fietakin	SPLIT	corpus_stem_in	fietak in	19
+phanain	SPLIT	corpus_stem_in	phana in	19
+brahmin	REVIEW	unverified	brahmin	19
+lin	KEEP	inviolate_root	lin	19
+ṭah	REVIEW	unverified	ṭah	18
+vervêktakin	SPLIT	corpus_stem_in	vervêktak in	18
+ṭhin	KEEP	inviolate_root	ṭhin	18
+ensin	REVIEW	unverified	ensin	18
+chanchinah	SPLIT	corpus_stem_ah	chanchin ah	18
+sanhedrin	REVIEW	unverified	sanhedrin	18
+sinah	SPLIT	corpus_stem_ah	sin ah	18
+aladdin	REVIEW	unverified	aladdin	18
+khawhnâwmah	SPLIT	corpus_stem_ah	khawhnâwm ah	17
+jakin	REVIEW	unverified	jakin	17
+rilotakin	SPLIT	corpus_stem_in	rilotak in	17
+arûkin	REVIEW	unverified	arûkin	17
+lovah	REVIEW	unverified	lovah	17
+deuvin	SPLIT	corpus_stem_in	deuv in	17
+tuifawnin	SPLIT	corpus_stem_in	tuifawn in	17
+lotakin	SPLIT	corpus_stem_in	lotak in	16
+keinin	SPLIT	corpus_stem_in	kein in	16
+ṭhah	REVIEW	unverified	ṭhah	16
+inzaktakin	REVIEW	unverified	inzaktakin	16
+inin	SPLIT	corpus_stem_in	in in	16
+mah	KEEP	inviolate_root	mah	15
+arêngin	SPLIT	corpus_stem_in	arêng in	15
+ramtin	REVIEW	unverified	ramtin	15
+calvin	REVIEW	unverified	calvin	15
+lungngaitakin	SPLIT	corpus_stem_in	lungngaitak in	14
+muongtakin	SPLIT	corpus_stem_in	muongtak in	14
+azânin	SPLIT	corpus_stem_in	azân in	14
+lah	KEEP	inviolate_root	lah	14
+chauvin	REVIEW	unverified	chauvin	14
+dungthulin	SPLIT	corpus_stem_in	dungthul in	14
+zilpah	REVIEW	unverified	zilpah	13
+theidah	REVIEW	unverified	theidah	13
+rah	KEEP	inviolate_root	rah	13
+bovin	REVIEW	unverified	bovin	13
+khawnawtin	SPLIT	corpus_stem_in	khawnawt in	13
+thahrâtin	SPLIT	corpus_stem_in	thahrât in	12
+lunginsentakin	REVIEW	unverified	lunginsentakin	12
+muolphotakin	SPLIT	corpus_stem_in	muolphotak in	12
+ain	REVIEW	unverified	ain	12
+gin	REVIEW	unverified	gin	12
+mandarin	REVIEW	unverified	mandarin	12
+britain	REVIEW	unverified	britain	12
+huihah	REVIEW	unverified	huihah	12
+blah	REVIEW	unverified	blah	12
+haleluiah	SPLIT	corpus_stem_ah	halelui ah	12
+buntain	REVIEW	unverified	buntain	12
+inhaiah	SPLIT	remainder_haiah	in hai ah	11
+inthinnain	SPLIT	corpus_stem_in	inthinna in	11
+khaiin	SPLIT	corpus_stem_in	khai in	11
+thlin	KEEP	inviolate_root	thlin	11
+fîmkhurtakin	SPLIT	corpus_stem_in	fîmkhurtak in	11
+ahin	SPLIT	corpus_stem_in	ah in	11
+takduoiin	SPLIT	corpus_stem_in	takduoi in	11
+ngin	SPLIT	corpus_stem_in	ng in	11
+ṭinin	SPLIT	corpus_stem_in	ṭin in	11
+inpâwngnêknain	SPLIT	corpus_stem_in	inpâwngnêkna in	10
+uoinin	SPLIT	corpus_stem_in	uoin in	10
+tahin	SPLIT	corpus_stem_in	tah in	10
+phaiah	SPLIT	corpus_stem_ah	phai ah	10
+âwmtakin	SPLIT	corpus_stem_in	âwmtak in	10
+hitakah	REVIEW	unverified	hitakah	10
+bûktêah	SPLIT	corpus_stem_ah	bûktê ah	10
+suoltakin	SPLIT	corpus_stem_in	suoltak in	10
+sukthin	SPLIT	corpus_stem_in	sukth in	10
+inzakumtakin	SPLIT	corpus_stem_in	inzakumtak in	10
+seltakin	SPLIT	corpus_stem_in	seltak in	10
+khamlienin	SPLIT	corpus_stem_in	khamlien in	10
+origin	REVIEW	unverified	origin	10
+nganin	SPLIT	corpus_stem_in	ngan in	10
+lorrain	REVIEW	unverified	lorrain	10
+einstein	REVIEW	unverified	einstein	10
+siettakin	REVIEW	unverified	siettakin	9
+damtein	SPLIT	corpus_stem_in	damte in	9
+chah	KEEP	inviolate_root	chah	9
+pin	KEEP	inviolate_root	pin	9
+ainuvêtin	SPLIT	corpus_stem_in	ainuvêt in	9
+kapernaumah	SPLIT	corpus_stem_ah	kapernaum ah	9
+zovin	REVIEW	unverified	zovin	9
+mitinin	SPLIT	corpus_stem_in	mitin in	9
+liemtah	REVIEW	unverified	liemtah	9
+ṭinah	SPLIT	corpus_stem_ah	ṭin ah	9
+inlaichin	REVIEW	unverified	inlaichin	9
+lirnghingin	SPLIT	corpus_stem_in	lirnghing in	9
+nâksapah	REVIEW	unverified	nâksapah	8
+lusîpah	SPLIT	corpus_stem_ah	lusîp ah	8
+inrimtakin	REVIEW	unverified	inrimtakin	8
+dittâwkin	SPLIT	corpus_stem_in	dittâwk in	8
+huntakah	REVIEW	unverified	huntakah	8
+invêttakin	SPLIT	corpus_stem_in	invêttak in	8
+sah	KEEP	inviolate_root	sah	8
+lungawitakin	REVIEW	unverified	lungawitakin	8
+mijamin	REVIEW	unverified	mijamin	8
+tlûntakin	REVIEW	unverified	tlûntakin	8
+puitlin	REVIEW	unverified	puitlin	8
+adin	SPLIT	corpus_stem_in	ad in	8
+mâkhâtin	SPLIT	corpus_stem_in	mâkhât in	8
+inthinin	SPLIT	corpus_stem_in	inthin in	8
+thinin	SPLIT	corpus_stem_in	thin in	8
+bungheiin	SPLIT	corpus_stem_in	bunghei in	8
+lungnilovin	REVIEW	unverified	lungnilovin	8
+spain	SPLIT	corpus_stem_in	spa in	8
+thlarauvin	REVIEW	unverified	thlarauvin	8
+tuiṭhaphaiah	SPLIT	remainder_haiah	tuiṭhap hai ah	8
+halelujah	REVIEW	unverified	halelujah	8
+kuouin	SPLIT	corpus_stem_in	kuou in	8
+zêldin	REVIEW	unverified	zêldin	8
+uhaiin	SPLIT	corpus_stem_in	uhai in	7
+hmeithaiin	SPLIT	remainder_haiin	hmeit hai in	7
+tlaitakin	REVIEW	unverified	tlaitakin	7
+thawluinain	SPLIT	corpus_stem_in	thawluina in	7
+lunginzîngtakin	SPLIT	corpus_stem_in	lunginzîngtak in	7
+maktitakin	REVIEW	unverified	maktitakin	7
+gerasin	REVIEW	unverified	gerasin	7
+tlâwmtêin	SPLIT	corpus_stem_in	tlâwmtê in	7
+theilovin	REVIEW	unverified	theilovin	7
+fin	KEEP	inviolate_root	fin	7
+admin	REVIEW	unverified	admin	7
+tekhin	SPLIT	corpus_stem_in	tekh in	7
+mênah	REVIEW	unverified	mênah	7
+hlah	SPLIT	corpus_stem_ah	hl ah	6
+rephidimah	SPLIT	corpus_stem_ah	rephidim ah	6
+tlangtakin	REVIEW	unverified	tlangtakin	6
+inhmatuoin	REVIEW	unverified	inhmatuoin	6
+rogelah	SPLIT	corpus_stem_ah	rogel ah	6
+mithmuhah	REVIEW	unverified	mithmuhah	6
+inhâwktakin	SPLIT	corpus_stem_in	inhâwktak in	6
+lungsetakin	REVIEW	unverified	lungsetakin	6
+kawinawiin	SPLIT	corpus_stem_in	kawinawi in	6
+naiothah	SPLIT	corpus_stem_ah	naioth ah	6
+inthâwltakah	REVIEW	unverified	inthâwltakah	6
+rietnaah	SPLIT	corpus_stem_ah	rietna ah	6
+hmasah	SPLIT	corpus_stem_ah	hmas ah	6
+ṭhuoihmangin	SPLIT	corpus_stem_in	ṭhuoihmang in	6
+hmaihmaah	SPLIT	corpus_stem_ah	hmaihma ah	6
+thuneitakin	REVIEW	unverified	thuneitakin	6
+khâknain	SPLIT	corpus_stem_in	khâkna in	6
+hmusitumtakin	SPLIT	corpus_stem_in	hmusitumtak in	6
+inhawitirtakin	REVIEW	unverified	inhawitirtakin	6
+intlânsiettirin	SPLIT	corpus_stem_in	intlânsiettir in	6
+nunsietnain	SPLIT	corpus_stem_in	nunsietna in	6
+povin	REVIEW	unverified	povin	6
+râwtnawiin	SPLIT	corpus_stem_in	râwtnawi in	6
+fâkzoin	SPLIT	corpus_stem_in	fâkzo in	6
+bethaniah	SPLIT	corpus_stem_ah	bethani ah	6
+beiseitakin	SPLIT	corpus_stem_in	beiseitak in	6
+damtakin	REVIEW	unverified	damtakin	6
+sunvarin	SPLIT	corpus_stem_in	sunvar in	6
+runremthangin	SPLIT	corpus_stem_in	runremthang in	6
+khaikhin	REVIEW	unverified	khaikhin	6
+vitamin	REVIEW	unverified	vitamin	6
+bin	KEEP	inviolate_root	bin	6
+hmarchamuolah	REVIEW	unverified	hmarchamuolah	6
+lalthangpain	SPLIT	corpus_stem_in	lalthangpa in	6
+singhleipain	SPLIT	corpus_stem_in	singhleipa in	6
+kawnpuiah	SPLIT	corpus_stem_ah	kawnpui ah	6
+ṭhangruolin	SPLIT	corpus_stem_in	ṭhangruol in	6
+tongkhongah	SPLIT	corpus_stem_ah	tongkhong ah	6
+khattawkin	REVIEW	unverified	khattawkin	6
+chinin	SPLIT	corpus_stem_in	chin in	6
+sehmein	SPLIT	corpus_stem_in	sehme in	6
+infin	SPLIT	corpus_stem_in	inf in	6
+thiphuhakin	REVIEW	unverified	thiphuhakin	6
+kawlrawnah	SPLIT	corpus_stem_ah	kawlrawn ah	6
+tleikhatin	REVIEW	unverified	tleikhatin	6
+dannarain	REVIEW	unverified	dannarain	6
+hrangsaipuiin	SPLIT	corpus_stem_in	hrangsaipui in	6
+kotthlêrah	SPLIT	corpus_stem_ah	kotthlêr ah	6
+huldah	REVIEW	unverified	huldah	6
+thiphuhâkin	REVIEW	unverified	thiphuhâkin	6
+jeddah	REVIEW	unverified	jeddah	6
+ahmatiemin	REVIEW	unverified	ahmatiemin	6
+indiknawtakin	SPLIT	corpus_stem_in	indiknawtak in	5
+têin	SPLIT	corpus_stem_in	tê in	5
+kutbenthekin	SPLIT	corpus_stem_in	kutbenthek in	5
+kâwmâwtakin	SPLIT	corpus_stem_in	kâwmâwtak in	5
+tluongtakin	SPLIT	corpus_stem_in	tluongtak in	5
+miniamin	SPLIT	corpus_stem_in	miniam in	5
+upharsin	REVIEW	unverified	upharsin	5
+korazin	REVIEW	unverified	korazin	5
+thuhnuoirawltakin	SPLIT	corpus_stem_in	thuhnuoirawltak in	5
+sâwtnawtêah	SPLIT	corpus_stem_ah	sâwtnawtê ah	5
+ngailovin	REVIEW	unverified	ngailovin	5
+derlovin	REVIEW	unverified	derlovin	5
+chaplain	REVIEW	unverified	chaplain	5
+darwin	REVIEW	unverified	darwin	5
+captain	REVIEW	unverified	captain	5
+plantain	REVIEW	unverified	plantain	5
+laldengin	SPLIT	corpus_stem_in	laldeng in	5
+khawpuibungah	SPLIT	corpus_stem_ah	khawpuibung ah	5
+inpolin	SPLIT	corpus_stem_in	inpol in	5
+hahîpin	REVIEW	unverified	hahîpin	5
+insirin	SPLIT	corpus_stem_in	insir in	5
+dengkhawmin	SPLIT	corpus_stem_in	dengkhawm in	5
+intuitirin	REVIEW	unverified	intuitirin	5
+roslin	REVIEW	unverified	roslin	5
+matthaiin	SPLIT	remainder_haiin	matt hai in	5
+sunghin	REVIEW	unverified	sunghin	5
+rultuin	SPLIT	corpus_stem_in	rultu in	5
+zaituokungin	SPLIT	corpus_stem_in	zaituokung in	5
+mountain	REVIEW	unverified	mountain	5
+wilkin	REVIEW	unverified	wilkin	5
+hnamtin	REVIEW	unverified	hnamtin	5
+ṭepah	SPLIT	corpus_stem_ah	ṭep ah	5
+mekzin	REVIEW	unverified	mekzin	5
+dudatakin	REVIEW	unverified	dudatakin	5
+neltakin	REVIEW	unverified	neltakin	5
+insuifin	REVIEW	unverified	insuifin	5
+karlovin	REVIEW	unverified	karlovin	5
+dolphin	REVIEW	unverified	dolphin	5
+kephah	REVIEW	unverified	kephah	5
+thiṭin	REVIEW	unverified	thiṭin	5
+diktakin	SPLIT	corpus_stem_in	diktak in	5
+penguin	REVIEW	unverified	penguin	5
+pauithin	REVIEW	unverified	pauithin	5
+khuntakin	REVIEW	unverified	khuntakin	5
+tarpawlin	REVIEW	unverified	tarpawlin	5
+sukhmin	REVIEW	unverified	sukhmin	5
+halleluiah	SPLIT	corpus_stem_ah	hallelui ah	5
+laṭin	REVIEW	unverified	laṭin	5
+sukkin	REVIEW	unverified	sukkin	5
+bengtharin	REVIEW	unverified	bengtharin	5
+inphin	SPLIT	corpus_stem_in	inph in	5
+khuoisunin	REVIEW	unverified	khuoisunin	5
+vankaiin	SPLIT	corpus_stem_in	vankai in	5
+zankhuovarin	REVIEW	unverified	zankhuovarin	5
+kawitakin	REVIEW	unverified	kawitakin	5
+hnienghnartakin	REVIEW	unverified	hnienghnartakin	5
+chepakaiin	REVIEW	unverified	chepakaiin	5
+vawtuin	SPLIT	corpus_stem_in	vawtu in	5
+magazin	REVIEW	unverified	magazin	5
+kumtluonin	REVIEW	unverified	kumtluonin	5
+ṭhangkin	REVIEW	unverified	ṭhangkin	5
+disiplin	REVIEW	unverified	disiplin	5
+inkarthlakin	SPLIT	corpus_stem_in	inkarthlak in	5
+lawmtakin	REVIEW	unverified	lawmtakin	5
+satlin	REVIEW	unverified	satlin	5
+kimthlapin	REVIEW	unverified	kimthlapin	5
+tlangsin	REVIEW	unverified	tlangsin	5
+balangin	SPLIT	corpus_stem_in	balang in	5
+kumtêlin	REVIEW	unverified	kumtêlin	5
+sisâwpin	REVIEW	unverified	sisâwpin	5
+atirin	REVIEW	unverified	atirin	5
+avêlin	REVIEW	unverified	avêlin	5
+baklêngin	REVIEW	unverified	baklêngin	5
+inṭhin	SPLIT	corpus_stem_in	inṭh in	5
+invin	SPLIT	corpus_stem_in	inv in	5
+khûntakin	REVIEW	unverified	khûntakin	5
+mâihmin	REVIEW	unverified	mâihmin	5
+theihmin	REVIEW	unverified	theihmin	5
+âidin	REVIEW	unverified	âidin	5
+tlângsin	REVIEW	unverified	tlângsin	5
+tlânmalamin	REVIEW	unverified	tlânmalamin	5
+tlânpumin	REVIEW	unverified	tlânpumin	5
+tuihin	SPLIT	corpus_stem_in	tuih in	5
+tûktin	REVIEW	unverified	tûktin	5
+gerarah	SPLIT	corpus_stem_ah	gerar ah	4
+invêtthlâktakin	SPLIT	corpus_stem_in	invêtthlâktak in	4
+thlâktakin	SPLIT	corpus_stem_in	thlâktak in	4
+atumin	SPLIT	corpus_stem_in	atum in	4
+suktuoin	SPLIT	corpus_stem_in	suktuo in	4
+sukvârin	SPLIT	corpus_stem_in	sukvâr in	4
+phaiphinah	SPLIT	corpus_stem_ah	phaiphin ah	4
+hmusittakin	REVIEW	unverified	hmusittakin	4
+zânkhuoin	SPLIT	corpus_stem_in	zânkhuo in	4
+sukkhalin	REVIEW	unverified	sukkhalin	4
+râwlriin	SPLIT	corpus_stem_in	râwlri in	4
+kutphabawkin	SPLIT	corpus_stem_in	kutphabawk in	4
+thiemtakin	SPLIT	corpus_stem_in	thiemtak in	4
+faitakin	SPLIT	corpus_stem_in	faitak in	4
+râlmuongtakin	SPLIT	corpus_stem_in	râlmuongtak in	4
+kawlhnâmin	SPLIT	corpus_stem_in	kawlhnâm in	4
+lukipin	SPLIT	corpus_stem_in	lukip in	4
+abarimah	SPLIT	corpus_stem_ah	abarim ah	4
+urimin	SPLIT	corpus_stem_in	urim in	4
+jotbathaah	REVIEW	unverified	jotbathaah	4
+azmonah	REVIEW	unverified	azmonah	4
+inrâlthuomin	SPLIT	corpus_stem_in	inrâlthuom in	4
+phîngṭamin	SPLIT	corpus_stem_in	phîngṭam in	4
+laizâwlah	REVIEW	unverified	laizâwlah	4
+khâkruin	SPLIT	corpus_stem_in	khâkru in	4
+orpah	REVIEW	unverified	orpah	4
+zânrilah	SPLIT	corpus_stem_ah	zânril ah	4
+inrawmtakin	REVIEW	unverified	inrawmtakin	4
+horeshah	REVIEW	unverified	horeshah	4
+lungâwitakin	REVIEW	unverified	lungâwitakin	4
+sawisah	REVIEW	unverified	sawisah	4
+ngûitakin	SPLIT	corpus_stem_in	ngûitak in	4
+khursûngah	SPLIT	corpus_stem_ah	khursûng ah	4
+inkhitin	SPLIT	corpus_stem_in	inkhit in	4
+inzaumtakin	SPLIT	corpus_stem_in	inzaumtak in	4
+riktakin	SPLIT	corpus_stem_in	riktak in	4
+inrangtakin	REVIEW	unverified	inrangtakin	4
+hlasaktuhaiin	SPLIT	remainder_haiin	hlasaktu hai in	4
+hmâisanah	REVIEW	unverified	hmâisanah	4
+vervêknain	SPLIT	corpus_stem_in	vervêkna in	4
+siemtharin	SPLIT	corpus_stem_in	siemthar in	4
+vânâwnin	SPLIT	corpus_stem_in	vânâwn in	4
+keinawiin	SPLIT	corpus_stem_in	keinawi in	4
+pawrchetakin	REVIEW	unverified	pawrchetakin	4
+rinumtakin	SPLIT	corpus_stem_in	rinumtak in	4
+innghatkîrtirin	REVIEW	unverified	innghatkîrtirin	4
+jah	REVIEW	unverified	jah	4
+iniemtakin	REVIEW	unverified	iniemtakin	4
+inphurnain	SPLIT	corpus_stem_in	inphurna in	4
+sukkûnin	SPLIT	corpus_stem_in	sukkûn in	4
+taimatakin	SPLIT	corpus_stem_in	taimatak in	4
+khuopdein	SPLIT	corpus_stem_in	khuopde in	4
+sukṭitin	SPLIT	corpus_stem_in	sukṭit in	4
+sukṭhangin	SPLIT	corpus_stem_in	sukṭhang in	4
+insuktumin	SPLIT	corpus_stem_in	insuktum in	4
+hrîkthlâkin	SPLIT	corpus_stem_in	hrîkthlâk in	4
+naupangtêin	REVIEW	unverified	naupangtêin	4
+sawtakah	REVIEW	unverified	sawtakah	4
+sukthâuin	SPLIT	corpus_stem_in	sukthâu in	4
+suktâwiin	SPLIT	corpus_stem_in	suktâwi in	4
+inzâpuiumtakin	REVIEW	unverified	inzâpuiumtakin	4
+inruinain	SPLIT	corpus_stem_in	inruina in	4
+ailâkin	SPLIT	corpus_stem_in	ailâk in	4
+rawngbâwlpêkin	SPLIT	corpus_stem_in	rawngbâwlpêk in	4
+nebuzaradanin	SPLIT	corpus_stem_in	nebuzaradan in	4
+ketin	REVIEW	unverified	ketin	4
+irâusanin	REVIEW	unverified	irâusanin	4
+sîrzâwngin	REVIEW	unverified	sîrzâwngin	4
+ruouah	SPLIT	corpus_stem_ah	ruou ah	4
+inzâltirin	SPLIT	corpus_stem_in	inzâltir in	4
+thingngein	SPLIT	corpus_stem_in	thingnge in	4
+maktinain	SPLIT	corpus_stem_in	maktina in	4
+tuiêkin	SPLIT	corpus_stem_in	tuiêk in	4
+rimsitakin	SPLIT	corpus_stem_in	rimsitak in	4
+tlânginsamin	REVIEW	unverified	tlânginsamin	4
+khuolbûkah	SPLIT	corpus_stem_ah	khuolbûk ah	4
+inruoltakin	REVIEW	unverified	inruoltakin	4
+khaikângin	SPLIT	corpus_stem_in	khaikâng in	4
+ihmangaiin	SPLIT	corpus_stem_in	ihmangai in	4
+vawihninaah	SPLIT	corpus_stem_ah	vawihnina ah	4
+troasah	SPLIT	corpus_stem_ah	troas ah	4
+atheniah	SPLIT	corpus_stem_ah	atheni ah	4
+nunnêmnain	REVIEW	unverified	nunnêmnain	4
+zâwrnain	SPLIT	corpus_stem_in	zâwrna in	4
+chânnaah	SPLIT	corpus_stem_ah	chânna ah	4
+zaidamtakin	REVIEW	unverified	zaidamtakin	4
+chîterekin	SPLIT	corpus_stem_in	chîterek in	4
+smaragdin	REVIEW	unverified	smaragdin	4
+neilovin	REVIEW	unverified	neilovin	4
+inthiemlovin	REVIEW	unverified	inthiemlovin	4
+thangsain	SPLIT	corpus_stem_in	thangsa in	4
+keikopin	SPLIT	corpus_stem_in	keikop in	4
+laringin	REVIEW	unverified	laringin	4
+ordain	REVIEW	unverified	ordain	4
+calcuttah	REVIEW	unverified	calcuttah	4
+inthuruolpuiin	SPLIT	corpus_stem_in	inthuruolpui in	4
+huopchin	REVIEW	unverified	huopchin	4
+telhelin	SPLIT	corpus_stem_in	telhel in	4
+avangin	REVIEW	unverified	avangin	4
+inhlantuin	SPLIT	corpus_stem_in	inhlantu in	4
+tlampuiin	SPLIT	corpus_stem_in	tlampui in	4
+hrezingin	SPLIT	corpus_stem_in	hrezing in	4
+laizingin	SPLIT	corpus_stem_in	laizing in	4
+homalin	REVIEW	unverified	homalin	4
+hnaiteah	SPLIT	corpus_stem_ah	hnaite ah	4
+honpuiin	SPLIT	corpus_stem_in	honpui in	4
+kachin	REVIEW	unverified	kachin	4
+kayah	REVIEW	unverified	kayah	4
+hmasuiin	SPLIT	corpus_stem_in	hmasui in	4
+khuoisenin	REVIEW	unverified	khuoisenin	4
+shenandoah	REVIEW	unverified	shenandoah	4
+nghielin	SPLIT	corpus_stem_in	nghiel in	4
+lalruotmawiin	SPLIT	corpus_stem_in	lalruotmawi in	4
+brain	REVIEW	unverified	brain	4
+laichin	REVIEW	unverified	laichin	4
+thairanchongin	REVIEW	unverified	thairanchongin	4
+zosaptharin	SPLIT	corpus_stem_in	zosapthar in	4
+kamlalin	SPLIT	corpus_stem_in	kamlal in	4
+vûkin	SPLIT	corpus_stem_in	vûk in	4
+luongkhawmin	REVIEW	unverified	luongkhawmin	4
+khawtin	SPLIT	corpus_stem_in	khawt in	4
+npuiah	SPLIT	corpus_stem_ah	npui ah	4
+palestinhaiin	SPLIT	remainder_haiin	palestin hai in	4
+berlin	REVIEW	unverified	berlin	4
+lepchiah	REVIEW	unverified	lepchiah	4
+khuollienah	SPLIT	corpus_stem_ah	khuollien ah	4
+beidongumin	SPLIT	corpus_stem_in	beidongum in	4
+insomdawlin	SPLIT	corpus_stem_in	insomdawl in	4
+curtain	REVIEW	unverified	curtain	4
+thiemfin	REVIEW	unverified	thiemfin	4
+chupin	REVIEW	unverified	chupin	4
+hnah	SPLIT	corpus_stem_ah	hn ah	4
+achînin	SPLIT	corpus_stem_in	achîn in	3
+hniktakin	REVIEW	unverified	hniktakin	3
+povah	REVIEW	unverified	povah	3
+simsawngah	REVIEW	unverified	simsawngah	3
+thlâiin	SPLIT	corpus_stem_in	thlâi in	3
+obothah	SPLIT	corpus_stem_ah	oboth ah	3
+mithkaah	REVIEW	unverified	mithkaah	3
+phubalatuin	SPLIT	corpus_stem_in	phubalatu in	3
+sephurin	SPLIT	corpus_stem_in	sephur in	3
+hmatakin	REVIEW	unverified	hmatakin	3
+nengnungin	SPLIT	corpus_stem_in	nengnung in	3
+ruknaah	SPLIT	corpus_stem_ah	rukna ah	3
+aphekah	SPLIT	corpus_stem_ah	aphek ah	3
+sualah	SPLIT	corpus_stem_ah	sual ah	3
+lunginah	SPLIT	corpus_stem_ah	lungin ah	3
+thlamuongumtakin	SPLIT	corpus_stem_in	thlamuongumtak in	3
+makhâtin	SPLIT	corpus_stem_in	makhât in	3
+hmabulah	SPLIT	corpus_stem_ah	hmabul ah	3
+hrilinsîmah	SPLIT	corpus_stem_ah	hrilinsîm ah	3
+thuokdawngtakin	REVIEW	unverified	thuokdawngtakin	3
+kawinâwiin	REVIEW	unverified	kawinâwiin	3
+sunthlengin	SPLIT	corpus_stem_in	sunthleng in	3
+ngilneitakin	SPLIT	corpus_stem_in	ngilneitak in	3
+sukthlamuongin	SPLIT	corpus_stem_in	sukthlamuong in	3
+rinumtitakin	REVIEW	unverified	rinumtitakin	3
+sukṭhein	SPLIT	corpus_stem_in	sukṭhe in	3
+duottakin	REVIEW	unverified	duottakin	3
+phurriksakah	REVIEW	unverified	phurriksakah	3
+mantuin	SPLIT	corpus_stem_in	mantu in	3
+nazawngin	SPLIT	corpus_stem_in	nazawng in	3
+chingtuin	SPLIT	corpus_stem_in	chingtu in	3
+inthiemloin	REVIEW	unverified	inthiemloin	3
+inhlitirin	SPLIT	corpus_stem_in	inhlitir in	3
+ditnawin	SPLIT	corpus_stem_in	ditnaw in	3
+ṭepin	SPLIT	corpus_stem_in	ṭep in	3
+titaktakin	SPLIT	corpus_stem_in	titaktak in	3
+lungâwpinkaiin	REVIEW	unverified	lungâwpinkaiin	3
+bauṭhain	SPLIT	corpus_stem_in	bauṭha in	3
+ṭawngbauṭhain	REVIEW	unverified	ṭawngbauṭhain	3
+ephesiah	SPLIT	corpus_stem_ah	ephesi ah	3
+fimkhurtakin	REVIEW	unverified	fimkhurtakin	3
+khawptakin	REVIEW	unverified	khawptakin	3
+chârnain	SPLIT	corpus_stem_in	chârna in	3
+ruollovin	REVIEW	unverified	ruollovin	3
+abiktakin	REVIEW	unverified	abiktakin	3
+biktakin	REVIEW	unverified	biktakin	3
+laihin	REVIEW	unverified	laihin	3
+famtah	REVIEW	unverified	famtah	3
+phin	SPLIT	corpus_stem_in	ph in	3
+chuvangin	REVIEW	unverified	chuvangin	3
+anghin	REVIEW	unverified	anghin	3
+mihain	SPLIT	corpus_stem_in	miha in	3
+remsiemin	SPLIT	corpus_stem_in	remsiem in	3
+lamlawnin	SPLIT	corpus_stem_in	lamlawn in	3
+tluoiin	SPLIT	corpus_stem_in	tluoi in	3
+chindwin	REVIEW	unverified	chindwin	3
+khuonglawmah	SPLIT	corpus_stem_ah	khuonglawm ah	3
+pumpkin	REVIEW	unverified	pumpkin	3
+tuolparah	SPLIT	corpus_stem_ah	tuolpar ah	3
+talovin	REVIEW	unverified	talovin	3
+imin	SPLIT	corpus_stem_in	im in	3
+inbakkeinaah	SPLIT	corpus_stem_ah	inbakkeina ah	3
+chinginlirin	SPLIT	corpus_stem_in	chinginlir in	3
+chhuah	REVIEW	unverified	chhuah	3
+umlovin	REVIEW	unverified	umlovin	3
+buruah	SPLIT	corpus_stem_ah	buru ah	3
+dumbelah	SPLIT	corpus_stem_ah	dumbel ah	3
+inhaiin	SPLIT	remainder_haiin	in hai in	3
+hiptuin	SPLIT	corpus_stem_in	hiptu in	3
+mawsietin	SPLIT	corpus_stem_in	mawsiet in	3
+tlangleiah	REVIEW	unverified	tlangleiah	3
+anmanin	REVIEW	unverified	anmanin	3
+phatsantuah	SPLIT	corpus_stem_ah	phatsantu ah	3
+hussein	REVIEW	unverified	hussein	3
+changchavoiin	SPLIT	corpus_stem_in	changchavoi in	3
+khailakin	SPLIT	corpus_stem_in	khailak in	3
+tutin	SPLIT	corpus_stem_in	tut in	3
+hah	KEEP	inviolate_root	hah	3
+zêngpuiah	SPLIT	corpus_stem_ah	zêngpui ah	3
+tlanbahrikin	REVIEW	unverified	tlanbahrikin	3
+ruolsingpuiin	SPLIT	corpus_stem_in	ruolsingpui in	3
+inhmatonin	SPLIT	corpus_stem_in	inhmaton in	3
+kalzain	REVIEW	unverified	kalzain	3
+basamin	SPLIT	corpus_stem_in	basam in	3
+nguoiin	SPLIT	corpus_stem_in	nguoi in	3
+arengin	SPLIT	corpus_stem_in	areng in	3
+maurawkelin	SPLIT	corpus_stem_in	maurawkel in	3
+mitthlin	REVIEW	unverified	mitthlin	3
+dotlingin	SPLIT	corpus_stem_in	dotling in	3
+hluihlawnin	SPLIT	corpus_stem_in	hluihlawn in	3
+thangzamin	REVIEW	unverified	thangzamin	3
+chauhvin	REVIEW	unverified	chauhvin	3
+kumtin	REVIEW	unverified	kumtin	3
+vanzêmah	REVIEW	unverified	vanzêmah	3
+thlêkin	SPLIT	corpus_stem_in	thlêk in	3
+kokhawmin	REVIEW	unverified	kokhawmin	3
+lubawkhaiin	SPLIT	remainder_haiin	lubawk hai in	3
+vin	REVIEW	unverified	vin	3
+thanglurin	REVIEW	unverified	thanglurin	3
+sunchangah	SPLIT	corpus_stem_ah	sunchang ah	3
+kholnongin	SPLIT	corpus_stem_in	kholnong in	3
+arukin	REVIEW	unverified	arukin	3
+abîkin	REVIEW	unverified	abîkin	3
+thawkhatah	SPLIT	corpus_stem_ah	thawkhat ah	3
+hmachhuanin	REVIEW	unverified	hmachhuanin	3
+swahiliin	SPLIT	corpus_stem_in	swahili in	3
+hmelhriettirin	REVIEW	unverified	hmelhriettirin	3
+mangloin	SPLIT	corpus_stem_in	manglo in	3
+ṭovin	REVIEW	unverified	ṭovin	3
+vaitin	REVIEW	unverified	vaitin	3
+suikirin	SPLIT	corpus_stem_in	suikir in	3
+hminglienin	SPLIT	corpus_stem_in	hminglien in	3
+lalhmingthangin	SPLIT	corpus_stem_in	lalhmingthang in	3
+lungruoltakin	REVIEW	unverified	lungruoltakin	3
+vuinaah	SPLIT	corpus_stem_ah	vuina ah	3
+hmasonin	SPLIT	corpus_stem_in	hmason in	3
+praktikalin	SPLIT	corpus_stem_in	praktikal in	3
+chekpolin	SPLIT	corpus_stem_in	chekpol in	3
+hlokin	SPLIT	corpus_stem_in	hlok in	3
+thangruolin	SPLIT	corpus_stem_in	thangruol in	3
+grain	SPLIT	corpus_stem_in	gra in	3
+zirtirhain	REVIEW	unverified	zirtirhain	3
+ramvâkin	REVIEW	unverified	ramvâkin	3
+vuongpuiin	SPLIT	corpus_stem_in	vuongpui in	3
+hnusawnin	REVIEW	unverified	hnusawnin	3
+lungrukah	REVIEW	unverified	lungrukah	3
+hianin	SPLIT	corpus_stem_in	hian in	3
+ṭînin	SPLIT	corpus_stem_in	ṭîn in	3
+dairekin	REVIEW	unverified	dairekin	3
+ramperah	SPLIT	corpus_stem_ah	ramper ah	3
+mitsimin	SPLIT	corpus_stem_in	mitsim in	3
+thilthuin	REVIEW	unverified	thilthuin	3
+vuah	REVIEW	unverified	vuah	3
+win	REVIEW	unverified	win	3
+insaisangin	SPLIT	corpus_stem_in	insaisang in	3
+achângin	SPLIT	corpus_stem_in	achâng in	3
+penicillin	REVIEW	unverified	penicillin	3
+sukchin	SPLIT	corpus_stem_in	sukch in	3
+messiah	REVIEW	unverified	messiah	3
+weinstein	REVIEW	unverified	weinstein	3
+sukchâtin	REVIEW	unverified	sukchâtin	2
+zâmtirin	SPLIT	corpus_stem_in	zâmtir in	2
+hnungtâwlin	REVIEW	unverified	hnungtâwlin	2
+zoarah	SPLIT	corpus_stem_ah	zoar ah	2
+tartakin	SPLIT	corpus_stem_in	tartak in	2
+sentakin	REVIEW	unverified	sentakin	2
+thlasetakin	REVIEW	unverified	thlasetakin	2
+pah	KEEP	inviolate_root	pah	2
+zawldiaiin	SPLIT	corpus_stem_in	zawldiai in	2
+hmah	SPLIT	corpus_stem_ah	hm ah	2
+khawdeiin	SPLIT	corpus_stem_in	khawdei in	2
+mizpah	REVIEW	unverified	mizpah	2
+zaihlêmin	SPLIT	corpus_stem_in	zaihlêm in	2
+inthlah	SPLIT	corpus_stem_ah	inthl ah	2
+dothanah	SPLIT	corpus_stem_ah	dothan ah	2
+nauhain	SPLIT	corpus_stem_in	nauha in	2
+beisiemtuin	REVIEW	unverified	beisiemtuin	2
+hlâwktakin	SPLIT	corpus_stem_in	hlâwktak in	2
+lethniin	SPLIT	corpus_stem_in	lethni in	2
+lêtngain	REVIEW	unverified	lêtngain	2
+asenathin	SPLIT	corpus_stem_in	asenath in	2
+kâwmawnain	REVIEW	unverified	kâwmawnain	2
+uoinah	SPLIT	corpus_stem_ah	uoin ah	2
+suknawmnah	REVIEW	unverified	suknawmnah	2
+ngartakin	SPLIT	corpus_stem_in	ngartak in	2
+chosaah	SPLIT	corpus_stem_ah	chosa ah	2
+inbelsain	REVIEW	unverified	inbelsain	2
+theidaumah	SPLIT	corpus_stem_ah	theidaum ah	2
+rampalailakah	REVIEW	unverified	rampalailakah	2
+intaktakin	SPLIT	corpus_stem_in	intaktak in	2
+închâwkhaiin	SPLIT	remainder_haiin	închâwk hai in	2
+kailâwnhaiin	SPLIT	remainder_haiin	kailâwn hai in	2
+puonchepnahaiin	SPLIT	remainder_haiin	puonchepna hai in	2
+lungkertuin	REVIEW	unverified	lungkertuin	2
+inkârthlâkin	REVIEW	unverified	inkârthlâkin	2
+gerah	SPLIT	corpus_stem_ah	ger ah	2
+tâkduoiin	SPLIT	corpus_stem_in	tâkduoi in	2
+hminin	SPLIT	corpus_stem_in	hmin in	2
+dântakin	REVIEW	unverified	dântakin	2
+fellotakin	REVIEW	unverified	fellotakin	2
+sîrtuokin	REVIEW	unverified	sîrtuokin	2
+fapêkin	REVIEW	unverified	fapêkin	2
+nâwktuah	SPLIT	corpus_stem_ah	nâwktu ah	2
+rawtnawinaah	REVIEW	unverified	rawtnawinaah	2
+nâklaiah	SPLIT	corpus_stem_ah	nâklai ah	2
+suphah	SPLIT	corpus_stem_ah	suph ah	2
+bamothah	SPLIT	corpus_stem_ah	bamoth ah	2
+tâwtah	REVIEW	unverified	tâwtah	2
+inchêpnaah	SPLIT	corpus_stem_ah	inchêpna ah	2
+assurhaiin	SPLIT	remainder_haiin	assur hai in	2
+nimrah	REVIEW	unverified	nimrah	2
+dophkaah	REVIEW	unverified	dophkaah	2
+hattavaah	REVIEW	unverified	hattavaah	2
+hazerothah	SPLIT	corpus_stem_ah	hazeroth ah	2
+rissaah	REVIEW	unverified	rissaah	2
+kehelathaah	REVIEW	unverified	kehelathaah	2
+haradaah	REVIEW	unverified	haradaah	2
+makhelothah	REVIEW	unverified	makhelothah	2
+moserothah	REVIEW	unverified	moserothah	2
+jaakanah	SPLIT	corpus_stem_ah	jaakan ah	2
+hagidgadah	REVIEW	unverified	hagidgadah	2
+abronaah	REVIEW	unverified	abronaah	2
+geberah	SPLIT	corpus_stem_ah	geber ah	2
+zalmonaah	REVIEW	unverified	zalmonaah	2
+punonah	REVIEW	unverified	punonah	2
+diblathaimah	SPLIT	corpus_stem_ah	diblathaim ah	2
+zinah	SPLIT	corpus_stem_ah	zin ah	2
+addarah	SPLIT	corpus_stem_ah	addar ah	2
+zedadah	SPLIT	corpus_stem_ah	zedad ah	2
+ziphronah	REVIEW	unverified	ziphronah	2
+uongtakin	REVIEW	unverified	uongtakin	2
+paikâwngah	REVIEW	unverified	paikâwngah	2
+sebâwngchalin	SPLIT	corpus_stem_in	sebâwngchal in	2
+hmeithaihaiin	SPLIT	remainder_haiin	hmeithai hai in	2
+ngêin	SPLIT	corpus_stem_in	ngê in	2
+cheltlatin	REVIEW	unverified	cheltlatin	2
+umnghain	SPLIT	corpus_stem_in	umngha in	2
+ngaisuolin	SPLIT	corpus_stem_in	ngaisuol in	2
+massaah	SPLIT	corpus_stem_ah	massa ah	2
+inchânrutuhaiin	SPLIT	remainder_haiin	inchânrutu hai in	2
+thinglêrah	REVIEW	unverified	thinglêrah	2
+lekhatin	REVIEW	unverified	lekhatin	2
+jabinin	SPLIT	corpus_stem_in	jabin in	2
+hoglaah	SPLIT	corpus_stem_ah	hogla ah	2
+sikkeronah	REVIEW	unverified	sikkeronah	2
+jabneelah	REVIEW	unverified	jabneelah	2
+middin	REVIEW	unverified	middin	2
+luzah	SPLIT	corpus_stem_ah	luz ah	2
+gibeah	REVIEW	unverified	gibeah	2
+daberathah	SPLIT	corpus_stem_ah	daberath ah	2
+hosaah	SPLIT	corpus_stem_ah	hosa ah	2
+saalabin	REVIEW	unverified	saalabin	2
+hausatakin	SPLIT	corpus_stem_in	hausatak in	2
+bezekah	SPLIT	corpus_stem_ah	bezek ah	2
+bokimah	SPLIT	corpus_stem_ah	bokim ah	2
+seiraah	SPLIT	corpus_stem_ah	seira ah	2
+deborain	SPLIT	corpus_stem_in	debora in	2
+leikhâwrah	SPLIT	corpus_stem_ah	leikhâwr ah	2
+neitakin	SPLIT	corpus_stem_in	neitak in	2
+penuelah	SPLIT	corpus_stem_ah	penuel ah	2
+karkorah	REVIEW	unverified	karkorah	2
+thâikêmin	REVIEW	unverified	thâikêmin	2
+gaalin	SPLIT	corpus_stem_in	gaal in	2
+zaphonah	SPLIT	corpus_stem_ah	zaphon ah	2
+elonin	SPLIT	corpus_stem_in	elon in	2
+aijalonah	SPLIT	corpus_stem_ah	aijalon ah	2
+abdonin	SPLIT	corpus_stem_in	abdon in	2
+buriptakin	REVIEW	unverified	buriptakin	2
+busîktuhaiin	SPLIT	remainder_haiin	busîktu hai in	2
+inlâurakin	REVIEW	unverified	inlâurakin	2
+hminginthangtakin	SPLIT	corpus_stem_in	hminginthangtak in	2
+emhmin	REVIEW	unverified	emhmin	2
+ngâwtin	SPLIT	corpus_stem_in	ngâwt in	2
+zelzaah	REVIEW	unverified	zelzaah	2
+duolnaah	REVIEW	unverified	duolnaah	2
+ringmawumtakin	REVIEW	unverified	ringmawumtakin	2
+kimtakin	REVIEW	unverified	kimtakin	2
+rawnpêkin	SPLIT	corpus_stem_in	rawnpêk in	2
+ngaituopêkin	SPLIT	corpus_stem_in	ngaituopêk in	2
+nghettakah	SPLIT	corpus_stem_ah	nghettak ah	2
+gilboaah	SPLIT	corpus_stem_ah	gilboa ah	2
+mahanaimah	SPLIT	corpus_stem_ah	mahanaim ah	2
+baanah	REVIEW	unverified	baanah	2
+helamah	REVIEW	unverified	helamah	2
+khawvârin	SPLIT	corpus_stem_in	khawvâr in	2
+indawitakin	REVIEW	unverified	indawitakin	2
+ringumlotakin	REVIEW	unverified	ringumlotakin	2
+rizpain	SPLIT	corpus_stem_in	rizpa in	2
+elhananin	SPLIT	corpus_stem_in	elhanan in	2
+fâwkkhâwmin	SPLIT	corpus_stem_in	fâwkkhâwm in	2
+hnunginnghatin	SPLIT	corpus_stem_in	hnunginnghat in	2
+inchawisângin	SPLIT	corpus_stem_in	inchawisâng in	2
+gihonah	SPLIT	corpus_stem_ah	gihon ah	2
+patlingtakin	REVIEW	unverified	patlingtakin	2
+awttuah	REVIEW	unverified	awttuah	2
+meholah	REVIEW	unverified	meholah	2
+hlirhlakin	REVIEW	unverified	hlirhlakin	2
+sîrtuokah	REVIEW	unverified	sîrtuokah	2
+paranah	SPLIT	corpus_stem_ah	paran ah	2
+inrumtakin	REVIEW	unverified	inrumtakin	2
+fah	KEEP	inviolate_root	fah	2
+bâwlsanin	SPLIT	corpus_stem_in	bâwlsan in	2
+âwpinkaiin	REVIEW	unverified	âwpinkaiin	2
+siemṭhah	REVIEW	unverified	siemṭhah	2
+hmazâwnah	SPLIT	corpus_stem_ah	hmazâwn ah	2
+boamin	SPLIT	corpus_stem_in	boam in	2
+jehoadin	REVIEW	unverified	jehoadin	2
+rorêlpêkin	SPLIT	corpus_stem_in	rorêlpêk in	2
+salmaneserin	SPLIT	corpus_stem_in	salmaneser in	2
+suktiengin	REVIEW	unverified	suktiengin	2
+aiawiin	REVIEW	unverified	aiawiin	2
+merodakin	SPLIT	corpus_stem_in	merodak in	2
+hezekiah	REVIEW	unverified	hezekiah	2
+hormah	REVIEW	unverified	hormah	2
+biriah	SPLIT	corpus_stem_ah	biri ah	2
+pileserin	SPLIT	corpus_stem_in	pileser in	2
+ispah	REVIEW	unverified	ispah	2
+zekariah	REVIEW	unverified	zekariah	2
+chawimmawiin	REVIEW	unverified	chawimmawiin	2
+theidaumin	SPLIT	corpus_stem_in	theidaum in	2
+âtnahaiin	SPLIT	remainder_haiin	âtna hai in	2
+thuhnuoiah	SPLIT	corpus_stem_ah	thuhnuoi ah	2
+khawtluongin	SPLIT	corpus_stem_in	khawtluong in	2
+inphaltakin	REVIEW	unverified	inphaltakin	2
+phaltakin	REVIEW	unverified	phaltakin	2
+butlingin	REVIEW	unverified	butlingin	2
+tarkûnin	SPLIT	corpus_stem_in	tarkûn in	2
+sâwpnaah	SPLIT	corpus_stem_ah	sâwpna ah	2
+vîntakin	SPLIT	corpus_stem_in	vîntak in	2
+maresah	REVIEW	unverified	maresah	2
+hotutakah	SPLIT	corpus_stem_ah	hotutak ah	2
+thliein	SPLIT	corpus_stem_in	thlie in	2
+ngiltakin	REVIEW	unverified	ngiltakin	2
+sakhnungah	SPLIT	corpus_stem_ah	sakhnung ah	2
+thurawnpuituah	REVIEW	unverified	thurawnpuituah	2
+hlingbukin	SPLIT	corpus_stem_in	hlingbuk in	2
+dawnsakin	SPLIT	corpus_stem_in	dawnsak in	2
+insawntuoin	REVIEW	unverified	insawntuoin	2
+osnapparin	REVIEW	unverified	osnapparin	2
+hlonahaiin	SPLIT	remainder_haiin	hlona hai in	2
+mattattah	REVIEW	unverified	mattattah	2
+gesemin	SPLIT	corpus_stem_in	gesem in	2
+photakin	REVIEW	unverified	photakin	2
+inchûin	SPLIT	corpus_stem_in	inchû in	2
+chûin	SPLIT	corpus_stem_in	chû in	2
+sanballatin	SPLIT	corpus_stem_in	sanballat in	2
+nezzarin	SPLIT	corpus_stem_in	nezzar in	2
+ophelah	SPLIT	corpus_stem_ah	ophel ah	2
+hegaiin	SPLIT	corpus_stem_in	hegai in	2
+inzâpuiumah	SPLIT	corpus_stem_ah	inzâpuium ah	2
+khieuin	REVIEW	unverified	khieuin	2
+inrûktein	REVIEW	unverified	inrûktein	2
+râwtdein	REVIEW	unverified	râwtdein	2
+phâiphin	REVIEW	unverified	phâiphin	2
+sumhlâwknain	REVIEW	unverified	sumhlâwknain	2
+thilhmuhaiin	SPLIT	remainder_haiin	thilhmu hai in	2
+ngûntakin	REVIEW	unverified	ngûntakin	2
+hlawtlingtakin	SPLIT	corpus_stem_in	hlawtlingtak in	2
+nuoitirin	REVIEW	unverified	nuoitirin	2
+vûrtuiin	REVIEW	unverified	vûrtuiin	2
+inzâumin	SPLIT	corpus_stem_in	inzâum in	2
+sakthliin	SPLIT	corpus_stem_in	sakthli in	2
+inchuornain	REVIEW	unverified	inchuornain	2
+neinungtakin	SPLIT	corpus_stem_in	neinungtak in	2
+sukchâuin	SPLIT	corpus_stem_in	sukchâu in	2
+siehnuoiin	SPLIT	corpus_stem_in	siehnuoi in	2
+dêttakin	REVIEW	unverified	dêttakin	2
+hlatnaah	SPLIT	corpus_stem_ah	hlatna ah	2
+nuizabûrah	SPLIT	corpus_stem_ah	nuizabûr ah	2
+takinningtakin	REVIEW	unverified	takinningtakin	2
+indêntakin	REVIEW	unverified	indêntakin	2
+nuomsipnain	SPLIT	corpus_stem_in	nuomsipna in	2
+sukrimsiknain	SPLIT	corpus_stem_in	sukrimsikna in	2
+thâunain	SPLIT	corpus_stem_in	thâuna in	2
+cheltângin	SPLIT	corpus_stem_in	cheltâng in	2
+insângnain	SPLIT	corpus_stem_in	insângna in	2
+inzâumnain	SPLIT	corpus_stem_in	inzâumna in	2
+innêpnain	REVIEW	unverified	innêpnain	2
+ngakhâwfeihaiin	SPLIT	remainder_haiin	ngakhâwfei hai in	2
+rûmnain	SPLIT	corpus_stem_in	rûmna in	2
+chîlthluin	REVIEW	unverified	chîlthluin	2
+hasein	SPLIT	corpus_stem_in	hase in	2
+lungzîngin	SPLIT	corpus_stem_in	lungzîng in	2
+inhawitakhaiah	SPLIT	remainder_haiah	inhawitak hai ah	2
+iṭhangpuiin	SPLIT	corpus_stem_in	iṭhangpui in	2
+lâwmtlâkin	SPLIT	corpus_stem_in	lâwmtlâk in	2
+bauvin	REVIEW	unverified	bauvin	2
+inpelsawlin	SPLIT	corpus_stem_in	inpelsawl in	2
+demkailonain	REVIEW	unverified	demkailonain	2
+inzâwltakah	REVIEW	unverified	inzâwltakah	2
+inpheitakah	REVIEW	unverified	inpheitakah	2
+lâmnaah	SPLIT	corpus_stem_ah	lâmna ah	2
+ṭhâlrumin	REVIEW	unverified	ṭhâlrumin	2
+hmûrkhitnain	REVIEW	unverified	hmûrkhitnain	2
+hrilkhinaah	SPLIT	corpus_stem_ah	hrilkhina ah	2
+aitluongtakin	REVIEW	unverified	aitluongtakin	2
+ngainah	SPLIT	corpus_stem_ah	ngain ah	2
+ṭhungpumin	REVIEW	unverified	ṭhungpumin	2
+husopin	SPLIT	corpus_stem_in	husop in	2
+nunrâwnghaiin	SPLIT	remainder_haiin	nunrâwng hai in	2
+hlumkhumin	REVIEW	unverified	hlumkhumin	2
+thlabârnain	SPLIT	corpus_stem_in	thlabârna in	2
+thlumtakin	SPLIT	corpus_stem_in	thlumtak in	2
+khumlaizâwlah	SPLIT	corpus_stem_ah	khumlaizâwl ah	2
+sukkatin	REVIEW	unverified	sukkatin	2
+vângneinaah	SPLIT	corpus_stem_ah	vângneina ah	2
+iengleangin	REVIEW	unverified	iengleangin	2
+rauvin	REVIEW	unverified	rauvin	2
+pelêuvin	REVIEW	unverified	pelêuvin	2
+hnuoihnungtakah	REVIEW	unverified	hnuoihnungtakah	2
+thlauthlâkin	SPLIT	corpus_stem_in	thlauthlâk in	2
+sâwtnain	SPLIT	corpus_stem_in	sâwtna in	2
+vânnikhâmnain	REVIEW	unverified	vânnikhâmnain	2
+inrûmkhumin	REVIEW	unverified	inrûmkhumin	2
+uin	REVIEW	unverified	uin	2
+tlûntakah	REVIEW	unverified	tlûntakah	2
+nuomthuin	REVIEW	unverified	nuomthuin	2
+hlimtakah	SPLIT	corpus_stem_ah	hlimtak ah	2
+sukkîrin	SPLIT	corpus_stem_in	sukkîr in	2
+vêngṭhain	SPLIT	corpus_stem_in	vêngṭha in	2
+ṭîin	SPLIT	corpus_stem_in	ṭî in	2
+inhnutakin	REVIEW	unverified	inhnutakin	2
+âttuin	SPLIT	corpus_stem_in	âttu in	2
+intêltuin	SPLIT	corpus_stem_in	intêltu in	2
+khêltuhaiin	SPLIT	remainder_haiin	khêltu hai in	2
+awitleiin	REVIEW	unverified	awitleiin	2
+ephrathaah	SPLIT	corpus_stem_ah	ephratha ah	2
+sukrimsituhaiin	SPLIT	remainder_haiin	sukrimsitu hai in	2
+taktêin	SPLIT	corpus_stem_in	taktê in	2
+khumlaizâwlhaiah	SPLIT	remainder_haiah	khumlaizâwl hai ah	2
+tiemchin	REVIEW	unverified	tiemchin	2
+ngamtakin	REVIEW	unverified	ngamtakin	2
+pawitâwknaah	SPLIT	corpus_stem_ah	pawitâwkna ah	2
+tlahawltakin	REVIEW	unverified	tlahawltakin	2
+phaiphinin	SPLIT	corpus_stem_in	phaiphin in	2
+puonṭiekin	SPLIT	corpus_stem_in	puonṭiek in	2
+thafântakin	SPLIT	corpus_stem_in	thafântak in	2
+êksiein	SPLIT	corpus_stem_in	êksie in	2
+innêksâwrtuoin	REVIEW	unverified	innêksâwrtuoin	2
+siemṭhatuah	SPLIT	corpus_stem_ah	siemṭhatu ah	2
+sâtderin	REVIEW	unverified	sâtderin	2
+sûtthâwlin	REVIEW	unverified	sûtthâwlin	2
+chiretekah	REVIEW	unverified	chiretekah	2
+kawlawmin	SPLIT	corpus_stem_in	kawlawm in	2
+sukkângin	SPLIT	corpus_stem_in	sukkâng in	2
+khotlângah	REVIEW	unverified	khotlângah	2
+nguitakhaiin	SPLIT	remainder_haiin	nguitak hai in	2
+khêkkhumin	SPLIT	corpus_stem_in	khêkkhum in	2
+selisijah	REVIEW	unverified	selisijah	2
+sîktupain	REVIEW	unverified	sîktupain	2
+bawngnain	SPLIT	corpus_stem_in	bawngna in	2
+nunsetakin	SPLIT	corpus_stem_in	nunsetak in	2
+thielkuongin	SPLIT	corpus_stem_in	thielkuong in	2
+inthinnaah	SPLIT	corpus_stem_ah	inthinna ah	2
+ṭawpah	SPLIT	corpus_stem_ah	ṭawp ah	2
+dârmûmkhaiah	SPLIT	remainder_haiah	dârmûmk hai ah	2
+ihrâwkin	REVIEW	unverified	ihrâwkin	2
+sukfuolin	REVIEW	unverified	sukfuolin	2
+suktuiin	SPLIT	corpus_stem_in	suktui in	2
+serâwpin	REVIEW	unverified	serâwpin	2
+sukmengin	REVIEW	unverified	sukmengin	2
+khâwngtuin	SPLIT	corpus_stem_in	khâwngtu in	2
+damtêtein	REVIEW	unverified	damtêtein	2
+damtêin	SPLIT	corpus_stem_in	damtê in	2
+hmeithaiah	SPLIT	remainder_haiah	hmeit hai ah	2
+chilsâkkhumnaah	REVIEW	unverified	chilsâkkhumnaah	2
+ivurkhumah	REVIEW	unverified	ivurkhumah	2
+invurkhumin	REVIEW	unverified	invurkhumin	2
+mâwngtirin	SPLIT	corpus_stem_in	mâwngtir in	2
+suktawiin	SPLIT	corpus_stem_in	suktawi in	2
+phûttuah	REVIEW	unverified	phûttuah	2
+vartuah	SPLIT	corpus_stem_ah	vartu ah	2
+hephzibah	REVIEW	unverified	hephzibah	2
+sukthlêrin	SPLIT	corpus_stem_in	sukthlêr in	2
+vawilekhatah	REVIEW	unverified	vawilekhatah	2
+vêlsuokin	SPLIT	corpus_stem_in	vêlsuok in	2
+sukchângin	SPLIT	corpus_stem_in	sukchâng in	2
+mantuhaiin	SPLIT	remainder_haiin	mantu hai in	2
+thahrâttakin	REVIEW	unverified	thahrâttakin	2
+hmalthlain	SPLIT	corpus_stem_in	hmalthla in	2
+hmaizâpin	REVIEW	unverified	hmaizâpin	2
+lungngaiumtakin	SPLIT	corpus_stem_in	lungngaiumtak in	2
+sairamkhain	REVIEW	unverified	sairamkhain	2
+hnâwknaah	SPLIT	corpus_stem_ah	hnâwkna ah	2
+têhaiah	SPLIT	remainder_haiah	tê hai ah	2
+inbawktirin	SPLIT	corpus_stem_in	inbawktir in	2
+zildeiah	REVIEW	unverified	zildeiah	2
+suokthlengin	SPLIT	corpus_stem_in	suokthleng in	2
+mûtchawkin	SPLIT	corpus_stem_in	mûtchawk in	2
+kalchawiruolin	REVIEW	unverified	kalchawiruolin	2
+nuomsain	SPLIT	corpus_stem_in	nuomsa in	2
+inzinah	SPLIT	corpus_stem_ah	inzin ah	2
+hnûkhmangin	SPLIT	corpus_stem_in	hnûkhmang in	2
+inchêptakah	REVIEW	unverified	inchêptakah	2
+maktakelin	REVIEW	unverified	maktakelin	2
+lungtâthaiin	SPLIT	remainder_haiin	lungtât hai in	2
+bunthlah	REVIEW	unverified	bunthlah	2
+thuoknaah	SPLIT	corpus_stem_ah	thuokna ah	2
+lusûnaah	REVIEW	unverified	lusûnaah	2
+ṭawngdawngah	REVIEW	unverified	ṭawngdawngah	2
+limziekin	REVIEW	unverified	limziekin	2
+inbunin	SPLIT	corpus_stem_in	inbun in	2
+hmalthlakin	REVIEW	unverified	hmalthlakin	2
+tuihulnaah	REVIEW	unverified	tuihulnaah	2
+tâtngeiin	SPLIT	corpus_stem_in	tâtngei in	2
+nâwttlêtin	SPLIT	corpus_stem_in	nâwttlêt in	2
+sathin	REVIEW	unverified	sathin	2
+duâmtakin	SPLIT	corpus_stem_in	duâmtak in	2
+thâwkkhatin	REVIEW	unverified	thâwkkhatin	2
+tuomkhumin	REVIEW	unverified	tuomkhumin	2
+natitakin	REVIEW	unverified	natitakin	2
+insethingin	SPLIT	corpus_stem_in	insething in	2
+palailakah	REVIEW	unverified	palailakah	2
+hrohrângsetakin	REVIEW	unverified	hrohrângsetakin	2
+chînthamah	REVIEW	unverified	chînthamah	2
+itthîknain	SPLIT	corpus_stem_in	itthîkna in	2
+meitâwklungin	SPLIT	corpus_stem_in	meitâwklung in	2
+phûmtuhaiin	SPLIT	remainder_haiin	phûmtu hai in	2
+sûnglûtin	REVIEW	unverified	sûnglûtin	2
+hnaituhaiin	SPLIT	remainder_haiin	hnaitu hai in	2
+ṭitumtakah	REVIEW	unverified	ṭitumtakah	2
+mitvaidawithiemhaiin	SPLIT	remainder_haiin	mitvaidawithiem hai in	2
+vânghriltuhaiin	SPLIT	remainder_haiin	vânghriltu hai in	2
+kângkin	REVIEW	unverified	kângkin	2
+inhawitakin	SPLIT	corpus_stem_in	inhawitak in	2
+chênghnâwngtakin	SPLIT	corpus_stem_in	chênghnâwngtak in	2
+sukhuin	SPLIT	corpus_stem_in	sukhu in	2
+indiklotakin	REVIEW	unverified	indiklotakin	2
+inherhmangin	SPLIT	corpus_stem_in	inherhmang in	2
+tarpin	REVIEW	unverified	tarpin	2
+inruitakin	REVIEW	unverified	inruitakin	2
+sieuin	SPLIT	corpus_stem_in	sieu in	2
+kekhawngah	SPLIT	corpus_stem_ah	kekhawng ah	2
+thilngein	SPLIT	corpus_stem_in	thilnge in	2
+khâuṭhikṭhiin	SPLIT	corpus_stem_in	khâuṭhikṭhi in	2
+râusannaah	SPLIT	corpus_stem_ah	râusanna ah	2
+rimsetakin	REVIEW	unverified	rimsetakin	2
+thîrkuoiin	SPLIT	corpus_stem_in	thîrkuoi in	2
+apnain	REVIEW	unverified	apnain	2
+phawidawkin	SPLIT	corpus_stem_in	phawidawk in	2
+nahrietah	SPLIT	corpus_stem_ah	nahriet ah	2
+hnâwdein	REVIEW	unverified	hnâwdein	2
+inkuoihaiah	SPLIT	remainder_haiah	inkuoi hai ah	2
+hlâbîkah	SPLIT	corpus_stem_ah	hlâbîk ah	2
+sukruoktuhaiin	SPLIT	remainder_haiin	sukruoktu hai in	2
+tlêtin	SPLIT	corpus_stem_in	tlêt in	2
+sakeibakneitehaiin	SPLIT	remainder_haiin	sakeibakneite hai in	2
+habakkukin	SPLIT	corpus_stem_in	habakkuk in	2
+ngerin	SPLIT	corpus_stem_in	nger in	2
+sungvûmin	REVIEW	unverified	sungvûmin	2
+thâwklekhatin	REVIEW	unverified	thâwklekhatin	2
+pâknain	SPLIT	corpus_stem_in	pâkna in	2
+lunginthakin	SPLIT	corpus_stem_in	lunginthak in	2
+insuklienin	SPLIT	corpus_stem_in	insuklien in	2
+puonhmawrin	SPLIT	corpus_stem_in	puonhmawr in	2
+ṭawptakin	SPLIT	corpus_stem_in	ṭawptak in	2
+puonhmawrah	SPLIT	corpus_stem_ah	puonhmawr ah	2
+tlâwmtakin	REVIEW	unverified	tlâwmtakin	2
+vailungdêngin	SPLIT	corpus_stem_in	vailungdêng in	2
+sukrimsikin	SPLIT	corpus_stem_in	sukrimsik in	2
+sukhamhaiin	SPLIT	remainder_haiin	sukham hai in	2
+indelnain	SPLIT	corpus_stem_in	indelna in	2
+kâpkhumin	REVIEW	unverified	kâpkhumin	2
+thuokdawngnain	SPLIT	corpus_stem_in	thuokdawngna in	2
+esromin	SPLIT	corpus_stem_in	esrom in	2
+jessaiin	SPLIT	corpus_stem_in	jessai in	2
+abiain	SPLIT	corpus_stem_in	abia in	2
+salathielin	SPLIT	corpus_stem_in	salathiel in	2
+abiudin	SPLIT	corpus_stem_in	abiud in	2
+azorin	SPLIT	corpus_stem_in	azor in	2
+sadokin	SPLIT	corpus_stem_in	sadok in	2
+akimin	SPLIT	corpus_stem_in	akim in	2
+eliudin	SPLIT	corpus_stem_in	eliud in	2
+matthanin	SPLIT	corpus_stem_in	matthan in	2
+hnawtdawkin	SPLIT	corpus_stem_in	hnawtdawk in	2
+gadarin	REVIEW	unverified	gadarin	2
+akhuoin	REVIEW	unverified	akhuoin	2
+cheiṭhatin	REVIEW	unverified	cheiṭhatin	2
+vârtakin	SPLIT	corpus_stem_in	vârtak in	2
+inhlîtirin	REVIEW	unverified	inhlîtirin	2
+châwiin	SPLIT	corpus_stem_in	châwi in	2
+fâitakin	REVIEW	unverified	fâitakin	2
+ithlêmin	SPLIT	corpus_stem_in	ithlêm in	2
+châwlnin	REVIEW	unverified	châwlnin	2
+hnuoiṭhaah	REVIEW	unverified	hnuoiṭhaah	2
+atlarin	REVIEW	unverified	atlarin	2
+inhnâwmnaah	SPLIT	corpus_stem_ah	inhnâwmna ah	2
+reiruiin	REVIEW	unverified	reiruiin	2
+lungzîngtakin	REVIEW	unverified	lungzîngtakin	2
+dehâwnin	SPLIT	corpus_stem_in	dehâwn in	2
+hmusain	SPLIT	corpus_stem_in	hmusa in	2
+lungniloin	REVIEW	unverified	lungniloin	2
+inkerkuoah	REVIEW	unverified	inkerkuoah	2
+thingtlângah	SPLIT	corpus_stem_ah	thingtlâng ah	2
+augustain	SPLIT	corpus_stem_in	augusta in	2
+thlaphângtakin	REVIEW	unverified	thlaphângtakin	2
+tuihrâtin	SPLIT	corpus_stem_in	tuihrât in	2
+tuorseltakin	REVIEW	unverified	tuorseltakin	2
+insukboin	REVIEW	unverified	insukboin	2
+semtuah	SPLIT	corpus_stem_ah	semtu ah	2
+ṭhimnaah	REVIEW	unverified	ṭhimnaah	2
+sukvaiin	SPLIT	corpus_stem_in	sukvai in	2
+nguitakin	REVIEW	unverified	nguitakin	2
+nathanaelin	SPLIT	corpus_stem_in	nathanael in	2
+ainonah	REVIEW	unverified	ainonah	2
+bûktuhaiin	SPLIT	remainder_haiin	bûktu hai in	2
+meihawlin	SPLIT	corpus_stem_in	meihawl in	2
+vawithumnaah	SPLIT	corpus_stem_ah	vawithumna ah	2
+lâwmzâwngin	SPLIT	corpus_stem_in	lâwmzâwng in	2
+inkhârin	SPLIT	corpus_stem_in	inkhâr in	2
+ithlamuongin	REVIEW	unverified	ithlamuongin	2
+inkhaithlain	SPLIT	corpus_stem_in	inkhaithla in	2
+rulrukûtin	REVIEW	unverified	rulrukûtin	2
+sukvartuah	SPLIT	corpus_stem_ah	sukvartu ah	2
+derbeah	SPLIT	corpus_stem_ah	derbe ah	2
+attaliaah	REVIEW	unverified	attaliaah	2
+samotrakiah	REVIEW	unverified	samotrakiah	2
+neapoliah	REVIEW	unverified	neapoliah	2
+philippiah	REVIEW	unverified	philippiah	2
+klaudiin	SPLIT	corpus_stem_in	klaudi in	2
+kenkrieiah	REVIEW	unverified	kenkrieiah	2
+antiokeiah	SPLIT	corpus_stem_ah	antiokei ah	2
+assoah	SPLIT	corpus_stem_ah	asso ah	2
+mitulin	REVIEW	unverified	mitulin	2
+inthienfainain	REVIEW	unverified	inthienfainain	2
+saddukaihaiin	SPLIT	remainder_haiin	saddukai hai in	2
+lusiain	SPLIT	corpus_stem_in	lusia in	2
+zaidawtheinain	REVIEW	unverified	zaidawtheinain	2
+khêkpuiin	SPLIT	corpus_stem_in	khêkpui in	2
+ihnein	REVIEW	unverified	ihnein	2
+inngirtirin	SPLIT	corpus_stem_in	inngirtir in	2
+ringhlatuin	SPLIT	corpus_stem_in	ringhlatu in	2
+appoloin	SPLIT	corpus_stem_in	appolo in	2
+lungmantamin	SPLIT	corpus_stem_in	lungmantam in	2
+vervêknaah	SPLIT	corpus_stem_ah	vervêkna ah	2
+chîktakin	REVIEW	unverified	chîktakin	2
+taluotnain	SPLIT	corpus_stem_in	taluotna in	2
+sukmuolphonain	SPLIT	corpus_stem_in	sukmuolphona in	2
+inhrilkhiin	SPLIT	corpus_stem_in	inhrilkhi in	2
+hrâtnawnaah	SPLIT	corpus_stem_ah	hrâtnawna ah	2
+lunginruoltakin	REVIEW	unverified	lunginruoltakin	2
+remtizâwngin	REVIEW	unverified	remtizâwngin	2
+malsâwmpêkin	SPLIT	corpus_stem_in	malsâwmpêk in	2
+inchotuoin	REVIEW	unverified	inchotuoin	2
+itthîktuoin	REVIEW	unverified	itthîktuoin	2
+remhretakin	REVIEW	unverified	remhretakin	2
+sukhnaiin	REVIEW	unverified	sukhnaiin	2
+inchuktuokin	REVIEW	unverified	inchuktuokin	2
+sakpêkin	SPLIT	corpus_stem_in	sakpêk in	2
+atehlêmin	REVIEW	unverified	atehlêmin	2
+chamlakin	REVIEW	unverified	chamlakin	2
+abîktakin	REVIEW	unverified	abîktakin	2
+ngainatakin	REVIEW	unverified	ngainatakin	2
+lemtuhaiin	SPLIT	remainder_haiin	lemtu hai in	2
+tîrtakin	REVIEW	unverified	tîrtakin	2
+insâwnin	SPLIT	corpus_stem_in	insâwn in	2
+loisiah	REVIEW	unverified	loisiah	2
+eunikiah	REVIEW	unverified	eunikiah	2
+jambriin	SPLIT	corpus_stem_in	jambri in	2
+thessalonikaah	SPLIT	corpus_stem_ah	thessalonika ah	2
+miletiah	SPLIT	corpus_stem_ah	mileti ah	2
+sukhmutuah	SPLIT	corpus_stem_ah	sukhmutu ah	2
+nikopoliah	REVIEW	unverified	nikopoliah	2
+thînain	SPLIT	corpus_stem_in	thîna in	2
+melkizedekin	SPLIT	corpus_stem_in	melkizedek in	2
+ṭhâlbeah	REVIEW	unverified	ṭhâlbeah	2
+ṭidêkin	SPLIT	corpus_stem_in	ṭidêk in	2
+thlasietthlâkin	REVIEW	unverified	thlasietthlâkin	2
+thâwin	SPLIT	corpus_stem_in	thâw in	2
+nauvin	REVIEW	unverified	nauvin	2
+dâwtheinain	SPLIT	corpus_stem_in	dâwtheina in	2
+tawitêin	REVIEW	unverified	tawitêin	2
+suklêtin	SPLIT	corpus_stem_in	suklêt in	2
+ditpuiin	SPLIT	corpus_stem_in	ditpui in	2
+emhmangin	REVIEW	unverified	emhmangin	2
+emtuiin	REVIEW	unverified	emtuiin	2
+lekhazieknain	SPLIT	corpus_stem_in	lekhaziekna in	2
+inpumpêkin	SPLIT	corpus_stem_in	inpumpêk in	2
+puomtakin	REVIEW	unverified	puomtakin	2
+ainuvêthaiin	SPLIT	remainder_haiin	ainuvêt hai in	2
+keituhaiin	SPLIT	remainder_haiin	keitu hai in	2
+sukfelnawin	REVIEW	unverified	sukfelnawin	2
+sukthiengnawin	SPLIT	corpus_stem_in	sukthiengnaw in	2
+hmawntheilovin	REVIEW	unverified	hmawntheilovin	2
+namênlovin	REVIEW	unverified	namênlovin	2
+lâkhmangin	SPLIT	corpus_stem_in	lâkhmang in	2
+nilovah	REVIEW	unverified	nilovah	2
+rilovin	REVIEW	unverified	rilovin	2
+tupuiah	SPLIT	corpus_stem_ah	tupui ah	2
+inngaitlâwmtakin	SPLIT	corpus_stem_in	inngaitlâwmtak in	2
+hmuntin	REVIEW	unverified	hmuntin	2
+zawnpuihaiin	SPLIT	remainder_haiin	zawnpui hai in	2
+khampatah	SPLIT	corpus_stem_ah	khampat ah	2
+inlaltirin	REVIEW	unverified	inlaltirin	2
+remtipuinain	REVIEW	unverified	remtipuinain	2
+lepsetuin	SPLIT	corpus_stem_in	lepsetu in	2
+dampuolin	REVIEW	unverified	dampuolin	2
+bawkânin	SPLIT	corpus_stem_in	bawkân in	2
+azirin	REVIEW	unverified	azirin	2
+thovin	REVIEW	unverified	thovin	2
+meuvin	REVIEW	unverified	meuvin	2
+sukcheureutuah	REVIEW	unverified	sukcheureutuah	2
+invawilovin	REVIEW	unverified	invawilovin	2
+beinaah	SPLIT	corpus_stem_ah	beina ah	2
+khiksawin	SPLIT	corpus_stem_in	khiksaw in	2
+hawihawmnaah	REVIEW	unverified	hawihawmnaah	2
+sunvarpekin	REVIEW	unverified	sunvarpekin	2
+inbekborin	SPLIT	corpus_stem_in	inbekbor in	2
+thoktuhain	REVIEW	unverified	thoktuhain	2
+inkeituhaiin	SPLIT	remainder_haiin	inkeitu hai in	2
+insiehrein	SPLIT	corpus_stem_in	insiehre in	2
+chîngtuin	SPLIT	corpus_stem_in	chîngtu in	2
+dovin	REVIEW	unverified	dovin	2
+dah	KEEP	inviolate_root	dah	2
+mithenkhatin	SPLIT	corpus_stem_in	mithenkhat in	2
+baldwin	REVIEW	unverified	baldwin	2
+tadin	SPLIT	corpus_stem_in	tad in	2
+airuochingin	SPLIT	corpus_stem_in	airuoching in	2
+bekberepah	REVIEW	unverified	bekberepah	2
+kawituah	REVIEW	unverified	kawituah	2
+morarjiin	SPLIT	corpus_stem_in	morarji in	2
+khaikangin	SPLIT	corpus_stem_in	khaikang in	2
+vantirkovin	REVIEW	unverified	vantirkovin	2
+sartuinekah	SPLIT	corpus_stem_ah	sartuinek ah	2
+inneksawrnain	REVIEW	unverified	inneksawrnain	2
+intekemin	SPLIT	corpus_stem_in	intekem in	2
+hlemhletnain	REVIEW	unverified	hlemhletnain	2
+inruknain	SPLIT	corpus_stem_in	inrukna in	2
+puktuah	SPLIT	corpus_stem_ah	puktu ah	2
+tanbawsutin	REVIEW	unverified	tanbawsutin	2
+atawpah	SPLIT	corpus_stem_ah	atawp ah	2
+frankenstein	REVIEW	unverified	frankenstein	2
+hussain	REVIEW	unverified	hussain	2
+pawlitisianhaiin	SPLIT	remainder_haiin	pawlitisian hai in	2
+ningîpin	SPLIT	corpus_stem_in	ningîp in	2
+tuorpekin	REVIEW	unverified	tuorpekin	2
+hrangthatlurin	SPLIT	corpus_stem_in	hrangthatlur in	2
+zankhawvarin	SPLIT	corpus_stem_in	zankhawvar in	2
+remain	SPLIT	corpus_stem_in	rema in	2
+velnain	SPLIT	corpus_stem_in	velna in	2
+hnenah	REVIEW	unverified	hnenah	2
+ramhminglawmin	SPLIT	corpus_stem_in	ramhminglawm in	2
+khawthangnain	REVIEW	unverified	khawthangnain	2
+singlungah	REVIEW	unverified	singlungah	2
+sangsariin	SPLIT	corpus_stem_in	sangsari in	2
+ruottuin	SPLIT	corpus_stem_in	ruottu in	2
+chawtuhaiin	SPLIT	remainder_haiin	chawtu hai in	2
+nsanin	SPLIT	corpus_stem_in	nsan in	2
+sawmlinaah	SPLIT	corpus_stem_ah	sawmlina ah	2
+christain	REVIEW	unverified	christain	2
+mongpingah	REVIEW	unverified	mongpingah	2
+hrutin	SPLIT	corpus_stem_in	hrut in	2
+thirhruiin	SPLIT	corpus_stem_in	thirhrui in	2
+sawngtuhaiin	SPLIT	remainder_haiin	sawngtu hai in	2
+protein	REVIEW	unverified	protein	2
+ngieiin	SPLIT	corpus_stem_in	ngiei in	2
+raltlanin	SPLIT	corpus_stem_in	raltlan in	2
+pumbukah	SPLIT	corpus_stem_ah	pumbuk ah	2
+lamthuomah	REVIEW	unverified	lamthuomah	2
+hrilchungin	SPLIT	corpus_stem_in	hrilchung in	2
+theulawzianhaiin	SPLIT	remainder_haiin	theulawzian hai in	2
+rauthiemhaiin	SPLIT	remainder_haiin	rauthiem hai in	2
+thontuin	SPLIT	corpus_stem_in	thontu in	2
+saikotah	SPLIT	corpus_stem_ah	saikot ah	2
+thluomin	SPLIT	corpus_stem_in	thluom in	2
+bawituin	SPLIT	corpus_stem_in	bawitu in	2
+dawsangah	REVIEW	unverified	dawsangah	2
+inzimarin	SPLIT	corpus_stem_in	inzimar in	2
+vukin	REVIEW	unverified	vukin	2
+sukbielin	REVIEW	unverified	sukbielin	2
+chieiin	SPLIT	corpus_stem_in	chiei in	2
+thlangpuiin	REVIEW	unverified	thlangpuiin	2
+loneimihaiin	SPLIT	remainder_haiin	loneimi hai in	2
+ngamlalchawlin	SPLIT	corpus_stem_in	ngamlalchawl in	2
+insalin	SPLIT	corpus_stem_in	insal in	2
+kalchawinaah	SPLIT	corpus_stem_ah	kalchawina ah	2
+tsunamiin	SPLIT	corpus_stem_in	tsunami in	2
+tlâmpuiin	REVIEW	unverified	tlâmpuiin	2
+kongkhatah	SPLIT	corpus_stem_ah	kongkhat ah	2
+tuoichongin	REVIEW	unverified	tuoichongin	2
+siyin	REVIEW	unverified	siyin	2
+ollin	REVIEW	unverified	ollin	2
+remtuhaiin	SPLIT	remainder_haiin	remtu hai in	2
+bupin	SPLIT	corpus_stem_in	bup in	2
+alladin	REVIEW	unverified	alladin	2
+bazarpuiah	SPLIT	corpus_stem_ah	bazarpui ah	2
+insikin	SPLIT	corpus_stem_in	insik in	2
+inchibaiin	SPLIT	corpus_stem_in	inchibai in	2
+pulithaiin	SPLIT	remainder_haiin	pulit hai in	2
+sabah	REVIEW	unverified	sabah	2
+diknaah	SPLIT	corpus_stem_ah	dikna ah	2
+zanriekin	REVIEW	unverified	zanriekin	2
+zongtuhaiin	SPLIT	remainder_haiin	zongtu hai in	2
+incheitirin	SPLIT	corpus_stem_in	incheitir in	2
+riaiah	SPLIT	corpus_stem_ah	riai ah	2
+damhauvin	REVIEW	unverified	damhauvin	2
+pawltin	REVIEW	unverified	pawltin	2
+inpawlpuiin	SPLIT	corpus_stem_in	inpawlpui in	2
+baihâtin	REVIEW	unverified	baihâtin	2
+dokrawchekkorin	SPLIT	corpus_stem_in	dokrawchekkor in	2
+loiin	SPLIT	corpus_stem_in	loi in	2
+uminhnelin	REVIEW	unverified	uminhnelin	2
+zovah	REVIEW	unverified	zovah	2
+thamtuin	SPLIT	corpus_stem_in	thamtu in	2
+zortuin	SPLIT	corpus_stem_in	zortu in	2
+chawtuin	SPLIT	corpus_stem_in	chawtu in	2
+chanchinin	SPLIT	corpus_stem_in	chanchin in	2
+khuorkhurûmah	REVIEW	unverified	khuorkhurûmah	2
+zinkawngah	REVIEW	unverified	zinkawngah	2
+thlapektuhaiin	SPLIT	remainder_haiin	thlapektu hai in	2
+chulein	REVIEW	unverified	chulein	2
+intinin	SPLIT	corpus_stem_in	intin in	2
+potifarin	SPLIT	corpus_stem_in	potifar in	2
+aruongin	SPLIT	corpus_stem_in	aruong in	2
+tlansanin	SPLIT	corpus_stem_in	tlansan in	2
+hnutchhiah	REVIEW	unverified	hnutchhiah	2
+ditsaktuhaiin	SPLIT	remainder_haiin	ditsaktu hai in	2
+tlangzartuin	SPLIT	corpus_stem_in	tlangzartu in	2
+dontuin	SPLIT	corpus_stem_in	dontu in	2
+mitkhapkarloin	REVIEW	unverified	mitkhapkarloin	2
+chalaiin	SPLIT	corpus_stem_in	chalai in	2
+vah	REVIEW	unverified	vah	2
+kampênin	REVIEW	unverified	kampênin	2
+thlirtirin	SPLIT	corpus_stem_in	thlirtir in	2
+thanglovin	REVIEW	unverified	thanglovin	2
+fangkuolin	REVIEW	unverified	fangkuolin	2
+zongtuin	SPLIT	corpus_stem_in	zongtu in	2
+sehuongah	REVIEW	unverified	sehuongah	2
+supheikakin	REVIEW	unverified	supheikakin	2
+chirdûpah	REVIEW	unverified	chirdûpah	2
+tlaksietin	SPLIT	corpus_stem_in	tlaksiet in	2
+hmâtin	SPLIT	corpus_stem_in	hmât in	2
+hnotdartuah	REVIEW	unverified	hnotdartuah	2
+ṭhotin	SPLIT	corpus_stem_in	ṭhot in	2
+sapramah	SPLIT	corpus_stem_ah	sapram ah	2
+zinpuiin	SPLIT	corpus_stem_in	zinpui in	2
+rebekin	SPLIT	corpus_stem_in	rebek in	2
+thilthuah	REVIEW	unverified	thilthuah	2
+sirnaah	SPLIT	corpus_stem_ah	sirna ah	2
+ruoinain	SPLIT	corpus_stem_in	ruoina in	2
+sakordaiah	SPLIT	corpus_stem_ah	sakordai ah	2
+laldin	REVIEW	unverified	laldin	2
+thawklekhatah	REVIEW	unverified	thawklekhatah	2
+inchemharnain	SPLIT	corpus_stem_in	inchemharna in	2
+pathiein	REVIEW	unverified	pathiein	2
+sompeiin	REVIEW	unverified	sompeiin	2
+puoksuokin	SPLIT	corpus_stem_in	puoksuok in	2
+lalsanglurin	SPLIT	corpus_stem_in	lalsanglur in	2
+niawmtakin	REVIEW	unverified	niawmtakin	2
+tawizawngin	REVIEW	unverified	tawizawngin	2
+inchinin	SPLIT	corpus_stem_in	inchin in	2
+misawnah	SPLIT	corpus_stem_ah	misawn ah	2
+twain	REVIEW	unverified	twain	2
+tlângpuiin	SPLIT	corpus_stem_in	tlângpui in	2
+anghuin	SPLIT	corpus_stem_in	anghu in	2
+changtlangin	REVIEW	unverified	changtlangin	2
+tinhaiin	SPLIT	remainder_haiin	tin hai in	2
+thlatin	SPLIT	corpus_stem_in	thlat in	2
+tamlemin	SPLIT	corpus_stem_in	tamlem in	2
+mipakhatin	REVIEW	unverified	mipakhatin	2
+lalhungchhungin	REVIEW	unverified	lalhungchhungin	2
+thokrimin	SPLIT	corpus_stem_in	thokrim in	2
+lpatokin	REVIEW	unverified	lpatokin	2
+chaltlangah	SPLIT	corpus_stem_ah	chaltlang ah	2
+hriltlangnaah	SPLIT	corpus_stem_ah	hriltlangna ah	2
+haulientlingin	REVIEW	unverified	haulientlingin	2
+bawngpuiin	SPLIT	corpus_stem_in	bawngpui in	2
+hlukin	SPLIT	corpus_stem_in	hluk in	2
+sannaah	SPLIT	corpus_stem_ah	sanna ah	2
+ṭhawngaleivirin	SPLIT	corpus_stem_in	ṭhawngaleivir in	2
+khâttawkin	REVIEW	unverified	khâttawkin	2
+suksangin	SPLIT	corpus_stem_in	suksang in	2
+vuanin	REVIEW	unverified	vuanin	2
+ṭhanghluihaiin	SPLIT	remainder_haiin	ṭhanghlui hai in	2
+hratnawnaah	SPLIT	corpus_stem_ah	hratnawna ah	2
+durbin	REVIEW	unverified	durbin	2
+chierdapah	REVIEW	unverified	chierdapah	2
+chambanghaiin	SPLIT	remainder_haiin	chambang hai in	2
+zengpuiah	SPLIT	corpus_stem_ah	zengpui ah	2
+insurtirin	REVIEW	unverified	insurtirin	2
+ṭhuoiituhaiin	SPLIT	remainder_haiin	ṭhuoiitu hai in	2
+insuikirnain	REVIEW	unverified	insuikirnain	2
+khawtinkungin	SPLIT	corpus_stem_in	khawtinkung in	2
+changkangnaah	SPLIT	corpus_stem_ah	changkangna ah	2
+kartin	REVIEW	unverified	kartin	2
+kerolnain	REVIEW	unverified	kerolnain	2
+inhrulin	REVIEW	unverified	inhrulin	2
+inkhatin	SPLIT	corpus_stem_in	inkhat in	2
+kawlramah	SPLIT	corpus_stem_ah	kawlram ah	2
+lalhminglienin	SPLIT	corpus_stem_in	lalhminglien in	2
+insuitirin	REVIEW	unverified	insuitirin	2
+thuthlunghluiah	SPLIT	corpus_stem_ah	thuthlunghlui ah	2
+chuongangbawkin	REVIEW	unverified	chuongangbawkin	2
+inzatakin	REVIEW	unverified	inzatakin	2
+dustbin	REVIEW	unverified	dustbin	2
+silovin	REVIEW	unverified	silovin	2
+thuongthumin	REVIEW	unverified	thuongthumin	2
+pasalṭahaiin	SPLIT	remainder_haiin	pasalṭa hai in	2
+laktawiin	SPLIT	corpus_stem_in	laktawi in	2
+thawsanin	SPLIT	corpus_stem_in	thawsan in	2
+pathieninin	SPLIT	corpus_stem_in	pathienin in	2
+tesepin	SPLIT	corpus_stem_in	tesep in	2
+hangkaiin	SPLIT	corpus_stem_in	hangkai in	2
+dawnpuiin	SPLIT	corpus_stem_in	dawnpui in	2
+inṭengin	SPLIT	corpus_stem_in	inṭeng in	2
+dawpnaah	REVIEW	unverified	dawpnaah	2
+balṭin	REVIEW	unverified	balṭin	2
+zinin	SPLIT	corpus_stem_in	zin in	2
+chawiloin	REVIEW	unverified	chawiloin	2
+hrengah	REVIEW	unverified	hrengah	2
+namain	SPLIT	corpus_stem_in	nama in	2
+changhin	REVIEW	unverified	changhin	2
+ngilin	SPLIT	corpus_stem_in	ngil in	2
+sumfaiin	REVIEW	unverified	sumfaiin	2
+lalthungphaah	SPLIT	corpus_stem_ah	lalthungpha ah	2
+nthawkin	SPLIT	corpus_stem_in	nthawk in	2
+tangnemah	REVIEW	unverified	tangnemah	2
+tanglaiah	REVIEW	unverified	tanglaiah	2
+nthokin	SPLIT	corpus_stem_in	nthok in	2
+hûiin	SPLIT	corpus_stem_in	hûi in	2
+chelpuiin	REVIEW	unverified	chelpuiin	2
+delilah	REVIEW	unverified	delilah	2
+ziezangin	SPLIT	corpus_stem_in	ziezang in	2
+beisein	REVIEW	unverified	beisein	2
+sawkzângin	REVIEW	unverified	sawkzângin	2
+vângkhuoah	REVIEW	unverified	vângkhuoah	2
+duongtuhaiin	SPLIT	remainder_haiin	duongtu hai in	2
+zaiawnah	SPLIT	corpus_stem_ah	zaiawn ah	2
+vuahin	SPLIT	corpus_stem_in	vuah in	2
+khawngaihin	REVIEW	unverified	khawngaihin	2
+thlieknaah	SPLIT	corpus_stem_ah	thliekna ah	2
+bathlarah	SPLIT	corpus_stem_ah	bathlar ah	2
+ngaithlatuhaiin	SPLIT	remainder_haiin	ngaithlatu hai in	2
+thlukseiin	SPLIT	corpus_stem_in	thluksei in	2
+khawzin	REVIEW	unverified	khawzin	2
+thienglimtakah	REVIEW	unverified	thienglimtakah	2
+zairemin	SPLIT	corpus_stem_in	zairem in	2
+belhemtuin	SPLIT	corpus_stem_in	belhemtu in	2
+panserin	SPLIT	corpus_stem_in	panser in	2
+lalbiektluongin	REVIEW	unverified	lalbiektluongin	2
+zeldinin	SPLIT	corpus_stem_in	zeldin in	2
+chinglettuhaiin	SPLIT	remainder_haiin	chinglettu hai in	2
+sukhnoktuah	SPLIT	corpus_stem_ah	sukhnoktu ah	2
+hmuhoiah	REVIEW	unverified	hmuhoiah	2
+wirthlin	REVIEW	unverified	wirthlin	2
+indotin	SPLIT	corpus_stem_in	indot in	2
+dorzonin	SPLIT	corpus_stem_in	dorzon in	2
+umrah	REVIEW	unverified	umrah	2
+thizamah	SPLIT	corpus_stem_ah	thizam ah	2
+rosiemin	SPLIT	corpus_stem_in	rosiem in	2
+mongphaah	SPLIT	corpus_stem_ah	mongpha ah	2
+hadamthlakin	SPLIT	corpus_stem_in	hadamthlak in	2
+aṭangin	SPLIT	corpus_stem_in	aṭang in	2
+chongkhupin	SPLIT	corpus_stem_in	chongkhup in	2
+ngaihtuah	REVIEW	unverified	ngaihtuah	2
+jêldin	REVIEW	unverified	jêldin	2
+jeldin	REVIEW	unverified	jeldin	2
+dumpawlin	SPLIT	corpus_stem_in	dumpawl in	2
+ringnawhaiin	SPLIT	remainder_haiin	ringnaw hai in	2
+engtin	REVIEW	unverified	engtin	2
+raoin	SPLIT	corpus_stem_in	rao in	1
+cheuvin	REVIEW	unverified	cheuvin	1
+hmawntheiloin	SPLIT	corpus_stem_in	hmawntheilo in	1
+suknah	SPLIT	corpus_stem_ah	sukn ah	1
+ṭhûlah	SPLIT	corpus_stem_ah	ṭhûl ah	1
+rêlnaah	SPLIT	corpus_stem_ah	rêlna ah	1
+châwltirin	SPLIT	corpus_stem_in	châwltir in	1
+awitakin	REVIEW	unverified	awitakin	1
+ngirinzangin	REVIEW	unverified	ngirinzangin	1
+rothah	SPLIT	corpus_stem_ah	roth ah	1
+lielah	REVIEW	unverified	lielah	1
+râmin	SPLIT	corpus_stem_in	râm in	1
+muktakin	REVIEW	unverified	muktakin	1
+enanah	SPLIT	corpus_stem_ah	enan ah	1
+balatuin	REVIEW	unverified	balatuin	1
+ringtakin	SPLIT	corpus_stem_in	ringtak in	1
+sinthawhah	REVIEW	unverified	sinthawhah	1
+hnawtphâkin	SPLIT	corpus_stem_in	hnawtphâk in	1
+bandain	SPLIT	corpus_stem_in	banda in	1
+jesurunah	SPLIT	corpus_stem_ah	jesurun ah	1
+kazinah	REVIEW	unverified	kazinah	1
+iphtah	REVIEW	unverified	iphtah	1
+kemosin	SPLIT	corpus_stem_in	kemos in	1
+singsah	SPLIT	corpus_stem_ah	sings ah	1
+belsah	REVIEW	unverified	belsah	1
+luomin	SPLIT	corpus_stem_in	luom in	1
+hmawtakin	REVIEW	unverified	hmawtakin	1
+innâmtakin	SPLIT	corpus_stem_in	innâmtak in	1
+hlumpêkin	REVIEW	unverified	hlumpêkin	1
+umtakin	SPLIT	corpus_stem_in	umtak in	1
+lîrah	REVIEW	unverified	lîrah	1
+nakeribin	SPLIT	corpus_stem_in	nakerib in	1
+jehudijah	REVIEW	unverified	jehudijah	1
+monin	SPLIT	corpus_stem_in	mon in	1
+sêngloin	SPLIT	corpus_stem_in	sênglo in	1
+têhaiin	SPLIT	remainder_haiin	tê hai in	1
+sukkhawloin	SPLIT	corpus_stem_in	sukkhawlo in	1
+inhlipnain	REVIEW	unverified	inhlipnain	1
+inphûloin	REVIEW	unverified	inphûloin	1
+puitakin	SPLIT	corpus_stem_in	puitak in	1
+lailîrhaiin	SPLIT	remainder_haiin	lailîr hai in	1
+nâwtnahaiin	SPLIT	remainder_haiin	nâwtna hai in	1
+nêmnain	REVIEW	unverified	nêmnain	1
+insenin	SPLIT	corpus_stem_in	insen in	1
+damtuah	SPLIT	corpus_stem_ah	damtu ah	1
+umnghah	REVIEW	unverified	umnghah	1
+muongumtakin	SPLIT	corpus_stem_in	muongumtak in	1
+dawngumah	REVIEW	unverified	dawngumah	1
+inkhâwnah	REVIEW	unverified	inkhâwnah	1
+hlotakin	REVIEW	unverified	hlotakin	1
+sukfahrah	REVIEW	unverified	sukfahrah	1
+chizawrah	SPLIT	corpus_stem_ah	chizawr ah	1
+luinain	SPLIT	corpus_stem_in	luina in	1
+kadnezzarin	SPLIT	corpus_stem_in	kadnezzar in	1
+insentakin	REVIEW	unverified	insentakin	1
+peinawiin	SPLIT	corpus_stem_in	peinawi in	1
+sennain	SPLIT	corpus_stem_in	senna in	1
+zah	REVIEW	unverified	zah	1
+tâwkloin	SPLIT	corpus_stem_in	tâwklo in	1
+dâwngnaah	SPLIT	corpus_stem_ah	dâwngna ah	1
+ringhlah	SPLIT	corpus_stem_ah	ringhl ah	1
+inphuongtakin	REVIEW	unverified	inphuongtakin	1
+hlitirin	REVIEW	unverified	hlitirin	1
+tuonin	SPLIT	corpus_stem_in	tuon in	1
+rieknghah	REVIEW	unverified	rieknghah	1
+thaiin	SPLIT	corpus_stem_in	thai in	1
+lungâwpin	REVIEW	unverified	lungâwpin	1
+pangtêin	REVIEW	unverified	pangtêin	1
+naumah	REVIEW	unverified	naumah	1
+thiemloin	SPLIT	corpus_stem_in	thiemlo in	1
+ṭhenaah	SPLIT	corpus_stem_ah	ṭhena ah	1
+hnemngaitakin	REVIEW	unverified	hnemngaitakin	1
+kârloah	REVIEW	unverified	kârloah	1
+doniaah	REVIEW	unverified	doniaah	1
+maloin	REVIEW	unverified	maloin	1
+khathuin	REVIEW	unverified	khathuin	1
+hnungtakah	SPLIT	corpus_stem_ah	hnungtak ah	1
+tisin	SPLIT	corpus_stem_in	tis in	1
+sukrin	SPLIT	corpus_stem_in	sukr in	1
+ṭaiin	SPLIT	corpus_stem_in	ṭai in	1
+dâwtheiin	SPLIT	corpus_stem_in	dâwthei in	1
+inzatlâkin	REVIEW	unverified	inzatlâkin	1
+setuah	SPLIT	corpus_stem_ah	setu ah	1
+drakonin	SPLIT	corpus_stem_in	drakon in	1
+beersebaah	SPLIT	corpus_stem_ah	beerseba ah	1
+remtakin	REVIEW	unverified	remtakin	1
+thlamuongthlâktakin	REVIEW	unverified	thlamuongthlâktakin	1
+inchâwltirin	SPLIT	corpus_stem_in	inchâwltir in	1
+thuawitakin	REVIEW	unverified	thuawitakin	1
+kutthiemtakin	SPLIT	corpus_stem_in	kutthiemtak in	1
+riminhniktakin	SPLIT	corpus_stem_in	riminhniktak in	1
+ṭhanawtakin	SPLIT	corpus_stem_in	ṭhanawtak in	1
+zawmkhatin	SPLIT	corpus_stem_in	zawmkhat in	1
+innghattuokin	SPLIT	corpus_stem_in	innghattuok in	1
+inphântakhaiin	SPLIT	remainder_haiin	inphântak hai in	1
+ngîrinchangin	REVIEW	unverified	ngîrinchangin	1
+pawmtuin	SPLIT	corpus_stem_in	pawmtu in	1
+hezerothah	REVIEW	unverified	hezerothah	1
+thienglovin	REVIEW	unverified	thienglovin	1
+mattanaah	REVIEW	unverified	mattanaah	1
+nahalielah	REVIEW	unverified	nahalielah	1
+hazarenanah	REVIEW	unverified	hazarenanah	1
+ṭhuoikawiin	REVIEW	unverified	ṭhuoikawiin	1
+gudgodaah	SPLIT	corpus_stem_ah	gudgoda ah	1
+inrolotakin	REVIEW	unverified	inrolotakin	1
+nazawngah	SPLIT	corpus_stem_ah	nazawng ah	1
+lulultakin	REVIEW	unverified	lulultakin	1
+sûmngîrin	SPLIT	corpus_stem_in	sûmngîr in	1
+jeshurunah	SPLIT	corpus_stem_ah	jeshurun ah	1
+vârṭienin	SPLIT	corpus_stem_in	vârṭien in	1
+ensemesah	REVIEW	unverified	ensemesah	1
+ethkazinah	REVIEW	unverified	ethkazinah	1
+hukkokah	SPLIT	corpus_stem_ah	hukkok ah	1
+betshittah	REVIEW	unverified	betshittah	1
+lungsietthlâktakin	REVIEW	unverified	lungsietthlâktakin	1
+tluongtlungtakin	REVIEW	unverified	tluongtlungtakin	1
+tuokzâwngin	REVIEW	unverified	tuokzâwngin	1
+hnawchêpin	SPLIT	corpus_stem_in	hnawchêp in	1
+mizpeah	SPLIT	corpus_stem_ah	mizpe ah	1
+koumah	REVIEW	unverified	koumah	1
+hluomin	SPLIT	corpus_stem_in	hluom in	1
+sînnain	SPLIT	corpus_stem_in	sînna in	1
+amâin	REVIEW	unverified	amâin	1
+abelmeholah	REVIEW	unverified	abelmeholah	1
+nâmtakin	REVIEW	unverified	nâmtakin	1
+sukhlumpêkin	SPLIT	corpus_stem_in	sukhlumpêk in	1
+ngaiṭhatakin	REVIEW	unverified	ngaiṭhatakin	1
+keithiemin	SPLIT	corpus_stem_in	keithiem in	1
+bâwmrângah	SPLIT	corpus_stem_ah	bâwmrâng ah	1
+dangtuah	SPLIT	corpus_stem_ah	dangtu ah	1
+siemṭhatnain	SPLIT	corpus_stem_in	siemṭhatna in	1
+hrîin	SPLIT	corpus_stem_in	hrî in	1
+ṭantîrin	REVIEW	unverified	ṭantîrin	1
+hajehudijah	REVIEW	unverified	hajehudijah	1
+susimah	SPLIT	corpus_stem_ah	susim ah	1
+bezalelin	SPLIT	corpus_stem_in	bezalel in	1
+thûmtakin	REVIEW	unverified	thûmtakin	1
+thîrkawlhaiin	SPLIT	remainder_haiin	thîrkawl hai in	1
+ngênthlûkin	REVIEW	unverified	ngênthlûkin	1
+vânvawrin	SPLIT	corpus_stem_in	vânvawr in	1
+matheilvoin	REVIEW	unverified	matheilvoin	1
+sênglovin	REVIEW	unverified	sênglovin	1
+demkailovin	REVIEW	unverified	demkailovin	1
+thilsuksuolah	REVIEW	unverified	thilsuksuolah	1
+thinkhumin	SPLIT	corpus_stem_in	thinkhum in	1
+vatêhaiin	SPLIT	remainder_haiin	vatê hai in	1
+sukkhawlovin	REVIEW	unverified	sukkhawlovin	1
+khêlinhlipnain	SPLIT	corpus_stem_in	khêlinhlipna in	1
+uongthuongtakin	REVIEW	unverified	uongthuongtakin	1
+sukbohmangnain	SPLIT	corpus_stem_in	sukbohmangna in	1
+thingnâwtnahaiin	SPLIT	remainder_haiin	thingnâwtna hai in	1
+titakmeuin	REVIEW	unverified	titakmeuin	1
+lungsenpumin	REVIEW	unverified	lungsenpumin	1
+sukbeidawngin	SPLIT	corpus_stem_in	sukbeidawng in	1
+inîtthîknain	REVIEW	unverified	inîtthîknain	1
+thuokdawngumah	REVIEW	unverified	thuokdawngumah	1
+chârchilnaah	REVIEW	unverified	chârchilnaah	1
+inherhmangtirin	REVIEW	unverified	inherhmangtirin	1
+matheiloâin	REVIEW	unverified	matheiloâin	1
+hurtakin	SPLIT	corpus_stem_in	hurtak in	1
+inkâktirin	REVIEW	unverified	inkâktirin	1
+ṭawngtheilovin	REVIEW	unverified	ṭawngtheilovin	1
+inrawknain	REVIEW	unverified	inrawknain	1
+tâwklovin	REVIEW	unverified	tâwklovin	1
+phâwidawkin	REVIEW	unverified	phâwidawkin	1
+uolautakin	REVIEW	unverified	uolautakin	1
+zâizirin	REVIEW	unverified	zâizirin	1
+ṭhangsin	REVIEW	unverified	ṭhangsin	1
+innghâiin	REVIEW	unverified	innghâiin	1
+awiumtakin	REVIEW	unverified	awiumtakin	1
+infuipawrin	SPLIT	corpus_stem_in	infuipawr in	1
+thlêmthlûin	REVIEW	unverified	thlêmthlûin	1
+nastakin	REVIEW	unverified	nastakin	1
+malovin	REVIEW	unverified	malovin	1
+mawilotakin	REVIEW	unverified	mawilotakin	1
+lekhathuin	SPLIT	corpus_stem_in	lekhathu in	1
+hnengdein	REVIEW	unverified	hnengdein	1
+sukhausakin	SPLIT	corpus_stem_in	sukhausak in	1
+sêlruollovin	REVIEW	unverified	sêlruollovin	1
+bâwsetuah	SPLIT	corpus_stem_ah	bâwsetu ah	1
+thuhnuoirawlnain	SPLIT	corpus_stem_in	thuhnuoirawlna in	1
+thlakdanglamin	REVIEW	unverified	thlakdanglamin	1
+hreloin	SPLIT	corpus_stem_in	hrelo in	1
+fepeiin	SPLIT	corpus_stem_in	fepei in	1
+chawpin	SPLIT	corpus_stem_in	chawp in	1
+hmangzoin	SPLIT	corpus_stem_in	hmangzo in	1
+inphurtiriin	REVIEW	unverified	inphurtiriin	1
+maksain	REVIEW	unverified	maksain	1
+inngenin	SPLIT	corpus_stem_in	inngen in	1
+eihrietin	REVIEW	unverified	eihrietin	1
+changchawin	REVIEW	unverified	changchawin	1
+khawlaidungah	SPLIT	corpus_stem_ah	khawlaidung ah	1
+ṭhangsanin	SPLIT	corpus_stem_in	ṭhangsan in	1
+leihin	REVIEW	unverified	leihin	1
+saptawngin	SPLIT	corpus_stem_in	saptawng in	1
+delchin	REVIEW	unverified	delchin	1
+khawmiin	REVIEW	unverified	khawmiin	1
+michin	REVIEW	unverified	michin	1
+thangpuinain	SPLIT	corpus_stem_in	thangpuina in	1
+raklovin	REVIEW	unverified	raklovin	1
+deurthawin	REVIEW	unverified	deurthawin	1
+haihin	REVIEW	unverified	haihin	1
+nitakin	REVIEW	unverified	nitakin	1
+eirin	REVIEW	unverified	eirin	1
+malsawmtlakin	REVIEW	unverified	malsawmtlakin	1
+intawmin	SPLIT	corpus_stem_in	intawm in	1
+sukthlakin	SPLIT	corpus_stem_in	sukthlak in	1
+inenkawlin	SPLIT	corpus_stem_in	inenkawl in	1
+hrulah	REVIEW	unverified	hrulah	1
+pasalthahaiin	SPLIT	remainder_haiin	pasaltha hai in	1
+fekhawmin	SPLIT	corpus_stem_in	fekhawm in	1
+saktuhaiin	SPLIT	remainder_haiin	saktu hai in	1
+chunglamah	REVIEW	unverified	chunglamah	1
+duhin	SPLIT	corpus_stem_in	duh in	1
+phhuah	REVIEW	unverified	phhuah	1
+mahin	SPLIT	corpus_stem_in	mah in	1
+neksawrnain	SPLIT	corpus_stem_in	neksawrna in	1
+bensonin	REVIEW	unverified	bensonin	1
+intekhin	REVIEW	unverified	intekhin	1
+thupnain	SPLIT	corpus_stem_in	thupna in	1
+dakbawmah	SPLIT	corpus_stem_ah	dakbawm ah	1
+chuzovah	REVIEW	unverified	chuzovah	1
+theidingin	REVIEW	unverified	theidingin	1
+hranghrangin	SPLIT	corpus_stem_in	hranghrang in	1
+tiemtah	REVIEW	unverified	tiemtah	1
+anmin	SPLIT	corpus_stem_in	anm in	1
+kalangin	SPLIT	corpus_stem_in	kalang in	1
+thuruolin	SPLIT	corpus_stem_in	thuruol in	1
+nsangin	SPLIT	corpus_stem_in	nsang in	1
+sungkhatin	REVIEW	unverified	sungkhatin	1
+chulleiin	REVIEW	unverified	chulleiin	1
+hrillin	REVIEW	unverified	hrillin	1
+inthein	SPLIT	corpus_stem_in	inthe in	1
+violin	REVIEW	unverified	violin	1
+inthomin	REVIEW	unverified	inthomin	1
+inthinpumin	REVIEW	unverified	inthinpumin	1
+hriettheiin	SPLIT	corpus_stem_in	hrietthei in	1
+dawngnain	SPLIT	corpus_stem_in	dawngna in	1
+pathein	REVIEW	unverified	pathein	1
+markpenin	REVIEW	unverified	markpenin	1
+tawngtaipuiin	SPLIT	corpus_stem_in	tawngtaipui in	1
+ngelnghethaiin	SPLIT	remainder_haiin	ngelnghet hai in	1
+henemaah	SPLIT	corpus_stem_ah	henema ah	1
+hnangtah	REVIEW	unverified	hnangtah	1
+sukkuoin	REVIEW	unverified	sukkuoin	1
+ramdaiah	REVIEW	unverified	ramdaiah	1
+anhawiin	SPLIT	corpus_stem_in	anhawi in	1
+lengpuinaah	SPLIT	corpus_stem_ah	lengpuina ah	1
+mangkhenin	REVIEW	unverified	mangkhenin	1
+siekzalamin	SPLIT	corpus_stem_in	siekzalam in	1
+lamtakin	REVIEW	unverified	lamtakin	1
+aumin	SPLIT	corpus_stem_in	aum in	1
+anthangin	SPLIT	corpus_stem_in	anthang in	1
+kumkhatah	SPLIT	corpus_stem_ah	kumkhat ah	1
+mithenkhathaiin	SPLIT	remainder_haiin	mithenkhat hai in	1
+nawleiin	REVIEW	unverified	nawleiin	1
+thatakain	SPLIT	corpus_stem_in	thataka in	1
+nitinin	SPLIT	corpus_stem_in	nitin in	1
+inawngah	REVIEW	unverified	inawngah	1
+lailawkah	SPLIT	corpus_stem_ah	lailawk ah	1
+indawntirin	SPLIT	corpus_stem_in	indawntir in	1
+tekhinthuin	SPLIT	corpus_stem_in	tekhinthu in	1
+inrêngin	REVIEW	unverified	inrêngin	1
+zamchunghnungin	REVIEW	unverified	zamchunghnungin	1
+thanglunglengin	SPLIT	corpus_stem_in	thanglungleng in	1
+membarhaiin	SPLIT	remainder_haiin	membar hai in	1
+nuomlovin	REVIEW	unverified	nuomlovin	1
+kherlovin	REVIEW	unverified	kherlovin	1
+khawplovin	REVIEW	unverified	khawplovin	1
+dawmsangin	SPLIT	corpus_stem_in	dawmsang in	1
+ahmasatakin	REVIEW	unverified	ahmasatakin	1
+thurawtah	SPLIT	corpus_stem_ah	thurawt ah	1
+chanchinṭhain	SPLIT	corpus_stem_in	chanchinṭha in	1
+insuikirin	SPLIT	corpus_stem_in	insuikir in	1
+halleluijah	REVIEW	unverified	halleluijah	1
+thanawin	SPLIT	corpus_stem_in	thanaw in	1
+chovin	REVIEW	unverified	chovin	1
+zinghin	REVIEW	unverified	zinghin	1
+henkhatin	SPLIT	corpus_stem_in	henkhat in	1
+changtuipuiin	SPLIT	corpus_stem_in	changtuipui in	1
+chawnhmangin	SPLIT	corpus_stem_in	chawnhmang in	1
+hrelovin	REVIEW	unverified	hrelovin	1
+sawrtuiah	SPLIT	corpus_stem_ah	sawrtui ah	1
+tappumin	REVIEW	unverified	tappumin	1
+kawtsuoah	SPLIT	corpus_stem_ah	kawtsuo ah	1
+lingletin	SPLIT	corpus_stem_in	linglet in	1
+lawnnaah	SPLIT	corpus_stem_ah	lawnna ah	1
+chungangin	REVIEW	unverified	chungangin	1
+pawngpuiin	REVIEW	unverified	pawngpuiin	1
+inlawnnaah	SPLIT	corpus_stem_ah	inlawnna ah	1
+hmanglovin	REVIEW	unverified	hmanglovin	1
+ramtinah	SPLIT	corpus_stem_ah	ramtin ah	1
+angpeiin	REVIEW	unverified	angpeiin	1
+devin	SPLIT	corpus_stem_in	dev in	1
+belzabubin	REVIEW	unverified	belzabubin	1
+thailangin	SPLIT	corpus_stem_in	thailang in	1
+tawngbauvin	REVIEW	unverified	tawngbauvin	1
+thanngurin	REVIEW	unverified	thanngurin	1
+chuknaah	SPLIT	corpus_stem_ah	chukna ah	1
+kutlawngin	REVIEW	unverified	kutlawngin	1
+saipiin	REVIEW	unverified	saipiin	1
+inṭantirin	REVIEW	unverified	inṭantirin	1
+skin	SPLIT	corpus_stem_in	sk in	1
+huonpuhaiin	SPLIT	remainder_haiin	huonpu hai in	1
+sukṭhetuin	SPLIT	corpus_stem_in	sukṭhetu in	1
+duâmnain	SPLIT	corpus_stem_in	duâmna in	1
+ngaitirin	SPLIT	corpus_stem_in	ngaitir in	1
+huoihawtin	SPLIT	corpus_stem_in	huoihawt in	1
+afalin	REVIEW	unverified	afalin	1
+sengtuhaiin	SPLIT	remainder_haiin	sengtu hai in	1
+hrieuin	SPLIT	corpus_stem_in	hrieu in	1
+buonzawlah	SPLIT	corpus_stem_ah	buonzawl ah	1
+chawrsawngah	REVIEW	unverified	chawrsawngah	1
+keivawmmuolah	REVIEW	unverified	keivawmmuolah	1
+chângkawlin	SPLIT	corpus_stem_in	chângkawl in	1
+hlemhlenain	REVIEW	unverified	hlemhlenain	1
+ṭawlnain	SPLIT	corpus_stem_in	ṭawlna in	1
+zântin	REVIEW	unverified	zântin	1
+tawngkhawngin	SPLIT	corpus_stem_in	tawngkhawng in	1
+hlurin	SPLIT	corpus_stem_in	hlur in	1
+zuolkaiin	SPLIT	corpus_stem_in	zuolkai in	1
+huoihawtnain	SPLIT	corpus_stem_in	huoihawtna in	1
+deuhvin	REVIEW	unverified	deuhvin	1
+duumah	REVIEW	unverified	duumah	1
+invartirin	SPLIT	corpus_stem_in	invartir in	1
+vansangin	REVIEW	unverified	vansangin	1
+ngamlovin	REVIEW	unverified	ngamlovin	1
+gaonburah	REVIEW	unverified	gaonburah	1
+taksaiin	REVIEW	unverified	taksaiin	1
+hleuin	SPLIT	corpus_stem_in	hleu in	1
+yin	REVIEW	unverified	yin	1
+ṭênah	SPLIT	corpus_stem_ah	ṭên ah	1
+nuomtawlnain	REVIEW	unverified	nuomtawlnain	1
+ṭênbaramah	SPLIT	corpus_stem_ah	ṭênbaram ah	1
+hnuhnawin	SPLIT	corpus_stem_in	hnuhnaw in	1
+dohrawnin	REVIEW	unverified	dohrawnin	1
+sukmuolphotuah	SPLIT	corpus_stem_ah	sukmuolphotu ah	1
+inthumkhupin	REVIEW	unverified	inthumkhupin	1
+hmawkin	SPLIT	corpus_stem_in	hmawk in	1
+ruongvaisuoah	REVIEW	unverified	ruongvaisuoah	1
+lusipah	SPLIT	corpus_stem_ah	lusip ah	1
+fungin	SPLIT	corpus_stem_in	fung in	1
+unauvin	REVIEW	unverified	unauvin	1
+manspuiin	REVIEW	unverified	manspuiin	1
+khawsungah	SPLIT	corpus_stem_ah	khawsung ah	1
+etin	SPLIT	corpus_stem_in	et in	1
+dinginin	SPLIT	corpus_stem_in	dingin in	1
+lebunin	REVIEW	unverified	lebunin	1
+thlahnuoiah	REVIEW	unverified	thlahnuoiah	1
+lamdangmeiah	SPLIT	corpus_stem_ah	lamdangmei ah	1
+benzamin	REVIEW	unverified	benzamin	1
+franklin	REVIEW	unverified	franklin	1
+tlabarin	REVIEW	unverified	tlabarin	1
+ralthanin	REVIEW	unverified	ralthanin	1
+phurlutin	REVIEW	unverified	phurlutin	1
+thungphaah	SPLIT	corpus_stem_ah	thungpha ah	1
+suihin	SPLIT	corpus_stem_in	suih in	1
+ngalfimin	REVIEW	unverified	ngalfimin	1
+khaikhinin	SPLIT	corpus_stem_in	khaikhin in	1
+bingnain	SPLIT	corpus_stem_in	bingna in	1
+hunglutin	SPLIT	corpus_stem_in	hunglut in	1
+lienhmingthangin	REVIEW	unverified	lienhmingthangin	1
+ngovin	REVIEW	unverified	ngovin	1
+zahniah	SPLIT	corpus_stem_ah	zahni ah	1
+tawngsephurin	SPLIT	corpus_stem_in	tawngsephur in	1
+inpafain	REVIEW	unverified	inpafain	1
+murauin	SPLIT	corpus_stem_in	murau in	1
+saikawtah	SPLIT	corpus_stem_ah	saikawt ah	1
+akin	SPLIT	corpus_stem_in	ak in	1
+huhnakin	REVIEW	unverified	huhnakin	1
+ngaituonah	REVIEW	unverified	ngaituonah	1
+iengangin	SPLIT	corpus_stem_in	iengang in	1
+chimralin	SPLIT	corpus_stem_in	chimral in	1
+inhrovin	REVIEW	unverified	inhrovin	1
+kawknain	SPLIT	corpus_stem_in	kawkna in	1
+chungzawlah	REVIEW	unverified	chungzawlah	1
+thlemnah	REVIEW	unverified	thlemnah	1
+kaninzin	REVIEW	unverified	kaninzin	1
+angthoin	REVIEW	unverified	angthoin	1
+thawktlangin	SPLIT	corpus_stem_in	thawktlang in	1
+chukhelah	REVIEW	unverified	chukhelah	1
+suongtuhaiin	SPLIT	remainder_haiin	suongtu hai in	1
+vawnawnin	REVIEW	unverified	vawnawnin	1
+rongkaiin	REVIEW	unverified	rongkaiin	1
+ṭamsawlin	SPLIT	corpus_stem_in	ṭamsawl in	1
+sukthlawngin	SPLIT	corpus_stem_in	sukthlawng in	1
+almirah	REVIEW	unverified	almirah	1
+chowmein	REVIEW	unverified	chowmein	1
+zingpumin	REVIEW	unverified	zingpumin	1
+tuilienin	SPLIT	corpus_stem_in	tuilien in	1
+kuhin	REVIEW	unverified	kuhin	1
+contain	REVIEW	unverified	contain	1
+inchungah	SPLIT	corpus_stem_ah	inchung ah	1
+hmnangin	REVIEW	unverified	hmnangin	1
+zantin	REVIEW	unverified	zantin	1
+inhângrakin	REVIEW	unverified	inhângrakin	1
+deusawtakin	REVIEW	unverified	deusawtakin	1
+thawlawmtuhaiin	SPLIT	remainder_haiin	thawlawmtu hai in	1
+thildangah	SPLIT	corpus_stem_ah	thildang ah	1
+puhaiiin	REVIEW	unverified	puhaiiin	1
+zawltuin	REVIEW	unverified	zawltuin	1
+ngawlveinain	REVIEW	unverified	ngawlveinain	1
+inneiitirin	REVIEW	unverified	inneiitirin	1
+tiumin	SPLIT	corpus_stem_in	tium in	1
+zarpharin	REVIEW	unverified	zarpharin	1
+nidingin	SPLIT	corpus_stem_in	niding in	1
+inchawmsuokin	REVIEW	unverified	inchawmsuokin	1
+hmuvein	SPLIT	corpus_stem_in	hmuve in	1
+themthumin	REVIEW	unverified	themthumin	1
+sinlengin	SPLIT	corpus_stem_in	sinleng in	1
+umdanin	SPLIT	corpus_stem_in	umdan in	1
+thangluaiin	SPLIT	corpus_stem_in	thangluai in	1
+chiengnawkzuolin	REVIEW	unverified	chiengnawkzuolin	1
+suktlâkin	REVIEW	unverified	suktlâkin	1
+innghilin	SPLIT	corpus_stem_in	innghil in	1
+kutthlaktuhaiin	SPLIT	remainder_haiin	kutthlaktu hai in	1
+umtah	REVIEW	unverified	umtah	1
+lamlienpuiin	SPLIT	corpus_stem_in	lamlienpui in	1
+afghanistanah	SPLIT	corpus_stem_ah	afghanistan ah	1
+najibullah	REVIEW	unverified	najibullah	1
+hmadawmnain	REVIEW	unverified	hmadawmnain	1
+amuongin	REVIEW	unverified	amuongin	1
+roreltuhaiiin	REVIEW	unverified	roreltuhaiiin	1
+chauvah	REVIEW	unverified	chauvah	1
+lirpuinaah	REVIEW	unverified	lirpuinaah	1
+changsuolin	REVIEW	unverified	changsuolin	1
+ziekfungin	SPLIT	corpus_stem_in	ziekfung in	1
+rawsurin	SPLIT	corpus_stem_in	rawsur in	1
+chirhrakin	REVIEW	unverified	chirhrakin	1
+sakthiemin	REVIEW	unverified	sakthiemin	1
+domain	SPLIT	corpus_stem_in	doma in	1
+khuolzinnaah	SPLIT	corpus_stem_ah	khuolzinna ah	1
+inhnemtuoin	REVIEW	unverified	inhnemtuoin	1
+inangrongin	REVIEW	unverified	inangrongin	1
+inṭhungkhawmin	REVIEW	unverified	inṭhungkhawmin	1
+enkaiin	SPLIT	corpus_stem_in	enkai in	1
+sukhnuin	SPLIT	corpus_stem_in	sukhnu in	1
+dangdaihah	REVIEW	unverified	dangdaihah	1
+margin	SPLIT	corpus_stem_in	marg in	1
+stalin	REVIEW	unverified	stalin	1
+tawngtainaah	SPLIT	corpus_stem_ah	tawngtaina ah	1
+nghettakin	SPLIT	corpus_stem_in	nghettak in	1
+ngunthlukin	SPLIT	corpus_stem_in	ngunthluk in	1
+nulepahaiin	SPLIT	remainder_haiin	nulepa hai in	1
+chuleiiin	REVIEW	unverified	chuleiiin	1
+hnuramah	REVIEW	unverified	hnuramah	1
+phawrlangin	REVIEW	unverified	phawrlangin	1
+atulin	SPLIT	corpus_stem_in	atul in	1
+nonain	SPLIT	corpus_stem_in	nona in	1
+diemnemah	REVIEW	unverified	diemnemah	1
+shin	REVIEW	unverified	shin	1
+bûtin	SPLIT	corpus_stem_in	bût in	1
+inkhawkin	SPLIT	corpus_stem_in	inkhawk in	1
+tokin	SPLIT	corpus_stem_in	tok in	1
+toṭawkin	REVIEW	unverified	toṭawkin	1
+zuriin	REVIEW	unverified	zuriin	1
+thlipuin	REVIEW	unverified	thlipuin	1
+thawnglaiin	REVIEW	unverified	thawnglaiin	1
+hpcin	SPLIT	corpus_stem_in	hpc in	1
+puituoin	REVIEW	unverified	puituoin	1
+phekpuiah	REVIEW	unverified	phekpuiah	1
+thalemin	SPLIT	corpus_stem_in	thalem in	1
+velnaah	SPLIT	corpus_stem_ah	velna ah	1
+hawihah	SPLIT	corpus_stem_ah	hawih ah	1
+zingtin	REVIEW	unverified	zingtin	1
+kuoamah	REVIEW	unverified	kuoamah	1
+tuktin	REVIEW	unverified	tuktin	1
+chetzieah	SPLIT	corpus_stem_ah	chetzie ah	1
+fekhawmhaiin	SPLIT	remainder_haiin	fekhawm hai in	1
+hlusakin	REVIEW	unverified	hlusakin	1
+senvawnah	SPLIT	corpus_stem_ah	senvawn ah	1
+namthluin	REVIEW	unverified	namthluin	1
+tawmpuiin	SPLIT	corpus_stem_in	tawmpui in	1
+daminin	SPLIT	corpus_stem_in	damin in	1
+iengmalovin	REVIEW	unverified	iengmalovin	1
+uriah	SPLIT	corpus_stem_ah	uri ah	1
+tanginah	SPLIT	corpus_stem_ah	tangin ah	1
+inthlengpuinain	REVIEW	unverified	inthlengpuinain	1
+lungilah	REVIEW	unverified	lungilah	1
+kumtinin	SPLIT	corpus_stem_in	kumtin in	1
+hmingbulah	REVIEW	unverified	hmingbulah	1
+poitinain	SPLIT	corpus_stem_in	poitina in	1
+dieiin	SPLIT	corpus_stem_in	diei in	1
+ringtuhain	REVIEW	unverified	ringtuhain	1
+ngkhawmnaah	REVIEW	unverified	ngkhawmnaah	1
+chiktakin	REVIEW	unverified	chiktakin	1
+nghakhlatakin	REVIEW	unverified	nghakhlatakin	1
+halaiin	SPLIT	corpus_stem_in	halai in	1
+buruokin	REVIEW	unverified	buruokin	1
+ngbukin	SPLIT	corpus_stem_in	ngbuk in	1
+awngtakah	REVIEW	unverified	awngtakah	1
+lalremsiemin	SPLIT	corpus_stem_in	lalremsiem in	1
+hawngsain	REVIEW	unverified	hawngsain	1
+meyrin	REVIEW	unverified	meyrin	1
+hnunghin	REVIEW	unverified	hnunghin	1
+neuvin	REVIEW	unverified	neuvin	1
+hrupin	REVIEW	unverified	hrupin	1
+luongsuokin	REVIEW	unverified	luongsuokin	1
+rammawiah	SPLIT	corpus_stem_ah	rammawi ah	1
+tupin	SPLIT	corpus_stem_in	tup in	1
+cornavin	REVIEW	unverified	cornavin	1
+hriiah	REVIEW	unverified	hriiah	1
+inzawmnaah	SPLIT	corpus_stem_ah	inzawmna ah	1
+buorchuorin	SPLIT	corpus_stem_in	buorchuor in	1
+suihlunglengin	REVIEW	unverified	suihlunglengin	1
+nulin	SPLIT	corpus_stem_in	nul in	1
+rosylin	REVIEW	unverified	rosylin	1
+inchulin	REVIEW	unverified	inchulin	1
+sawnglienthuomhin	REVIEW	unverified	sawnglienthuomhin	1
+kelsah	REVIEW	unverified	kelsah	1
+inlovin	REVIEW	unverified	inlovin	1
+dinhmunah	REVIEW	unverified	dinhmunah	1
+intawllutah	REVIEW	unverified	intawllutah	1
+hmartlangpuiin	SPLIT	corpus_stem_in	hmartlangpui in	1
+changlovin	REVIEW	unverified	changlovin	1
+inthielfaiin	REVIEW	unverified	inthielfaiin	1
+tlukphakin	REVIEW	unverified	tlukphakin	1
+narânin	SPLIT	corpus_stem_in	narân in	1
+dânnarânin	REVIEW	unverified	dânnarânin	1
+sukzângin	SPLIT	corpus_stem_in	sukzâng in	1
+krosslerah	REVIEW	unverified	krosslerah	1
+hnawchepin	REVIEW	unverified	hnawchepin	1
+pawtokin	REVIEW	unverified	pawtokin	1
+lunglairukah	REVIEW	unverified	lunglairukah	1
+sungtin	REVIEW	unverified	sungtin	1
+thawkkhatin	SPLIT	corpus_stem_in	thawkkhat in	1
+tawptakah	SPLIT	corpus_stem_ah	tawptak ah	1
+khuotin	SPLIT	corpus_stem_in	khuot in	1
+inhrepawin	REVIEW	unverified	inhrepawin	1
+laltuoklienin	SPLIT	corpus_stem_in	laltuoklien in	1
+lipuiin	SPLIT	corpus_stem_in	lipui in	1
+châmbângin	SPLIT	corpus_stem_in	châmbâng in	1
+awnaah	SPLIT	corpus_stem_ah	awna ah	1
+hnaitein	SPLIT	corpus_stem_in	hnaite in	1
+khoinkhamah	SPLIT	corpus_stem_ah	khoinkham ah	1
+hnuaiah	SPLIT	corpus_stem_ah	hnuai ah	1
+kharpekin	SPLIT	corpus_stem_in	kharpek in	1
+ṭhûlin	SPLIT	corpus_stem_in	ṭhûl in	1
+sauin	SPLIT	corpus_stem_in	sau in	1
+ṭeuvin	REVIEW	unverified	ṭeuvin	1
+kovin	REVIEW	unverified	kovin	1
+inbauvin	REVIEW	unverified	inbauvin	1
+novin	SPLIT	corpus_stem_in	nov in	1
+movin	REVIEW	unverified	movin	1
+sauvin	REVIEW	unverified	sauvin	1
+autawmatikin	REVIEW	unverified	autawmatikin	1
+saidanahah	SPLIT	corpus_stem_ah	saidanah ah	1
+darthanglienin	SPLIT	corpus_stem_in	darthanglien in	1
+khârnaah	SPLIT	corpus_stem_ah	khârna ah	1
+zaikhatah	REVIEW	unverified	zaikhatah	1
+luantirin	REVIEW	unverified	luantirin	1
+sukngongin	REVIEW	unverified	sukngongin	1
+thetah	SPLIT	corpus_stem_ah	thet ah	1
+qeriah	REVIEW	unverified	qeriah	1
+hraitin	REVIEW	unverified	hraitin	1
+julietin	SPLIT	corpus_stem_in	juliet in	1
+saihnawkah	REVIEW	unverified	saihnawkah	1
+thanglorin	SPLIT	corpus_stem_in	thanglor in	1
+tongkhongin	SPLIT	corpus_stem_in	tongkhong in	1
+patawpin	SPLIT	corpus_stem_in	patawp in	1
+phapuihaiin	SPLIT	remainder_haiin	phapui hai in	1
+uah	REVIEW	unverified	uah	1
+chawibieknaah	SPLIT	corpus_stem_ah	chawibiekna ah	1
+chokphûrin	REVIEW	unverified	chokphûrin	1
+zortuhaiin	SPLIT	remainder_haiin	zortu hai in	1
+innghaiin	SPLIT	remainder_haiin	inng hai in	1
+ldin	SPLIT	corpus_stem_in	ld in	1
+thlûtin	SPLIT	corpus_stem_in	thlût in	1
+nangnin	REVIEW	unverified	nangnin	1
+ofloxin	REVIEW	unverified	ofloxin	1
+inbeltirin	SPLIT	corpus_stem_in	inbeltir in	1
+phungzathangin	SPLIT	corpus_stem_in	phungzathang in	1
+selingah	REVIEW	unverified	selingah	1
+leimin	SPLIT	corpus_stem_in	leim in	1
+lusipin	SPLIT	corpus_stem_in	lusip in	1
+kamkhawlunin	SPLIT	corpus_stem_in	kamkhawlun in	1
+mangpuin	SPLIT	corpus_stem_in	mangpu in	1
+rawvakotah	REVIEW	unverified	rawvakotah	1
+tuolbungah	SPLIT	corpus_stem_ah	tuolbung ah	1
+taisenin	SPLIT	corpus_stem_in	taisen in	1
+inthieltuhaiin	SPLIT	remainder_haiin	inthieltu hai in	1
+thangchuoiloin	SPLIT	corpus_stem_in	thangchuoilo in	1
+lalditsakin	SPLIT	corpus_stem_in	lalditsak in	1
+depdenaah	SPLIT	corpus_stem_ah	depdena ah	1
+sangawizawnpuihaiin	SPLIT	remainder_haiin	sangawizawnpui hai in	1
+wordsworthin	SPLIT	corpus_stem_in	wordsworth in	1
+lalkhawkimin	REVIEW	unverified	lalkhawkimin	1
+chotuah	SPLIT	corpus_stem_ah	chotu ah	1
+ṭhalaipawlin	SPLIT	corpus_stem_in	ṭhalaipawl in	1
+darsuolalin	SPLIT	corpus_stem_in	darsuolal in	1
+lailapurah	REVIEW	unverified	lailapurah	1
+konṭekin	SPLIT	corpus_stem_in	konṭek in	1
+sukthlekin	SPLIT	corpus_stem_in	sukthlek in	1
+raghavanin	SPLIT	corpus_stem_in	raghavan in	1
+suotuhaiin	SPLIT	remainder_haiin	suotu hai in	1
+inṭumtirin	SPLIT	corpus_stem_in	inṭumtir in	1
+fountain	REVIEW	unverified	fountain	1
+slain	REVIEW	unverified	slain	1
+nizamuddin	REVIEW	unverified	nizamuddin	1
+pathiernin	REVIEW	unverified	pathiernin	1
+bawlpuiin	SPLIT	corpus_stem_in	bawlpui in	1
+varzin	SPLIT	corpus_stem_in	varz in	1
+ziektirtuin	REVIEW	unverified	ziektirtuin	1
+engmah	REVIEW	unverified	engmah	1
+hrilhfiah	REVIEW	unverified	hrilhfiah	1
+hauhvin	REVIEW	unverified	hauhvin	1
+talin	SPLIT	corpus_stem_in	tal in	1
+evin	REVIEW	unverified	evin	1
+ramperin	SPLIT	corpus_stem_in	ramper in	1
+khuontevîkin	REVIEW	unverified	khuontevîkin	1
+lalzarin	SPLIT	corpus_stem_in	lalzar in	1
+kengkawnaah	SPLIT	corpus_stem_ah	kengkawna ah	1
+hrangkapchin	REVIEW	unverified	hrangkapchin	1
+mongtolin	SPLIT	corpus_stem_in	mongtol in	1
+kawmandawhaiin	SPLIT	remainder_haiin	kawmandaw hai in	1
+rempuiin	SPLIT	corpus_stem_in	rempui in	1
+namthlâkah	REVIEW	unverified	namthlâkah	1
+rothangin	REVIEW	unverified	rothangin	1
+bonin	SPLIT	corpus_stem_in	bon in	1
+zothangkungin	REVIEW	unverified	zothangkungin	1
+thanzauin	SPLIT	corpus_stem_in	thanzau in	1
+toiin	SPLIT	corpus_stem_in	toi in	1
+lalngaithangin	REVIEW	unverified	lalngaithangin	1
+phulzawlah	REVIEW	unverified	phulzawlah	1
+danglamtirin	REVIEW	unverified	danglamtirin	1
+damkungin	SPLIT	corpus_stem_in	damkung in	1
+mimin	SPLIT	corpus_stem_in	mim in	1
+ruoltlakah	SPLIT	corpus_stem_ah	ruoltlak ah	1
+insukfirin	SPLIT	corpus_stem_in	insukfir in	1
+raltehaiin	SPLIT	remainder_haiin	ralte hai in	1
+sanghninaah	REVIEW	unverified	sanghninaah	1
+lalṭin	REVIEW	unverified	lalṭin	1
+inhnelnaah	SPLIT	corpus_stem_ah	inhnelna ah	1
+jain	REVIEW	unverified	jain	1
+dehawnin	SPLIT	corpus_stem_in	dehawn in	1
+fuinaah	SPLIT	corpus_stem_ah	fuina ah	1
+longtlaiah	REVIEW	unverified	longtlaiah	1
+zangaah	SPLIT	corpus_stem_ah	zanga ah	1
+sukzoptuah	SPLIT	corpus_stem_ah	sukzoptu ah	1
+ṭawngnaah	SPLIT	corpus_stem_ah	ṭawngna ah	1
+zutnain	SPLIT	corpus_stem_in	zutna in	1
+thlungtuhaiin	SPLIT	remainder_haiin	thlungtu hai in	1
+khuolzinhaiin	SPLIT	remainder_haiin	khuolzin hai in	1
+lawilenin	SPLIT	corpus_stem_in	lawilen in	1
+vanawnin	SPLIT	corpus_stem_in	vanawn in	1
+eckenstein	REVIEW	unverified	eckenstein	1
+thubawlin	SPLIT	corpus_stem_in	thubawl in	1
+rinin	SPLIT	corpus_stem_in	rin in	1
+vanzawlah	REVIEW	unverified	vanzawlah	1
+trîṭoin	SPLIT	corpus_stem_in	trîṭo in	1
+âwktuin	REVIEW	unverified	âwktuin	1
+sawngtuin	SPLIT	corpus_stem_in	sawngtu in	1
+chhinlungah	SPLIT	corpus_stem_ah	chhinlung ah	1
+lawlin	SPLIT	corpus_stem_in	lawl in	1
+thlieiin	SPLIT	corpus_stem_in	thliei in	1
+bekberêpah	REVIEW	unverified	bekberêpah	1
+duonin	SPLIT	corpus_stem_in	duon in	1
+bawngbûkah	REVIEW	unverified	bawngbûkah	1
+tapzawlah	SPLIT	corpus_stem_ah	tapzawl ah	1
+puanin	SPLIT	corpus_stem_in	puan in	1
+muchuknain	SPLIT	corpus_stem_in	muchukna in	1
+meivapah	REVIEW	unverified	meivapah	1
+lalnghaksangin	SPLIT	corpus_stem_in	lalnghaksang in	1
+phulpuihaiin	SPLIT	remainder_haiin	phulpui hai in	1
+aruokin	REVIEW	unverified	aruokin	1
+inrulin	SPLIT	corpus_stem_in	inrul in	1
+ṭawngthatzawlah	SPLIT	corpus_stem_ah	ṭawngthatzawl ah	1
+hlentuin	SPLIT	corpus_stem_in	hlentu in	1
+lamtawiin	SPLIT	corpus_stem_in	lamtawi in	1
+rûah	SPLIT	corpus_stem_ah	rû ah	1
+filipin	SPLIT	corpus_stem_in	filip in	1
+riknain	SPLIT	corpus_stem_in	rikna in	1
+hângnain	SPLIT	corpus_stem_in	hângna in	1
+zalennin	REVIEW	unverified	zalennin	1
+judah	REVIEW	unverified	judah	1
+mantuah	SPLIT	corpus_stem_ah	mantu ah	1
+inlettirin	SPLIT	corpus_stem_in	inlettir in	1
+intonin	REVIEW	unverified	intonin	1
+ayatollah	REVIEW	unverified	ayatollah	1
+ruhollah	REVIEW	unverified	ruhollah	1
+tarpekin	SPLIT	corpus_stem_in	tarpek in	1
+suktlarantuah	SPLIT	corpus_stem_ah	suktlarantu ah	1
+lamchin	REVIEW	unverified	lamchin	1
+lalringin	SPLIT	corpus_stem_in	lalring in	1
+fieltuhaiin	SPLIT	remainder_haiin	fieltu hai in	1
+judapuihaiin	SPLIT	remainder_haiin	judapui hai in	1
+thiknain	SPLIT	corpus_stem_in	thikna in	1
+biakchungnungin	REVIEW	unverified	biakchungnungin	1
+khutin	SPLIT	corpus_stem_in	khut in	1
+vuokvetah	SPLIT	corpus_stem_ah	vuokvet ah	1
+lalsiesangin	SPLIT	corpus_stem_in	lalsiesang in	1
+lalngaisangin	SPLIT	corpus_stem_in	lalngaisang in	1
+kuttin	REVIEW	unverified	kuttin	1
+isaah	SPLIT	corpus_stem_ah	isa ah	1
+meiteinuin	SPLIT	corpus_stem_in	meiteinu in	1
+inkuiin	SPLIT	corpus_stem_in	inkui in	1
+tharlaizomin	REVIEW	unverified	tharlaizomin	1
+inṭawmpuituhaiin	SPLIT	remainder_haiin	inṭawmpuitu hai in	1
+ilangin	REVIEW	unverified	ilangin	1
+phuokktuin	REVIEW	unverified	phuokktuin	1
+kieuin	SPLIT	corpus_stem_in	kieu in	1
+rodingin	SPLIT	corpus_stem_in	roding in	1
+leiiin	REVIEW	unverified	leiiin	1
+inṭawngsuoltirin	REVIEW	unverified	inṭawngsuoltirin	1
+thokpuihaiin	SPLIT	remainder_haiin	thokpui hai in	1
+runpuiin	SPLIT	corpus_stem_in	runpui in	1
+khawsawtnain	SPLIT	corpus_stem_in	khawsawtna in	1
+bawmchengah	REVIEW	unverified	bawmchengah	1
+mutnaah	SPLIT	corpus_stem_ah	mutna ah	1
+inzortuonain	REVIEW	unverified	inzortuonain	1
+ktuin	REVIEW	unverified	ktuin	1
+awtuhaiin	SPLIT	remainder_haiin	awtu hai in	1
+rawpekin	REVIEW	unverified	rawpekin	1
+sukchingpennaah	REVIEW	unverified	sukchingpennaah	1
+insukfelin	SPLIT	corpus_stem_in	insukfel in	1
+thuṭhuoiah	SPLIT	corpus_stem_ah	thuṭhuoi ah	1
+thirtiengin	SPLIT	corpus_stem_in	thirtieng in	1
+sukṭuokin	REVIEW	unverified	sukṭuokin	1
+aitecheunain	SPLIT	corpus_stem_in	aitecheuna in	1
+heinlein	REVIEW	unverified	heinlein	1
+kahâkin	SPLIT	corpus_stem_in	kahâk in	1
+filistin	REVIEW	unverified	filistin	1
+maalaiah	REVIEW	unverified	maalaiah	1
+luopuiin	SPLIT	corpus_stem_in	luopui in	1
+talapuiin	REVIEW	unverified	talapuiin	1
+lallungawiin	SPLIT	corpus_stem_in	lallungawi in	1
+takduoiah	SPLIT	corpus_stem_ah	takduoi ah	1
+zawrthlûkin	SPLIT	corpus_stem_in	zawrthlûk in	1
+inlartuin	SPLIT	corpus_stem_in	inlartu in	1
+mangkhengin	SPLIT	corpus_stem_in	mangkheng in	1
+purdah	REVIEW	unverified	purdah	1
+zailakin	SPLIT	corpus_stem_in	zailak in	1
+inthukopin	REVIEW	unverified	inthukopin	1
+suothangin	REVIEW	unverified	suothangin	1
+tlangnêlin	SPLIT	corpus_stem_in	tlangnêl in	1
+lienpekin	REVIEW	unverified	lienpekin	1
+indawrpuihaiin	SPLIT	remainder_haiin	indawrpui hai in	1
+puttuhaiin	SPLIT	remainder_haiin	puttu hai in	1
+ennonnaah	SPLIT	corpus_stem_ah	ennonna ah	1
+gstin	SPLIT	corpus_stem_in	gst in	1
+gtin	REVIEW	unverified	gtin	1
+asin	SPLIT	corpus_stem_in	as in	1
+tlawmthlâkah	REVIEW	unverified	tlawmthlâkah	1
+ngaihthlakin	REVIEW	unverified	ngaihthlakin	1
+chhuangin	REVIEW	unverified	chhuangin	1
+thuneitutuhaiin	SPLIT	remainder_haiin	thuneitutu hai in	1
+finin	SPLIT	corpus_stem_in	fin in	1
+durtlangah	SPLIT	corpus_stem_ah	durtlang ah	1
+takramah	SPLIT	corpus_stem_ah	takram ah	1
+wenstein	REVIEW	unverified	wenstein	1
+khangnaah	SPLIT	corpus_stem_ah	khangna ah	1
+thukamin	SPLIT	corpus_stem_in	thukam in	1
+lienrumin	SPLIT	corpus_stem_in	lienrum in	1
+rtirin	REVIEW	unverified	rtirin	1
+letnaah	SPLIT	corpus_stem_ah	letna ah	1
+ngalruah	REVIEW	unverified	ngalruah	1
+vaitamin	REVIEW	unverified	vaitamin	1
+tuipangah	SPLIT	corpus_stem_ah	tuipang ah	1
+ṭutin	SPLIT	corpus_stem_in	ṭut in	1
+jeremiah	SPLIT	corpus_stem_ah	jeremi ah	1
+thilhlânah	SPLIT	corpus_stem_ah	thilhlân ah	1
+iah	REVIEW	unverified	iah	1
+inkhekin	SPLIT	corpus_stem_in	inkhek in	1
+lawmawmah	SPLIT	corpus_stem_ah	lawmawm ah	1
+thuruongin	SPLIT	corpus_stem_in	thuruong in	1
+hehuin	SPLIT	corpus_stem_in	hehu in	1
+aruolin	SPLIT	corpus_stem_in	aruol in	1
+sukchatin	SPLIT	corpus_stem_in	sukchat in	1
+agnoein	REVIEW	unverified	agnoein	1
+theulawjianhaiin	SPLIT	remainder_haiin	theulawjian hai in	1
+nuizatthlâkah	REVIEW	unverified	nuizatthlâkah	1
+sisiin	SPLIT	corpus_stem_in	sisi in	1
+rairah	REVIEW	unverified	rairah	1
+intulin	REVIEW	unverified	intulin	1
+lalthangzuolin	SPLIT	corpus_stem_in	lalthangzuol in	1
+dusserah	REVIEW	unverified	dusserah	1
+innnghatin	REVIEW	unverified	innnghatin	1
+keibatin	REVIEW	unverified	keibatin	1
+kamzabiekin	SPLIT	corpus_stem_in	kamzabiek in	1
+rimtongin	SPLIT	corpus_stem_in	rimtong in	1
+lienselin	SPLIT	corpus_stem_in	liensel in	1
+rynjah	REVIEW	unverified	rynjah	1
+inṭain	SPLIT	corpus_stem_in	inṭa in	1
+ṭhathangin	REVIEW	unverified	ṭhathangin	1
+bengbelin	SPLIT	corpus_stem_in	bengbel in	1
+inlonnain	REVIEW	unverified	inlonnain	1
+puonkhawngnaah	SPLIT	corpus_stem_ah	puonkhawngna ah	1
+fienrielpuiin	REVIEW	unverified	fienrielpuiin	1
+tekhinin	SPLIT	corpus_stem_in	tekhin in	1
+vabuchawiah	SPLIT	corpus_stem_ah	vabuchawi ah	1
+invoipuinain	REVIEW	unverified	invoipuinain	1
+nghattirin	SPLIT	corpus_stem_in	nghattir in	1
+chapovin	REVIEW	unverified	chapovin	1
+paituin	SPLIT	corpus_stem_in	paitu in	1
+tunah	SPLIT	corpus_stem_ah	tun ah	1
+menah	SPLIT	corpus_stem_ah	men ah	1
+voitiengin	SPLIT	corpus_stem_in	voitieng in	1
+mansangin	SPLIT	corpus_stem_in	mansang in	1
+têlulin	REVIEW	unverified	têlulin	1
+phulpuiah	SPLIT	corpus_stem_ah	phulpui ah	1
+kawngkeiin	REVIEW	unverified	kawngkeiin	1
+jin	REVIEW	unverified	jin	1
+rulrin	REVIEW	unverified	rulrin	1
+insulin	REVIEW	unverified	insulin	1
+insumin	SPLIT	corpus_stem_in	insum in	1
+hallelujah	REVIEW	unverified	hallelujah	1
+honin	SPLIT	corpus_stem_in	hon in	1
+rohminglienin	SPLIT	corpus_stem_in	rohminglien in	1
+lengkhawmnaah	SPLIT	corpus_stem_ah	lengkhawmna ah	1
+dokṭin	REVIEW	unverified	dokṭin	1
+sakpuiin	SPLIT	corpus_stem_in	sakpui in	1

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_page">
+
+    <!-- Top App Bar -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:paddingStart="8dp"
+        android:paddingEnd="16dp"
+        android:background="@color/surface_card"
+        android:elevation="2dp">
+
+        <ImageButton
+            android:id="@+id/btn_back"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:src="@drawable/ic_arrow_back"
+            android:contentDescription="Back" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_marginStart="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="About Hmar Heritage"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/brand_emerald" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Who we are &amp; why we built this"
+                android:textSize="12sp"
+                android:textColor="@color/text_sub" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Scrollable About Content -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="48dp">
+
+            <!-- Hero Emblem Banner -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center_horizontal"
+                android:paddingTop="8dp"
+                android:paddingBottom="16dp">
+
+                <ImageView
+                    android:layout_width="72dp"
+                    android:layout_height="72dp"
+                    android:src="@drawable/ic_brand_emblem"
+                    android:contentDescription="Hmar Heritage Emblem" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Hmar Heritage Foundation"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/brand_emerald"
+                    android:layout_marginTop="10dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Building for builders. Preserving for tomorrow."
+                    android:textSize="13sp"
+                    android:textStyle="italic"
+                    android:textColor="@color/text_sub"
+                    android:layout_marginTop="3dp" />
+            </LinearLayout>
+
+            <!-- Philosophy Quote Card -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card_notice"
+                android:padding="16dp"
+                android:layout_marginBottom="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="LOOKING FORWARD"
+                    android:textSize="11sp"
+                    android:textStyle="bold"
+                    android:letterSpacing="0.06"
+                    android:textColor="@color/brand_emerald" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="&quot;A society grows great when old men plant trees in whose shade they shall never sit.&quot;"
+                    android:textSize="13sp"
+                    android:textStyle="italic"
+                    android:textColor="@color/text_main"
+                    android:layout_marginTop="6dp"
+                    android:lineSpacingExtra="3dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="The work we do today is quiet and mostly behind the scenes, but it means the next generation will have open tools ready when they need them."
+                    android:textSize="12sp"
+                    android:textColor="@color/text_sub"
+                    android:layout_marginTop="6dp"
+                    android:lineSpacingExtra="2dp" />
+            </LinearLayout>
+
+            <!-- Card 1: What We Do -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card"
+                android:padding="16dp"
+                android:elevation="1dp"
+                android:layout_marginBottom="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="What We Do"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/brand_emerald" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="The Hmar Heritage Foundation is a community project created to keep our language active, accurate, and easy to use on modern devices. We focus on four main areas:\n\n• Keyboards &amp; Input: Making it fast and natural to type Hmar on any phone without fighting autocorrect or searching through symbol menus.\n\n• Digital Archiving: Scanning and preserving old books, customary clan records, and oral songs before they disappear.\n\n• Living Dictionaries: Building practical word lists and definitions that reflect how people actually write and speak today.\n\n• Open Access: Everything we build is free and open source under permissive licenses. No paywalls and no commercial locks."
+                    android:textSize="13sp"
+                    android:textColor="@color/text_main"
+                    android:layout_marginTop="8dp"
+                    android:lineSpacingExtra="4dp" />
+
+            </LinearLayout>
+
+            <!-- Card 2: Why We Built ISH -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card"
+                android:padding="16dp"
+                android:elevation="1dp"
+                android:layout_marginBottom="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Why We Built ISH"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/brand_emerald" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Most phones were never designed with Hmar in mind. For years, people had to choose between slow custom keyboards or simply dropping dots and accents, turning 'ṭ' into 't' and leaving readers to guess what was meant.\n\nInternet Standard Hmar (ISH) is our answer to that problem. It gives us a quick phonetic shortcut ('tr' and 'thr') that works on any standard keyboard. It keeps words clear and distinct for predictive typing, while making it easy to convert text back into traditional print spelling for printed books and hymnals."
+                    android:textSize="13sp"
+                    android:textColor="@color/text_main"
+                    android:layout_marginTop="8dp"
+                    android:lineSpacingExtra="3dp" />
+
+            </LinearLayout>
+
+            <!-- Card 3: Our People and Roots -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card"
+                android:padding="16dp"
+                android:elevation="1dp"
+                android:layout_marginBottom="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Our People and Roots"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/brand_emerald" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Hmar brings together many clans and communities across Assam, Manipur, Mizoram, and Tripura: Khawbung, Lawitlang, Ngurte, Zote, Biete, Ṭhiek, Faihriem, Lungtau, Darngawn, and others.\n\nBecause our settlements sit right at the crossroads of the hill country, Hmar speakers can naturally talk with and understand our neighboring sister communities across the wider Zo family."
+                    android:textSize="13sp"
+                    android:textColor="@color/text_main"
+                    android:layout_marginTop="8dp"
+                    android:lineSpacingExtra="3dp" />
+
+            </LinearLayout>
+
+            <!-- Card 4: 100% Offline & Private -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card"
+                android:padding="16dp"
+                android:elevation="1dp"
+                android:layout_marginBottom="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Your Privacy Comes First"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/brand_emerald" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Everything you type stays on your phone. This keyboard does not connect to the internet, contains no tracking code, and never records your passwords or personal messages."
+                    android:textSize="13sp"
+                    android:textColor="@color/text_main"
+                    android:layout_marginTop="8dp"
+                    android:lineSpacingExtra="3dp" />
+
+            </LinearLayout>
+
+            <!-- Card 5: Project Details & Team -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card"
+                android:padding="16dp"
+                android:elevation="1dp"
+                android:layout_marginBottom="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Project Details &amp; Team"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/brand_emerald" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="• Maintained by: Hmar Heritage Foundation\n• Project Direction: Donal Muolhoi &amp; Stephen Huolngo\n• Website: hmarheritage.pages.dev\n• Open Source: github.com/hmar-heritage-org\n• Contact: donalmuolhoi@gmail.com\n• Version: 1.1.1-alpha\n• Lexicon: 64,813 words, 101,978 phrase transitions"
+                    android:textSize="13sp"
+                    android:textColor="@color/text_main"
+                    android:layout_marginTop="8dp"
+                    android:lineSpacingExtra="4dp" />
+
+                <Button
+                    android:id="@+id/btn_visit_website"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:text="Visit Foundation Website"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    android:background="@drawable/btn_secondary"
+                    android:textColor="@color/brand_emerald"
+                    android:textAllCaps="false"
+                    android:layout_marginTop="16dp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

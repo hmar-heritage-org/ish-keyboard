@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern comfortable default keyboard height (275dp vs legacy 205dp) -->
+    <dimen name="keyboard_height">275dp</dimen>
+</resources>

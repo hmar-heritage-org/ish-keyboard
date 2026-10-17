@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hmar Heritage Official Brand Palette -->
+    <color name="brand_emerald">#064E3B</color>
+    <color name="brand_midnight">#022C22</color>
+    <color name="brand_mint">#34D399</color>
+    <color name="brand_soft_mint">#A7F3D0</color>
+    <color name="brand_antique_bone">#FCFBF9</color>
+
+    <!-- UI Background & Surfaces -->
+    <color name="bg_page">#F4F7F5</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="border_light">#E2E8F0</color>
+
+    <!-- Typography -->
+    <color name="text_main">#0F172A</color>
+    <color name="text_sub">#475569</color>
+    <color name="text_hint">#94A3B8</color>
+
+    <!-- Status Badges -->
+    <color name="badge_active_bg">#ECFDF5</color>
+    <color name="badge_active_border">#A7F3D0</color>
+    <color name="badge_active_text">#065F46</color>
+    <color name="badge_inactive_bg">#FFFBEB</color>
+    <color name="badge_inactive_border">#FDE68A</color>
+    <color name="badge_inactive_text">#92400E</color>
+
+    <!-- Notice Card -->
+    <color name="notice_bg">#FBFDFB</color>
+    <color name="notice_border">#D1E7DD</color>
+    <color name="notice_tag_bg">#E6F4EA</color>
+    <color name="notice_tag_text">#137333</color>
+</resources>

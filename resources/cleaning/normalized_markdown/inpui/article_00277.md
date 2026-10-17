@@ -1,0 +1,520 @@
+# Huonah
+
+* **Source URL:** [https://inpui.blogspot.com/2014/09/huonah.html](https://inpui.blogspot.com/2014/09/huonah.html)
+* **Date:** `2014-09-24`
+* **Source Archive:** `inpui`
+* **Hmar Ratio:** `0.87`
+
+---
+
+L.Keivom,
+
+Inpui.com Columnist
+
+To see a world in a grain of sand
+
+and heaven in a wild flower
+
+Hold
+
+infinity in the palms of your hand
+
+and
+
+eternity in an hour.
+
+William Blake
+
+Huon po po laia huon hmingthang tak chu
+
+Eden Huon
+
+ni mei a tih. Chu huona chun Pathienin mihriem hmasa tak
+
+pahni a siemhai chu a sie a. A hun taka par le ra hlak thei chi tinreng chun
+
+chawmin, tlaksam hrim an hriet nawh. Chu huona chun hri le natna hrim hrim a um
+
+nawh. Nautesen lai ang elin chutaka chenghai chun zakuo an hak naw a, saruok an
+
+ni ti khom an hriet bok nawh. Mawl engthawlna, tlaksam um nawna le duthusam
+
+kimna huon a nih.
+
+Huon
+
+Amiruokchu, duthusam a kimna tak chu
+
+duthu a sam kim nawna pakhat a nih. Chu huon lailung taka chun hringna thing le
+
+sie le ṭha hrietna thing a um a. A hmasa chu damna thing a ni a, pakhat chu
+
+thina thng a nih. Chu mihriem pahnihai chu chanvo po po laia insang tak
+
+ditthlangna, zalenna tawpkhawk chu a pek bok a. Chu ditthlangna chu an hmang
+
+indik le indik lo maw chu an tuor ding a nih. Mihriem hmasa takhai chun an
+
+ditthlangna chu hmang suolin Pathien thupek an bawsiet a, an paradis chu an
+
+chăn tah a nih. Hi huona thil tlungin a nghong ei buoipui ang tluka mihriemin
+
+thil dang ei buoipui a um nawh.
+
+Huon hmingthang pahnina
+
+Huon hmingthang pahnina chu Eden huon ang boka Irak
+
+rama um, Isu pieng hma BC 600 bawr vela Babulon lal Nebukadnezzar huon siem,
+
+Huon Inkhâi (Hanging Garden) a ni el thei. Hi huon hi tienatlanga khawvela
+
+mihriem kuta bawl thil ropui tak pasari (Seven Wonders of the Ancient World) an
+
+thlang suok laia ṭhang ve phâk hiel a nih. A bawltu tak ni dinga ring dan
+
+inang naw sien khom kum 605-562 inkara lal Nebukadnezzar Pahninain a nuhmei,
+
+Median mi Queen Amytis chengna dinga a bawl ni dinga ring an tam. Phaizawlah
+
+mel 56 (90 km) laia sei pil deng pawnga muol an siem, an huonna bang ft 320-a
+
+insang le ft 80-a sa, a chunga lal in ropui tak an bawl, Manipur phairuom po po
+
+tiet vela lien a nih. German archealogist Robert Koldewey rawia kum 1897-1917
+
+laia Babulon khaw hlui zong suok tuma beipui an thlak ṭum khan an hmu châk tak
+
+laia pakhat chu Huon Inkhai hi a nih. Sienkhom lirnghingin a sawi siet vong
+
+hnunga hmu thei um suna an hril chu a bul ṭhut lung rem chauh a nih. Ṭhenkhat
+
+nawk chun Huon Inkhai hi Nebukadnezzar bawl ni loin Assurian lal Sennacherib-in
+
+a khawpui Ninevi-a a bawl ni dingin an ring thung. Hi khuo hi Pathienin tlang
+
+insam dinga pa lulul le phuba la chaka helhol invoi Jona a tir lui ṭuma
+
+tlanbahrika hlawk taka sermon tawi a hrilna kha a nih.
+
+Hi Huon Inkhaia hin chanchin poimaw
+
+le ngainuomum tak tak tlung ngei a tih ti ring a um. Sienkhom zieka maksan a um
+
+naw ni ngei a ta, a chanchin ei hriet tlawm hle. Hi huon bawltu Nebukadnezzar
+
+chanchin takngiel khom hi tu chena mihriemin histawri an sui le ziek ve phak
+
+chin, secular history-a chun hmu ding a vang khop el. A chanchin inlang rawnna
+
+tak chu Baibul a ni a, a chuong rawnna tak chu Daniel lekhabu a nih. Chu taka
+
+khom chun a ziektuin Daniel chanchin a thlŭrnaah a zakkep sa mei mei a nih.
+
+Chuleiin, mi ṭhenkhat chun Huon Inkhai khom hi tienami thusim ni dingin an
+
+ngai.
+
+Huon hmingthang pathumna
+
+Huon hmingthang pathumna chu
+
+Getsemani Huon
+
+, Jerusalem suo tieng Jehosafat kawn khela um Oliv
+
+ṭhuta huon pakhat, Isu le a zirtirhai an fienrielna rop hlak a nih.
+
+Eden huona mihriem tlûkna tungding
+
+nawk dinga hung a nina chu Isu’n a tak ngeia a hlen hun chu a hung tlung a, a
+
+lungril a’n suol buoi nasa hle a. A zirtirhai chu ṭhuoiin ṭawngṭai dingin
+
+Getsemani huona hin a fe a. Chu zâna thil tlung lei chun Getsemani Huon hin
+
+khawvel literechar zawlah hmun hlun a hluo tah a nih. Eden Huon fienriela
+
+thlemna châng a kam ṭuma a tokdarh hŭm buk, Evi le Adamin an fak miel miel kha
+
+hre zingin, Thlemtu chun chu tektik bok chu hmangin Getsemani huon fienriela
+
+hin Isu khom buon thluk a tum a. Hi ṭuma Thlemtu le Isu inbuon tluka inbeina
+
+râpthlak hi a la um ngai nawh. Zaper thapui intan ṭhot khopa ṭhang la Isu
+
+bienga chun a thlan, thisen angin a far thluk thluk a; a ṭhangpuitu dingin
+
+vantirko a hung inthok hiel a nih. Ama nuom thu ringota inher tum chu ni sien,
+
+Evi angin thlemtu chun a buon thluk ding a hoi khop el. “Pa, rem i ti chun hi
+
+no hi ka kuoma inthokin la son rawh” (Luka 22:39-45) a ti hman dĕr tah a nih.
+
+Huon fienriela thlemna hi do zo a harsa a nih.
+
+Sienkhom, Isu pawlisi le a nun
+
+ṭhuoitu chu “keima thu ni loin nangma thu ni lem raw se” ti a ni a; a Pa thu
+
+thi chena zawm a tum tlat leiin thlemtu chun a buon hne ta naw a nih. Hi taka
+
+hin thil inchik tlak poimaw tak ei hmuh: Eden huona tlûkna chu Pa thu awi naw
+
+leia um a nizie le Pa thu zawm tlat chu thlemna ieng ang khom ngamna a nizie
+
+Isu’n ama nun ngeiin Getsemani huona hin a mi’n entir a nih. Ama thu chu ni
+
+sien, a no dawn ding chu pumpelh a nuom thu ei hmuh. Sienkhom, ama nuom thu ni
+
+loa a Pa thu chauha nung ding a nina chu a sie chunghnung tak a nih. Evi le
+
+Adam ruok chun Pa thupek le dit dan nêkin an ditthlangna an zui lem a, fak
+
+thieng lo an fak a, chu bawsietna lei chun an chungah thina an intlungtir a,
+
+thina chu an thlahai po po chungah an intlungtir sa bok a nih (Rom 5:12). Eden
+
+huon chu muonglei ram, tlaksam um ta nawna, Pathien le ni tina inpawlna hmun a
+
+ni ang bokin, thlemna leia mihriem a tlŭkna, mihriemin a Siemtu thupek a
+
+hnawlna ra suok chu thina a nizie inentirtu a nih. Getsemani huon khom Isu le
+
+zirtirhain Pathien pawla an fienrielna hmun a ni hlak ang bokin thlemna le
+
+thisen ang thlan far khopa inpom chilna hmun le Pathien thu awina ra suok chu
+
+hnĕna a nizie tarlangtu a nih.
+
+Huona thil tlung ṭhenkhat
+
+Huona hin thil inchk tlak a tlung
+
+rop hlak. Huon hi lungril mit sunvarna hmun pakhat a nih.
+
+Gautama Buddha
+
+khom hmawng chi khat Bodhi tree sirsan meua huona an
+
+ngaituo lai chun a lungril sunvarin a um a, Buddhism sakhuo hi a hung pieng pha
+
+tah hiel a nih.
+
+Scientist hmingthang
+
+Isaac Newton
+
+chu kum 1666 AD khan
+
+huonah chawl hadamin a thalin a zal a. Epul hmin hung ṭilh a hmu a, chu chun a
+
+thluok hnawng ṭha tak el chu a sukche a. Ieng leia epul chu a tung zawnga fe
+
+loa a suk zawnga a hung ṭilh? ti chu a ngaituo ta rak el a. Chu chu thil ho
+
+tak anga inlang, sienkhom inril le poimaw tak a nih. Chîk taka a sui pei chun
+
+ei umna hnuoi le vanvela arasi po po hin hǐpna an nei seng leia thil tlung a
+
+nih ti a hung hriet suok a, hrietna ṭhut poimaw em em el Law of Gravitation
+
+(Gravitational Theory) chu a hung hai suok ta nol el a nih. Hi hrietna thar fe
+
+peiin a hung hring suok chu Scientist hmingthang dang Albert Einstein hmu suok
+
+Theory of Relativity a nih. Anni pieng hma daih, kum 1500 neka tam liem taa
+
+Athen mihai kuoma Paulan, “Ama leiin ei hring a, ei chăng a, ei um a ni si a”
+
+(Tt. 17:28) tia a lo hril kha Pathienin gravitational force hmanga ei khawvel
+
+le vanvela thil umhai hi a konṭawl vong a ni thu thlaraua hrietna a nei leia a
+
+lo hril a nih.
+
+Thei ṭilh hril taka chun eini rawi
+
+tienami pakhat a mi zuk inhriet suoktir chu tie. Thei ṭilh le inzoma eini
+
+chanchin ve chu thabo tienga Sientist hmingthang tak
+
+Samdal
+
+ni mei a tih. A ramvâkin theichang hmin tuor el a hmu a, fak
+
+châkin a chil a pût a, sienkhom a lo pei hlol si nawh. Theichang hmin zŭm a
+
+hung ṭilh beiseiin a buk hnuoia chun a bau ka kungin a thalin a zâl a.
+
+Vangneia siemin pum khat chu a bauah a hung tla nol el a. Chu chun thil thar
+
+hmu suok dinga a ngaituona inchêttir chu hril lo, theichang hmin chu hang soi
+
+dingin a bau a chăng pei nawh. Tienami el khom lo ni sien, Samdal hin India
+
+hmar saka hin thla a hau hle awm. Khaw laia inthoka hung tla dinga ei beisei
+
+thil inchănin, bau ka kangin ei tang farh hi! NGO ei hauh em em khom hi chu
+
+thil le inzom chu a nih. Sienkhom, chu chu tuta ṭuma ka sabzek a ni nawh.
+
+Tolle lege! Tolle lege!
+
+Kristien sakhuo thuring tieng ngha lekhabu
+
+70 neka tam ziektu, Apostol Paula dottu nia an hril hiel, St. Augustine of Hippo
+
+(354-430 AD) chanchin hi i hriet ta hlak am? Hi thusep hi ka ziek laia ka umna
+
+Italy hmar tienga an khawpui Milan-a an Bishop hmingthang tak St. Ambrose-in
+
+kum 387 AD –a Isu tho nawk ni champhaa a baptis pa kha a nih. England ram baw
+
+êng dinga Pope Gregory The Great-in misawnari a tirh, St. Augustine of
+
+Canterbury, kum 604 AD a thi leh khan ngai pol ding a ni nawh. Sakhaw hrang
+
+hrang zirtirna bi a, lungrila thlamuongna lampui a dap lai chun, ni khat chu
+
+huonah beidong takin, “Lalpa, ka khawlona hi mi la hmangpek rawh” tiin a ṭap
+
+suok ta phong el a. Chuong lai chun naupang rawl ni awm tak hin, “Tolle lege!
+
+Tolle lege! (La la, tiem rawh, la la tiem rawh) hung ti ni âwm takin a hriet a.
+
+A ngha vel a, tu khom a hmu bok si nawh.
+
+A ngaina hre loin huona ṭhungphaa a maksan, Rom mihai kuoma lekhathon
+
+bu ziel chu a pan a. A phet hmasa taka a chang tiem chun a lungril mit
+
+sukvarin, Pathien thlamuongna eng chu a nunah a’n zăm lut a. A lekhabu ziekhai
+
+laia inlâr tak pahnih- CITY OF GOD (PATHIEN KHAWPUI) le CONFESSION (INPUONGNA)
+
+lem chu khawvel literechara lekhabu ropui le hlua an ngaihai laia tiem sa a la
+
+ni zing. Huona mit varna changtuhai nun hin a nghong sei hle hlak a nih.
+
+Wellington-a ka huon
+
+New Zealand khawpui
+
+Wellington-a ka um laiin huon thurûk ṭhenkhat dong ve-in ka’n
+
+hriet a, chu lei chun hi thusep hi ka ziek a nih. Kan chengna India House, 128
+
+Knights Road, Lower Hutt-a um chun kompaun lien ve tak a nei a. A kot tieng, in
+
+le lampui inkar, pên sawmli nêka sei chu hlobet inhoi tak, carpet sa tak pha
+
+ang el a nih. Hung lutna lampui sir tuoka chun rose kung 28, khing tieng khing
+
+tieng 14 ve ve, zikhlum lien chi tiet deuthawa rong chi hrang hranga par hlak
+
+chu ft li danah an intlar a. Dai bul sir tuok po po chu par chi hrang hrang
+
+chingna vong a nih. Huon dai anga kan hmang thing buk inbêm lii liei hai khom
+
+chu a hun taka par chi vong an nih. Chuonghai laia ka dit bik le duot bik chu
+
+rong chi hrang hranga par hlak sokhlei kung sari chu a nih.
+
+Kan chawr tieng chun infiemna in
+
+inhnuoi te hi a um a. Chu in chu Sapṭawnga ‘ivy’ an ti hrui inzam chi hin
+
+panruongin thing a zem ang hin a’n zam khum vong a. In chunga inthoka a kau zîk
+
+hung kai hla dinghai chu dithlafarfem le inruolin mawi takin kan tan a. A mawi
+
+em leiin a tak nekin lemziek a ang lem hman a nih. Hi in bul suo tieng hin
+
+thlai huon siem theina hmun lien tham tak a um a, chu chu thlai huona siem
+
+tumin, bawngtuthlaw hmangin, kut inthi phung khopin, ka cho dŭr a, thlai tum
+
+tum chingna dingin thlur hrang hrangin ka pawn a. Hnuoi ṭhatna chi hrang hrang
+
+ka’n chawk a. Zikhlum, parbawr, anṭam, hmarcha le be chi hrang hrang chi ka’n
+
+chawk a, ka’n so a.
+
+Chuong ang chun Zopa-in New Zealand khawpuiah huon ka
+
+siem ve a nih. Bachikhawm mu, Khawmawia inthoka ka hawn chu tuolah kan so kak
+
+thei naw leiin in sung lum, in suklumna khawl bulah par khawina belah ka’n so
+
+a, thla thum hnungah pakhat char a hung ṭo a, a ṭha nuom khop el a, sawtnawte
+
+sungin tong khat deuthawa insangin a hung inṭhang a, bachikhawm ka hmu china
+
+chu a la lien tak. Kan duot leiin hme tina khom kan ruot nawh.
+
+India House-a huon enkoltu (gardener) chu police
+
+officer, kum sawt tak lo thok tah, ka hlaw nek daiha hlaw rawn a nih. Huon
+
+enkol hi a’n hnikna zawng a ni bâkah a thiem em em a; a huon enkol khom a nau
+
+ang chiea ngaiin a duot liem liem a; sum a hnot leia hung inhlaw khom a ni
+
+nawh. Kar tin voi khat, darkar hni sung a hung hlak a. A hung naw sung po chu
+
+keinin kan lo enkol a. Par chi hrang hrang, abikin naute ang ela enkol ngai
+
+rose kung enkol dan, bu pek hun le pek tawk ding hai; an damnaw ti hriet dan le
+
+damdawi tui kap ding le a kap dan hai; a kau tan hun le a tan dan hai; a zungin
+
+a mamaw boruok a hip theina dinga a bula pil kar let dan hai; par chi hrang
+
+hrang inso hring dan hai; purun bul anga inbâl par chi sie ṭhat dan le a hun a
+
+hung tlung nawk phaa inso dan hai le huon enkol dan kalhmang hrim hrim hai chu
+
+a mi’n chuktir hlak a. Chu chun a nih ram hmasawn ei tihaiin thil an lo chǐkzie
+
+le thil an thaw hrim hrim chu eini rawi anga an ar khaw thim dai el nawzie le
+
+mumal tak le titakzeta an thawzie ka hmu suok zuol chuh.
+
+Inrinni le chawl a um chang, ka’n hman hun taphotah
+
+sunnithlakin huona hin ka thok hlak a. Insuk chĕrna dingin a ṭhat bakah huon
+
+sin thaw hun hi Siemtu le a thil siemhai le inpawlna remchang le hlu niin ka
+
+hriet a; thlarau tieng bu ka lamna tak laia pakhat a nih. Ofis-a sinthaw chu
+
+thluok hmang zing a ṭul leiin lungril le ngaituona invâk suokin a lêng hman
+
+naw a. Huon sin thaw ruok chu a thaw dan kalhmang hriet tah chun taksa hratna
+
+thahrui hmanga thaw mop mop a ni el a. Chuleiin, kil le kap tlokin ngaituona
+
+zalen takin a leng suok hman a, thil thar a va tong a, chu chun ṭek anga
+
+inrangin a mi hung deng kir a. Epul ṭilin Newton ngaituona deng hara a sukchet
+
+ang khan, zing thla neka hrata vuong thei ka ngaituona invâk vĕl chun mi
+
+vuongpuiin, Siemtu ropuizie a mi thlirpui hlak a; chu chun ka phak tawk ang
+
+peiin ka thlarau mit a sukvar ve hlak niin ka hriet. Chuong huna ei thil invoi
+
+le inzoma ngaituonaa thil hung de zok dam hi ngaisaka ei inchik chun a hmaa ei
+
+lo hriet chieng nawhai le ei la ngaituo phak ngai lohai khom hriet fiena a mi
+
+pek a; ei ngaisak naw ruok chun a bo nawk daih a, ieng anga nasain bei inla
+
+khom ei hriet suok thei ta mei mei naw a, ei hriet suok a um khomin a tira
+
+angin a fie thei tah ngai nawh. Chuleiin, notebook pai zing a, ei thu donghai
+
+ziek thlak nghal hi chǐng ding a nih.
+
+Chu mita inthoka bi chun huona hin ei nghatna tieng taphotah
+
+Pathien ropuina hmu hmaih ruol a ni nawh. Chuong tieng nghaa lungril hongin
+
+hang ngha vel hrim ta. Par chi tum tum insi riela ṭo hmunkhat hmung i tih.
+
+Rong hrang hrang put le rim hrang hrang paiin an hung par suok a. Khaw laia
+
+inthokin am chuong ang rong mawi le rimtui hai chu an lak am a na ti en fie
+
+tumin an hung ṭo suokna pil kha zuk phir suok la, pil hâk el naw chu thil dang
+
+hmu naw ti nih. Thei kung hrang hrang hmu bok i tih. Chuonghai chu an hun tiem
+
+sengah rong chi hrang hrang putin an hung păr a, chu pâra inthok chun a ra a
+
+hung insiem a, damten an hung inṭhanglien a, chu ruol chun an hmelhmang a hung
+
+inthlak a. Thei a dawng laia phak le kha em em kha a hung hmin huna chun thûrin
+
+amanih a thlum em em thei a. Chu phakna, khăkna, thŭrna le thlumna ringot hai
+
+khom chu khaw laia inthoka hung insiem am an nih ti i dap chun, Siemtu ropuizie
+
+sui suok ruol lo chu inngaituotir a ti che. Huon thuruk hre chiengtu Isu chun,
+
+“Tûktinpar inṭhang dan dam hi ngaituo ro” a ti chauh khom ni loin, a thuom
+
+ropui po po inbela Solomon inchei ve khan tuktinpar pakhat tluk khoma chei a ni
+
+nawzie a mi hril.
+
+Mit lâwnga ei hmu thei hnuoi chăra hin hmu thei lo,
+
+thilthawtheina mak tak inphûm a um a. Ei hmu thei nêkin ei hmu thei lo hin
+
+hratna thâ a hau lem pei niin a’n lang. Ei hmu thei le hmu thei naw po po hi a
+
+hmangna ding taka hmang chun hratna tha hlawm vong a nih. Hratna tha hlawm
+
+intet muk chu ei tet muk nasa po leh a chin deu deu a, a hrât deu deu bok a.
+
+Thil thaw thei rapthlak ‘atom’ ei ti khom hi chuong ang chu a nih. Hmu thei lo
+
+khopa intet muk a ni pha lem chu hril thei lo khopin a hrât a nih. Chuonga hmu
+
+thei lo khopa hratna tha hlawm intet muk, Thim Awng (Black Hole) an ti chuh van
+
+boruoka hin tam tak a um thu mithiemhaiin an hril a. Thim Awng chun a hîp hrât
+
+em leiin, var (light) khom a hǐp tah chu a hîp dê tlat leiin a êng a suok thei
+
+ta nawh. Leihnuoia hratna thâ po po hi ṭhim hmawr tiet vela lienin tet muk
+
+inla, chu nêk daih chun Thim Awng chu a la hrat lem a nih. Vanvêl (universe),
+
+mihriem ngaituona chun a lien dingzie khom a hisap phak naw khopa zâu hi Thim
+
+Awngin zaa sawmkuo vel chu a hluo sip niin Scientist-hai chun an hril. Peter
+
+lekhathon pahninaa zawlnei tehlêm le zirtirtu indik lohai hremna dinga, “thima
+
+khom thim sâ tak chu an umna dinga ruot a nih” (2 Pet 2:17) a ti kha Thim Awng
+
+hi a hrilna ni sien a hoi khop el.
+
+A ieng khom chu ni sien, ei chengna hnuoi chiterek,
+
+vanvel lienzie-a inthoka inkhi lem chun sunhăng khat tiet khom ni phak teu teu
+
+lo hi arasi ei hriet tah po po laia mak danglam tak, hna hring le nungcha tinreng um theina arasi
+
+um sun chu a nih. Ei hnuoi le ni var le boruok inmil tawka inchokpol chun
+
+hratna tha mak tak el, thil inṭotir le inṭhangtir theina a siem a. Chuong
+
+anga thilthawtheina insuikhawmna chu tiem seng lo arasi dangah a um ti ei hriet
+
+nawh. Chu chu ei umna hnuoi hi a mak
+
+chuongchuongna a nih.
+
+A mak bĕk bĕk zuolna chu mita hmu thei hna hring,
+
+thlai, thing le ruo, ram hmul, thilhring po po le a suk a tunga inlonhai hi ze
+
+hrang hrang puta pilvut inlărna el a nih. Mihriem ngei khom hi Siemtuin, “Pila
+
+inthoka siem i ni leiin pila bok kîr nawk i tih” (Gen 3:19) a ti mieu si
+
+annawm. Pilvut ni si, ze hrang hranga a hung inlar dan i thlir nuom chun huonah
+
+fe la, huon chun a thuruk lo hril a ti che. Chutaka chun Siemtu ropuizie i hmu
+
+naw chun, van rama khom zong zong la, hmu chuong naw ti nih.
+
+Note: Originally written in Mizo-Lusei
+
+on March 10, 1993 at Milan (Italy) and translated in Mizo-Hmar with minor
+
+revision at Delhi on September 23, 2014)

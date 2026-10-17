@@ -1,0 +1,59 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'org.hmarheritage.ishkeyboard'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "org.hmarheritage.ishkeyboard"
+        minSdk 21
+        targetSdk 34
+        versionCode 3
+        versionName "1.1.1"
+    }
+
+    buildFeatures {
+        buildConfig true
+    }
+
+    signingConfigs {
+        release {
+            def ksFile = file('ish_release.jks')
+            if (ksFile.exists()) {
+                storeFile ksFile
+                storePassword System.getenv("KEYSTORE_PASSWORD") ?: "hmarheritage"
+                keyAlias System.getenv("KEY_ALIAS") ?: "ish_release_key"
+                keyPassword System.getenv("KEY_PASSWORD") ?: "hmarheritage"
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            if (file('ish_release.jks').exists()) {
+                signingConfig signingConfigs.release
+            }
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    aaptOptions {
+        noCompress "kmp", "js"
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+dependencies {
+    implementation files('libs/keyman-engine.aar')
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'com.google.android.material:material:1.11.0'
+    implementation 'androidx.preference:preference:1.2.1'
+    implementation 'androidx.webkit:webkit:1.10.0'
+}

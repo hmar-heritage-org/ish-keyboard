@@ -1,0 +1,50 @@
+# Khawvelah Hmar Ka La Hmu Nawh!
+
+* **Source URL:** [https://inpui.blogspot.com/2012/05/khawvelah-hmar-ka-la-hmu-nawh.html](https://inpui.blogspot.com/2012/05/khawvelah-hmar-ka-la-hmu-nawh.html)
+* **Date:** `2012-05-21`
+* **Source Archive:** `inpui`
+* **Hmar Ratio:** `0.87`
+
+---
+
+Ziektu:
+
+Pu Timothy Z. Zote
+
+Hi khawvel leihnuoi huop chinah hin , mihriem pakhat ve ding a, ka hung pieng suok ve le inzawmin , ngaituona le sungtuona, mi angin hau naw lang khawm ka thei ve tawk tawkin ka thluok hi ka hmang ve a. Ruol ka ban tawk naw zie khawm ka hriet zing a, anachu, a chunga thumal khi ka lungrilah hun iemnai chena inthawk ta khan a riek zing a, ka theinghil tum khawma a hung inlang nawk hlak si, chuleiin ka sui ve dan ka hung ziek vet um a ni hi….
+
+Khawvela mihriem cheng hai hin hming le inko dan bik ei nei seng a, rambung hming khawm a um a, chun inko nuom dan khawm ei nei seng bawk. Chun, ei nuom ang a, ei inko naw pha’t a then chu an lung a sen nawk hlak bawk. Hming hi a pawimaw chu ning a tih rawlri hrie inla khawm ei hminga inkona le biekna a um naw chun, ei ngaisak ngai nawh .
+
+A chunga ang peiin Hmar hming khawm hi suitu hai chun, Mizorama inthawka intan chau ring pawl khawm an um niin an lang a, chu chu ngaidan nei chu , ei ni laia mi inlar le ziektu hming thang em em khawm an um bawk. Hi thu hi ka sui ve dan ah chun, Mizorama inthawka Hmar hnam hi hung suok a ni nawh a , a hming hi Myanmar lai daia ei lo lam tah niin an lang. A hrilfiena hmangruo pakhat a dingin kum 2007 lai khan Mizoram Chawnsim (Champhai)–ah Pu C. Dinthanga, Editor, Lelte Weekly, le Tv. TBC Zaithanpuia , History sui dinga ka fe nuom thu ka hril le inzawmin kan fe tlang a, khuosawt a um ngei el. Lungriemin, a mi thlak rak chu tie, pi pu sulhnung hei hmu chu…
+
+Champhai kan hei tlung chun Guest house ah kan riek a, zingkar inhma takin Pu Khamhmingthang, Custom Officer, Sielmat, Champhaia a Post lai a ni a, ama chun ka fe nuomna le ei pi le pu hai umna a hriet hai a mi fang pui a. Champhai kan hei suok a, Km 2 vel kan hei tlan chun a hming hrieta um ri ngawt , mang hrieta ka lo hriet hlak a hming “ ZOTE’ khuo chu mit ngeiin kan hei hmu a, hi Zote khuo a hin iem a um a? SIKPUI LUNG lien tak el, tawp deu hlek , a zal, a lo um, chu Sikpui lung chu a thala an inzal pha’t pha’t a rawng a dang a, an intung pha’t a rawng a dang thu a veng mi hai chun an mi hril a, mak tak niin an lang a. Hi Sikpui Lung lu tieng deuah chun an kuotlang a,chu chu dawi thil thaw a ni ring pawl an um a, ngaidan an ang naw nuol bawk.
+
+Hi Zote khuoa hin, tienlai nun le inthlasawng pei dan le chi le kau chanchin tam tak chanchin hril le ziek ding a lo um a, tuhin chu thai seng nawng ei tih. Amiruokchu, pi le pu sulhnu pawimaw em em el hril hmai thei der lo ding le hel thei der lova hril ngai pakhat chu, MU RAU PUK um hi a nih. Hi Murau puk hi, a ten chun Mura puk khawm an ti a, ti dan le an dik lem nia inlang chu Murau puk niin an lang. A puk dang lamna pakhat chu Pasarih a ni kher hi a nih. Zote Hmar haiin , tienlai chun Naute an khatin an lo si hlak a, fena an neisan hlak a, chuong kar chun naute hai chu Murauin a lo hung lak hlak nia hriet a ni leiin, a hmingah Murau puk an ko niin an hril.
+
+Hi Zote khuoa hin thil pawimaw , pi le pu ro a um el hi, suitu thenkhat chun hmunpawimaw le Lal hi fel tak le ro khawm tha taka rel thei, thu nei thei, ni ngei ding a, sui pawl khawm an um bawk. Tienlaia inthawk pi le pu ro thil le lungphun umna hi Lal dangdai le Lal hril hlaw met an ni vawng a nih. Chun, pi le pu ro ngainatu Lal a ni ring a um bawk. Hi khuo a hin, Zote hmu ding an vang hle a, Manmasi Year Book Vol-II na chu Village Council Secretary ka present malamin hieng thuhai hi ka sa’m “ Hmun tum tum a , Zote hnam umhai chun, Zote khuo hi kan hung ral thlirin, hung hmu nuomin a sang tel kan um a, chun a khawhluotuhai le a khawsunga cheng, mi fel tak tak hai leiin hi Zote khuo hi an thang a nih, chuleiin lawmthu kan hril a nih, amiruokchu, Hmar Inpui or Zote Pahnam rem tina naw chun a hming hi thleng thei nawng in tih” tiin ka hril ve a. An lo lawm hle a nih.
+
+Tekhina dingin, Saikawt nekin Muolvaiphai , Tuithaphai chun Hmar History-ah an inlang dan an ang nawh. Saikawtah chun thil tam tak ei hnamin rorelna le suktlukna hmuna ei lo hmangna khuo a ni bawk a. Muolvaiphei ruok chu Historical monument mawi tak “ Manmasi Sikpui Lung” a um leiin mi hril le ngaiven, hmu nuomum le thlalak pui nuom em em a, hmun hla tak taka inthawka hung chak an um pha na a ni ve tlat. Tourist place or Historical Munument item pakhat a ni leiin Muolvaiphei chen an lar pha a, an thang pha bawk.
+
+Hi Zote khuoa inthawka ka suina tukvera chun, Sailo haiin 1919 khan Zote khuo hi an hluo tan a, Lungdaw ah a um a, thla khawm ka lak bawk. A khel KM 5 vel ah Zotlang Lawitlang pahnam bubitna a lo um nawk a, chu lai chun Sura naute inhrona, tiin lunga milem tam tak ziek a lo um nawk a, Sikpui Lung hai leh YMA, le Art and Culture, Mizoram-in enkawlna sin a hmingin an thaw a, anachu, hmangaitu an mamaw hlein ka hriet.
+
+Mizoram Hmar tienga an pan leia Hmar hming hi put el ei ni nawh.
+
+Ziektu thenkhatin, Mizoram hmar tienga pan pawl hai chu Hmar hnam an ni thu an ziek lang hlak a, hi thil hi ngaituo vuot chun awm ve tak, amiruokchu, suichieng deu chun a lo indik tawk naw zie hriet theiin a um . Champhai khawzawla ei ni Manmasi nauhai lo khawsak lai hin Hmar an lo inti tho zie hriet theiin a um. Hieng a, Champhai laia thilsuia iemani chen ka umhnung hin Tiu ral chen hang lutin, Ridil ( Leiri Dil) chen ka va lut a.Tuita Hmar inti Lawitlang hnam Tlawmte, Varte papui Kum 70 vel ding Champhai Zotlang ah kan pawlpui pa chun “Hmar thlah kan ni” tiin a mi hril a. Chu umzie chu Champhai lai khin Manipur, Aizawla inthawkin Hmar Missionary tirin Hmar lo in ti ve ro, ei hang ti hriet ding a um nawh a, Mizoram tawntira um Hmar mipui Lawitlang , Pautu hai khin Lusei le Hmar indo khawm an hriet naw tlat. Hmar thlah kan ni, ti bak chu hei suklang ding bek an nei nawh. Hmarah thi an ngam vet tlat chu tie! Champhai zawlah khin Hmar a tampawl ni dingin an inngai hiel a nih.
+
+Champhai zawl um lai hin, Zote khuo zawl hi Sailo haiin hung runin, khuo dang chu an tawkbuoi hriet ding a um nawh, chuleiin, tienlaia LUSEI le Hmar Indo ti khawm kha thudik a ni hmel naw hle.
+
+Lusei le Hmar An Indo nawh ?
+
+A chunga ziek ang khin, hnam le le hnam indo ni lovin, khuo le khuo indo, fakzawngna harsat lei le bu le bal thatna a nih ti leiin ram inchu le inrun niin an lang lem a, Lusei le Hmar indo ti khawm hi sui chieng chat chat inla, khuo le khuo inhmelma leia buoina insang tak, lal lien le lien buoi leia hril dar mei mei a ni ring a um lem. Saizahawl khawm Hmar tho a na, Leisei le Hmar biel khuo then khat a hung run ti hla a inthawk hriet a ni a, amiruokchu, a fe khel Hmar khuo tam tak a um a, chu leiin Hmar ngawr ngawr chau an do a ni naw zie chu a chieng hleiin an lang. Chuleiin, ei hnam Histori Hmar Le Lusei Indo ti hi thaibo ni ta sien, a tha el naw ding? Khuo le khuo indo leia ral zam hai kha Hmar ral zam ei ti pei chun, ei hnam hming chu “Zam hnam” a lo ni el lem di’m? Ngaituona suksei a, History indik le fel ei va mamaw ta de!
+
+E he, khai ka hril tum tak ka hril hma’n ka lo thai rawn ta luo deu ta e, inthlahrung a va um ta de. Amiruokchu,ziek ta laklaw bawk si hei hril hram hram ka tih, tiemtu inzaum tak, mi la hei tiem pek hram raw khai….ei sipliema a ni hi tie! Nakie thu hma haupa I mi ti el ta awm de! Belte phulhlat ang deu ka ni hi…. Nang the iem I ni ve ding?
+
+A thupuia zieka um ang khin, Hmar hi ka pieng a, inthawkin pakhat khawm ka la hmu nawh a, ka mit an kal lei a ni am? Ka mit a tha naw lei am? Ka hriet bik nawh ie, lo hei thlir pei ei tih. Hieng a, ka lungrila riek zing Hmar ka hmu naw leiin hmu tumin ka zawng ka zawng a, Parbung,Lungthulien,Hmarkhawlien,Senvon, Burma,Champhai , Himachal Pradesh chen zawngin hun le ni tam tak ka lo khawral ta a, amiruokchu vawisun Date 21/5/2012 chen khawm hin Hmar mi ka la hmu chuonng nawh .
+
+Ka ruolpa pakhat Thadou pa chun hi pa hi Hmar a ni hi a ti a, ka hei belchieng leh, Lungtau a lo ni a, Ka ruolpa Meitei pakhatin “ hi hi Hmar a ni hi, a hming tawpah khawm Hmar a si a, Hmar tawng khawm a hmang a ti a, chuong a ni chun hei belchieng ka tih, ka ti tah a, ka hei belchieng chun Biete a lo ni nawk pei a, mi tam tak Tuithaphai lai khawm kan dawn tawl a, ka hmu thei chuong nawh .
+
+Maktakin, ka buoina chu ka hung hriet suok ta a, Hmar ti bik chu tu hnam khawm an um nawh a. Amiruokchu, Hmar hi pahnam hrang hrang inkhaikhawmna le inremkhawmna, tuihawk dang dang luongkhawmin dil a siem ang khan pahnam hrang hrang luongkhawmin Hmar hi a lo siem a lo ni zing. Chuleiin Hmar hi a lo va lien de, tui ta inthawk chu Hmar hi , Khawvelah ka hmu zo ngai naw ding zie ka hriet suok ta leiin ka hlim ta hle el. Hieng a ni lei hin, Hmar pahnam hrang hrang hai hin lungril taka ei hnam popo khaikhawmtu a ni zie hi hre a, HMAR ti hming hi chawisang ding le humhim tlat dingin thang la thar inla nuom a um hle. Tu khawm a mikhuol bik ei um naw zie hre thar bawk ei tiu khai.Hieng ang deu hin Mizo khawm hi Hnam hrang hrang infin khawma a hming Mizo hi inbuk a ni leiin Mizo biek an um nawh a, athen ngaituona khingbai neiin “Hmar hi Mizo an ni lo” ti dam an um hlak a, hi hi Hmar mipuiin an theinghil thei nawh a ni hi.Chuong nek chun, a sui sei seiin tuita an tawng hmang khawm hi Hmar tawng naupang lem a nih an ti lem.
+
+Hmar hin tawng Pahni inlar deu deu ei nei a, a then chun in lo hriet naw el thei. Chuonghai chu: tuita Mizo tawng ang a, an ti /ko hi a nih. Hi hih, a mawi em em leiin Hmar Modern language ti dinga awm em em a ni bawk, a hming indik tak chu Hmar Tawng Part –II a nih. Chun, Tuita ka ziekna tawng hi a upa lem a ni leiin Hmar Tawng part –I ti a, ko a nih. Mizo subject inchuktirtu ‘n Mizorama an hril ka la hriet zing chu “Mizo tawng upa chu Hmar tawng hi a ni an ti” hlak. Hlado hi “ kan unau Lai/Pawi ho tawng a ni tlangpui” an ti hlak.
+
+( Sawrtui Monthly Magazine, 2003, HSA, Golden Jubilee Souvinir,Shillong, Manmasi Year Book-2005,Vol-I, Imphal).(dated- 21/5/2012, Tuithaphai Ruom, Churachandpur East District)

@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_page">
+
+    <!-- Top App Bar -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:paddingStart="8dp"
+        android:paddingEnd="16dp"
+        android:background="@color/surface_card"
+        android:elevation="2dp">
+
+        <ImageButton
+            android:id="@+id/btn_back"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:src="@drawable/ic_arrow_back"
+            android:contentDescription="Back" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_marginStart="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ISH Orthography Guide"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/brand_emerald" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Internet Standard Hmar Specification"
+                android:textSize="12sp"
+                android:textColor="@color/text_sub" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Scrollable Guide Content -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="40dp">
+
+            <!-- Card 0: Overview & Preamble -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card_notice"
+                android:padding="16dp"
+                android:layout_marginBottom="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="WHAT IS INTERNET STANDARD HMAR?"
+                    android:textSize="12sp"
+                    android:textStyle="bold"
+                    android:letterSpacing="0.06"
+                    android:textColor="@color/brand_emerald" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Internet Standard Hmar (ISH) is designed for everyday typing on phones and computers. It is not a new dialect or a replacement for our literary traditions, but a clean, natural reflection of how Hmar speakers already text and write online today.\n\nBy using simple key combinations and consistent spacing, ISH makes typing effortless, prevents confusing word mix-ups, and makes sure our language works smoothly on modern devices while staying easy to convert back into traditional print."
+                    android:textSize="13sp"
+                    android:textColor="@color/text_main"
+                    android:layout_marginTop="8dp"
+                    android:lineSpacingExtra="3dp" />
+            </LinearLayout>
+
+            <!-- Card 1: Retroflex Consonants & The 5 Fatal Collisions -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card"
+                android:padding="16dp"
+                android:elevation="1dp"
+                android:layout_marginBottom="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="1. Retroflex Consonants (ṭ &amp; ṭh)"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/brand_emerald" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="On standard phone keyboards, people often skip the dot under ṭ, typing 't' instead. This creates mix-ups where readers have to guess which word you meant. ISH solves this with simple, natural letter pairs:"
+                    android:textSize="13sp"
+                    android:textColor="@color/text_main"
+                    android:layout_marginTop="8dp"
+                    android:lineSpacingExtra="3dp" />
+
+                <!-- Rule Box: tr -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:background="@drawable/badge_active"
+                    android:padding="12dp"
+                    android:layout_marginTop="12dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Type:  t + r  ➔  ṭ"
+                        android:textSize="15sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/badge_active_text" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Example: 'trawng' becomes 'ṭawng' (language / speech)"
+                        android:textSize="12sp"
+                        android:textColor="@color/badge_active_text"
+                        android:layout_marginTop="2dp" />
+                </LinearLayout>
+
+                <!-- Rule Box: thr -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:background="@drawable/badge_active"
+                    android:padding="12dp"
+                    android:layout_marginTop="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Type:  t + h + r  ➔  ṭh"
+                        android:textSize="15sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/badge_active_text" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Example: 'thra' becomes 'ṭha' (good / fine)"
+                        android:textSize="12sp"
+                        android:textColor="@color/badge_active_text"
+                        android:layout_marginTop="2dp" />
+                </LinearLayout>
+
+                <!-- Common Mix-ups Solved -->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Common Mix-ups Solved by ISH:"
+                    android:textSize="13sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_main"
+                    android:layout_marginTop="14dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="• thung (repay / refund)  vs.  thrung (sit, ṭhung)\n• tan (cut / slice)  vs.  tran (begin / start, ṭan)\n• tawng (meet / cubit)  vs.  trawng (language, ṭawng)\n• tam (many / plenty)  vs.  tram (famine / hunger, ṭam)\n• tha (physical strength)  vs.  thra (good / fine, ṭha)"
+                    android:textSize="12sp"
+                    android:textColor="@color/text_sub"
+                    android:layout_marginTop="6dp"
+                    android:lineSpacingExtra="3dp" />
+
+                <!-- Escape rule -->
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="If you ever need an actual 'tr' or 'thr' (for words like 'train' or 'three'), just tap 'r' a second time:\n• t + r + r  ➔  tr\n• t + h + r + r  ➔  thr"
+                    android:textSize="12sp"
+                    android:textStyle="italic"
+                    android:textColor="@color/text_hint"
+                    android:layout_marginTop="10dp" />
+
+            </LinearLayout>
+
+            <!-- Card 2: Universal Spacing of the Plural Marker 'hai' -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card"
+                android:padding="16dp"
+                android:elevation="1dp"
+                android:layout_marginBottom="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="2. Spacing the Plural Word 'hai'"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/brand_emerald" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="In older print rules, 'hai' was often attached to nouns (like the English '-s' suffix), but kept separate after adjectives. In Hmar grammar, 'hai' is an independent word that applies to the whole phrase, not a glued suffix."
+                    android:textSize="13sp"
+                    android:textColor="@color/text_main"
+                    android:layout_marginTop="8dp"
+                    android:lineSpacingExtra="3dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="The 'Red Cow' Rule:"
+                    android:textSize="13sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_main"
+                    android:layout_marginTop="10dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="In English, plural '-s' attaches to the noun ('red cows', never 'the cow red-s'). But in Hmar, we say 'Bawng sen hai' ('the red cows'), never 'Bawnghai sen'. Because 'hai' naturally floats to the end of the phrase after adjectives, keeping it as a separate word is consistent and natural."
+                    android:textSize="12sp"
+                    android:textColor="@color/text_sub"
+                    android:layout_marginTop="4dp"
+                    android:lineSpacingExtra="3dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="✓ Bawng sen hai   (The red cows)\n✓ Ziektu hai   (The writers)\n✓ Thlaisuongtu hai   (The cooks)\n✓ Thanga hai   (Thanga and friends)\n✓ mi hai in   (people, with the marker 'in')"
+                    android:textSize="13sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_main"
+                    android:layout_marginTop="10dp"
+                    android:lineSpacingExtra="4dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Words ending in -hai:"
+                    android:textSize="13sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_main"
+                    android:layout_marginTop="12dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Writing 'hai' with a space also prevents awkward repeating syllables for words that naturally end in 'hai':\n• Meithai hai   (widows)\n• Phai hai   (valleys / plains)\n• Thai hai   (fruits / melons)"
+                    android:textSize="12sp"
+                    android:textColor="@color/text_sub"
+                    android:layout_marginTop="4dp"
+                    android:lineSpacingExtra="3dp" />
+
+            </LinearLayout>
+
+            <!-- Card 3: The Particle 'a' Boundary Resolution -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card"
+                android:padding="16dp"
+                android:elevation="1dp"
+                android:layout_marginBottom="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="3. Keeping the Particle 'a' Separate"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/brand_emerald" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="The short word 'a' does a lot of work in Hmar (showing who did something, expressing possession, or describing states). Welding it directly to the next word makes text harder to read and confuses search and typing tools:"
+                    android:textSize="13sp"
+                    android:textColor="@color/text_main"
+                    android:layout_marginTop="8dp"
+                    android:lineSpacingExtra="3dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="✓ a nih   (it is — instead of 'ani')\n✓ a lo   (came / arrived — instead of 'alo')\n✓ a hung   (he/she comes — instead of 'ahung')\n✓ a um   (there is — instead of 'aum')\n✓ a puon   (his/her clothes — instead of 'apuon')"
+                    android:textSize="13sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_main"
+                    android:layout_marginTop="10dp"
+                    android:lineSpacingExtra="4dp" />
+
+            </LinearLayout>
+
+            <!-- Card 4: Incorruptible Nouns & Modular Verbs -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card"
+                android:padding="16dp"
+                android:elevation="1dp"
+                android:layout_marginBottom="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="4. Clear, Readable Words"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/brand_emerald" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Instead of joining long chains of helper words, endings, and particles into giant, hard-to-read blocks, ISH keeps each natural building block distinct:\n\n• Instead of: insukpuitlingtirtheituhai\n   Write: in suk puitling tir thei tu hai\n\n• Instead of: Bawngnenetuisemtuhai\n   Write: Bawng nene tui sem tu hai\n\n• Instead of: Thlaisuongnuomnawtuhai\n   Write: Thlai suong nuom naw tu hai"
+                    android:textSize="13sp"
+                    android:textColor="@color/text_main"
+                    android:layout_marginTop="8dp"
+                    android:lineSpacingExtra="4dp" />
+
+            </LinearLayout>
+
+            <!-- Card 5: Fast Punctuation & 26-Letter Alphabet -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card"
+                android:padding="16dp"
+                android:elevation="1dp"
+                android:layout_marginBottom="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="5. Quick Punctuation &amp; Full Alphabet"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/brand_emerald" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="• [ , ] sits right next to the spacebar. Hold it down for  '  &quot;  ;\n\n• [ ? ] sits right next to the spacebar on the right. Hold it down for  !  /  -\n\n• [ . ] sits on the bottom row next to M for quick sentences.\n\n• Circumflex Vowels: Hold down a, e, i, o, u to type â, ê, î, ô, û.\n\n• Full Latin Alphabet (A–Z): ISH keeps keys like Q, X, W, Y, and C readily available for math, science, names, and loanwords without awkward forced spellings."
+                    android:textSize="13sp"
+                    android:textColor="@color/text_main"
+                    android:layout_marginTop="8dp"
+                    android:lineSpacingExtra="4dp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

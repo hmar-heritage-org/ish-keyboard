@@ -1,0 +1,210 @@
+{
+  "step": 2,
+  "total_tokens_processed": 3023670,
+  "unique_unigrams": 54396,
+  "bigram_words_with_predictions": 47730,
+  "trigram_contexts_stored": 294906,
+  "top_30_unigrams": [
+    {
+      "word": "a",
+      "count": 323501
+    },
+    {
+      "word": "chu",
+      "count": 105863
+    },
+    {
+      "word": "chun",
+      "count": 95859
+    },
+    {
+      "word": "an",
+      "count": 78295
+    },
+    {
+      "word": "le",
+      "count": 51885
+    },
+    {
+      "word": "ka",
+      "count": 47886
+    },
+    {
+      "word": "ta",
+      "count": 41600
+    },
+    {
+      "word": "nih",
+      "count": 38542
+    },
+    {
+      "word": "ni",
+      "count": 38505
+    },
+    {
+      "word": "hi",
+      "count": 34632
+    },
+    {
+      "word": "mi",
+      "count": 30720
+    },
+    {
+      "word": "ei",
+      "count": 29893
+    },
+    {
+      "word": "um",
+      "count": 24687
+    },
+    {
+      "word": "ding",
+      "count": 23907
+    },
+    {
+      "word": "hung",
+      "count": 23105
+    },
+    {
+      "word": "i",
+      "count": 22822
+    },
+    {
+      "word": "naw",
+      "count": 22503
+    },
+    {
+      "word": "in",
+      "count": 22178
+    },
+    {
+      "word": "ti",
+      "count": 20358
+    },
+    {
+      "word": "po",
+      "count": 18617
+    },
+    {
+      "word": "lo",
+      "count": 18569
+    },
+    {
+      "word": "tih",
+      "count": 16667
+    },
+    {
+      "word": "thu",
+      "count": 14889
+    },
+    {
+      "word": "lalpa",
+      "count": 14446
+    },
+    {
+      "word": "dingin",
+      "count": 12779
+    },
+    {
+      "word": "hin",
+      "count": 12733
+    },
+    {
+      "word": "pathien",
+      "count": 12460
+    },
+    {
+      "word": "ang",
+      "count": 12216
+    },
+    {
+      "word": "hril",
+      "count": 12024
+    },
+    {
+      "word": "tak",
+      "count": 12023
+    }
+  ],
+  "sample_next_word_predictions": {
+    "kan": [
+      "hriet",
+      "tih",
+      "ni",
+      "lo",
+      "hung"
+    ],
+    "a": [
+      "nih",
+      "ni",
+      "ta",
+      "a",
+      "hung"
+    ],
+    "pathien": [
+      "chun",
+      "chu",
+      "thu",
+      "a",
+      "kuoma"
+    ],
+    "vân": [
+      "tieng",
+      "ram",
+      "pathien",
+      "le",
+      "a"
+    ],
+    "hung": [
+      "tlung",
+      "suok",
+      "a",
+      "ni",
+      "um"
+    ],
+    "chu": [
+      "a",
+      "an",
+      "ka",
+      "chu",
+      "i"
+    ],
+    "ṭha": [
+      "naw",
+      "a",
+      "lem",
+      "tak",
+      "le"
+    ]
+  },
+  "sample_trigram_predictions": {
+    "a hung": [
+      "tlung",
+      "suok",
+      "ni",
+      "a",
+      "um"
+    ],
+    "kan ram": [
+      "hi",
+      "le",
+      "kan",
+      "pumin",
+      "hluo"
+    ],
+    "pathien in": [
+      "chu",
+      "ta",
+      "a",
+      "hi",
+      "bâwl"
+    ],
+    "vân le": [
+      "hnuoi",
+      "vânhai",
+      "khawvêl",
+      "a",
+      "nangni"
+    ]
+  }
+}

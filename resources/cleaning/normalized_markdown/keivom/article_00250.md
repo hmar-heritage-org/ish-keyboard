@@ -1,0 +1,68 @@
+# Takchapa!
+
+* **Source URL:** [https://keivom.blogspot.com/2020/10/takchapa.html](https://keivom.blogspot.com/2020/10/takchapa.html)
+* **Date:** `2020-10-10`
+* **Source Archive:** `keivom`
+* **Hmar Ratio:** `0.86`
+
+---
+
+Thou shalt love the Lord thy God
+
+With all thine heart and with all thy soul,
+
+And with all thy might.
+
+- Deuteronomy 6:5
+
+i thupui hi hmanga thusep ziek ka tumna a sawt ta a, ziek hman loin ka la um zing a. Hmar ṭawng le Sapṭawnga thusep ka ziek tah le Dr. David Buhril ziek, literechar huonga hlu lut tlaka kan ngai ṭhenkhat, phek 400 vel dong ding lak khawm le editing sinah hun iemani chen hi kan buoi leiin thil dang buoipuina ding hun a tlawm a, ka piengcham thucha ziek khom sunzom el loa ka la sie hre lai hun a ni a. Sienkhom Japhet Tuolorin, “Pu Keivom hin Takchapa ti hi tulai ṭhalaihai hriet thiem zawngin mi hung hrilfie pek sien nuom a um...ṭawng tlanglawnin” a hung ti leiin, ka hung ziek hrăm a nih.
+
+Takchapa umzie
+
+‘Takchapa’ ti hi ṭhang lakna ṭawngkam, theina po po tawpkhawk insuoa ṭhang la dinga incho phŭrna thusam a nih. Lusei ṭawng chun ‘Pâk Chheih’ amanih ‘Chheih Khah!’ an tih. Thado ṭawng le Hmar ṭawng inchekpola inthoka suok niin a’n lang: tak (Hmar), chapa (Thado). Mihriem hi Pathien angpuia siem a ni leiin, ieng ang lawma taksa le thlaraua theina nasa kol am a na? ti hih sui suok ruol lo a nih. A Siemtu thilthawtheina hmanga thil ropui le mak thaw theitu a nih. A ngirhmun chel ropuizie chu hre chieng a, a Siemtuin a siem san tak chu sukpuitling tuma a thuphung el ni loa a tak ngeia bawzui ngar ngartu chu hlawtlingna kutin a chibai hlak. Tubo hmanga leirawchang pakhat khom vaw koi zo lotu khan kuttum hmang dan martial arts kum tam a’n chuk hnung chun, kut tum voi khat thlakin dorzon khat intieng khom a chum koi rem rum el a nih. A taksa le lungrila theina inphûm kha hmang dan a’n chuk lei a nih.
+
+Chutaka chun a nih Siemtu le a thilsiem inkara inlaichinna ṭha le ṭha loin thu a hril rawn ĕm êm chu nih. Pathien chu Thlarau a ni leiin, ienglai khoma lungril le thlaraua inpawlpui thei zing a ni laiin, a taka ei thilthawa inthoka ra ṭha hmu ei tum chun kut le ke hmanga nasa taka ieng laia khom ‘Takchapa’ ti-a ṭhang lak zing a ngai. Siemtuin mihriema theina a sie zaa sawm vel chauh mi pangngai chun ei hmang niin mithiemhai chun an hril a. Thiem filor, mi chungchuonga ei ngaihai hin 15% vel chu an hmang phak el thei niin an hril bok. A hmang ṭhak lo khom ei va hang tam awm de aw!
+
+Siemtuin theina a mi pekna muol chitah lungril le thlaraua takchapa ti-a insang mara ei theina po po hmanga ṭhang ei lakna thilah hlawsam a um thei nawh. Mani dam sungin a ra an sik hman naw a ni khomin an thlahaiin an la hung sor tho tho hlak. Thilpek ei dongna zawng ni loa inbŭr ei tum pha leh nun a buoi nuom. Miin ṭha an ti nazong hi mani chemkalna zawng a ni naw chun, pu rak inla khom hnachanga khuoihnang bel an hril ang a ni nuom. Mani-a inringzona a sukhnuoi a, nun a sukdul a, mi lungsiet hlaw tumin intum le mawsiet ding ei dap khawm a, saikawlawzi ṭawnghmanga ‘victim mentality/syndrome’ ei hung invoi nuom, “A siet nawna a um nawh” titu chu mi dang ni loin eini bok ei nih. Mani inen loin, intum ding ei dap a, ieng hril thei lo, Senvon tlanga ei zawllung dam ei suosam a, Baibul ei raw leia a ‘pâp’ tuor anga inhril lut ei tum ṭawk ṭawk a, Pathien hmaa thupha chawia thûm chur chura ṭawngṭai ruolna ding ei mai khawm a, ṭawngṭaina tlang khom ei hau sawt hle. Mimal tina Pathien tieng nghaa ṭawngṭaina tukver hong ruok chu ei tlawm tiel tiel a hoi. A nih, ei ṭawngṭai rawn zozai ie, a ngaithlatu ding nâ khom ei sukkham zozai tah ka ring,
+
+Ei hang inbi chieng ruok chun, mani ke bul sengah hlawtlingna le hlawsamna hnâr hi inṭanin a lo tawp vong si. Siemtuin a mi siem san hre chieng a, talen a mi pek seng ei theina po po hmanga sukpuitling tuma ṭhang latu ding chu eini ei nih. Pathien thu ka ring ti si-a ei ringzie a taka thilthawa ei sukdik si naw chun mani le mani inhlem mei mei ei nih. Tulaia hla ei saklăr laia pakhat chu “A ṭûl chun Lalpa’n ka ta dingin, Ni le thlahai khom kei ngîr a tih” ti a ni mieu! A thuphunga Pathien ei ringzie awm lo baksaka uora khekpui hi ei thil ching laia pakhat a nih. Siemtuin a thilsiem kalphung kalin thil a thaw ngai nawh. A rongbawlna dinga ni tina ni thar le zan thar a hung inher suoktir hi sekhon tin ei hmang ṭangkai naw chun a liem hmang pei a, her kir thei a ni ta nawh. Her kir dinga a siem a ni naw a, sekhon khat khom kei ngir thei a ni bok nawh. Kei ngir vai sien, van sanga thilsiem po po mit khap kar loin koi dar vong a tih. Kei ngir naw nih. Chuong ang bokin, mihriem hi ieng angin suol inla khom, a thlawna Kalvari-a intlanna sin a hung hlen kha kei kir naw nih. Mi tin ta dinga ni tina hun thar inang senga peka ei um bak hi hun chuongliem beisei naw’ng ei tiu. Chu hun sunga thil ei thaw ra chu hnuoi le vanah ei sik seng a nih.
+
+‘Takchapa’ ti-a ṭhang ei lakna thila hrim hrim ama angpuia mihriem siemtu Pathien mi hang siem ropuizie hi a hung inlang hlak. Thaw thei ruol loa inlang khom thilthawin a zui ringnaa thaw thei a nih. Voi le changah chuong ang thil chu hmu ding a um. Mi dang chanchin hril nekin, kei ngeiin ka tonhriet thil ṭhenkhat hang hril lang.
+
+Solfa Buon
+
+Matric ka fail lai, Jocund Company indina hmun hrang hrangah hla sak rongbawlna kan ṭan hlimin, kan ruolpa Ruoltinkhum umna Bijang-ah biekbuk thar chik te an hong a, a lawmpuina dingin hla ka phuok a, perkhuong leh thiem takin kan sak a. A hnungin ka hla phuok chu a pawl kima harmonization thaw zoa zieka sie ka tum leh ka rem indik thei der naw a, ka thang a tlawm khop el a. “Hi solfa phiengsen hi, ka la va thiem awm de aw!” tiin ka’n hăntaw a. Solfa ṭhangna hla bu ka haw khawm a, tu khom ṭhangpui loin a rurel le kalhmang um dan rulrin hmangin ka’n khi a, vuok hran hran insiem dan, inchikna :/:-/,/;/ le a dang dang an hmang dan le a pawla rem mawi (harmonization) an thaw dan hai ka bi ngat ngat a. Hla ka phuokhai chu solfa-in ka ziek thlak dap a, a pawla sak chi chu harmonize ka thaw vong bok a. Kum 1962-a Hmar ṭawnga hla solfa le a bu-a kan sut, ṬHALAI HLA BU ti kan inbuka hla chuong po po deuthaw-a harmonization kha ka kutsuok a nih.
+
+Thiem tuma thil ka’n chuk po po laia ka paw inthuk tak chu solfa a ni ka ring. Chuong lai chun hla bu ka zuk bi hin, tlar khat peia soprano, alto, tenor le bass po po hi a ruolin ka hmu fie vong thei a, a pawla an sak khomin a hran sengin a ruolin ka ngaithlak thei. Hla pawl ding ka siem khomin ri boin a soprano ka sak a, ka na rilah a alto, tenor le bass ka rem a, chu chu baihat ziekin ka ziek thlak el a nih. Mi tam takin hla pakhat siemnaa ni pumhlum an aw hi minit 30 velin ka zo hlak. Khang ang khan lo bawzui zing ni inla chuh, Pathienin Joba a suosal ṭum a,
+
+Zing arasihaiin zai hla rem a,
+
+Hlima vantirkohai an khek lai khan,
+
+Nang khaw lai am i um a? (36:7)
+
+ti zawna kha “Boruok zaia inthokin ka lo ngaithlak ve zing annawm” ti thei ngirhmunah Siemtuin mi a hlangkai thei ti hi ring ding a nih. Baibula khom chuong ang ngirhmuna a hlangkai zawlnei an um nok a nih. Sienkhom, kum tam rimawi rama ka’n hmang hman ta naw hnung hin, khang laia ka thiemna kha 10% khom ka hmang thei ta nawh.
+
+Sierkop Buon
+
+Matric ṭum hni zet ka tlol hnunga ‘Takchapa’ ti-a sierkop ka buon hlawtling thu chu KA SIERKOP BUON ti thupuia hmangin ka ziek a. Kum tin deuthaw Pawlsawm ekzam rizal suok zoa sierkopa failed hai chok thona dingin Manipur le Mizorama chanchinbu pakhata bek an hung insuo non hlak a, mi tam tak a kei suok bok. Hi hi ka nun tuihnar inṭanna, ekzama hrim hrim’fail’ nawk ta ngai lo dinga thutiem ka neina, chu chu takchapa ti-a ṭhang ka lak tak takna le tu chena Pathien ṭhangpuina zara tum ram ka zuon pei theina san a nih. Chutaka inthoka kum sari-ah Indian Revenue Service-ah, kum sawmah India rama ekzam-a tling thei sin insang tak IFS/IAS chu tlingin, India rama rorelna hmunpui innghatna Raisina Hills-ah India palai sin thaw dingin ka‘n ṭhung ve tah a nih. Manipur State-a inthoka IFS tling hmasa tak ngirhmun ka hluo sa bok a nih. Chu chauh chu a ni le! Thu le hla tienga ka’n hnikna bawzui pei dinga Lalpa’n a mi’n ṭhutna, palai sin thawa ka hmu nuom le sir nuom ram hrang hrangah ka khawsak hnung le ka hlen suok dinga Lalpa mi buotsaina chu ṭan dingin India ramah a mi hung ṭhuoi kir nawk tah a nih.
+
+Baibul Buon
+
+Chu sin chu takchapa dawbol a ngaina, kum sawmnga chuong ṭening ka neina, Hmar ṭawnga Baibul inlet le mani hlaw suok sum ngeia sut a nih. Kum 2002 April khan ka penson a, Thuthlung Thar, Sam & Thuvar chu thla 17 sungin ka’n let zo a, thla ruk vel H.K Kawllienthang leh sun-zan zoma editing le proof-reading kan thaw hnungin kum 2004 khan Delhi-ah tlangzar a nih. Hun kan seng rawnna tak chu Sam a nih. Sam nambar tin hi tlar inzat vonga siem a ni leiin a hautak em em a, khawvela hienga Sam inlet hi a um sun a ni a, Hmar ṭawnga lekhabuin khawvel a khŭm vena um sun a nih.
+
+Chu taka inthoka hma nor peiin kum 2007 khan Baibul pumpui sut a ni a, chu chu Gospel meiser hung lutna hmasa tak Senvon tlanga ngei tlangzar a nih. Siem ṭhat sinah pu nawk ngar ngarin Revised Version chu kum 2015 khan tlangzar a hung ni tah pei a nih. Beipui kan thlak sung hin voi tam kan tiem suok a. Inlet dan a fûk am, ṭawngkam hmang a ṭhing am, an naw leh a tulai taluo am, thumal ser tharhai hi hmang a remchang chie am, a ṭawng luong dan a tluong am, tekhina ṭawngkam (metaphor) le ṭawng upa hmang kher loa ṭawng tluongtlam hmang lem a ṭha am, thluk sinsiena pali le apostrophe siena ding awm ṭhenkhata sie loa hmang a ni hin ieng chen am grammar poi a tawka ti le thil dang dang fimkhur taka en a ngai a. Thil pakhat buoipui laia thil dang le fawmkem chu thil remchang lo a ni leiin voi tam tiem non a ngai. Kan thaw ngor tak tak lai chun kan kiu vun hi zawng mong khawn tluka nasain, dum hulin a’n raw rut a, hang sik khomin na a hriet nawh.
+
+Chu ra suok chu Baibul (Delhi Version) hi a nih. Khawvela Bible Version ṭha bika an ngaihai lai khoma suong taka phar tlaka Pathien ṭhuoina zara buotsai a nih. DV hmang hin Pathien thutak le Hmar ṭawng khom a hung par suok beisei a nih. Hmar ṭawng bohmang mek hi DV hmanga sansuok ei beisei a, lampui um sun niin a’n lang bok. “Ka baihat ang an ta nawh” ti pawl chun thudik an hril a, sienkhom an hnawl ruok chun mani le mani inhnawl ang an nih ti an hriet a ṭha. Bible Version a ieng khom hi a ṭha tak a um thei naw angin, DV khom hi siem phuisui pei ngai a nih. Ni tinin mihriem khawsak dan le an ṭawng hmang hi inthlak tung pei a ni leiin, kum sawm dana bek ennon a, siem phuisui ngaihai chu siem ṭhat pei a ṭha. Pi le puhai ṭawngkam mawi som tunga sukhring pei nuomna leia ei hlu luthai khom a hmangtu an um ta naw hnung chun inro hle inla khom ṭawngkam thara thlak rin lo ding a nih. Inthlak nuomna le ngamna hi malsawmna hnăr a nih.
+
+Zoram Khawvel
+
+A kharna dinga ka hmang nuom chu Zo hnathlak po po inlawi khawmna ding inpui ZORAM KHAWVEL a pieng hi a nih. Wellington (New Zealand)-a inthoka Jakarta (Indonesia) tienga an mi son, ka suok hma kar hni chauhah Rangoon tieng pan lem dingin an mi hung ti nawk thut a. Thlang ei tlak hmaa eini rawi chengna rama fe chu ka duthusam a lo ni hlak ang hrimin, April 1986 khan Rangoon-ah ka lut a, mani khuoa lut ang charin ka ngam nghal a. Sawt naw te hnungah Gen. Ne Win sorkar lakah mipuiin zalenna ngena phusa an ṭan khan a mi nang el bakah a kûl a tâia ṭhangpuitu takah an mi hmang zui ta pei a. Ne Win inban hnunga sipaiin sorkarna an lak khan mi tam tak India le Thailand-ah an tlăn lut a. Chandel (Manipur) le Champhai (Mizoram) refugee camp-ah kan sie tawl a. Chuonghai chu kan ding le an khawsak pei dan ding ngaituo dingin Rangoon-a inthokin March 1989 khan ka hung vuong thla a. Mizoram ka sirna hmasa tak a ni leiin ka thil hmuhai chu inchuom phuorin Rangoon tieng ka kir hnung chun ka ziek a. Hi hi Lusei-Mizo ṭawnga lekhabu ka ziek hmasa tak a nih. A bu hming ding kan ngaituo lai chun, Rangoon-a inpui taka ka hmang Rev. Lal Sawithanga chun, “Zoram khawvel hi i hril ngun bok a, chu chu a bu hmingah hmang la a ni el annawm” a ta. “A ni awm takluo ie!” tiin ka hmang tah a nih. Kum 1991 khan a hung suok a, chu kuma Mizo Academy of Letters (MAL) BOOK OFTHE YEAR chu a dong nghe nghe a. Hi kum sunga Mizorama lekhabu suok po po laia a ṭha taka puong a ni khelah Mizoram puo tienga cheng ziektu kuoma hieng ang chawimawina hi an inhlanna hmasa tak (le nuhnung tak khom) a la nih. Hi hnung kum sawm sungin Zoram Khawvel bu riet bakah lekhabu poimaw pathum dang ka ziek bok a.
+
+Kawl ram buoina le inzoma refiuzi anga ram hrang hranga inpêm, abikin USA-a singhni chuong hiela tama insâl, umhmun nghet khuora cheng tah hai hi vangduoina chunga vangneina intluntu, Zoram khawvel ta dinga thiemna le sum hnar, Kawl ram a hung intuoi thar mek laia ei mi le sahai ngirhmun tungding peinaa ei innghatna ban tak an hung ni tah pei a nih. Hieng lai chanchin hi chik taka suia ziek hun a um ngai a ni chun, inril taka Zoram Khawvelin ṭhang a lak dan le hi politiks ṭawngkam ‘zoram khawvel’ ti hin Zo hnathlak po po lungril taka a mi hui khawm pei dan le, hnampuia dam khawsuok ding chun hi inpuia inlawi tlang a poimawzie dam la hung hre chieng deu deu ei tih. Hi inpui tluka zau le keng rawn hi Zo hnathlakhai ta dingin in dang a um nawh. Ram le hnam indin ei ti hih hmathlir hla tak nei a, takchapa ti-a lungril le tha le zung po po senga ṭhang a ngai. Chawl hman ei ni nawh.
+
+Thu Khârna
+
+Hi thu hi lekhabu sa tham tak ziek ding a um laiin, ka tonhriet laia ṭhenkhat chauh entirnaa hmanga sin tam tak kara inchuom phuora ka hung ziek hi tiemtuhaiin theina ei kol seng indapna remchanga hmanga thiem taka in lo dong sawng ka beisei.
+
+(October 10, 2020 Saturday, Delhi)

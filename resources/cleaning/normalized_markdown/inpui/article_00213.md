@@ -1,0 +1,112 @@
+# Chang Dan Mawi (Car Etiquette)
+
+* **Source URL:** [https://inpui.blogspot.com/2013/04/chang-dan-mawi-car-etiquette.html](https://inpui.blogspot.com/2013/04/chang-dan-mawi-car-etiquette.html)
+* **Date:** `2013-04-16`
+* **Source Archive:** `inpui`
+* **Hmar Ratio:** `0.88`
+
+---
+
+Pu L. Keivom, inpui.com columnist
+
+Thil iengkim hin kalhmang amani konglam a nei sengzie hrilna dingin ei pi le puhai chun, “Mazu khomin kong a nei” an lo ti hlak a. Chuonga thaw dan hmang, hmun hrang hranga hnam tum tumin ei chîng suokhai chu ei kalchar, ei nunphung ei ti hi a nih. Chu chu ei nina hriltu, ei aidentiti aia ngir a ni leiin chuong ei khawsak dan le nungchang puthmanga inthok chun hnam dangin ei nina an inkhi hlak a nih. Chang dan mawia hmun khata khawtlangin a pom le a zui hlak anga khawsa nawtu chun mawl le intlawk ni a hlaw a, a khawsatu ruok chun var le inpak a hlaw hlak.
+
+Eini rawi hi chinchang ei hrietna tienga chu mi fel tak tak ni inla khom ei hriet nawna zawnga chu hmeithai chem nêka mawl ei ni tawl a. Ram kilkhawra inthokin Delhi tlangah ei hung chuong kai a, hnam changkang lemhai khawsak dan ṭhahai inchûka ramṭang nêkin eini rawi, a mawl le a mawl bok ei inpawl a, changkang inti fein
+
+khaini
+
+ei hei inṭhe a, chu poison chu ei kam sîrah ei beng lut thoi a, a poison po ei lem a, a dang po ei peisâk a, van thumnaa chuong kai ta angah ei inngai a. Ei kawl le kieng ei hang ngha vêl hlak chun, chuong ang thil chîngtuhai chu Vai lai khoma a mi se tak le hnuoihnung tak, an Hindu nipuihaiin vok ang tluka an ngaihai deu chauh an lo ni bok si! Nuom inla, nuom naw inla, ieng angin inchei nam zur inla khom, chu chu ei thaw sung chun chuong mihai ang char chun ei inngai tina a nih. Five Star Hotel chu hril lo, Three Star hotela tlung,
+
+khaini
+
+beng puk puk in hmu ta hlak am? Eini chun biek in sunga chen ei hmuom lut nuom a nih.
+
+‘Mawl’ ei ti hi thil chinchang amanih ningkhong hriet lo tina a na, ‘invet/intlaw’ tina a ni nawa chu invet le intlawk hlaw theina a nih. Lekha tiema inthokin amani, mi thaw dan ngun taka thlithlai a, an thaw dan anga thaw ve tumna amani, television-a mi khawsak dana inthoka inchuk amani le mani insunga inzirtirnaa inthokin amanih ningkhong indik le chang dan mawi inchuk thei a nih. A tawp taka khaikhawmtu chu hrietna a nih. Inchuk loa hriet le thiem thei hi a vang khop el. Miin thil a hriet tak tak pha chu a ni dan ding ang taka mi thaw dan angin a thaw ve a, ningkhong hrie a hung ni el a nih. Thil ṭha naw a nih ti hrea la chîng zingtu chun a a thil chîng umzie chu a la hriet chieng tak tak naw lei le a la hmu fie tak tak naw lei a ni nuom hle.
+
+Fangson le thilthawnaah hrim hrim hin thaw dan tlangpui pathum a um a. Pakhat chu ‘
+
+Formal
+
+’ a na, thaw dan dinga ngai anga indik taka a bua ang thlapa thaw tina a nih.
+
+Diplomatic formal function
+
+-a chu mani ram sengin chuong ang huna hak dinga thuom an bituk anga inchei a ngai. Hnam thuoma inbel nia thuom dang hak chu a mawi naw chauh ni loin thaw dan a ni nawh. Chuleiin, ieng anga lum khom ni sien,
+
+suit
+
+hak le
+
+necktie/bowtie
+
+sui a ngaina hmun a ni chun thaw ngei ngei ding a ni el. Sorkar indawrnaa chu mani ram sengin
+
+‘formal dress’
+
+dinga an bituk ngei hak kha inthuom dan indik tak chu a nih. Pahnina chu
+
+‘Informal’
+
+a na, chu chu a dan ang thaw chu ni si, sienkhom zal deu hlek, mawihnai le inzaum si, tina a nih. Thuom hak ding bituk um naw sien khom inzaum taka inchei a ngai. Pathumna chu
+
+‘Casual’
+
+a na, chutaka chun bazar fenaa ei incheina chen khom hak thei a na, sienkhom ei fenaa ei thilthaw ding le inhme le inchawi tawka inchei a ngai.
+
+Entirnan, mithi inthla le vui hang hmang inla. A vuitu Pastor ta ding chun a hun hmang chu khûn taka ser le sang a thaw ni a ni leiin, chu hun chu ‘formal function’ a na, a thiempu zakuo a hâk ngei ding a na, a lo remchang naw a ni khomin inzaum taka incheiin a hung ngei ding a nih. Ram hmasawna chu mithi vuia hunghai hrim hrim chun lusun nia hâk chi
+
+formal dress
+
+an hak vong hlak a, dannaranin a rong dum a nih. Eini rawi chu chuong chu ei ngirhmunin a la phak ve naw leiin ei thuom nei ang ang leh ei fe a, a ṭha tho. Chuong a ni lai zingin, a hun le hmun le inchawi tawka inchei a ngai a, par uoia lêr taka inchei amani le
+
+holiday
+
+resort
+
+-a khawsa ang ela kekor bûl le tawnzau le ‘
+
+casual
+
+’ taluoa fe khom a mawi chuong bok nawh. Biek ina chawibiek inkhawma kekor bul le tawnzau le fe a mawi naw ang bokin mithi inlenga fe khom a mawi chuong nawh.
+
+Casual dress
+
+hak hun chu bazar kai dam, ruolhai le inpawl hun dam le ina um hadam hun dam a ni tak.
+
+Hienghai hi a thu hongna dinga ka hung hmathe mei mei a nih. Thil iengkimin thaw dan hmang a nei vong a, tuta ṭuma ka hril tum chu a thupui ding eini ṭawnga zuk phuok dan ka hriet naw leiin ‘
+
+Car Culture’
+
+ka ti top el a nih. Bus/taxi a chuong dan ni loin mi car-ah chuong phaa hriet ding poimaw ei hril ding a nih.
+
+Sungkuo tinin thlaithleng ei ot changa ṭhungna bik ei nei ang hin car chuong thua khom hin thaw dan tlangpui a um a. A thupui tak chu, a hmaa inṭhung le a hnunga inṭhung thu a nih. Chu chu a khaltu zirin thaw dan a danglam:
+
+Driver khal a ni chun:
+
+Driver sortu kha dannaranin seat hnungah an inṭhung hlak. India rama chu sorkar ofisar-hai hi driver ṭhungna ni lo tieng pangah an inṭhung a, an mawtora chuong ve chang khomin an seat kha inchupui lo ding a nih. Ram ṭhenkhat, entirnan New Zealand-a dam chu Minister/Ofisar hai kha driver sirah an inṭhung. An sawsaitiah mi hnuoihnung le chunghnung bik an sie ta nawh ti inhrietna a nih. Driver seat hnung char hi Memsahib inṭhungna dinga ngai a ni leiin, a thei chun inchupui lo a ṭha bok. Hi hi a remchangna pakhat chu, driver a suok khan memsahib kha kot a hongpek nghal thei a nih. Driver-in naupang a phur pha ruok chu, naupang mania seat belt hmang thei chin chu a hmaah an inṭhung hlak. Naupang chedek ruok chu a hnung seat-a sie ngei ngei a ni hlak, eksiden thilah him lema ngai a ni leiin.
+
+A neitu khal a ni pha chun
+
+A neitu khal a ni pha ruok chun a hmaa seat hau theitu nambar 1 chu a nuhmei a nih. Naupang chîn an ni lai chun an pahai kuoma ṭhung nuomin nauhaiin an nu seat an inchupui rop a, an hluotir ngei hlak. Pasalte an um chun an chang hmasa tak a, an chuong nuom naw ruok chun an nau danghaiin an inchu chau hlak. Amiruokchu, naupangin khuo an hung hriet hnung chun dannaranin nu ṭhungna an inchupui ta ngai nawh.
+
+Chun, a khaltu khan a ruol ṭha amani mi seniar deu le mani sungkuoa mi inzaum a phur chun,
+
+front seat
+
+kha a nuhmeiin inchu loin an mikhuol laia a seniar taka ngai kha an inchuongtir hlak. Entirnan, Pu Kawllienthang car-ah chuong ta lang, a man khal bok sien la, an nu Pi Haulientlingin hoihawm inentirna dingin a ṭhungna min ken a ta, an pa sirah inṭhung ka ta, ama chu kan nu a um chun an pahniin a hnungah
+
+memsahib
+
+takin inṭhung an tih. Chu kalchar chu nuhmeiin an hriet a ngai.
+
+A chang ruok chun, nuhmei an titi nuom leiin pasal kha driver-ah ei ṭhang a, eini chauin a hmaah ei inṭhung a, siehlaw phurin ei phur a, anni hlak
+
+memsahib
+
+ṭhungin ngai ṭha takin an inṭhung bok hlak. Nu invongup deuhai chun chuonga an pasalhai driver anga hmang chu an thaw ngai zen zen nawh.
+
+Hriet ding poimaw tak chu, mi car-ah i chuong pha, a hma tieng a khaltu sirah mi tu khom an chuong naw chun chu taka chun inṭhung hlak rawh. Mi pahni amani pathum in ni chun nangni laia pakhat kha a khaltu sirah inṭhung ngei raw se. Chuong ni loa a hnung tieng in inṭhung vong chun a neitu kha driver angin in hmang tina ang a ni leiin chang dan mawi a ni nawh. Chu bakah, a khaltu kha hmel inzaum tak a ni chun mi a hmutuhai cheuin siehlaw ruol a phur khawm sawn pal rawi an ti cheu, a san chu car neituin a siehlawhai a phur pha a hnungah an ṭhungtir ngei ngei hlak. Hi
+
+Car Culture
+
+hi hre lo, ka car-a chuong iemani zat ka phur ta a, an hriet tlat naw leiin an thaw suol ti khom an hriet nawh. Hriet nawna hi invet thei tak a nih. Hieng naw khom hi hril ding tam tak a la um a, tuta ṭuma ding chun la hun phot raw se. Pên khat peiin tie.

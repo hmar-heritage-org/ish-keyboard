@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>18.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Info>
+    <Name URL="">ISH Keyboard</Name>
+    <Version URL="">1.1.0</Version>
+    <Copyright URL="">© Hmar Heritage Foundation</Copyright>
+    <Author URL="">Hmar Heritage Foundation</Author>
+  </Info>
+  <Files>
+    <File>
+      <Name>hmar_ish.kmx</Name>
+      <Description>Keyboard hmar_ish</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>hmar_ish.js</Name>
+      <Description>Keyboard hmar_ish</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>ISH Keyboard</Name>
+      <ID>hmar_ish</ID>
+      <Version>1.1.0</Version>
+      <Languages>
+        <Language ID="hmr">Hmar</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+</Package>

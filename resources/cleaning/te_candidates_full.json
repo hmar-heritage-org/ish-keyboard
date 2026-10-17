@@ -1,0 +1,3410 @@
+[
+  {
+    "word": "berâmte",
+    "stem": "berâm",
+    "ish_form": "berâm te",
+    "count": 306,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "state",
+    "stem": "state",
+    "ish_form": "state",
+    "count": 272,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "vate",
+    "stem": "vate",
+    "ish_form": "vate",
+    "count": 244,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "tlawmte",
+    "stem": "tlawm",
+    "ish_form": "tlawm te",
+    "count": 243,
+    "category": "Adverbial / Qualifier",
+    "note": "Descriptive/qualifying particle (Review: Separate vs Single)"
+  },
+  {
+    "word": "naute",
+    "stem": "naute",
+    "ish_form": "naute",
+    "count": 139,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "tlâwmte",
+    "stem": "tlâwm",
+    "ish_form": "tlâwm te",
+    "count": 133,
+    "category": "Adverbial / Qualifier",
+    "note": "Descriptive/qualifying particle (Review: Separate vs Single)"
+  },
+  {
+    "word": "pudaite",
+    "stem": "pudaite",
+    "ish_form": "pudaite",
+    "count": 120,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "vote",
+    "stem": "vote",
+    "ish_form": "vote",
+    "count": 92,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "chikte",
+    "stem": "chik",
+    "ish_form": "chik te",
+    "count": 75,
+    "category": "Adverbial / Qualifier",
+    "note": "Descriptive/qualifying particle (Review: Separate vs Single)"
+  },
+  {
+    "word": "tawite",
+    "stem": "tawi",
+    "ish_form": "tawi te",
+    "count": 73,
+    "category": "Adverbial / Qualifier",
+    "note": "Descriptive/qualifying particle (Review: Separate vs Single)"
+  },
+  {
+    "word": "chite",
+    "stem": "chi",
+    "ish_form": "chi te",
+    "count": 69,
+    "category": "Adverbial / Qualifier",
+    "note": "Descriptive/qualifying particle (Review: Separate vs Single)"
+  },
+  {
+    "word": "songate",
+    "stem": "songate",
+    "ish_form": "songate",
+    "count": 69,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "varte",
+    "stem": "varte",
+    "ish_form": "varte",
+    "count": 68,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "zote",
+    "stem": "zote",
+    "ish_form": "zote",
+    "count": 62,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "note",
+    "stem": "note",
+    "ish_form": "note",
+    "count": 54,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "sawtnawte",
+    "stem": "sawtnaw",
+    "ish_form": "sawtnaw te",
+    "count": 54,
+    "category": "Adverbial / Qualifier",
+    "note": "Descriptive/qualifying particle (Review: Separate vs Single)"
+  },
+  {
+    "word": "website",
+    "stem": "website",
+    "ish_form": "website",
+    "count": 48,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "bâwngte",
+    "stem": "bâwng",
+    "ish_form": "bâwng te",
+    "count": 46,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "vadungte",
+    "stem": "vadung",
+    "ish_form": "vadung te",
+    "count": 44,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "kêlte",
+    "stem": "kêl",
+    "ish_form": "kêl te",
+    "count": 42,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "sinate",
+    "stem": "sinate",
+    "ish_form": "sinate",
+    "count": 38,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "nawte",
+    "stem": "naw",
+    "ish_form": "naw te",
+    "count": 35,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "naupangte",
+    "stem": "naupang",
+    "ish_form": "naupang te",
+    "count": 33,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "sungte",
+    "stem": "sungte",
+    "ish_form": "sungte",
+    "count": 32,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "graduate",
+    "stem": "graduate",
+    "ish_form": "graduate",
+    "count": 32,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "vairengte",
+    "stem": "vairengte",
+    "ish_form": "vairengte",
+    "count": 30,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "tuolte",
+    "stem": "tuolte",
+    "ish_form": "tuolte",
+    "count": 29,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "paite",
+    "stem": "paite",
+    "ish_form": "paite",
+    "count": 27,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "institute",
+    "stem": "institute",
+    "ish_form": "institute",
+    "count": 27,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "bâwkte",
+    "stem": "bâwk",
+    "ish_form": "bâwk te",
+    "count": 26,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "date",
+    "stem": "date",
+    "ish_form": "date",
+    "count": 25,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "biete",
+    "stem": "biete",
+    "ish_form": "biete",
+    "count": 24,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "tlumte",
+    "stem": "tlumte",
+    "ish_form": "tlumte",
+    "count": 24,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "pulamte",
+    "stem": "pulamte",
+    "ish_form": "pulamte",
+    "count": 23,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "kâwite",
+    "stem": "kâwite",
+    "ish_form": "kâwite",
+    "count": 22,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "candidate",
+    "stem": "candidate",
+    "ish_form": "candidate",
+    "count": 22,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "ngurte",
+    "stem": "ngurte",
+    "ish_form": "ngurte",
+    "count": 20,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "chemte",
+    "stem": "chemte",
+    "ish_form": "chemte",
+    "count": 18,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "intoate",
+    "stem": "intoate",
+    "ish_form": "intoate",
+    "count": 18,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "sabengtungte",
+    "stem": "sabengtung",
+    "ish_form": "sabengtung te",
+    "count": 17,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "sanate",
+    "stem": "sanate",
+    "ish_form": "sanate",
+    "count": 17,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "beramte",
+    "stem": "beram",
+    "ish_form": "beram te",
+    "count": 17,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "bawkte",
+    "stem": "bawk",
+    "ish_form": "bawk te",
+    "count": 16,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "pârvate",
+    "stem": "pârvate",
+    "ish_form": "pârvate",
+    "count": 15,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "fimate",
+    "stem": "fima",
+    "ish_form": "fima te",
+    "count": 15,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "pangamte",
+    "stem": "pangamte",
+    "ish_form": "pangamte",
+    "count": 15,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "private",
+    "stem": "private",
+    "ish_form": "private",
+    "count": 15,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "infimate",
+    "stem": "infimate",
+    "ish_form": "infimate",
+    "count": 14,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "nite",
+    "stem": "ni",
+    "ish_form": "ni te",
+    "count": 14,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "footnote",
+    "stem": "footnote",
+    "ish_form": "footnote",
+    "count": 13,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "pakhuongte",
+    "stem": "pakhuongte",
+    "ish_form": "pakhuongte",
+    "count": 13,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "joute",
+    "stem": "joute",
+    "ish_form": "joute",
+    "count": 13,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "gate",
+    "stem": "gate",
+    "ish_form": "gate",
+    "count": 13,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "doctorate",
+    "stem": "doctorate",
+    "ish_form": "doctorate",
+    "count": 12,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "gangte",
+    "stem": "gangte",
+    "ish_form": "gangte",
+    "count": 12,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "kelchalte",
+    "stem": "kelchal",
+    "ish_form": "kelchal te",
+    "count": 12,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "hrangate",
+    "stem": "hrangate",
+    "ish_form": "hrangate",
+    "count": 12,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "damte",
+    "stem": "dam",
+    "ish_form": "dam te",
+    "count": 11,
+    "category": "Adverbial / Qualifier",
+    "note": "Descriptive/qualifying particle (Review: Separate vs Single)"
+  },
+  {
+    "word": "sebâwngte",
+    "stem": "sebâwng",
+    "ish_form": "sebâwng te",
+    "count": 11,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "certificate",
+    "stem": "certificate",
+    "ish_form": "certificate",
+    "count": 11,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "ralte",
+    "stem": "ralte",
+    "ish_form": "ralte",
+    "count": 11,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "puruolte",
+    "stem": "puruolte",
+    "ish_form": "puruolte",
+    "count": 11,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "famhoite",
+    "stem": "famhoite",
+    "ish_form": "famhoite",
+    "count": 10,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "rangte",
+    "stem": "rang",
+    "ish_form": "rang te",
+    "count": 10,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "lelte",
+    "stem": "lelte",
+    "ish_form": "lelte",
+    "count": 10,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "late",
+    "stem": "late",
+    "ish_form": "late",
+    "count": 9,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "chîte",
+    "stem": "chî",
+    "ish_form": "chî te",
+    "count": 9,
+    "category": "Adverbial / Qualifier",
+    "note": "Descriptive/qualifying particle (Review: Separate vs Single)"
+  },
+  {
+    "word": "thlawngate",
+    "stem": "thlawngate",
+    "ish_form": "thlawngate",
+    "count": 9,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "pate",
+    "stem": "pa",
+    "ish_form": "pa te",
+    "count": 9,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "caste",
+    "stem": "caste",
+    "ish_form": "caste",
+    "count": 9,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "minute",
+    "stem": "minute",
+    "ish_form": "minute",
+    "count": 9,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "simte",
+    "stem": "simte",
+    "ish_form": "simte",
+    "count": 8,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "substitute",
+    "stem": "substitute",
+    "ish_form": "substitute",
+    "count": 8,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "parte",
+    "stem": "par",
+    "ish_form": "par te",
+    "count": 8,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "mengte",
+    "stem": "mengte",
+    "ish_form": "mengte",
+    "count": 8,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "nêpte",
+    "stem": "nêp",
+    "ish_form": "nêp te",
+    "count": 8,
+    "category": "Adverbial / Qualifier",
+    "note": "Descriptive/qualifying particle (Review: Separate vs Single)"
+  },
+  {
+    "word": "pute",
+    "stem": "pu",
+    "ish_form": "pu te",
+    "count": 8,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "khuongte",
+    "stem": "khuong",
+    "ish_form": "khuong te",
+    "count": 7,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "ngate",
+    "stem": "nga",
+    "ish_form": "nga te",
+    "count": 7,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "rate",
+    "stem": "rate",
+    "ish_form": "rate",
+    "count": 7,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "nepte",
+    "stem": "nep",
+    "ish_form": "nep te",
+    "count": 7,
+    "category": "Adverbial / Qualifier",
+    "note": "Descriptive/qualifying particle (Review: Separate vs Single)"
+  },
+  {
+    "word": "intermediate",
+    "stem": "intermediate",
+    "ish_form": "intermediate",
+    "count": 7,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "riengsete",
+    "stem": "riengsete",
+    "ish_form": "riengsete",
+    "count": 7,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "rengte",
+    "stem": "reng",
+    "ish_form": "reng te",
+    "count": 7,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "mute",
+    "stem": "mute",
+    "ish_form": "mute",
+    "count": 6,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "tuite",
+    "stem": "tui",
+    "ish_form": "tui te",
+    "count": 6,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "nunghakte",
+    "stem": "nunghak",
+    "ish_form": "nunghak te",
+    "count": 6,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "immaculate",
+    "stem": "immaculate",
+    "ish_form": "immaculate",
+    "count": 6,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "complete",
+    "stem": "complete",
+    "ish_form": "complete",
+    "count": 6,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "quote",
+    "stem": "quote",
+    "ish_form": "quote",
+    "count": 6,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "unquote",
+    "stem": "unquote",
+    "ish_form": "unquote",
+    "count": 6,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "kutte",
+    "stem": "kutte",
+    "ish_form": "kutte",
+    "count": 5,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "nuhmeite",
+    "stem": "nuhmei",
+    "ish_form": "nuhmei te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "pasalte",
+    "stem": "pasal",
+    "ish_form": "pasal te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "pelte",
+    "stem": "pelte",
+    "ish_form": "pelte",
+    "count": 5,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "bawite",
+    "stem": "bawi",
+    "ish_form": "bawi te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "dante",
+    "stem": "dan",
+    "ish_form": "dan te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "site",
+    "stem": "site",
+    "ish_form": "site",
+    "count": 5,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "ṭaite",
+    "stem": "ṭaite",
+    "ish_form": "ṭaite",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "tapte",
+    "stem": "tap",
+    "ish_form": "tap te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "kekorte",
+    "stem": "kekor",
+    "ish_form": "kekor te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "cassette",
+    "stem": "cassette",
+    "ish_form": "cassette",
+    "count": 5,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "tlanglakte",
+    "stem": "tlanglak",
+    "ish_form": "tlanglak te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "debate",
+    "stem": "debate",
+    "ish_form": "debate",
+    "count": 5,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "sarote",
+    "stem": "saro",
+    "ish_form": "saro te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "pielte",
+    "stem": "pielte",
+    "ish_form": "pielte",
+    "count": 5,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "uite",
+    "stem": "ui",
+    "ish_form": "ui te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "bêkte",
+    "stem": "bêk",
+    "ish_form": "bêk te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "chawnghekte",
+    "stem": "chawnghek",
+    "ish_form": "chawnghek te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "chonghekte",
+    "stem": "chonghek",
+    "ish_form": "chonghek te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "hrawte",
+    "stem": "hraw",
+    "ish_form": "hraw te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "zankalmawite",
+    "stem": "zankalmawite",
+    "ish_form": "zankalmawite",
+    "count": 5,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "samṭokte",
+    "stem": "samṭok",
+    "ish_form": "samṭok te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "rawite",
+    "stem": "rawite",
+    "ish_form": "rawite",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "kongte",
+    "stem": "kong",
+    "ish_form": "kong te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "pakhumate",
+    "stem": "pakhumate",
+    "ish_form": "pakhumate",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "kungate",
+    "stem": "kungate",
+    "ish_form": "kungate",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "durte",
+    "stem": "dur",
+    "ish_form": "dur te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "tlukte",
+    "stem": "tlukte",
+    "ish_form": "tlukte",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "mansate",
+    "stem": "mansate",
+    "ish_form": "mansate",
+    "count": 5,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "khuoite",
+    "stem": "khuoi",
+    "ish_form": "khuoi te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "varakte",
+    "stem": "varak",
+    "ish_form": "varak te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "puhnuongte",
+    "stem": "puhnuongte",
+    "ish_form": "puhnuongte",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "pangulte",
+    "stem": "pangulte",
+    "ish_form": "pangulte",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "tiengte",
+    "stem": "tieng",
+    "ish_form": "tieng te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "ansate",
+    "stem": "ansa",
+    "ish_form": "ansa te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "ruote",
+    "stem": "ruote",
+    "ish_form": "ruote",
+    "count": 5,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "ngaite",
+    "stem": "ngaite",
+    "ish_form": "ngaite",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "killaite",
+    "stem": "killai",
+    "ish_form": "killai te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "kete",
+    "stem": "ke",
+    "ish_form": "ke te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "vaihmite",
+    "stem": "vaihmite",
+    "ish_form": "vaihmite",
+    "count": 5,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "chalte",
+    "stem": "chal",
+    "ish_form": "chal te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "chonghmunte",
+    "stem": "chonghmun",
+    "ish_form": "chonghmun te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "khete",
+    "stem": "khe",
+    "ish_form": "khe te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "hmarchate",
+    "stem": "hmarcha",
+    "ish_form": "hmarcha te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "puonlaisente",
+    "stem": "puonlaisen",
+    "ish_form": "puonlaisen te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "khelte",
+    "stem": "khel",
+    "ish_form": "khel te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "fente",
+    "stem": "fen",
+    "ish_form": "fen te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "pangote",
+    "stem": "pangote",
+    "ish_form": "pangote",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "saiate",
+    "stem": "saiate",
+    "ish_form": "saiate",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "saivate",
+    "stem": "saiva",
+    "ish_form": "saiva te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "zuote",
+    "stem": "zuote",
+    "ish_form": "zuote",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "ṭeite",
+    "stem": "ṭei",
+    "ish_form": "ṭei te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "pazamte",
+    "stem": "pazamte",
+    "ish_form": "pazamte",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "ankhate",
+    "stem": "ankha",
+    "ish_form": "ankha te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "zate",
+    "stem": "zate",
+    "ish_form": "zate",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "fenate",
+    "stem": "fena",
+    "ish_form": "fena te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "thilte",
+    "stem": "thilte",
+    "ish_form": "thilte",
+    "count": 5,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "selate",
+    "stem": "selate",
+    "ish_form": "selate",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "haihawte",
+    "stem": "haihaw",
+    "ish_form": "haihaw te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "lamchangte",
+    "stem": "lamchangte",
+    "ish_form": "lamchangte",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "suomte",
+    "stem": "suomte",
+    "ish_form": "suomte",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "bawlte",
+    "stem": "bawl",
+    "ish_form": "bawl te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "neingaite",
+    "stem": "neingaite",
+    "ish_form": "neingaite",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "fapite",
+    "stem": "fapi",
+    "ish_form": "fapi te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "khiengte",
+    "stem": "khiengte",
+    "ish_form": "khiengte",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "sente",
+    "stem": "sente",
+    "ish_form": "sente",
+    "count": 5,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "tatte",
+    "stem": "tatte",
+    "ish_form": "tatte",
+    "count": 5,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "bûkte",
+    "stem": "bûk",
+    "ish_form": "bûk te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "theisekate",
+    "stem": "theisekate",
+    "ish_form": "theisekate",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "theite",
+    "stem": "theite",
+    "ish_form": "theite",
+    "count": 5,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "bete",
+    "stem": "be",
+    "ish_form": "be te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "puonrite",
+    "stem": "puonri",
+    "ish_form": "puonri te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "chawnghmunte",
+    "stem": "chawnghmun",
+    "ish_form": "chawnghmun te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "denote",
+    "stem": "denote",
+    "ish_form": "denote",
+    "count": 5,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "kawite",
+    "stem": "kawite",
+    "ish_form": "kawite",
+    "count": 5,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "artuite",
+    "stem": "artui",
+    "ish_form": "artui te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "pakhatte",
+    "stem": "pakhat",
+    "ish_form": "pakhat te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "ṭhâmte",
+    "stem": "ṭhâm",
+    "ish_form": "ṭhâm te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "zawngṭate",
+    "stem": "zawngṭa",
+    "ish_form": "zawngṭa te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "bêlte",
+    "stem": "bêl",
+    "ish_form": "bêl te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "bakkhate",
+    "stem": "bakkha",
+    "ish_form": "bakkha te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "kuoite",
+    "stem": "kuoite",
+    "ish_form": "kuoite",
+    "count": 5,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "thlaute",
+    "stem": "thlaute",
+    "ish_form": "thlaute",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "sunate",
+    "stem": "sunate",
+    "ish_form": "sunate",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "zapte",
+    "stem": "zapte",
+    "ish_form": "zapte",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "tlungte",
+    "stem": "tlungte",
+    "ish_form": "tlungte",
+    "count": 5,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "hawropte",
+    "stem": "hawrop",
+    "ish_form": "hawrop te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "ârte",
+    "stem": "âr",
+    "ish_form": "âr te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "kawkte",
+    "stem": "kawk",
+    "ish_form": "kawk te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "mâite",
+    "stem": "mâite",
+    "ish_form": "mâite",
+    "count": 5,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "mêngte",
+    "stem": "mêngte",
+    "ish_form": "mêngte",
+    "count": 5,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "nâute",
+    "stem": "nâute",
+    "ish_form": "nâute",
+    "count": 5,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "pârte",
+    "stem": "pâr",
+    "ish_form": "pâr te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "puonte",
+    "stem": "puon",
+    "ish_form": "puon te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "ruongote",
+    "stem": "ruongote",
+    "ish_form": "ruongote",
+    "count": 5,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "sirvate",
+    "stem": "sirvate",
+    "ish_form": "sirvate",
+    "count": 5,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "tâtte",
+    "stem": "tâtte",
+    "ish_form": "tâtte",
+    "count": 5,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "thlêngte",
+    "stem": "thlêng",
+    "ish_form": "thlêng te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "vâihmarchate",
+    "stem": "vâihmarcha",
+    "ish_form": "vâihmarcha te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "vawkte",
+    "stem": "vawk",
+    "ish_form": "vawk te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "zâwngte",
+    "stem": "zâwng",
+    "ish_form": "zâwng te",
+    "count": 5,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "sakeibakneite",
+    "stem": "sakeibaknei",
+    "ish_form": "sakeibaknei te",
+    "count": 4,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "agate",
+    "stem": "agate",
+    "ish_form": "agate",
+    "count": 4,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "hreite",
+    "stem": "hrei",
+    "ish_form": "hrei te",
+    "count": 4,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "belte",
+    "stem": "bel",
+    "ish_form": "bel te",
+    "count": 4,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "lungte",
+    "stem": "lung",
+    "ish_form": "lung te",
+    "count": 4,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "tleirawlte",
+    "stem": "tleirawl",
+    "ish_form": "tleirawl te",
+    "count": 4,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "nungate",
+    "stem": "nungate",
+    "ish_form": "nungate",
+    "count": 4,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "mazute",
+    "stem": "mazu",
+    "ish_form": "mazu te",
+    "count": 4,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "vuite",
+    "stem": "vui",
+    "ish_form": "vui te",
+    "count": 4,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "valte",
+    "stem": "val",
+    "ish_form": "val te",
+    "count": 4,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "aite",
+    "stem": "ai",
+    "ish_form": "ai te",
+    "count": 4,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "thiltumte",
+    "stem": "thiltum",
+    "ish_form": "thiltum te",
+    "count": 4,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "bawngte",
+    "stem": "bawng",
+    "ish_form": "bawng te",
+    "count": 4,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "sawmte",
+    "stem": "sawm",
+    "ish_form": "sawm te",
+    "count": 4,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "hnamte",
+    "stem": "hnam",
+    "ish_form": "hnam te",
+    "count": 4,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "khiangte",
+    "stem": "khiangte",
+    "ish_form": "khiangte",
+    "count": 4,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "zawngte",
+    "stem": "zawng",
+    "ish_form": "zawng te",
+    "count": 4,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "cite",
+    "stem": "cite",
+    "ish_form": "cite",
+    "count": 4,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "pitarte",
+    "stem": "pitar",
+    "ish_form": "pitar te",
+    "count": 4,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "thekte",
+    "stem": "thek",
+    "ish_form": "thek te",
+    "count": 4,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "zofate",
+    "stem": "zofa",
+    "ish_form": "zofa te",
+    "count": 4,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "râmte",
+    "stem": "râm",
+    "ish_form": "râm te",
+    "count": 3,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "estate",
+    "stem": "estate",
+    "ish_form": "estate",
+    "count": 3,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "imitate",
+    "stem": "imitate",
+    "ish_form": "imitate",
+    "count": 3,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "impersonate",
+    "stem": "impersonate",
+    "ish_form": "impersonate",
+    "count": 3,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "keynote",
+    "stem": "keynote",
+    "ish_form": "keynote",
+    "count": 3,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "inanimate",
+    "stem": "inanimate",
+    "ish_form": "inanimate",
+    "count": 3,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "dite",
+    "stem": "di",
+    "ish_form": "di te",
+    "count": 3,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "sukte",
+    "stem": "sukte",
+    "ish_form": "sukte",
+    "count": 3,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "bielte",
+    "stem": "bielte",
+    "ish_form": "bielte",
+    "count": 3,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "tlangte",
+    "stem": "tlangte",
+    "ish_form": "tlangte",
+    "count": 3,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "galte",
+    "stem": "gal",
+    "ish_form": "gal te",
+    "count": 3,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "chhungte",
+    "stem": "chhung",
+    "ish_form": "chhung te",
+    "count": 3,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "polite",
+    "stem": "polite",
+    "ish_form": "polite",
+    "count": 3,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "riengte",
+    "stem": "rieng",
+    "ish_form": "rieng te",
+    "count": 3,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "sawngate",
+    "stem": "sawngate",
+    "ish_form": "sawngate",
+    "count": 3,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "ṭyte",
+    "stem": "ṭyte",
+    "ish_form": "ṭyte",
+    "count": 3,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "magistrate",
+    "stem": "magistrate",
+    "ish_form": "magistrate",
+    "count": 3,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "remote",
+    "stem": "remote",
+    "ish_form": "remote",
+    "count": 3,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "ramhuaite",
+    "stem": "ramhuai",
+    "ish_form": "ramhuai te",
+    "count": 3,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "turte",
+    "stem": "tur",
+    "ish_form": "tur te",
+    "count": 3,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "lalte",
+    "stem": "lal",
+    "ish_form": "lal te",
+    "count": 3,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "route",
+    "stem": "route",
+    "ish_form": "route",
+    "count": 3,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "sellate",
+    "stem": "sellate",
+    "ish_form": "sellate",
+    "count": 3,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "mate",
+    "stem": "mate",
+    "ish_form": "mate",
+    "count": 3,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "hlekte",
+    "stem": "hlek",
+    "ish_form": "hlek te",
+    "count": 3,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "attribute",
+    "stem": "attribute",
+    "ish_form": "attribute",
+    "count": 3,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "batchmate",
+    "stem": "batchmate",
+    "ish_form": "batchmate",
+    "count": 3,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "sakawrte",
+    "stem": "sakawr",
+    "ish_form": "sakawr te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "bâwgte",
+    "stem": "bâwg",
+    "ish_form": "bâwg te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "parvate",
+    "stem": "parvate",
+    "ish_form": "parvate",
+    "count": 2,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "feite",
+    "stem": "fei",
+    "ish_form": "fei te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "pangte",
+    "stem": "pang",
+    "ish_form": "pang te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "sakhite",
+    "stem": "sakhi",
+    "ish_form": "sakhi te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "keite",
+    "stem": "kei",
+    "ish_form": "kei te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "kelte",
+    "stem": "kel",
+    "ish_form": "kel te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "kâute",
+    "stem": "kâute",
+    "ish_form": "kâute",
+    "count": 2,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "tâwite",
+    "stem": "tâwi",
+    "ish_form": "tâwi te",
+    "count": 2,
+    "category": "Adverbial / Qualifier",
+    "note": "Descriptive/qualifying particle (Review: Separate vs Single)"
+  },
+  {
+    "word": "nâwte",
+    "stem": "nâw",
+    "ish_form": "nâw te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "slate",
+    "stem": "slate",
+    "ish_form": "slate",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "hlate",
+    "stem": "hla",
+    "ish_form": "hla te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "pakhuangte",
+    "stem": "pakhuang",
+    "ish_form": "pakhuang te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "jute",
+    "stem": "jute",
+    "ish_form": "jute",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "mirilte",
+    "stem": "miril",
+    "ish_form": "miril te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "ultimate",
+    "stem": "ultimate",
+    "ish_form": "ultimate",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "morte",
+    "stem": "morte",
+    "ish_form": "morte",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "guite",
+    "stem": "guite",
+    "ish_form": "guite",
+    "count": 2,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "undergraduate",
+    "stem": "undergraduate",
+    "ish_form": "undergraduate",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "despite",
+    "stem": "despite",
+    "ish_form": "despite",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "associate",
+    "stem": "associate",
+    "ish_form": "associate",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "naupasalte",
+    "stem": "naupasal",
+    "ish_form": "naupasal te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "advocate",
+    "stem": "advocate",
+    "ish_form": "advocate",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "stalactite",
+    "stem": "stalactite",
+    "ish_form": "stalactite",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "stalacmite",
+    "stem": "stalacmite",
+    "ish_form": "stalacmite",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "ṭhamte",
+    "stem": "ṭham",
+    "ish_form": "ṭham te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "hnaite",
+    "stem": "hnai",
+    "ish_form": "hnai te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "vapuolte",
+    "stem": "vapuol",
+    "ish_form": "vapuol te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "tete",
+    "stem": "te",
+    "ish_form": "te te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "participate",
+    "stem": "participate",
+    "ish_form": "participate",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "facilitate",
+    "stem": "facilitate",
+    "ish_form": "facilitate",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "duplicate",
+    "stem": "duplicate",
+    "ish_form": "duplicate",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "write",
+    "stem": "write",
+    "ish_form": "write",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "tolerate",
+    "stem": "tolerate",
+    "ish_form": "tolerate",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "mihriemate",
+    "stem": "mihriemate",
+    "ish_form": "mihriemate",
+    "count": 2,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "pastorate",
+    "stem": "pastorate",
+    "ish_form": "pastorate",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "therte",
+    "stem": "ther",
+    "ish_form": "ther te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "thumte",
+    "stem": "thum",
+    "ish_form": "thum te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "taite",
+    "stem": "tai",
+    "ish_form": "tai te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "tribute",
+    "stem": "tribute",
+    "ish_form": "tribute",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "dangte",
+    "stem": "dang",
+    "ish_form": "dang te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "collectorate",
+    "stem": "collectorate",
+    "ish_form": "collectorate",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "paste",
+    "stem": "paste",
+    "ish_form": "paste",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "ngente",
+    "stem": "ngente",
+    "ish_form": "ngente",
+    "count": 2,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "bekte",
+    "stem": "bek",
+    "ish_form": "bek te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "pajamte",
+    "stem": "pajamte",
+    "ish_form": "pajamte",
+    "count": 2,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "ṭhuomte",
+    "stem": "ṭhuom",
+    "ish_form": "ṭhuom te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "parate",
+    "stem": "parate",
+    "ish_form": "parate",
+    "count": 2,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "delete",
+    "stem": "delete",
+    "ish_form": "delete",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "kitchenette",
+    "stem": "kitchenette",
+    "ish_form": "kitchenette",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "promote",
+    "stem": "promote",
+    "ish_form": "promote",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "khawte",
+    "stem": "khaw",
+    "ish_form": "khaw te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "hrangte",
+    "stem": "hrang",
+    "ish_form": "hrang te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "karate",
+    "stem": "karate",
+    "ish_form": "karate",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "generate",
+    "stem": "generate",
+    "ish_form": "generate",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "concrete",
+    "stem": "concrete",
+    "ish_form": "concrete",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "white",
+    "stem": "white",
+    "ish_form": "white",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "hmangaihte",
+    "stem": "hmangaih",
+    "ish_form": "hmangaih te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "puipate",
+    "stem": "puipa",
+    "ish_form": "puipa te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "etiquette",
+    "stem": "etiquette",
+    "ish_form": "etiquette",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "chhangte",
+    "stem": "chhangte",
+    "ish_form": "chhangte",
+    "count": 2,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "laite",
+    "stem": "lai",
+    "ish_form": "lai te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "bonaparte",
+    "stem": "bonaparte",
+    "ish_form": "bonaparte",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "hunte",
+    "stem": "hun",
+    "ish_form": "hun te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "arte",
+    "stem": "ar",
+    "ish_form": "ar te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "awmte",
+    "stem": "awm",
+    "ish_form": "awm te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "hriatte",
+    "stem": "hriat",
+    "ish_form": "hriat te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "vângte",
+    "stem": "vâng",
+    "ish_form": "vâng te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "consulate",
+    "stem": "consulate",
+    "ish_form": "consulate",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "predicate",
+    "stem": "predicate",
+    "ish_form": "predicate",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "lawmte",
+    "stem": "lawm",
+    "ish_form": "lawm te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "lalberte",
+    "stem": "lalber",
+    "ish_form": "lalber te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "mawlte",
+    "stem": "mawl",
+    "ish_form": "mawl te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "wrote",
+    "stem": "wrote",
+    "ish_form": "wrote",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "nghaklakte",
+    "stem": "nghaklak",
+    "ish_form": "nghaklak te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "carbonite",
+    "stem": "carbonite",
+    "ish_form": "carbonite",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "vokte",
+    "stem": "vok",
+    "ish_form": "vok te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "israelte",
+    "stem": "israel",
+    "ish_form": "israel te",
+    "count": 2,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "hypocrite",
+    "stem": "hypocrite",
+    "ish_form": "hypocrite",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "intricate",
+    "stem": "intricate",
+    "ish_form": "intricate",
+    "count": 2,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "tungte",
+    "stem": "tung",
+    "ish_form": "tung te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "stakte",
+    "stem": "stak",
+    "ish_form": "stak te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "sete",
+    "stem": "se",
+    "ish_form": "se te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "tihte",
+    "stem": "tih",
+    "ish_form": "tih te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "thute",
+    "stem": "thu",
+    "ish_form": "thu te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "chungte",
+    "stem": "chung",
+    "ish_form": "chung te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "pathumte",
+    "stem": "pathum",
+    "ish_form": "pathum te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "zawhnate",
+    "stem": "zawhna",
+    "ish_form": "zawhna te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "hengte",
+    "stem": "heng",
+    "ish_form": "heng te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "dawngtute",
+    "stem": "dawngtu",
+    "ish_form": "dawngtu te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "thlahte",
+    "stem": "thlah",
+    "ish_form": "thlah te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "tilte",
+    "stem": "til",
+    "ish_form": "til te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "mitlawmte",
+    "stem": "mitlawm",
+    "ish_form": "mitlawm te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "toothpaste",
+    "stem": "toothpaste",
+    "ish_form": "toothpaste",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "rairate",
+    "stem": "raira",
+    "ish_form": "raira te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "favorite",
+    "stem": "favorite",
+    "ish_form": "favorite",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "pudiate",
+    "stem": "pudiate",
+    "ish_form": "pudiate",
+    "count": 1,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "puolngote",
+    "stem": "puolngo",
+    "ish_form": "puolngo te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "mawite",
+    "stem": "mawi",
+    "ish_form": "mawi te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "ralfeite",
+    "stem": "ralfei",
+    "ish_form": "ralfei te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "tawte",
+    "stem": "taw",
+    "ish_form": "taw te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "chote",
+    "stem": "cho",
+    "ish_form": "cho te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "congratulate",
+    "stem": "congratulate",
+    "ish_form": "congratulate",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "chinte",
+    "stem": "chin",
+    "ish_form": "chin te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "absolute",
+    "stem": "absolute",
+    "ish_form": "absolute",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "thuvate",
+    "stem": "thuva",
+    "ish_form": "thuva te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "zukte",
+    "stem": "zuk",
+    "ish_form": "zuk te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "dilte",
+    "stem": "dil",
+    "ish_form": "dil te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "separate",
+    "stem": "separate",
+    "ish_form": "separate",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "unite",
+    "stem": "unite",
+    "ish_form": "unite",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "rawlte",
+    "stem": "rawl",
+    "ish_form": "rawl te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "inte",
+    "stem": "in",
+    "ish_form": "in te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "thalaite",
+    "stem": "thalai",
+    "ish_form": "thalai te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "chawngte",
+    "stem": "chawngte",
+    "ish_form": "chawngte",
+    "count": 1,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "ngaihte",
+    "stem": "ngaih",
+    "ish_form": "ngaih te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "estimate",
+    "stem": "estimate",
+    "ish_form": "estimate",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "paruolte",
+    "stem": "paruolte",
+    "ish_form": "paruolte",
+    "count": 1,
+    "category": "Clan / Community",
+    "note": "Hmar/Mizo Clan, Sub-clan or Gentilic (Preserve Single)"
+  },
+  {
+    "word": "classmate",
+    "stem": "classmate",
+    "ish_form": "classmate",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "corporate",
+    "stem": "corporate",
+    "ish_form": "corporate",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "sakhmelmawite",
+    "stem": "sakhmelmawi",
+    "ish_form": "sakhmelmawi te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "hote",
+    "stem": "ho",
+    "ish_form": "ho te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "chocolate",
+    "stem": "chocolate",
+    "ish_form": "chocolate",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "vâṭhute",
+    "stem": "vâṭhu",
+    "ish_form": "vâṭhu te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "lkvarte",
+    "stem": "lkvar",
+    "ish_form": "lkvar te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "update",
+    "stem": "update",
+    "ish_form": "update",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "nominate",
+    "stem": "nominate",
+    "ish_form": "nominate",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "hmunte",
+    "stem": "hmun",
+    "ish_form": "hmun te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "directorate",
+    "stem": "directorate",
+    "ish_form": "directorate",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "artiste",
+    "stem": "artiste",
+    "ish_form": "artiste",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "mite",
+    "stem": "mi",
+    "ish_form": "mi te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "comte",
+    "stem": "comte",
+    "ish_form": "comte",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "lengte",
+    "stem": "leng",
+    "ish_form": "leng te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "takte",
+    "stem": "tak",
+    "ish_form": "tak te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "bukte",
+    "stem": "buk",
+    "ish_form": "buk te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "thuomte",
+    "stem": "thuom",
+    "ish_form": "thuom te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "tulete",
+    "stem": "tule",
+    "ish_form": "tule te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "sangte",
+    "stem": "sang",
+    "ish_form": "sang te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "cigarette",
+    "stem": "cigarette",
+    "ish_form": "cigarette",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "segregate",
+    "stem": "segregate",
+    "ish_form": "segregate",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "bawmte",
+    "stem": "bawm",
+    "ish_form": "bawm te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "chamte",
+    "stem": "cham",
+    "ish_form": "cham te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "hekte",
+    "stem": "hek",
+    "ish_form": "hek te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "ringtute",
+    "stem": "ringtu",
+    "ish_form": "ringtu te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "hmangte",
+    "stem": "hmang",
+    "ish_form": "hmang te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "chengte",
+    "stem": "cheng",
+    "ish_form": "cheng te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "pawlitisiante",
+    "stem": "pawlitisian",
+    "ish_form": "pawlitisian te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "glutamate",
+    "stem": "glutamate",
+    "ish_form": "glutamate",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "brute",
+    "stem": "brute",
+    "ish_form": "brute",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "lekhabute",
+    "stem": "lekhabu",
+    "ish_form": "lekhabu te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "delicate",
+    "stem": "delicate",
+    "ish_form": "delicate",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "malte",
+    "stem": "malte",
+    "ish_form": "malte",
+    "count": 1,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "plate",
+    "stem": "plate",
+    "ish_form": "plate",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "saisente",
+    "stem": "saisen",
+    "ish_form": "saisen te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "mandate",
+    "stem": "mandate",
+    "ish_form": "mandate",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "ziaktute",
+    "stem": "ziaktu",
+    "ish_form": "ziaktu te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "luite",
+    "stem": "lui",
+    "ish_form": "lui te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "ramte",
+    "stem": "ram",
+    "ish_form": "ram te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "sawite",
+    "stem": "sawi",
+    "ish_form": "sawi te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "pomegranate",
+    "stem": "pomegranate",
+    "ish_form": "pomegranate",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "misete",
+    "stem": "mise",
+    "ish_form": "mise te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "salute",
+    "stem": "salute",
+    "ish_form": "salute",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "opposite",
+    "stem": "opposite",
+    "ish_form": "opposite",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "senate",
+    "stem": "senate",
+    "ish_form": "senate",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "dawngmate",
+    "stem": "dawngma",
+    "ish_form": "dawngma te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "bute",
+    "stem": "bu",
+    "ish_form": "bu te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "taste",
+    "stem": "taste",
+    "ish_form": "taste",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "indefinite",
+    "stem": "indefinite",
+    "ish_form": "indefinite",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "dîlte",
+    "stem": "dîl",
+    "ish_form": "dîl te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "create",
+    "stem": "create",
+    "ish_form": "create",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "spite",
+    "stem": "spite",
+    "ish_form": "spite",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "ahte",
+    "stem": "ah",
+    "ish_form": "ah te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "mihringte",
+    "stem": "mihring",
+    "ish_form": "mihring te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "hmolte",
+    "stem": "hmol",
+    "ish_form": "hmol te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "fate",
+    "stem": "fate",
+    "ish_form": "fate",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "lenrualte",
+    "stem": "lenrual",
+    "ish_form": "lenrual te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "rêngte",
+    "stem": "rêng",
+    "ish_form": "rêng te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "kaute",
+    "stem": "kaute",
+    "ish_form": "kaute",
+    "count": 1,
+    "category": "Lexicalized Noun",
+    "note": "Independent root noun: bird, sickle, baby, knife, plant (Preserve Single)"
+  },
+  {
+    "word": "casette",
+    "stem": "casette",
+    "ish_form": "casette",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "acute",
+    "stem": "acute",
+    "ish_form": "acute",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "punte",
+    "stem": "pun",
+    "ish_form": "pun te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "sophisticate",
+    "stem": "sophisticate",
+    "ish_form": "sophisticate",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  },
+  {
+    "word": "ropuite",
+    "stem": "ropui",
+    "ish_form": "ropui te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "ṭhinte",
+    "stem": "ṭhin",
+    "ish_form": "ṭhin te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "ṭhalaite",
+    "stem": "ṭhalai",
+    "ish_form": "ṭhalai te",
+    "count": 1,
+    "category": "Diminutive / Clitic",
+    "note": "Diminutive marker on noun/animal: berâm te, bâwng te, vadung te (Separate)"
+  },
+  {
+    "word": "waste",
+    "stem": "waste",
+    "ish_form": "waste",
+    "count": 1,
+    "category": "English Loanword",
+    "note": "English vocabulary ending in -te (Preserve Single)"
+  }
+]

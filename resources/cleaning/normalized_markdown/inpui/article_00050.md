@@ -1,0 +1,68 @@
+# CENTENARY DARTHALANG-3
+
+* **Source URL:** [https://inpui.blogspot.com/2010/03/centenary-darthalang-3.html](https://inpui.blogspot.com/2010/03/centenary-darthalang-3.html)
+* **Date:** `2010-03-05`
+* **Source Archive:** `inpui`
+* **Hmar Ratio:** `0.87`
+
+---
+
+By Pu
+
+L.Keivom* Inpui Columnist
+
+If we abide by the principles taught by the Bible,
+
+our country will go on prospering.
+
+-Daniel Webster (1782-1852)
+
+Centenary Darthlalang 1-2
+
+a khan Gospel zara hamṭhatna le malsawmna ei dong dan le kohran sunga buoina a hung suok hnunga Arthatzawl pawlitiks le Coleman Factor-in a mi nghong buoi dan iemani chen ei bi ta a. Tu hin ei thuring le inchuktirna le chuonghai chu ei khawsak phung le khawtlang nun le hoihera rong an insuo dan a ṭhen chauh hang bi vak ei tih.
+
+Thuring le inzirtirna
+
+Hnam tinin an ngaituo le suongtuo phak tawk sengin, anni neka thil thaw thei lem umin an ring a, chu chu tlon le biek lungawi tumin an inthawi hlak. Chuong ang ringna le thilthaw ei hril changa ṭawngkam ei hmang chu ‘Sakhuo’ ti a nih. Ei pi le puhai khomin hnuoi le van siemtu um dingin an ring a, chu chu hming hrang hrangin an ko a. Chuong laia ei hriet lar deu chu Khawzing, Khuonu-Khuopa, Khuovang, Vana Pa, Pathien le a dang dang an nih. Chun, hri le natna le vangduoina chi hrang hrang intlun theitu umin an ring bok a, chuonghai chu dannaranin thlarau ṭha loah an ngai a, a hmingah ‘Huoi’ an tih. Ei pi le puhai khan thing le lung bul be angin ei hril hlak a, sienkhom an biek tak chu tuta ‘Pathien’ tia ei ko tah hi a nih. Huoi chi hrang hrang, an chunga harsatna siemtu nia an hriethai chu tlon lungawi tumin an kuomah an inthawi hlak a, sienkhom Pathien ang chun an biek ngai nawh.
+
+‘Ramhuoi biek’ ti ṭawngkam hi kristien ei ni hnunga pipu sakhuo betuhai hrilna dinga ṭawngkam ei ser thar a nih. Tu lai ṭawnga hril chun, ‘ramhuoi biek’ umzie chu ei hma sukkuokna dinga thuneitu amanih mi dâltu ei suklungawi ang hi a nih. Chu chu ‘thambiek’ amanih ‘thamtlon’ ti ding ni awm tak a nih. Inthamna hi ramhuoi biekna chi khat a nih. Thamna latu chu ramhuoi chi khat a nih. Hla phuok thiem Rokunga chun, “Chanchin Ṭhain kan ramah, ramhuai a um bo ta” a lo ti a, uong takin thimna lal ei sakkhum hlak. Ama hlak lawmin a’n nui ver ver si. Ieng leiin am? Ramhuoi hnot boa ei inngai tah leiin vantirko thuom lem inbelin eini lai ngampa takin an khawsa a, ei pulpit chen lemchangna zawlah ei inchangtir tah a nih. Tien laia ei huoi neihai kha chu arkhong khoma thawi lungawi thei an ni a, tu laia ei huoi kolhai ruok hi chu Singa, Nuoia, Duoia le Awna vong an ni tah leiin a sing, nuoi, maktaduoi le tlukledingawn zawnga inthawi naw chun an kut a chàng ta nawh.
+
+Chun, ei pi le puhai khan thil thieng lo nia an ngai, puithuna (superstition) tam tak an nei a. Chuong thil thieng lohai chu an thaw chun an chungah thil ṭha lo hung tlung ngei dingin an ring. Hieng puithunaa an ngai ṭhenkhat hi chu an mawlna lei dam a ni laiin, chik taka ei sui chun, a tam lem hi thil ṭha lo an thaw ding vengna hmangruo poimaw a nih. Thaw thieng lo, thil ṭha lo an thaw chun a nghong amanih a kakhawk, Sanskrit ṭawnga a ‘pâp’ an ti chuh tuor dinga inngaina an nei leiin, chuong thil thaw laka chun kut an intim hlak. Hieng lei hin ei pi le puhai kha kristien ei ni hma daih khan kristien ṭha lem an lo ni a nih. Chu inzirtirna chu kristien hmasahai khom khan lungrilah an la pai zing leiin Pathien thu awina tieng an la lak run hle a, Pathienni bawsiet khom Mosie hun laia Sabat (Chawlni) bawsiet ang tlukin an ngai a, an inser thienghlim hrim a nih.
+
+Ringtu hmasahaiin Pathien an inza dan, ṭi dan le a thu an hriet sun sun an nuna a taka an zawm dan le Centenary lawm phak, kristien intihaiin Pathien ei ṭi dan le a thu ei zawm dan hi ei centenary darthlalanga hin enkhi inla, a zie le rong indang hlei tah hleng a tih. Hi hin zawna tam tak a cho suok laiin thlûr hni chauin hang bi tlâng ei tih. Thuring le zirtirna thuhmun, Baibul pangngai tho hmang sihai lai ieng leia chuong ang danglamna chu a um thei am a na? Thutak takna le thudik indikna chu ṭhe nawi a, son hmang thei a ni? Paula ṭawngkam takin, Krista chu phel hni phel thuma thrè dar a, mani lung tluk zawng senga rong le zierang tum tum inputtir thei a ni?
+
+Ringtu hmasahai kuoma khan mawl takin Chanchin Ṭha, thlarau sandamna thu an lo hril a, ‘Pathien thu awi ta ro’ tiin an fiel a. Awia pomtu poin hming an pek a, ramhuoi tlon lungawina dinga a kuoma an inthawi hlak chu an bansan a, ‘Pathien thu awi’ mi, Krista Isu hnung zuitu, kristien an hung ni tah a nih. An biek Pathien chu kha hma khoma an lo biek, sienkhom an hriet chieng lo Pathien tho kha a nih. Hi ngirhmun hi chieng takin Pastor Thangngur chun Hmar ṭawnga hla a phuok hmasa takah hieng ang hin a lo hril a:
+
+Sandamtu hi ka hriet hma chun,
+
+Mi dang Pathien ka lo sawn a;
+
+A chanchin ṭha ka hang tiem a,
+
+Ka Pa, ka’n hmangsan khah a nih.
+
+Pathien thu awi, ringtu, kristien, thlarau suol ‘huoi’ hrang hrang chunga thuneitu Iengkim LALPA chu Pathiena nei mi an ni tak leiin an mawl dan le hriet phak tawk ang peiin ringum tak le ṭhahnemngai takin a thu inchuktira an um chu an zawm a, bawsiet an inlau a, an lo bawsiet palh a ni khomin an lungril a sun a, Pathien hremna tuor dinga an inring tlat leiin a hmaah kûnin ngaidam an inhni mol mol hlak. Khaw ṭhenkhata lem chu nuhmei-pasal inngai-melna leia uire an ṭi leiin, chawibiek inkhawmah nuhmei le pasal inhnung sonin, bang khing tieng ve ve nghain an ṭhung hiel hlak a nih. Mi huon le loa thlai le thei ra hrim hrim a neitu phalna hni hmasa zet lo chun an lak ngai nawh. Miin hmu naw hai sien khom Pathienin a hmu zing a nih ti an ring leiin, arûka thil ṭha lo le indik lo thaw an nuom chang le thaw theina ding hun remchang an hmu khomin, Pathien inzàna le trìna leiin, kut an intìm hlak. Hi hi kristien ei hung ni hma khoma an zepui ditum laia pakhat chu a lo ni ve hrim hrim.
+
+Kristien ei hung ni sawt deu deu a, Pathien ṭina le inzàna pung deu deu ding ni awm tak, ieng leia a letlinga thil a hung inher am ning a ta? Pathien thu awi le zawm nuom lo, Pathien ṭina nei lo, hremhmun chauh ṭi ringtu ei tam em em hi ieng lei am ning a ta? A san lien tak pahnih a um thei a, chu chu a nih ei bi nuom tak chuh.
+
+Pakhatna
+
+, pipu huna ramhuoi tlon lungawi tuma an inthawi changa dawha hmanga thiempuin hlèm lungawi a tumna lungrilin a mi ṭhuoi lei a ni thei. Ran thata ramhuoi kuoma an inthawi changin, fak tling lo a sa ṭha nawna lai lai thiempuin a at thlak a, chu chu ramhuoi ta dingin a’n hlàn a, a sa ṭhatna lai po ama fak dingin a hawn hlak. Chu chun ramhuoi chu nuom nuoma hlèm lungawi thei dingin an inring ti a kawk. Ringtu intihai lai hin chuong ang thawthanga Pathien ngai pawl ei tam khop el. Pathien kuoma thilpek ei inhlân changin ei thil nei laia hlu tak nekin ei dit ta lo le hmang ta lo, ei hmunhnok laia mi phal takin ei pek a, thil hlua ei ngai ruok chu ei pek phal naw tlangpui. Ei lungril tempula Laltak ni dingin Isu ei fiel a, sienkhom ei hmang nuomna tak chu nuom nuoma tirkat a nih. Vengtu (Guard) sin, damnaw enkol (doctor) sin, malsawmna, hlawtlingna le hmingthangna tinrenga mi vurtu sin thaw dingin ei dit a; ei nuom zawng thil thaw ei tum pha, entirnan thaw lo hlaw le thamna ei lak ding pha amanih, ei hma tham kuok ei tum chang amanih ruok chu hnoksaka ei ngai leiin ei hnot hmang dai hlak. Ei Pathien ngai dan le hmu dan hi a fuk naw a hoi khop el.
+
+Pahnina
+
+, piengtharna le inzoma sandamna bo thei lo thu ei inchuktir danah thil fel hlel a um niin a’n lang. Pipu huna pielral kai theina um sun chu in le rama thangsuo a nih. Chuong thangsuohai chun ieng ang thil khom thaw hai sien, an thangsuona a bo thei naw a, pielral an chàn thei bok nawh. Kristien ei ni hnunga thangsuo ngirhmun hung thlaktu chu ‘piengtharna’ ei ti hi a nih. Hi hi kum 1960 vela inthoka hung inlâr ṭan chauh a nih. Tuia le thlaraua pieng ei ti tak hi Johan 3: 1-21 a Isu le Nikodem inbieknaa inthoka hung suok a ni lai zingin, chieng taka a umzie hrilfiena ziek a ni naw leiin hril dan a saisa nuoi a nih. Lunginsietna zara a thlawna thlarau sandamna Pathienin a Naupa Isu Krista hmanga a hung buotsai ringtu le pomtu taphot chun chatuon hringna nei dingin ei inzirtir a, chuonghai chu ‘piengthar’ tiin ei hril. Sandamna chu chatuon dai, bo hmang thei ta lo dinga inzirtir pawl ei um a, chuonghai laia mi chu eini rawi a tam lem hi ei nih. Roman Catholics, Pentecostal le kohran ṭhenkhat ruok chun sandamna hi bo thei dingin an inzirtir thung.
+
+Piengtharna chu thangsuona, pielral kotsuo lut theina le chatuona chu hmuna cheng theina tiket se thei lo le bo thei loa ei ngai leiin kristien inti taphotin ei hnot ngar ngar chu piengtharna a nih. “A ram le a felna zong hmasa ro” ti Isun a lo hril chu ngai poimawin beiruol, crusade le kemping hrang hrang ei buotsai a, kanseling theitawpa thawin inhril piengthar ei tum a. Beiruol ripawt ei ngaithlak taphot a hlawsam a um ngai nawh. A hlawtlingzie ei ripawt rawn po leh a ṭhuoituhai lallukhum sa zuol sot dingin ei ngai a, anni khom chuong ang chun an inngai bok. Pulpita inthokin do dan thiempa Setan chu bawhla an insam khum ut ut a, ama hlak chu thuom dang daih inbela ke chinginlirin eini lai a ṭhung a, a lo innui ver ver si.
+
+A san iem ning a ta? Pathien thu zawm si loa piengtharna hmaithinghawng inbel, ei hmai kawr hang hawk inla, chalah Nambar 666 chuong ṭhut si ding ei tamzie a hriet chieng lei a nih. Sandamna chu bo thei ta lo dinga ei inzirtir leiin, piengtharna hmangruo hmanga chu sandamna chu chang taa ei inngai hnung chun suol ieng khom thaw inla, ei thlarau chu him tah tho tho dinga inngaina ei nei leiin ei lung tlukna tieng zawng zawng ei kut le kein a zui a, piengtharna hmaithinghawngin Pathien hlem ei tum a, suol ieng ang thaw khom intìmna hlek ei nei ta nawh. Gospel Centenary hmangtuhai lai hin a thua ringtu, a taka ruok chu Pathien thu awi pei lo, lemchang, mani le mani inhlèm fawm, Pathien hming sâla Setan kawmandaw ei inzi khup lei a nih. Pathien thu am Setan thu lem ei zawm? ti zawna hi lungril takin mani seng indon inla, ei sungrila sie le ṭha hrietna indik, khêl hril thei lo mi donna chu ngaithla nuom loin a bau ei hippek inhmaw deuh seng ka ring. A ni taka Gospel Centenary ei hmang tlang thei naw dam hi ei ngirhmun indik tak hriltu a nih.
+
+Chuleiin, Gospel Centenary hmangtuhaiin ei thlir non makmawa ka ngai chu ei Pathien thu hriet dan le inzirtir dan ṭhenkhat hi a nih. Tuia le thlaraua pieng umzie tak hi ei hriet chieng am? Chu chu chang thlanga hmanga sermon thlak ei hriet tah hlak am? Ka fena taphota mi ka titipuinaa inthoka ka hmu dan chun mi tam lemin a umzie ei hriet chieng naw a, ngaituo khom ei ngaituo sin naw bok. Ei lung tluk zawngin sermon ropui tak tak ei rem a, a umzie tak ieng am a nih ti ngaituo loin, naupang laia Baibul chang ei baihat tah sa ei hril pur pur a, Pathien thu hre em emah ei inngai a, chuong ang chun mi khomin an mi ngai bok. Pathien thutak hrietna tieng ruok chu A AW B level ei la khel naw tlangpui niin a’n lang bok si. Pathien ram (kingdom of God) le van ram (kingdom of heaven) umzie hre chieng lo le hre hrang lo deuh vong ei nih. Ei Baibula inlet dik lo, Pathien thu le inkal hulhuol ni si, ei pom zam mei mei dam hi Pathien thutak hriet tuma ei bi chieng ngai nawzie hriltu, darthlalang fie tak chu a nih. Inkhawm zata “I ram hung tlung raw se” tituhai lai hin a umzie tak hre fie chu 10% khom ei ni ka ring nawh.
+
+“Ringna” ei hril dan le pom dan khom hi a fel hlel khop el. Chu chun piengthar thu ei hril hi nasa takin a kakhawk a, piengthar tehlem ei tam èm ém san khom hi chu ra suok chu a nih. A san bul inthuk taka ei bi chun Baibul inlet dik loa inthoka suok niin a’n lang. Sienkhom, ei thiempuhai lai ngei khom chuong ang thil chu chik taka bi pei ei vang. Lemchang inhoi ei ti lem tlangpui. Pathien thutak hrietna, zawmna le taknaa inthlung ni si lo, lemdernaa thuom le lungnona ṭhuoi thlarau chi tum tum donga mani rîl rem zawng ang anga Pathien thu thlekpui le her kawi thiem mi hih piengthar indik, thlarau mi inkhinaah ei hmang inrim hle. Iengkim hretu Pathien ruok chun a mi hmu tlang vong a, ei kawrongzie khom a hriet fai kel a nih. A thu zawm si loa lemchanga hlèm kawi ei tum hi mani le mani inhlem chauh ei ni lem. Mani inhlema taimak insuo hi Gospel Centenary ei tlung hiel hnung hin chu bansan tum tang ei tiu.
+
+=============
+
+[*Editor's Note:
+
+INPUI columnist Pu Keivom is a retired Indian Foreign Service officer, respected Hmar Mizo litterateur and author of 'Zoram Khawvel' series. This article is dated February 28, 2010, Imphal]

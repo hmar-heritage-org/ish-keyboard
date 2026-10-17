@@ -1,0 +1,46 @@
+{
+  "system": {
+    "fileVersion": "12.0",
+    "keymanDeveloperVersion": "18.0.253"
+  },
+  "options": {},
+  "info": {
+    "author": {
+      "description": "Hmar Heritage Foundation"
+    },
+    "copyright": {
+      "description": "© Hmar Heritage Foundation"
+    },
+    "name": {
+      "description": "ISH Dual Lexicon"
+    },
+    "version": {
+      "description": "1.0.0"
+    },
+    "description": {
+      "description": "<p>Intelligent dual-lexicon prediction model (Hmar canonical + English loanwords) for ISH Keyboard.</p>"
+    }
+  },
+  "files": [
+    {
+      "name": "hhf.hmr.ish.model.js",
+      "description": ""
+    },
+    {
+      "name": "kmp.json",
+      "description": ""
+    }
+  ],
+  "lexicalModels": [
+    {
+      "name": "hhf.hmr.ish",
+      "id": "hhf.hmr.ish",
+      "languages": [
+        {
+          "name": "Hmar",
+          "id": "hmr"
+        }
+      ]
+    }
+  ]
+}

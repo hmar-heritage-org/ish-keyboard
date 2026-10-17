@@ -1,0 +1,65 @@
+{
+  "step": 3,
+  "action": "unified_decoupling_pass",
+  "decoupled_dictionary_stats": {
+    "hai_words": 3655,
+    "te_words": 22,
+    "chal_words": 19,
+    "pui_words": 17,
+    "anchor_words": 4554,
+    "remainder_split_words": 1213,
+    "total_decoupled_words": 9809
+  },
+  "total_tokens_processed": 3236824,
+  "clean_vocabulary_size": 45380,
+  "bigram_words_with_predictions": 38990,
+  "trigram_contexts_stored": 393440,
+  "top_decoupled_unigram_boosts": {
+    "hai_particle_count": 83348,
+    "te_particle_count": 990,
+    "chal_particle_count": 1223,
+    "pui_particle_count": 440,
+    "mi_stem_count": 38066,
+    "berâm_stem_count": 1368,
+    "bâwng_stem_count": 764,
+    "kêl_stem_count": 298,
+    "ar_stem_count": 136
+  },
+  "sample_clitic_predictions": {
+    "berâm": [
+      "te",
+      "chal",
+      "ruol",
+      "hai",
+      "vêngtu"
+    ],
+    "bâwng": [
+      "chal",
+      "ruol",
+      "te",
+      "pui",
+      "chu"
+    ],
+    "kêl": [
+      "chal",
+      "te",
+      "hmul",
+      "hai",
+      "chu"
+    ],
+    "mi": [
+      "hai",
+      "a",
+      "po",
+      "tin",
+      "dang"
+    ],
+    "nau": [
+      "hai",
+      "a",
+      "lutîr",
+      "pasal",
+      "nei"
+    ]
+  }
+}

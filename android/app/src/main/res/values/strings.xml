@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ISH Keyboard</string>
+    <string name="subtype_hmar">Hmar (ISH)</string>
+    <string name="ime_service_name">ISH Keyboard Service</string>
+</resources>

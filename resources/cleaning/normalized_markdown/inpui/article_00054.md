@@ -1,0 +1,42 @@
+# Nat Khuma khom Lalpa leh chu
+
+* **Source URL:** [https://inpui.blogspot.com/2010/04/nat-khuma-khom-lalpa-leh-chu.html](https://inpui.blogspot.com/2010/04/nat-khuma-khom-lalpa-leh-chu.html)
+* **Date:** `2010-04-02`
+* **Source Archive:** `inpui`
+* **Hmar Ratio:** `0.86`
+
+---
+
+By Pu L. Keivom*, Inpui Columnist
+
+Pathienni zan kan meng sawt leiin zing dar 6:30 vela tho hlak kha Ṭhawṭanni February 15, 2010 tuk ruok chu dar sawm inrik vangin ka tho chauh a. Chu chu Delhi tlanga khawsa, ei ṭhalai tam tak tho hma chu a la ni ta tho tho. Zanah sawt tak tak gawpa zing inhnu tak taka tho le huou huoua inhmang hi an inelna a ni tlangpui a. Chu chu Competitive Exam le an lekha inchukna ekzamah a hung suok ta ngai si naw leiin, rizal a hung suok pha ei insungah siksikrieu an inhram vong vong hlak a nih. Ngirhmun ṭha tak siem thei ding awma ei lo beisei tam takin an career an gawp hmangna le an del hlumna hmunpui pakhat chu Delhi tlang hi a nih. Sienkhom, chu chu ka thil hril tum tak a ni naw a, ka thu hril leh an inkal rem leiin a bebawma ka hung thai lang chauh a nih.
+
+Ka tho fel chauh ti chun Saidana ka u Hrangthatlurin a mi hung telefawn a, a hnuoi taka kum 81 mi, Khawmawia um ka u Liensel (Fimliensel) nat inrik thu a mi hung hril a. Keini unau pieng po hi 13, pasal 7, nuhmei 6, chuong laia a mi tlum tak chu ka nih. Unau pasal 3 chauh a dam kan um ta a. Ni danga an natsat thu mi hung hril ngai lo an ni leiin, thangkoin Isu kuoma, “I hmangai khah a damnawh ie!” tia an hung hril nek hman khan ka u nat inrik thu a mi hung hril chu ka ngai poimaw lem leiin, a zing tuka vuong tung dingin ka travelers agent ka hei biek a, darkar khat sungin kan nupa ticket ding a hung thak nghal a. A tuk February 16-ah Imphal panin kan hung vuong tung tah a nih. Isu thilthawtheina nei ve chu ni lang, kum li hnung, a ru-in Rengreng vadung a phak hnung khomin fe lang, inhnuk tik a um naw awm vei leh! Bau khat chauh sengin ka keitho nawk el ding a ni si a.
+
+Ka u chu a lo na inrik hle hrim a. Dr. Lalzakung rawn zinga mihriem thaw thei tawpkhawk rawt kan thaw hnung khomin ṭhat tieng pan neka a tlum tiel tiel leiin, kar khat hnungah Imphal tieng Regional Institute of Medical Sciences (RIMS) hospital-ah a zan a zanin kan tlanpui a. Ei Josefa dinga Pathien ruot Director Dr. Lallukhum Fimate inlalna hnuoia um a ni bok bakah an nupain a kul a taiin an mi lo ngaisak a, a natna tieng le inzoma daktor thiem filor po poin theitawp suoin san an tum a. Damdawi thaw dinga an ti po po a bak um der loa ni nga sung kan enkol hnungin, a thin a lo hmon vong tah bakah a rilbawm (pancreas) ah kansarin zung inthuk takah a lo khuor tah leiin, a kum zat ngaituoin at amanih dep amanih chu thil thei ta loah an ngai a, Khawmawi tieng kan hung phur kir nawk a. Lalpan a tuor inrim sawt a phal naw leiin Inrinni March 13, 2010 zing dar 10:45 khan ropuina ramah ṭhuoi lutin muol a mi lo liemsan tah a nih.
+
+Ka u kha pa ngawichawi, zaksie, pau zo lo, tu poi hril lo le tawk lo, pa nunnem le zaidaw thei, ngaidamnaa sip, ama indiknaa khom a chunga poi tawkhai hni hmaa ngaidam zat zat hlak, ṭawngṭai mi, iengkima Pathiena lawm le lawmthu hril hlak mi le hmelmahai chen khom hmangaia mal sawmpek hlak mi a ni a. Ama hre ngai nawhai chun a nina ka hril hi hleihluoka ka u ka’n pakna sawn mei an tih; ama hre chiengtuhai ruok chun ka hrilhai hi mi amenpui thlap an tih ti ka hriet. Tuta ṭuma a nat kan hung bawisawm sung hin a nina ka hmu chieng zuolin ka hriet a, ka ta dingin zirtirtu le misawnari ropui tak a nih.
+
+RMC Hospital-a kan um sungin ama natna ang boka na Medical Ward-ah an um ve a. A hmasa chu sun le zan inrumin a khek hlum ṭhak a. A thi zoa an hung sie nawk khom chu a nat tuor naw kha sun le zanin ṭawng ṭha lo le zamaw ngotin a khek hlum ṭhak bok a. Ka u ruok kha chu a nat sung po po khan voi khat khom ‘A na’ a ti kan hriet der nawh. Khang ang khopa a chau hnung khom khan a hung entu daktor le nurse hai le mi dang danghai kha hmel hlim taka chibai bukin harsa ti hle sien khom a kut a pek hmasa zat zat a, lawmthu hrilin an ta dingin a ṭawngṭai a, mal a sawm seng a. A hang in met sung ti naw chu mit insimin a hmur hi an phu sep sep a. Hnaiteah na hang daw inla, Pathien kuoma lawmthu hril ṭawngṭai a ni hlak a, a ṭawngṭaina thunon ni rop chu ‘Lalpa, i va hang ṭha de aw!’ ti a ni rop. A enkoltu daktor le nurse hai khomin mak an ti a, “Ama ang boka na mi dang zankhawvarin an khek a, ama ruok hi chu a Pathienin a ṭhangpui leiin hieng ang khop hin a tuor thiem bik a ni hih” an ti hiel a nih. Nat khuma khom Lalpa leh chu ieng natna khom tuor nem thei a nizie le ringnawtuhai kuoma khom Pathien thu ril hril thei a lo nizie ka u ngirhmuna inthok hin ka hmu chieng hlein ka hriet.
+
+Ziektu hmingthang William Shakespeare, hringnun khawvel bi chiengtuin, vangduoinain mi a hung kan pha chun a mal mala hung loin a honpuiin an hung hlak ti thu a hril ang khan, ka u Liensel hringnun phek ei hang phok chun vangduoina le lusunna bung le changin an hluo sip a ni tak a. Kum sawmthum kum thum sipaia a ṭhang sungin rila ra malsawmna nau pasal panga le nau nuhmei pakhat a dong a. Pension-a a hung suok hnung chun,“Ka sipai ṭhang sungin ka nauhai Setanin a mi lo lakpek vong hman a nih” tiin a beidong thu a hril suok hiel a. Inrui thei chingin a nauhai chun a insung an rok ram der a. An rok ram thei naw um sun chu amaa Pathien chi inphum le Pathiena a ringna chu a nih. Baua a nauhai hril sim chu thil awlai a ni nawzie a hmuin, an ta dingin bu ngheiin thla khat dam a ṭawngṭai ngat ngat hlak a. Damdawi ngolveia a naupa pakhat a chan hnungin damten a danghai chu an hung inlamlet a. Sienkhom, kha hmaa an taksa, suolna bawia an lo insuosamtir khan hnuhma a nei naw thei naw leiin, an sum hnar taka ṭhang nau pasal dang pahnih a chan nawk a. Upa Ngama’n, “Khawvel rinumna hi puon angin ka’n thuo a, Tlaksamna khom ka hma tieng sumpui angin a zing” a ti ang khan buoina sumpui inlet but butin a insung a baw zing hlak a nih.
+
+Chuong ang vangduoinain a tlak buok khom chun Lalpa hmaah nuor thusim inzawt nekin, Joba’n a nuhmei kuoma, “Pathiena inthokin thil ṭha ei hmu ang bokin thil ṭha naw khom ei hmu sa ve naw ding am a ni? (Job 2:10) a ti ang khan a ti ve thei tlat a. Chungrikna ieng ang khomin tlakbuok sien,
+
+Damsung mi tuok taphot i thu ni sien,
+
+A’n hoi le rinum khomin lawm ka tih”
+
+ti hla hi a hlapui a nih. Iengkimah lawmthu hrilin a ṭawngṭai a, ‘Lalpa, i va hang ṭha de aw!’ ti hi a thi darkar chena a ṭawngṭaina thunon a nih.
+
+Muol a liem ni hma March 12 khan a nau mi tlum tak nuhmei, nau thla sari ding lai pai tah, a kul a taia sun-zan zoma enkoltu chun harsatna namen lo a tuok leiin inrang takin Churachandpur Civil Hospital-ah kan tlan lutpui a, an at nghal a, a nau pasalte ruok chu san thei a ni ta naw a. Inah a ruong hawnin kan phum a. A tukah ka u ruongin a zui a. Ka u kan vui liem ni khom hin kan naunu chu thihmun suola khaw hre loa hospital-a zal zing a nih. A zawna ruong thum chan loa kan um hi Lalpa lunginsietna zar chauh a nih. Chu khela chun, ka u enkol dinga ka hungpui ka ruolnu Darin ieng tik khaw tika a la thaw ngai lo, khum sirah a nak ru a lo tet eu nawk nghal! Khawmawi kan tlung hmain kan nauhai rukruin voi hni zet an lo rok bok! A nih, a honpui, a battalion-in buoinan a mi tlung chilh a nih.
+
+Mihriem rama chuh ka u Liensel kha mi pau zo lo le tu inhnar kai lo ni sien khom Iengkim LALPA lunginsietna zara a ro hluotua a thlang a ni tlat leiin Bill Gates hai le Ambani Brothers hai hausakna let tama mi hausa le nihlaw a nih. Chatuon promotion hmua van a kai tawma a thucha nuhnung tak khom, “Fa fena hmun ding hi a’n hoi em a, fe el lem tang ka tih. Mi hung ngaituo der naw ro. Ka ruong chungah hung ṭap naw unla, hlim taka hla saka Pathien inpakin hung lam lem ro” ti hi a nih. Natna khuma khom Lalpa leh chu a lo va hang thlamuongum de aw! Thi lem lem chu chatuona hlawk songna a nih.
+
+Ka u damnaw sunga in le hospital tienga sunzan zoma bawisawmtu le mi enkolpuitu hai, ṭawngṭaia mi santu hai, mi hung sunputuhai le tuorpuitu hai po po chungah kan lawmthu hrilnain hi artikul hi ka’n hlan a; an hmangaina, tlawmngaina, ṭhangpuina le ditsakna po po, ieng kong khoma kan rul zo lo ding, chungah Lalpan a let tamin malsawmnan vur lem sien ti hi kan duthusam le ṭawngṭaina a nih.
+
+=============
+
+[*Editor's Note:
+
+INPUI columnist Pu Keivom is a retired Indian Foreign Service officer, respected Hmar Mizo litterateur and author of 'Zoram Khawvel' series. This article is dated March 22, 2010, Tuiṭhaphai]

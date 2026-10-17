@@ -1,0 +1,266 @@
+# Ram Tin Lawr
+
+* **Source URL:** [https://inpui.blogspot.com/2011/02/ram-tin-lawr.html](https://inpui.blogspot.com/2011/02/ram-tin-lawr.html)
+* **Date:** `2011-02-26`
+* **Source Archive:** `inpui`
+* **Hmar Ratio:** `0.83`
+
+---
+
+By Pu L Keivom
+
+*, Inpui Columnist
+
+Tuta kara artikul ziek ding thupui pathum ka saikar a. Ziek bîk ding ka chieng el naw karin ni a liem duok duok a, artikul zieka ka khawvar hlak hun, Ningani zanin a mi hung nang hman dèr ta a.
+
+Chuleiin, thu fûn pakhat chauh sai loin, a hung inlang hmasá sà pet lawrin titi ka sep lem ding a nih.
+
+Thu tiem hlen
+
+Remchang nawna khol tak a um ngot naw chun
+
+Delhi Thurawn
+
+-a insuo ding artikul, thu mal 2500-3500 inkar vela sei kar tin pakhat bêk ziek ngei ngei ka tum a. Kum iemani zat liem tah khan David Buhril leh thu kan intiem a, chu chu “Ei hringna a la’n phu dep dep sung chu DT sukhring zing tuma ṭhang lak ding” ti a nih.
+
+Hi thuthlung hi hlen suok ding chun mei kawa ṭhang lak zing a ngai.
+
+Ieng angin buoi lang khom hlen tlat ka tum leiin, kar tin deuthaw hin zan khat chu khawvar a ngai. Chu chu ngaiah ka nei ta’m a ni ding, khuol inzin chang khom ka khawvar hlak hun Ningani zan hin ka hang in khomin imu indên thei loin ka biological clock-in a’n khat tawkin a mi kei ṭhang hlak chu tie!
+
+Artikul ziek hi a namei nawh. Ei thu ziek tum khah lungrila soi chip hmasa zet a ngai a. Thu hmangruo, innghatna tlak nei a ṭûl bok a, chuonghai chu zong (research) a, dap khawm a, ziek phaa hmang el thei dinga inpei sa diema sie a ngai.
+
+Thu ziek hi in bawl ang a nih. A ruongâm ding lungrilin rèlh vong inla khom, a taka ei bawl ding pha hmangruo ei nei si naw chun ṭawng hmangruo hau ringota thaw thei a ni nawh. Hmangruo nei vong hnung khomin, hmangruo thuhmun hmang seng seng lai, themthiem kutsuok le themtlaw kutsuok chu inthlau tak a ni nawk. Ei thuvara, “Themtlaw ina chuh thing/raw bong a tam” ti ang hi a nih. Thil dang neka thu ziek danglamna pakhat chu, dawkan siemtuin a hmaa dawkan a siem ang chara a dang a siem nawk ang el hi a ni nawh. Thaw thiem tah sa a um thei naw a, artikul tin hi thu thar vong a ni leiin a hrana buon seng a ngai. Pakhat ei buon hnè leia a dang khom buon hnè dinga ei inngai chun ei ngai suol a nih.
+
+Chu
+
+kâra chun hul chang a lo um nawk.
+
+Chu
+
+chu Sapṭawng chun ‘writer’s cramp’ an tih. Chuleiin, thu ziek hi a hautak a, ni tina awle (alligator) puitling le insuol ang a nih. A hautak ang bokin thu ziek ṭha chu a tlo a, hnam ro a tling.
+
+Titi zom
+
+pei
+
+inla.
+
+India
+
+rama Sapṭawnga chanchin bu liena thu ziektuhai hi kum iemani zat liem taa ziek man an pek hlak chu thu mal (word) tinah cheng riet hisap a nih. Chuong ang chun hisap inla, kar tina DT-a insuo ding ka ziek man hi a tlawm takah cheng singhni an mi pek ngai a tih. Lekhabu ka ziek sut tah po hi bu sawmhni chuong a ni ta a. Entirnan, Zoram Khawvel-4 le 7 ka ziekna dinga lekhabu ka mamaw inchawkna dingin singnga chuong ka seng a nih. Baibul inletna dinga hmangraw poimaw ka khon khawmnaa ka sèng zat lem chu a nuoi tèla hril a ngai. Sienkhom, hnam ro khawl khawm sin a ni a, a hlutzie hretu ka ni ve leiin thâ le zung le sum le pai sèng chu mênah ka thlak. DT-a artikul ka ziekhai hi sum le pai tieng hlawkna nekin chànna lem vong ni sien khom, Pathien lunginsietna le ṭhuoina zara hrietna tlawma zawng ka lo khawl khawm ve hai mani mi le sahai pek sawng chuh ka tha bat sut dingah ka ngai a, ka thâ a se naw a, ka lawm hlè lem a nih.
+
+Chun, DT-ah a tawp el naw a, chanchinbu hrang hrang le website hrang hrangah a luong lut a, a ṭhenin hring phanain an hmang bakah inhmatona ka titipui phak nawhai leh
+
+kan
+
+inpawl thei phà bok a nih. Tu chena
+
+kan
+
+thu tiem hlen theia ka um hi vangneina le malsawmna chungchuongah ka ngai. Hringnuna hin ei hlawk hmain ei hlawkna dinga chàn hmasak phot a ngai.
+
+Eini khawvela thu ziek insuo chu mithi khuoa tlanginsam ang deuh a nina lai a um. An tiem am an tiem naw, an ṭangkaipui am ṭangkaipui lo ti hrietna dingin rî hriet ding a vang. Favai dur laia inzun anga ngai lem chun thu ziek hi phùr um lo deuh a nih. Ei kawl le kienga um ei unau hnam danghai ruok chun ri an hung nei nghal a, ngaidan an hung thaw khawm a, indik loa an ngai an hril ruolin indik lema an hriet an hung tar lang bok a, hlawk takin ei titi tlang thei a nih. Chuonga zalen taka thupui saia titi tlangna chun hmasawnna lampuiah mi a ṭhuoi hlak. Eini rawi chu thu poimaw, ngaituona hmang ngaina chi a ni lem chun, ui khop ko an hril chu nêp tè a nih. Lungril seng ngai lo, thu hmangtlak rak lo a ni pha ruok chu ei hung tho sung hlak. Boruok zai hmanga ei titina thlengpui tak HYG hi entirna ṭha tak niin ka hriet. Objective discussion nei a harsa a, intellectual discussion ei nei thei hun ding lem chuh ei la hlat hmèl khop el.
+
+Ei sungril mit tuomtu duor hi sut hong mei mei ruol loa sà a nih.
+
+Lirhning/Lirnghing
+
+Tu lai hnai hin lirhnîng chi hrang hrangin chanchinbu le television-ah hmun an chang rawn hle a. India parliament-a kaltu pawlin ‘Scam’ hrang hrang chungthua sorkarna chel lai sukhmelhem tuma an khèng leia ni kum winter session sung po po rorelna inpuiin sin thaw thei loa a konkaw pha hiel thu, Scam Lirhningin Parliament a sawi thu chu ei hriet tlang seng a ni leiin hril ka tum naw a, lirhning dang thu ka hril tum lem a nih.
+
+Chu
+
+tienga ei lut hmain, ‘Scam’ ti hih ei ṭawngin inlet ding ni inla, iengtin am ei inlet ding aw?
+
+Hmar ṭawng bula inthoka phok chun lirhning hi ‘simkhawlei inhning’ amanih ‘khawhrawng sawi’ an tih. Pipuhaiin lirhning san an hril dan chi hnih a um. Pakhatna, hnuoi hi satel lien tak chunga bok ni dingin an ring a. Telpui chu a châng pha simkhawlei a’n hning hlak ni dingin an ngai.
+
+Pahnina, sephum hin hnuoiah kuo a suot inthuk deu deu a, a tawpah mithi khuo, Raupuikhuo (Hades) a zu paw a. Mithihai chun an sunghai chanchin an lo indon a, “E khai, mi po po an thi ram vong a, kei chauh hi dama hung suok thei ka nih” a ta. A hril chu thudik a ni le ni naw fiena dingin hnuoi an sawi hning a, chu leia lirhning hi um ni dingin an ring. Lir an hning pha leh, khuong le dâr vaw-in, “
+
+Kan
+
+la dam ie” tiin an khek hlak. An khek ri chu mithi khuoa mihaiin an hriet phing leh an hnuoi sawi hning chu an tawp a, lirhning khom a tawp hlak niin an ring.
+
+Arab ram sawitu simkhawlei
+
+Ka hril hmasa nuom chu Arab rama pawlitiks lirpui inhning leia tien lai Faraw lal ropuihai tuol lengna Aigupta rama kum sawmthum chuong hiel President-a inṭhung tah Hosni Mubarak khom a lalṭhungphaa inthoka a sawi thlak dut thu a nih. Arab ram ei ti hih North Africa le South West Asia,
+
+Middle East
+
+tia hriet, Ismail thlahai inbengbelna, 14,000,000 sq. km a lien a nih. Kum 1945 khan ram panga inthuruolin Arab League an indin a, tu hin member 22 an ni ta a,
+
+Arab
+
+State
+
+hlang tak ruok chu 15 chauh a nih. Arab League sunga hin mihriem maktaduoi (mtd) 340 chuong an um a (2007 Census), chu lai chun Muslim mtd 320, Kristien mtd 20 an nih. Ram hieng zozai le mihriem hieng zozai hin mihriem mtd 7.6 (May 2010) vel chauh umna
+
+Israel
+
+ram chiterek, tumbailok tiet chauh hi an theida hrona chu an ngam naw a nih.
+
+Arab ram hrang hranga sorkar hi lal (king) hnuoia um a ni naw leh sipai lal, dictatorhai opna hnuoia um a nih. Hieng dictator-hai hi a hminga mipuiin an thlang an nih. A tak ruok chun mipui rorelna dimokrasi a um naw a, dimokrasi sorkar hnuoia mipuiin zalenna an nei le hmang ang hi an nei ve nawh. Ram ṭhenkhata lem chu political party dam, labour union dam nei phal a ni naw a, kam zalenna an nei bok nawh. Ning intela ri siem an um charin an siehre
+
+pei
+
+a, ṭît ti ngam an um nawh. Sienkhom, an nghok tongkhongah tharum hmang loa nor ngam pawl an hung pung a. Chu pawlitiks lirhningin tu laia Africa hmar tienga Arab ramhai a nghong dan chuh tlanbahrikin hang thlir hmasa phot ei tih.
+
+Tunisia-ah an President Zine El Abidine Ben Ali, kum 1987-a inthoka inlal tah chu January 2011 khan mipui lungsen khek riin a not thlak phot a. Chu ri chun an tuolbawm ram Algeria le Morocco a nghor hnìng a. Chu rî vèk chu hrein an tuolbawm dang Aigupta mipuiin an lo zawm ve a, tla thei lo hiela inngai tah Hosni Mubarak, kum 1981-a Muslim Brotherhood pawlin President Anwar El Sadat an that hnunga October 14, 1981-a inlal ṭan tah chu an hnaw thlak a. Kum 1969-a sipai tha hratna hmanga thuneina inchu thlatu Col. Muammar Gaddafi khom Libya mipui chungah kum 42 zet kuttum a vilik hnungin a lalna bâng dingin mipuiin an nor a, sipai tha hratna hmangin tukdol a tum a, mi sang chuongin hringna an chàn ta a, sienkhom dol zor el an tum nawh. Helna le dodalna thlipui a hrang lai a ni leiin a ngirhmun a hung inphet pei a, a mi ringzo Minister le sorkar thoktu mi poimaw iemani zat an inbàn tah bakah Libya ram suo tieng biel (Eastern Libya) khom dodaltu pawl kutah a um tah nia hriet a ni a. India mi za tam Libya rama sinthawa umhai chu thier suok vong dingin India sorkarin hma a lak mek a, a thier suok dingin indo long pathum an tir a, chuonghai chun phurin hmun remchangah inṭhum an ta, chu taka inthok chun Air India vuongnain a phur tawl ding a nih.
+
+Hi pawlitiks khawhrawng, inthlakthleng nuomna mei inhlap puot puot hi
+
+Africa
+
+hmar tieng a tawp el nawh. A siperin Gulf States tienga ram Bahrain, Syria, Jordan le Yemen a kàng kai ta a, ram dang khom a kàng kai sap pei a nih. Ṭium tak chuh, pawlitiks inlumlet hin thil ṭha a hung intlun thei ang bokin thil ditum lo a hung ra suok thei a, chu chun a ṭha a siein, khawvel nghong buoi lo thei lo a nih. Hieng lai ram hi khawvelin khawnvartui a lamna tak a ni leiin, sikiekin (hiccup) a kei met chun khawnvartui man a kaisang nghal a nih. Tu khom hin barrel khatah $ 100 chuong a kai hman dèr ta a, khawvel mit a âr inṭâ el a nih. Hieng lai ram pawlitiks-a a âkpui cheltu chu USA a la ni hri a. Israel ram hum a, nuom nuoma Arab-hai khawnvartui a lak theina dingin, roreltu le thuneitu a thunun thei taphot chu, ṭhain ṭha naw hai sien, a hum tlat a. Hi lei hin, a ram mi, abikin an sakhuo tienga inrui mi le turu pawlin hmelma No. 1 el khom ni loin Setan No. 1-a an ngai a nih. Sorkar inthlakin, sakhaw inrui pawlhaiin rorelna khawl an hung chel vai chun, Afghanistana Taliban hai neka an danglamna bik ding a um awm si naw leiin, a ra suok ding chu Armageddon ni naw nih ti tu khomin ei hril lawk ngam ring a um nawh.
+
+Kiwi-hai sawitu khawhrawng
+
+Lirhning dang chu February 22, 2011 Thawleni sùn chang laia
+
+New Zealand
+
+sim tieng thlierkar (South Island)-a an khawpui
+
+Christchurch
+
+sawi hmättu kha a nih. A sawi zo minit hni vela vuongnaa inthoka thlâ an làk khah ei en chun, bilding chim lai khuin a khaw phekin a tuom mup a, atom bomb an thlak hnunga Nagasaki le Hiroshima thlalak ang el a nih.
+
+Hi thil tlung hma kar thum khan ka tunu Jessy Darmawi Lockhart-Keivom chu Post-graduate (Industrial Psychology) course thawin Christchurch-ah a um ṭan a. Lirhnîng thu
+
+kan
+
+hriet chara
+
+kan
+
+lungkham hmasa tak chu ama a nih. A tûkah ka naunu Helen Ruolsingpuiin Jessy a him thu a mi hung hril a,
+
+kan
+
+inthuok huoi el. “In ro umna taphotah in lungril khom a um hlak” (Mat 6:20) ti ang khan ei lungril fùkna chu ei mi le sahai tieng a lo ni chieng khop el.
+
+Pacific Tuifinriet sunga sakor kepha kuol ang deua um, km 40,000 vela sei hi a hmingah Pacific Ring of Fire (Pacific Meipui Kuol) an ti hiel a, hi hi hnuoi kak kuol, khawvela tlangkang (volcano) le lirhning 100-ah 90% suokna a nih. Chu lampui chun
+
+New Zealand
+
+hi a hraw a, kum khatah lirhning 1400 vel a um a, hriet thama mi not ruok chu zaa sawm vel chauh a nih.
+
+Hi lei hin in bawl an fimkhur a, chengna in lem chu thing phek le rangva hmanga zâng taka bawl deuh vong a nih. Pucca in sawngsang bawl ding lem chun an dittui a, a ṭhut inthûk taka an rem bakah thîr tawlailir ke lien tak tak chunga innghat, a bilding kha lirhning pha 45 degrees inawn sien khom tlu loa kei ngir nawk thei ding, thirviel (spring) infân theia thlung a ni ding a nih. Sengso a tam leiin a ṭûl tongkhongna hmuna naw chun pucca in sawngsang an bawl mei mei nawh.
+
+Wellington-a ka um lai (1983-85) khan ni khat chuh sùn chang lai hin lir nasa takin a hung inhnìng a. Kan office umna chu sawng sawma insang, Wellington Bay bula um, khaw thlirna inhoi tak el, Police Headquarters-a an hmang a ni a. Hnuoi insawi ruol khan a bilding khan inawt ruoi ruoiin a mi thèn a, a tlu ngei ding niin ka ngai a, ngaituona a fe sei hman khop el. A lo hre ṭhanghai chun, “Ṭi naw rawh. Hi bilding hi 45 degrees khomin inawn sien, tlu lo dinga bawl a nih” tiin an mi hril a. Chuong sà khom chun ngai chu a ngam maw khop el.
+
+Meipui kuol chunga um an ni lei hin an telephone directory phek tawp tienga phek iemani zat hi lirhning phaa inveng dan ding thuin a hluo sip a nih. Chun, in tinin mani in hnuoi sengah lirhning leia tuoksiet tuok a um palh phaa invengna dingin thla khat fak ding, suong ngai lo, a tin-a sie an kol ngei ngei ding a nih.
+
+Chu
+
+chu sorkar thupek, mi tinin an zawm chu a nih.
+
+Kum khat a ral pha leh ei dehawn a, a tharin ei thlak nawk vong hlak a nih.
+
+India hmar sak ram hi earthquake zone a ni leiin British-hai mi op lai khan sorkar office le in hrim hrim a zàng thei ang takin, thing le rangva hmangin an bawl a, lung chu a ṭûl tongkhongah, a bulṭhut le a bang ṭhuta chauh an hmang hlak. Tu ruok hin chu rawl pangah pucca building pompa le insang tak tak ei bawl tawl a, ṭit nachang khom ei hriet ta naw a hoi. Kum sawmhni deuthaw liem tah khan Aizawl tlanga khawsahai ngirhmun ṭiumzie, anni indel hlumna ding in an bawl a nizie hrilna artikul PUCCA MANKHAWNG ti a thupuia hmangin ka ziek a. Fimkhur phanaa hmang an um laiin, a ṭhen chun inhril trìnaa ngaiin an theida nuom hiel a nih.
+
+Christchurch
+
+sawitu anga hrâtin a mi sawi ve pha chun, sawtnawte sungin Aizawl khaw chenve vel hi mankhawngah a la’n chang ding a nih.
+
+June 12, 1897-a khawhrawngin hmar sak ram a sawi khan suksiet a hau hle a, misawnarihai rongbawlna khom iemani chen a sukchai pha a nih. August 15, 1950 thimbuta lirhning, Dibrugarh
+
+biel
+
+, Digboi hnai laia tlangkang kha a pui khop el. Pherzawla
+
+kan
+
+um lai, Pawl thum ka’n chuk lai a nih. Thimbut hin ṭuongah bokin khawnvar bulah lekha ka tiem a. A hung inhning tak tak chu, pipua inthên ang el a nih. Chu ruol chun a puok dur dur a, zan khuo deuthawin Pherzawla inthok khomin a ri
+
+kan
+
+hriet phak a nih. Kha ṭuma lirhning, Medog earthquake an ti khah 8.6 Richter Scale hiela rawng a lo nih. Hnuoi a chim nasat leiin Brahmapura le a fintu vadung Dihang, Dihing le Subansari vadung ruomhai a suksiet a, hnuoi a chim nasa leiin tui luong thei loin kar khat top a ting a, a hung trè zet chun tui nasa takin a lêt a, mihriem le ram hmelhmang a suksiet nasa em em. Brahmapuṭa vadung khomin a kuong a thlak a, ni danga longa Dibrugarh-a inthoka
+
+Calcutta
+
+tlungna dinga ni 8-10 ngai hlak kha ni 40 a ngai tah thung a nih.
+
+Mi thiemhai hril dan chun, hi lirhning hin
+
+India
+
+hmar sak ram hmelhmang nasa takin a sawi danglam pha a nih.
+
+Hi thil ei hril hin ei chana la tlu thei a min ngaituotir a. Tipaimukh Dam hi lo bawl tah ni inla, a hnunga a kakhawk ding hang rapthlakzie mitthlain ka thlir a, zan mang siet rum rumna khop a nih. Lirhning tam tak hi khuorel sietna (natural disaster) intlun a ni laiin, mihriemin leilung umphung ei sukchingpen leia sietna hung tlung (man-made disaster) hin nghong siet le kakhawk ṭha lo a nei poi lem a, a nei sei lem bok.
+
+Thu le hla tsunami
+
+Titi sep karah ka mail ka zuk vè leh ka tupa Ramthienglim Varte-in bûr leh bèl inri thei a hriet po po khawnga ṭappuitu ding zuolkoa a khêkna thu sei tak el a lo um a. Ka zuk tiem zo chun lungrilin, “Eheu, thudik hril le sa zâng kâp a na an ti ang elin, ka thu muin ka tupa ditlai a lo dèng ṭap a ni maw! Nupui hrisel lo chier thiem tak angin, chier le inhrawt khom chu a lo va thiem èm ém ngei de!” ka ti lungril a.
+
+Kan
+
+tupa intleng ri chuh Malsawmthang pa Zarzolien Keivom khomin lo ngaithla ve sien ka nuom leiin a mail-ah ka hei thon sawng nghal a. A tiem zoin a mi hung fawn a, “Chier thiem lawmman pek tlak a ni hi tie!” a hung ti ve a.
+
+Ka tupa hin lekhabu poimaw deu el,
+
+Bhutan
+
+rama Rev. Thatttinlien Sungte rongbawlna chanchin,
+
+Rev. Thatttinlien Sungte: Lal Sipai Tha Le Ringum
+
+ti a buotsai a. December 14, 2010 khan Rengkaiah kan inhmu a, a lekhabu chu a lo chawi hlau a, ka’n chawk a, “Ka remchang hun hmasa takah hung review ka tih” ka ta. A tûk
+
+Delhi
+
+tieng pana ka kirin vuongnaah ka tiem zo nghal a. Ka’n hman hun hmasa tak, Republic Day January 26, 2011 khan
+
+Misawnari Sulhnung: Lekhabu Thlirna
+
+ti thupuia hmangin ka ziek a,
+
+Delhi Thurawn-
+
+ah January 30 khan an insuo a, chu ruol chun Bangalore-a khawsa Lalmalsawm Sungte website
+
+Inpui. com
+
+le website dang dangah a hung suok bok a.
+
+Hi lekhabu hi Bhutan rama rongbawla Zoram khawvela inthoka misawnari inthok suok hmasa tak chanchin ziekna, a bua insuo hmasa tak a ni leiin a poimaw el bakah a missionary method hmangin ama hniekhnung hung zui pei dinghai kalchawinaah kongro nasa tak a suk naw thei naw leiin, lekhabu thlirna ka zieka hin zawna tam tak, indon lo thei lohai chu ka tar lang a. A san chu,
+
+Bhutan
+
+rama rongbawla misawnari fe, kum sawmthum lai zu thang chanchin ni si, a rongbawl dan chanchin le a ra suok, hmu le fie theia um pakhat khom a ziek lang si naw lei a nih. Ka lekhabu ziek ni sien, hieng zawnahai hi a bat bata ka don thei si naw chun, ka thu ziek tu khomin barah mi khonpek naw ni hai.
+
+Tiemtu tu khomin ngaidan hril tlangna an nei hmain, hi lekhabu le ka thlirna thu hih chîk taka tiem hmasa phot dingin ka fiel. Tiem si loa thuvuongva ei hrieta inthoka ngaidan thliek hi ei ching a, chu chu a hrisel naw a, mi puitling lo nungchang a nih. Lekhabu thlirna ka zieka thu chuong po po khah, a comma chenin, ka hmu dan tak a ni leiin ka ṭan ngam a, a’n dik nawna hrie an um chun hril fie dingin ka’n
+
+pei
+
+zing.
+
+Thudik tsunamiin ka tupa a nghong ṭap a ni chun a thawtu chu a pu ni loin thu dik mu, saihlum anga innge ngai lo chuh a ni lem.
+
+Chun,
+
+kan
+
+putua
+
+kan
+
+inselna leia
+
+kan
+
+thu ziekhai hi tiem a, ngaituona hmang a, ramthima ei rongbawl dan hi inen fie a, konglam indik lema rongbawl dan thar le hlawk lem ei dap suok pha a ni chun,
+
+kan
+
+inhrawt hlawtling hleah ka ngai.
+
+Kan
+
+insêlna kara thu inhnok inphûmhai hi man tum lem hai sien ka nuom. Tiemtuhaiin an hriet dinga ka dit nawk chuh, hienga kan putua tlang taka kan insèl hi kan inhmelma sawn naw ro. Chuong ang ngaidan nei palh in um chun, kan inhmu nawk pha leh putu inhmangaituo le inngai tak kan ni ang hrimin inpawlin inzui nawk kan ta, chu pha chun mi hnàm letling rawi in tih. (
+
+Delhi
+
+, February 26, 2011).
+
+Documentation on past disasters, their impact, measures taken, vulnerable areas in Assam- prepared by Centre for Natural Disaster Management, Assam Administrative Staff College, Jawaharnagar, Khanapara, Guwahati-22.
+
+*Pu Keivom is a retired Indian foreign diplomat.

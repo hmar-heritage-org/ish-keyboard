@@ -1,0 +1,32 @@
+# Thlaphal Ni 1: Manipur State Level KUT Ka lo hmu ve dan; KUT hi ieng am a ni a?
+
+* **Source URL:** [https://inpui.blogspot.com/2014/10/thlaphal-ni-1-manipur-state-level-kut.html](https://inpui.blogspot.com/2014/10/thlaphal-ni-1-manipur-state-level-kut.html)
+* **Date:** `2014-10-30`
+* **Source Archive:** `inpui`
+* **Hmar Ratio:** `0.82`
+
+---
+
+Ziektu: LRS Puruolte
+
+Thlaphal/November ni 1-na chu Manipur Sawrkar hrietpuina ngeiin Kuki-Chin-Mizo-Zomi hnam, Manipur ram (State) a chenghai puol bik a dingin kum tin Favang Kut/Chavang Kut/Post Harvest Festival a inser a lo ni ta hlak a. Tukum khawm hin hi Kut hi 1st Manipur Rifles Parade Ground, Imphal hmun a ursun taka inser le hmang ni nawk ngei dingin inbuotsaina a fe mek a. Hi hun a hin hnam tum tum 11 laiin an hnam lam le an hla hai, an hnam thlekzie le inzula rimawi hai leh an suklang ding a nih. Hi hun a thang ding hnam tum tum hai chu- Aimol, Koireng, Hmar, Monsang, Anal,Kom, Moyon, Thangkhal, Chiru, Lamkang, Paite, Tidim - Chin, Chothe, Maring, Simte, Vaiphei, Gangte, Mate, Tarao, Zou, Mizo, Thadou – Kuki niin hril a nih. Hi hun a hin kum tina KUT hun haia a thupui taka ngai le nei el tah, Miss Kut in Contest ding khawm mi 22 lai an um a. Hieng Miss Kut in Contest dinghai hi Manipur le Nagaland a inthawka mi an ni ding thu Mang Kipgen, Spokesperson, State Level Kut Festival Committee 2014, Manipur chun Imphal hmuna Press Conference Pathienni Oct. 26, 2014 ni a Kut le inzawma neina hun ah a hril. Hi hun hi sun le zan hun haia hmang ning a ta, zing dar 10am le zantieng dar 5pm haia program intanin sun le zan haia hmang a ni ding a ni a. Sun hun a Deputy Chief Minister of Manipur, Pu Gaikhangam in uop a ta, zan hun a chun Chief Minister of Manipur Pu O. Ibobi Singh in uop bawk a tih. Hi hun hmangna hun le hmun hi venghimna khau tak hnuoia nei a ni ding leiin Kalimai Temple tienga inthawk VIPs hai lut an ta. Chun, BSNL Bhavan tienga inthawk mipui an lut dinga ti a ni bawk. Venghimna khau tak hnuoia hi Kut hi hmang a ni ding leiin Media Person hai chen khawm thlang bik umin le hi hun a lut thei ding hai chu lo in zieklut lawk dinga thusuok siem a nih! Miss Kut 2014 in sumfaiin India pawisa cheng Nuoi 1 dawng a ta, first runner up in Rs. 75,000 le second runner up nina hautu-in Rs. 50,000 sumfaiin dawng an tih. Chun, hi hun a Cultural programs a thanghai khawmin first, second le third prizes in Rs 55,000, Rs 45,000 le Rs 35,000 an dawng bawk ding a nih.
+
+Ka lo hmu ve dan; KUT hi ieng am a ni a?:
+
+Kut hi ei pi-le-pu haiin an lo hmang dan tak lem chun an lo hmasuokhai Pathien kuoma lawmthu an hrilna hun niin an lang. Tulaia ding chun “Thlai Thar Lawm” ti inla a awm takin ka hriet. Khawvel hung changkang peiin sawrkar hrietpui ngeiin Nov. 1 Kut (Favang Kut/Chavang Kut/Post Harvest Festival) dam Manipur Sawrkar hrietpuina hnuoi ngei ah State Holiday hai chen a puonga umin, State sawrkarin a thupui thei ang taka a hriet le a ti dan taka a mi’n serpui mek tah hi Kuki-Chin-Mizo-Zomi hnam hai tading chun lawm a um laizingin hi KUT hi a neitu bik um ang a ni leiin Manipur a Tribal-Sinlung suokhai, a biktakin Kuki-Chin-Mizo-Zomi hai chengna biel (Hill Districts/Areas) a hmang a ni ta ngai der naw le Imphal nilo, Khawm chun, 1
+
+MR Parade Ground nilo a hmang thei a ni ta der naw el hi chuh a san um ngei a ta, buoina le venghimna thil lei chu ni ngei bawk dingin a chieng hle. Manipur a Imphal nilo District tum tum haia Kum thar 2015 a inthawk chu hi Kut hi hmang a hung ni nawk thei ngeina dingin ei MLAs, MDCs, Social Workers le Tlawmngai pawl tum tum hai hin hma hung la theihai sien nuom a um hle. Chun, hi hun hi Manipur a cheng hnam tum tum hai in unauna siemna hun le siem theitu ding chi chau item hai uor ta lem inla. Miss Kut nekin Cultural/Traditional Exchange Program le Cultural/Traditional le inzawma Exhibition/Seminar ang zawng daminin fe ta lem sien, nu-le-pa, hnam dang dang hlutsak khawm a hlaw lem ring a um. Miss Contest hi ei uor rak a Mister Contest um silovin, chun hieng hun haia hin hnam puon hlutna suklang nekin Western Style a hnampuonhai pholang ei ching ta lem bawk a, hun sawtnawte a chu ei Kut umzie thlanmuol ah ei vuiliem chauh nilovin, ei hnam nunphung le ei puonhai chen khawm iengmalovin ei la hung inchangtir lem ding niin an lang chieng hle an ta naw maw?! Hieng ringawt a Kut ei hmang el ta hi chu ei nina humhalna ding nekin ei nina suknepna ding chaua inser a ni ta leiin KUT hi Tribal haiin ei Boycott khawm a tha lem el ta naw mani?? Ka ti hlak! Manipur State Sawrkar hin Art & Culture Department khawm a neia an ni hnuoia khawm Art & Culture thil le inzawma hma an lakna khawm hmu ding a tam naw hle! Manipur Sawrkar hin Kut a ding hin indik tak le umzie um takin Sum iengzat chie am a seng hlak a?? ti hi Mipui hriet nuom tak a ni bawk.
+
+Kut le Buoina:
+
+Kut a ni phawt phawt ta chun buoi ngei ngei ding anga ngaina khawm a um el ta hi thil pawi tak a ni a. Eini Kristien intihai tak tak khawm hi ei in enfie a hun ve ta hle. Mani Kut khawm mikhuol thei ta lo hai ei nih! Kum khat lai khan CCPur Public Ground ah Miss Kut Contest zan Stage chu mipui laia hawn khat lungsenin bottle le lungin an deng a. Kha zana Judge pakhat kha English mi [USA mi niin ka hriet (?)]. Inzak khawm a um hle a ni kha... Incheina lepler le Sexy tak taka Miss in Contest kher lem hi chuh, hun le hmun dang hiengang nuomhai tadingin a tam tho a. Manipur a cheng hnam tum tum hai inpumkhatna dinga hi ni hi hmang ni ta lem sien, a mikhuoltu ding hi a District a khawm a Hnam insawk pei ta lem inla, hieng hun haia hin buoina siemtu hnam chu in unauna ditlo a khawm enin, ngai pei ta inla, a fuk lem el ta thei (?...). Hun liem ta haia Kut ni, hun le hmun haia khan Condom, Under Wear le Zu bur le bawm ni leh tam tak tak hmuin a lo um ta hlak a. Kut hun haia hin Pathien kuoma tawngtaina hai dam neiin hun hai hmang a ni hlak bawk. Hienganga pawrche taka hmang a ni nawna ding hin Kut neitu hnam Kristien hai hin ei dodal ngam khawm a ngai. Kut hlawtlingna ding hin Pathien nekin Police Commandos, Sipai a khawm Garhwal Rifles, RR Rifles... an rum deu hai dam hi ei ti lem ni ta sien a hawi bawk. In enfie chu ei ngai nasa ta hle!
+
+Tukum a Kut hih:
+
+Tukum Nov. 1 a Kut hi Live Telecast lo en thei ning a ta. Lo en nuom hai tadingin
+
+le hi Kut le inzawma Chanchin tharlam tak chu facebook State Level Chavang Kut annawleh,
+
+haia hriet thei a ni ding a nih.
+
+Iengpo khawm lo ni ta sienla, Kut hi hmang thiem chun thil hlu ve tak chu a ni thei.

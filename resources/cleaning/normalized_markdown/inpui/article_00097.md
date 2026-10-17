@@ -1,0 +1,70 @@
+# Trobul Thusim
+
+* **Source URL:** [https://inpui.blogspot.com/2011/03/trobul-thusim.html](https://inpui.blogspot.com/2011/03/trobul-thusim.html)
+* **Date:** `2011-03-04`
+* **Source Archive:** `inpui`
+* **Hmar Ratio:** `0.83`
+
+---
+
+By L.Keivom*, Inpui Columnist
+
+Kum 2006 sunga Hmar ṭawnga Sande Sikul neihai po po hmang dinga ruot chu Mosie ziek nia ngai,
+
+Genesis bu
+
+a nih. Mosie kha B.C 1520 vela pieng ni dinga ring a nih. Kum sawmli sung Faraw lal inah a khawsak hnungin, Thutmose III inlal ṭan hlimin B.C 1480 vel khan Aigupta rama inthokin Midian ramah a tlânsie a, kum sawmli a um hnungin Aigupta bawia intâng Israelhai ṭhuoi suok dingin B.C 1440 khan a hung suok a, kum sawmli a ṭhuoi hnungin B.C 1400 vel khan Jordan ram Moab bielah a thi a, an phùmna hmun ruok chu a phûmtu Pathien chauin a hriet.
+
+Dr. Rochunga Pudaite buotsai Hmar Bible-a Genesis bu ziek huna a hril chu B.C 1688 vêl a nih. Chu chu Mosie pieng hma kum 68 a ni lei le pieng hma daia lekhabu ziek thu a um bok si naw leiin, sirsana a nei, an thu lakna hnàr (source of information) ni awm chu sui suok a ṭûl a. Chu thaw ding chun Juda-Kristien khawvelin kum suidonna dinga inkhina hmol an lo hmanghai chu hriet hmasak phot a ngai.
+
+Juda mi thiem ṭhenkhatin khawvel siem hun ni dinga an sùt suok chu Isu pieng hma October 7, 3761 B.C a nih; B.C 5509 ni dinga ring khom an um bok. Tuta khawvelin kum inkhinaa ei hmang tak, Christian Era hi kum zabi pangana lai khan thiempu pakhat Dionysius Exiguus chun Rome khawpui an bawl ṭana inthoka kum 754 leh her milin Isu pieng ni kha, a pieng kum tak neka kum thuma inhnuin, December 25, B.C 1 ah a sie a. Isu pieng hma po kha Thuthlung Hlui hun bawmah a khum a, B.C ti a hung ni a. Isu pienga inthokin hun thar a’n ṭantir a, chu chu A.D ei ti hi a nih. Hi dungzui hin kum 1582 A.D khan Pope Gregory XIII chun January 1-a kum inṭantirin kalendar a’n siemtir a, chu chu tuta ei hmang lai, Gregorian Calendar tia ko hi a nih. Ram hrang hrangin ei hung hmang ṭanna lem chu chu hnung dai chu a nih.
+
+Hang ngaituo hrim ta! Eini lem chun, kum 1894-a misawnari an hung lut hma khan Zoram khawvela hin thla chauh hun inkhina dingin ei nei a, hming ei inneitir a, sienkhom kum tiemna le chawlkar tiemna khom ei nei nawh. Nisa suoka inthoka a tlâk chen hi ni khat, a suok nawk chen zan khat a ni top a; chawlkar ei nei naw a, ni hming tiemna Ṭhawṭanni-Chawlni hi ei nei naw a; thla dêta inthoka a mang chen hi thla khat a na; kum bul lo vàt ṭana inthoka bu sik zo chen hi kum khat a ni nawk top bok a. Kum ei tiem thei dan um sun chu, chu zàu nei kum, chu muol nei kum ti chauh a nih. Chu khom chu kum thum kum li dana khuo inson pei ei ni leiin umzie a nei rak nawh. Ei lo ropui nêp khop el. Hang insan puom rak thei ei ni nawh.
+
+Pêt hla loin ei thu zai zui nawk inla. Gregorian kalendar a suok hnung hin, hi kum inkhìna ang hin Baibula chuong mihriemhai inthla sawng pei indot dan anga a hriet chu besana hmangin Ireland-a Anglican Archbishop James Ussher (1581-1656) chun khawvel siem hun chu 4004 B.C ni dingin a sût suok a. A hnuoia thok Bishop John Lightfoot (1602-1675) lem chun a kum el chu dit tawk loin Pathienin khawvel a siem zo ni kha October 23, 4004 B.C, Zirtawpni zing dar 9 ni dingin mawlcho takin a sut suok bok a. Chu chu sirsana hmangin, ka Baibul nei laia pakhat, King James Version-a chun Genesis bung khatna inṭanna chu B.C 4004 tiin huoisen takin an ziek top el a nih.
+
+Hi inkhina hmol hi a nih Genesis bung khatna ei sui zàta buoina bul, a kaikuongpa tak chu. Chu inkhina hmol ang chun khawvel siema inthoka Isu Krista hung pieng hun chen kha kum 4000 sung chauah an mi khumpek a. Isu pienga inthokin nambar pakhata ṭanin kum an tiem ṭan nawk a, chuong ang dungzui chun tu kum, hi lekha ka ziek kum hi A.D 2006 a nih. Hi inkhina bawia hin khawvel hi ei intàng a nih. Kristien khawvela mi tam tak chun ni ruk sunga Pathienin hnuoi le van le a sunga umhai a’n umtir le a siem zo hnunga a ni sarinaa a chawl ang khan, B.C kum 4000 le A.D kum 2000 bel khawm chu kum 6000 a na, a kum 7000 inṭan pha khawvel hi tawpin a chawl ding niin an ring a. Chuleiin, kum 2000 hung tlung ding kha ṭi le inthin pumin an lo nghak hrim a nih. Pathien hlak chun ei inkhina hmol a hmang top si nawh! Thilsiem huna a ni khat le a ni hnina inkara hin ei hnuoi kum maktaduoi ieng zat am a tla ti khom ei hriet bok nawh. Hre dingin ei dam kum hlak chu kum 70 dam, hrisel leiin kum 80 dam a ni ṭawk si. Kum nuoi khat vel bek damin ei thluok hi zaa sawmkuo vel bek hmang theiin inṭhang inla chu, tlawmte bèk chu ei hriet ve el thei ka ring.
+
+Ka la hriet zing chu 1966-a Sielmat Christian College-ah Lecturer sin ka thaw lai a nih. B.A I & II Year class-ah Indian History ka’n chuktir a. Class kan ṭan hmasa tak chun ṭobul thusim, kum maktaduoi iemani zat liem taa India rama mihriem an hung cheng ṭan dan le an khawsak dan ka hril ding a ni leiin, “Tien lai thil, ṭobul thusim ei hril ding a ni leiin, in Baibul la sie hre phot ro” tiin ka ṭan a. Hi taka “Baibul sie hre phot ro” ka ti hi Baibul sie hmang ding ka tina ni loin, Baibul kum inkhinaa an mi lo siepek, B.C 4004-a inṭan hi hun le kum inkhinaa hmang lo ding ka tina a nih. A san chu, hi inkhina hmol le mihriemin thil umphung ei hmu suok pei ang dungzuia hnuoi le a sunga chenghai upat dan chu a’n mil thei naw lei a nih. Hi inkhina hmol hi a ṭangkai hle lai zingin, chîk taka ei ngaituo chun Baibul suk-Baibul nawtu le Pathien suk-Pathien nawtu a ni theina chin umin an lang. Hi inkhina hmol hi hmanga ṭhangtharhai lai thu ei hril chun, inbet bilingah mi ngai an tih.
+
+Scientist-haiin hnuoi upat dan ni awma an sui chu kum tlukledingawn 4.6 vel a na, chu khom chu tu chena an thil hmu suokhai besana inthoka an hisap thei chin chauh a la nih. An hril dan chun, hnuoi hi vana arasi tlukdingawn tlukledingawn neka tam dai laia arasi hlek chikte, arasi dang le tekhin chun sunhang tiet khom ni lo a nih. Tu laia vanvel (van khawvel, universe) suina dinga arasi lem an thon suokhaiin thlalak an hung thonhai le kha hmaa an thil lo sui suoka inthoka an hmu dan chun, arasi lien tak le arasi lien tak dang an insut a, chu puok dar hlek tla, tlukledingawn tam tak chu damtein arasi hrang hrangin an hung insiem a, chuong laia mi chu ei nisa le a heltu planets-hai hi ni vein an hril a, chuong planet-hai laia pakhat chu hnuoi hi a nih. Hi arasi lien insut dar hi a nih
+
+Big Bang Theory
+
+an ti vet chu. Sienkhom hi theory hin zawna don harsa tam tak a cho suok a, chuong laia pakhat chu hi hi a nih: Big Bang kha ei hnuoi um ṭanna lo ni ta hrim sien, chuong arasi lien insut darhai chu tu siem am ni tang a ta?
+
+Vanvêl zauzie hi mihriem inkhìna chun hang hisap ngaina a um nawh. A zauzie ei zuk hisap thei dan dinga entirna hnai tak chu var (light) fe hratzie-a inthokin a ni el thei. Var neka fe hrat hi mihriem hriet phak china chu thil dang a um nawh. Nisa zung hi sekhon khatah kilometer 2,99,727 a fe a, kum khat sungin km 9,458,506,200,726 a fe thei a. Chuong ang ngota hrâta a fe chun, tuta china arasi var hnuoi mihaiin ei hmu hlat tak hin hnuoi a hung tlungna dingin kum tlukledingawn 15 vel a lâk a nih. Chu var hung suokna vanvel ang chu ieng zat hiel am vana khin a um ding ti ei hriet phak naw a, ei hriet ruok ruok chin zauzie ding khom hi suongtuo ngaina hrim a um nawh. Chu lei chu ni naw nim Thuhriltuin (3:11) “Iengkim a hun taka mawiin a siem a.
+
+Mihriem lungrilah chatuon a sie bok a.
+
+Sienkhom, chuong sa khom chun a tira inthoka a tawp chena Pathien thilthaw chu an hmu suok thei chuong nawh” (Delhi Version) a lo ti chu.
+
+Van ram lem lem chu arasi khel daia um ni dingin ei ring nawknghal a! Mihriem hisapna hmangin, var anga hrâtin ei thlarau hin ei chawlna hmun dinga ei ngai van ram chu pan ta vang vang sien, a tlungna dingin kum tlukledingawn tiem seng lo a ngai ding a nih. Chuong ang chun Adam le Evi thlarau kha inzin ta sien, tuta ei hisap anga kum 6000 vel chaua hnuoi hi inṭan an ni chun, an thia inthoka van ram pan kha an tlungna ding chun tuta inthoka kum tlukledingawn tiem seng lo la ning a ta, an inzin ṭan trèk trék ang chauh ni thei a tih. Mihriem lungrilah chatuon a sie sa hmanin, Pathien ropuizie hi hang hisap ngaina khom a um nawh. Ei ringpui tak IMMANUEL chu ei kuoma um zing ni naw sien chu Pathien umnaa ei ngai van ram hi tlung phak ruol ding a ni nawh. Isu ei ringna leia chaua chu hmun chu chang thei le tlung el thei dinga hamṭhatna inhlàna ei um el hi a lawmumzie le ei vangneizie ei ngaituo hlak am?
+
+Tirko Paulan, “Tu hin a ṭhen chauh ei hriet a, a ṭhen chauh ei hril hri a. Famkimna a hung tlung pha chun a ṭhen chauh ei hril hi famkim tang a tih…Tu hin chu darthlalanga phe ruoia ei hmu ang hin ei hmu hri a, chu pha ruok chun inhmatonin hmu tang ei tih. Tu hin chu a ṭhen chauh ei hriet hri a, chu pha ruok chun Pathienin a mi hriet chieng angin la hre chieng ei tih” (1 Kor 13:9-12) a lo ti ang khan, chu hrietna mak ei chang pha chun, sandam nauhai chan ropuizie le Pathien hmangaina inthukzie hi hung hre fie tang ei ta, chawimawia inpak ringot naw chu thaw nuom dang iengkhom nei nawng ei tih. Chu hun chu a nih Johanin Thupuonga a lo hril mol mol el kha.
+
+Ka hril nuom tak thu mu chu hi hi a nih: Genesis-a thilsiem inṭanna kum ni dinga B.C 4004 an lo sie hi a him naw a, thil umphung leh a’n mil thei bok nawh. Mihriem lu ro an hmu suok ṭhenkhat chu kum maktaduoi thum neka upa dam ni dingin mi thiemhaiin an ngai a. America ram mihriemin an hluo ṭanna ngot khom tu lai hnaia an thil cho suoka inthoka sut chun kum 50,000 vel nia hriet a na, kha hmaa an lo ring dan leh kum 20,000-in an inthlau tah a nih. Scientist-haiin mihriem sulhnu an cho suoka inthoka mihriem hmasa tak an sui thei chu Africa rama inthoka hung suok an nih. Chu thla hung indar pei chu Australia le Pacific Tuifinrieta thlierkar chik te tea chen an indar a, chuonghai thlahai chu tu chen hin hmu ding an la um a, India rama khom Andaman le Nicobar thlierkarah an la um. Hieng mihai hi Anthropologist-hai chun Melanesian Group hnuoiah an sie. New Zealand-a ka um laiin Pacific Tuipuia ram ṭhenkhat hi ka biel sa leiin a châng chângin kan zin suok hlak a, mit ngeiin hieng mihai ka hmu ve a. Tuipui incham puou lai, sunhang tiet chau chaua chin thlierkar inhlat tak takin a um pheu pheu a. Chuong thlierkara Africaa inthoka inpemhai hang hmu chu ngaituona a fe sei thei khop el.
+
+Kum 2002 December 15 le 18 khan
+
+National Geographic Channel International
+
+-ah documentary film pakhat ‘
+
+Journey of Man’
+
+ti, darkar hni-a sei chu India channel-ah an insuo a. Chu film-a chun Africa rama San Bushmen of Namibia an tihai le inzom, tien lai, khawṭoṭima Africa mi, Africa rama inthoka tuipui kam pei hrawa inpêm, India ram le sak tieng Asia ramhai fe thleng peia kum 1000 sunga Australia chen an tlung dan chanchin an sui suok chu an inentir a. Archaelogy le Anthropology hmanga sui suok ruol lo chu ram hrang hranga chenghai DNA la khawmin, an
+
+Genetic history
+
+hmangin an sui a nih. Chu taka an hmu dan chun, tuifinriet kam pei hrawa inpêm hmasahai inpèm hun chu kum 50,000 liem tah lai kha a na; anni hnunga inpêm suok, Asia, Europe le America hmun hrang hranga indarhai inpèm hun chu 45,000 lai kha a nih.
+
+Thil hlui an suinaa inthoka an hmu dan chun, kum singnga liem tah lai khan hmar tawpa vur ram hin tui hu a hîp khal ṭeu a. Vur intui zop le luong thla a tlawm leiin Africa ram ngaw a hung ṭawl zo a, tuipui khom tuta nek hin meter 100-in a’n thuk naw lem a. India rama tuifinriet kam hi km 200 neka hla tuiin a kangsan a, Sri Lanka leh kea infe paw theina vong a nih. Chuong lai chun Malaysia le Indonesiaa thlierkar hrang hranghai le Papua New Guinea le Australia ramhai hi kea infe paw theina vong a na, Australia kam lem chu tuta tuipuiin a chim chena inthoka km 250 vela hla chu khawmuol vong a la nih.
+
+Hi genetic research thawnaa a lusa taka an nei chu Oxford University-a Scientist Spencer Wells a na, India mi a kûl a tâia ṭhang ve chu Prof. R.M.Pitchappan a nih. DNA sanghni chuong an lak khawm a, an thil hmu suok hrang hranghai chu ngainuom a um kher el. Chu documentary film-a chun Spencer Wells-in, “All of us are literally Africans underneath the skin, brothers and sisters separated by mere 2000 generations” (Ei reng hin ei vun thuo hnuoia chu Africa mi ei lo ni vong a, suon sanghni sung chaua unau inṭhe hrang mei mei ei nih) tiin thu a khâr a. Hi taka mihriem inthla sawng dan a riruot le Baibula inthla sawng dan an hril chu danglam tak a nih.
+
+Chu chu a san hriet fie naw chun Baibul hi ringhla phànaa hmang thei a ni leiin hriet fie a ṭul takmeu a nih. Baibul hi Pathien inhriettirna le inpuongna bu a na, histawri bu a ni naw a, khawvel varna le science tieng inchukna dinga ziek a ni bok nawh. Thlatuhai suina bu khom a ni nawh. Thlatuhai suina ei hmuhai chu Pathien inhriettir indikzie sukchiengna dinga an ziek chauh a nih. Mihriem hmangin Pathienin a thu a’n hriettir a, chu inhriettirna famkim chu a hun laia mihai kuomah a famkimin a’n langtir kher nawh. An dawl zo tawkin a’n hriettir a, an thu dong phak ang ang chu an kalchar mit le naa an hmu le hriet dan angin an chengna khawvela ṭawng hmangin an ziek suok a, a ṭhenin an nghakhla zawng thil chu Pathien inhriettirnaa ngaiin an ziek uor bok a. Chu thila chun zawlneihai kha an fihlim bik nawh.
+
+Mihriem kuoma Pathien inhriettirna famkim le vawrtawp ruok chu Isu Kristaa khan ei hmu a. Hnuoia inthoka lak a ni hnungin a thu chu Thlarau Thienghlimin mihriem kuomah a’n hriettir a. Chu Thlarau chun Isu Kristaa inlang thu chauh a hril hlak; thu dang a belsa ngai naw a, thu dang a um thei bok nawh. Chu taka chun Thuthlung Hlui hi a hlui bik naw a, Thuthlung Thar khom a thar bik bok nawh. Genesis-a inthoka Thupuong bu chen, Baibul tia ei ko, hlui thei lo le kiem thei lo hi Pathienin a hmangaina mihriemhai kuoma a puongna le inhriettirna lekhabu a ni a, B.C le A.D rip sunga khum hi a remchangna chin um sien khom Pathien thu le a ditzawng tak chu ni kher naw nih. Hunbi kim neitu le vongtu Pathien sana hmang hi tu khomin ei hriet si nawh.
+
+(*Pu Keivom is a retired Indian foreign diplomat and author of Zoram Khawvel series. This article is dated Delhi, February 8, 2006)
