@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern comfortable landscape keyboard height (192dp = 48dp touch targets x 4 rows) -->
+    <dimen name="keyboard_height">192dp</dimen>
+    <dimen name="banner_height">38dp</dimen>
+</resources>

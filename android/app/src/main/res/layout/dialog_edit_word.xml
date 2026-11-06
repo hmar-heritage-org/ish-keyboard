@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/dialog_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Custom Word"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/brand_emerald" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:text="Enter a word or hyphenated compound (e.g., amik-amak, in-en, Zoram)."
+        android:textSize="12sp"
+        android:textColor="@color/text_sub" />
+
+    <!-- Word input -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Word or Compound"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:textColor="@color/text_main" />
+
+    <EditText
+        android:id="@+id/et_dialog_word"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:background="@drawable/edit_text_bg"
+        android:padding="12dp"
+        android:hint="e.g. amik-amak"
+        android:textSize="15sp"
+        android:textColor="@color/text_main"
+        android:singleLine="true" />
+
+    <TextView
+        android:id="@+id/tv_dialog_error"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:text="Only letters and internal hyphens are allowed"
+        android:textSize="11sp"
+        android:textColor="#EF4444"
+        android:visibility="gone" />
+
+    <!-- Frequency input -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:text="Starting Frequency (Usage Count)"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:textColor="@color/text_main" />
+
+    <EditText
+        android:id="@+id/et_dialog_freq"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:background="@drawable/edit_text_bg"
+        android:padding="12dp"
+        android:hint="5"
+        android:text="5"
+        android:inputType="number"
+        android:textSize="15sp"
+        android:textColor="@color/text_main"
+        android:singleLine="true" />
+</LinearLayout>

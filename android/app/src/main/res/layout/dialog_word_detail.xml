@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/bg_card"
+    android:padding="20dp"
+    android:maxHeight="650dp">
+
+    <!-- Bottom sheet drag handle -->
+    <View
+        android:layout_width="36dp"
+        android:layout_height="4dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/bg_badge_freq"
+        android:layout_marginBottom="14dp" />
+
+    <!-- Top Word Row -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_detail_word"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="chaw-le-tui"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:textColor="@color/brand_emerald" />
+
+            <!-- Badges Row -->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginTop="6dp">
+
+                <TextView
+                    android:id="@+id/badge_detail_ish"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/badge_active"
+                    android:paddingHorizontal="8dp"
+                    android:paddingVertical="3dp"
+                    android:text="ISH Standard"
+                    android:textSize="10sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/badge_active_text"
+                    android:layout_marginEnd="6dp" />
+
+                <TextView
+                    android:id="@+id/badge_detail_custom"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_badge_custom"
+                    android:paddingHorizontal="8dp"
+                    android:paddingVertical="3dp"
+                    android:text="Custom"
+                    android:textSize="10sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/badge_active_text"
+                    android:layout_marginEnd="6dp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/badge_detail_usage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_badge_freq"
+                    android:paddingHorizontal="8dp"
+                    android:paddingVertical="3dp"
+                    android:text="Used 14× by you"
+                    android:textSize="10sp"
+                    android:textColor="@color/text_sub" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <!-- Close button -->
+        <ImageView
+            android:id="@+id/btn_close_detail"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:padding="6dp"
+            android:src="@android:drawable/ic_menu_close_clear_cancel"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:contentDescription="Close" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/border_light"
+        android:layout_marginTop="14dp"
+        android:layout_marginBottom="14dp" />
+
+    <!-- Scrollable Body for Sentences & Examples -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- Card: Verified Example Sentence -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card_notice"
+                android:padding="14dp"
+                android:layout_marginBottom="16dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="VERIFIED EXAMPLE SENTENCE"
+                        android:textSize="10sp"
+                        android:textStyle="bold"
+                        android:letterSpacing="0.06"
+                        android:textColor="@color/brand_emerald" />
+
+                    <TextView
+                        android:id="@+id/btn_edit_example"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Edit Example"
+                        android:textSize="11sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/brand_emerald"
+                        android:background="?attr/selectableItemBackground"
+                        android:padding="4dp" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/tv_standard_example"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="No standard example recorded yet. Tap 'Edit Example' to add one."
+                    android:textSize="13sp"
+                    android:fontFamily="serif"
+                    android:lineSpacingExtra="3dp"
+                    android:textColor="@color/text_main"
+                    android:layout_marginTop="6dp" />
+            </LinearLayout>
+
+            <!-- Concordance Section: How You Used This Word -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="HOW YOU USED THIS WORD (REAL CONTEXT)"
+                android:textSize="11sp"
+                android:textStyle="bold"
+                android:letterSpacing="0.06"
+                android:textColor="@color/text_hint"
+                android:layout_marginBottom="6dp" />
+
+            <TextView
+                android:id="@+id/tv_concordance_subtitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Searching your typing history..."
+                android:textSize="12sp"
+                android:textColor="@color/text_sub"
+                android:layout_marginBottom="10dp" />
+
+            <!-- Container for Concordance Sentence Cards -->
+            <LinearLayout
+                android:id="@+id/layout_sentence_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" />
+
+            <!-- Empty Sentence Notice -->
+            <LinearLayout
+                android:id="@+id/layout_no_sentences"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:background="@drawable/bg_badge_freq"
+                android:padding="16dp"
+                android:visibility="gone">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="No personal sentences yet"
+                    android:textSize="13sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_sub" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="When you type this word in your messages, the exact sentences you wrote will appear here."
+                    android:textSize="12sp"
+                    android:textColor="@color/text_hint"
+                    android:gravity="center"
+                    android:layout_marginTop="4dp" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <!-- Bottom Actions Bar -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginTop="14dp">
+
+        <Button
+            android:id="@+id/btn_detail_delete"
+            android:layout_width="0dp"
+            android:layout_height="44dp"
+            android:layout_weight="1"
+            android:text="Delete Word"
+            android:textSize="13sp"
+            android:textColor="#EF4444"
+            android:background="@drawable/bg_badge_freq"
+            android:layout_marginEnd="10dp" />
+
+        <Button
+            android:id="@+id/btn_detail_edit"
+            android:layout_width="0dp"
+            android:layout_height="44dp"
+            android:layout_weight="1"
+            android:text="Edit Word"
+            android:textSize="13sp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/btn_primary" />
+    </LinearLayout>
+
+</LinearLayout>

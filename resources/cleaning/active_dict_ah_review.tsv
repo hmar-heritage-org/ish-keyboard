@@ -1,0 +1,66 @@
+word	action	suggested_split	stem	freq_in_dict	category	notes
+menah	DISCARD		men	7	Biblical Word	discarded as biblical/non-Hmar
+vuoka	PRUNE_AND_MAP	vuok a	vu	5	Common Stem + ah	blow / bury / plant
+vuah	PRUNE_AND_MAP	vu ah	vu	5	Common Stem + ah	blow / bury / plant
+ṭepah	PRUNE_AND_MAP	ṭep ah	ṭep	5	Common Stem + ah	sip / suck
+hmaisanah	PRUNE_AND_MAP	hmaisan ah	hmaisan	4	Common Stem + ah	front / face forward
+povah	PRUNE_AND_MAP	po ah	pov	3	Common Stem + ah	burst forth / pop
+chirdupah	PRUNE_AND_MAP	chirdup ah	chirdup	2	Common Stem + ah	quagmire / mud mire
+paikawngah	PRUNE_AND_MAP	paikawng ah	paikawng	2	Common Stem + ah	traditional cane basket
+thinglerah	PRUNE_AND_MAP	thingler ah	thingler	2	Common Stem + ah	treetop
+vangkhuoah	PRUNE_AND_MAP	vangkhuo ah	vangkhuo	2	Common Stem + ah	village / realm / homeland
+ṭhalbeah	PRUNE_AND_MAP	ṭhalbe ah	ṭhalbe	2	Common Stem + ah	midsummer / peak dry season
+chungzawlah	PRUNE_AND_MAP	chungzawl ah	chungzawl	1	Common Stem + ah	firmament / sky / high plateau
+diemnemah	PRUNE_AND_MAP	diemnem ah	diemnem	1	Common Stem + ah	gentle slope / quiet ground
+hrulah	PRUNE_AND_MAP	hrul ah	hrul	1	Common Stem + ah	along / beside / skirting
+inawngah	PRUNE_AND_MAP	inawng ah	inawng	1	Common Stem + ah	valley / depression
+lirah	PRUNE_AND_MAP	lir ah	lir	1	Common Stem + ah	earthquake / shaking
+phekpuiah	PRUNE_AND_MAP	phekpui ah	phekpui	1	Common Stem + ah	main platform / board
+selingah	PRUNE_AND_MAP	Seling ah	seling	1	Common Stem + ah	Seling (town in Mizoram)
+tawtah	PRUNE_AND_MAP	tawt ah	tawt	2	Common Stem + ah	crowded / packed / tight
+ṭawngdawngah	PRUNE_AND_MAP	ṭawng dawng ah	ṭawngdawng	2	Common Stem + ah	crossroads / junction
+raah	PRUNE_AND_MAP	ra ah	ra	1	Common Stem + ah	fruit / yield / upon stepping
+charchilnaah	PRUNE_AND_MAP	charchilna ah	charchilna	1	Nominalized na + ah	discipline / chastisement
+inkhawnah	PRUNE_AND_MAP	inkhawn ah	inkhawn	1	Nominalized na + ah	assembly / church service
+namthlakah	PRUNE_AND_MAP	namthlak ah	namthlak	1	Nominalized na + ah	demotion / casting down
+nuizatthlakah	PRUNE_AND_MAP	nuizatthlak ah	nuizatthlak	1	Nominalized na + ah	comical / laughable
+duolnaah	PRUNE_AND_MAP	duolna ah	duolna	2	Nominalized na + ah	mercy / leniency
+hawihawmnaah	PRUNE_AND_MAP	hawihawmna ah	hawihawmna	2	Nominalized na + ah	politeness / hospitality
+rawtnawinaah	PRUNE_AND_MAP	rawtnawina ah	rawtnawina	2	Nominalized na + ah	intercession / mediation
+ṭhimnaah	PRUNE_AND_MAP	ṭhimna ah	ṭhimna	2	Nominalized na + ah	darkness
+abronaah	PRUNE_AND_MAP	Abrona ah	abrona	2	Biblical Camp + ah	Numbers 33:34 (Abronah)
+dophkaah	PRUNE_AND_MAP	Dophka ah	dophka	2	Biblical Camp + ah	Numbers 33:12 (Dophkah)
+haradaah	PRUNE_AND_MAP	Harada ah	harada	2	Biblical Camp + ah	Numbers 33:24 (Haradah)
+hattavaah	PRUNE_AND_MAP	Hattava ah	hattava	2	Biblical Camp + ah	Numbers 11:34 (Kibroth-hattaavah)
+jotbathaah	PRUNE_AND_MAP	Jotbatha ah	jotbatha	4	Biblical Camp + ah	Numbers 33:33 (Jotbathah)
+kehelathaah	PRUNE_AND_MAP	Kehelatha ah	kehelatha	2	Biblical Camp + ah	Numbers 33:22 (Kehelathah)
+mattanaah	PRUNE_AND_MAP	Mattana ah	mattana	1	Biblical Camp + ah	Numbers 21:18 (Mattanah)
+rissaah	PRUNE_AND_MAP	Rissa ah	rissa	2	Biblical Camp + ah	Numbers 33:21 (Rissah)
+zalmonaah	PRUNE_AND_MAP	Zalmona ah	zalmona	2	Biblical Camp + ah	Numbers 33:41 (Zalmonah)
+chubakah	PRUNE_AND_MAP	chu bak ah	chu bak	25	Compound Phrase + ah	besides that / moreover
+hitakah	PRUNE_AND_MAP	hi tak ah	hi tak	10	Compound Phrase + ah	in this very thing / right here
+huntakah	PRUNE_AND_MAP	hun tak ah	hun tak	8	Compound Phrase + ah	at the right time / timely
+inthawltakah	PRUNE_AND_MAP	inthawl tak ah	inthawl tak	6	Compound Phrase + ah	in deep refreshment
+sawtakah	PRUNE_AND_MAP	saw tak ah	saw tak	4	Compound Phrase + ah	way over there
+hnuoihnungtakah	PRUNE_AND_MAP	hnuoihnung tak ah	hnuoihnung tak	2	Compound Phrase + ah	at the very last / latest
+incheptakah	PRUNE_AND_MAP	inchep tak ah	inchep tak	2	Compound Phrase + ah	in tight constriction
+lungrukah	PRUNE_AND_MAP	lungruk ah	lungruk	3	Compound Phrase + ah	in secret heart / deep within
+laizawlah	PRUNE_AND_MAP	laizawl ah	laizawl	4	Compound Phrase + ah	in the central valley / plain
+mithmuhah	PRUNE_AND_MAP	mit hmuh ah	mit hmuh	6	Compound Phrase + ah	before eyes / in plain sight
+sinthawhah	PRUNE_AND_MAP	sinthawh ah	sinthawh	1	Compound Phrase + ah	in labor / in work
+vanzawlah	PRUNE_AND_MAP	vanzawl ah	vanzawl	1	Compound Phrase + ah	in the heavens / expanse
+zaikhatah	PRUNE_AND_MAP	zai khat ah	zai khat	1	Compound Phrase + ah	in unison / with one voice
+ruongvaisuoah	PRUNE_AND_MAP	Ruongvaisuo ah	ruongvaisuo	1	Historical Place + ah	historic confluence of Tipaimukh
+hmarchamuolah	PRUNE_AND_MAP	hmarchamuol ah	hmarchamuol	6	Compound Phrase + ah	Hmar chamuol / plateau
+phulzawlah	PRUNE_AND_MAP	phulzawl ah	phulzawl	1	Compound Phrase + ah	on the grassy field
+dinhmunah	PRUNE_AND_MAP	dinhmun ah	dinhmun	1	Compound Phrase + ah	in the status / position
+hmingbulah	PRUNE_AND_MAP	hming bul ah	hming bul	1	Compound Phrase + ah	beside the name
+krosslerah	PRUNE_AND_MAP	kross ler ah	kross ler	1	Compound Phrase + ah	at the top of the cross
+tlawmthlakah	PRUNE_AND_MAP	tlawmthlak ah	tlawmthlak	1	Compound Phrase + ah	in humiliation / humble state
+thilsuksuolah	PRUNE_AND_MAP	thilsuksuol ah	thilsuksuol	1	Compound Phrase + ah	in wrongdoing / sins
+simsawngah	PRUNE_AND_MAP	simsawng ah	simsawng	3	Compound Phrase + ah	towards the south / southern edge
+dawngumah	PRUNE_AND_MAP	dawngum ah	dawngum	1	Compound Phrase + ah	in a pleasant manner
+famtah	PRUNE_AND_MAP	fam tah	fam	3	Verb + Particle tah	passed away (fam + tah)
+liemtah	PRUNE_AND_MAP	liem tah	liem	9	Verb + Particle tah	gone / elapsed (liem + tah)
+tiemtah	PRUNE_AND_MAP	tiem tah	tiem	1	Verb + Particle tah	read / counted (tiem + tah)
+umtah	PRUNE_AND_MAP	um tah	um	1	Verb + Particle tah	existed / lived (um + tah)

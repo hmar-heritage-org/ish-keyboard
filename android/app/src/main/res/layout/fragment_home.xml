@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="@color/bg_page">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- ============================================== -->
+        <!-- SECTION 1: HEADER & STATUS                     -->
+        <!-- ============================================== -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginTop="4dp"
+            android:layout_marginBottom="16dp">
+
+            <ImageView
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:src="@drawable/ic_brand_emblem"
+                android:contentDescription="ISH Emblem" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_marginStart="12dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="ISH Keyboard"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/brand_emerald" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Hmar Heritage Foundation"
+                    android:textSize="12sp"
+                    android:textColor="@color/text_sub" />
+            </LinearLayout>
+
+            <!-- Status Pill (Tap to switch IME) -->
+            <TextView
+                android:id="@+id/home_status_chip"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="● Active"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:textColor="@color/badge_active_text"
+                android:background="@drawable/badge_active"
+                android:paddingStart="12dp"
+                android:paddingEnd="12dp"
+                android:paddingTop="6dp"
+                android:paddingBottom="6dp" />
+        </LinearLayout>
+
+        <!-- ============================================== -->
+        <!-- SECTION 2: SETUP ACTION BANNER (When inactive) -->
+        <!-- ============================================== -->
+        <LinearLayout
+            android:id="@+id/card_setup_banner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/bg_card_notice"
+            android:padding="16dp"
+            android:layout_marginBottom="16dp"
+            android:visibility="gone">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="KEYBOARD SETUP NEEDED"
+                android:textSize="11sp"
+                android:textStyle="bold"
+                android:letterSpacing="0.08"
+                android:textColor="@color/brand_emerald" />
+
+            <TextView
+                android:id="@+id/tv_setup_desc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Enable ISH in settings and select it to start typing in Hmar."
+                android:textSize="13sp"
+                android:textColor="@color/text_main"
+                android:layout_marginTop="4dp"
+                android:layout_marginBottom="12dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btn_setup_enable"
+                    android:layout_width="0dp"
+                    android:layout_height="44dp"
+                    android:layout_weight="1"
+                    android:text="1. Enable"
+                    android:textSize="13sp"
+                    android:textStyle="bold"
+                    android:background="@drawable/btn_primary"
+                    app:backgroundTint="@null"
+                    android:textColor="#FFFFFF"
+                    android:textAllCaps="false"
+                    android:layout_marginEnd="6dp" />
+
+                <Button
+                    android:id="@+id/btn_setup_select"
+                    android:layout_width="0dp"
+                    android:layout_height="44dp"
+                    android:layout_weight="1"
+                    android:text="2. Select"
+                    android:textSize="13sp"
+                    android:textStyle="bold"
+                    android:background="@drawable/btn_secondary"
+                    app:backgroundTint="@null"
+                    android:textColor="@color/brand_emerald"
+                    android:textAllCaps="false"
+                    android:layout_marginStart="6dp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <!-- ============================================== -->
+        <!-- SECTION 3: INTERACTIVE TYPING PLAYGROUND       -->
+        <!-- ============================================== -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/bg_card"
+            android:padding="16dp"
+            android:elevation="1dp"
+            android:layout_marginBottom="16dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Typing Playground"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_main" />
+
+                <TextView
+                    android:id="@+id/btn_clear_playground"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Clear"
+                    android:textSize="13sp"
+                    android:textColor="@color/brand_emerald"
+                    android:textStyle="bold"
+                    android:padding="4dp" />
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/edit_playground"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minLines="2"
+                android:maxLines="4"
+                android:hint="Tap here to test typing, suggestions, and auto-split..."
+                android:padding="12dp"
+                android:background="@drawable/edit_text_bg"
+                android:textSize="14sp"
+                android:textColor="@color/text_main"
+                android:gravity="top|start" />
+        </LinearLayout>
+
+        <!-- ============================================== -->
+        <!-- SECTION 4: KEYBOARD HEIGHT TUNER               -->
+        <!-- ============================================== -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/bg_card"
+            android:padding="16dp"
+            android:elevation="1dp"
+            android:layout_marginBottom="16dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Keyboard Height"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_main" />
+
+                <TextView
+                    android:id="@+id/tv_home_height_value"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="275 dp (Normal)"
+                    android:textSize="13sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/brand_emerald" />
+            </LinearLayout>
+
+            <SeekBar
+                android:id="@+id/seek_home_height"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:max="140"
+                android:progress="55"
+                android:progressTint="@color/brand_emerald"
+                android:thumbTint="@color/brand_emerald"
+                android:layout_marginTop="12dp" />
+        </LinearLayout>
+
+        <!-- ============================================== -->
+        <!-- SECTION 5: QUICK PREFERENCES TOGGLES           -->
+        <!-- ============================================== -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/bg_card"
+            android:padding="16dp"
+            android:elevation="1dp"
+            android:layout_marginBottom="24dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Quick Feedback Settings"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:textColor="@color/text_main"
+                android:layout_marginBottom="12dp" />
+
+            <!-- Toggle 1: Vibration -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="44dp"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Vibrate on Keypress"
+                    android:textSize="14sp"
+                    android:textColor="@color/text_main" />
+
+                <androidx.appcompat.widget.SwitchCompat
+                    android:id="@+id/switch_home_vibrate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/border_light" />
+
+            <!-- Toggle 2: Sound -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="44dp"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Sound on Keypress"
+                    android:textSize="14sp"
+                    android:textColor="@color/text_main" />
+
+                <androidx.appcompat.widget.SwitchCompat
+                    android:id="@+id/switch_home_sound"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/border_light" />
+
+            <!-- Toggle 3: Spacebar Trackpad -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="44dp"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Spacebar Cursor Trackpad"
+                    android:textSize="14sp"
+                    android:textColor="@color/text_main" />
+
+                <androidx.appcompat.widget.SwitchCompat
+                    android:id="@+id/switch_home_trackpad"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

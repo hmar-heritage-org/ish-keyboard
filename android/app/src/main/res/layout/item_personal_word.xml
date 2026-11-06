@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_word_card"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@drawable/bg_card"
+    android:gravity="center_vertical"
+    android:padding="14dp"
+    android:layout_marginBottom="8dp">
+
+    <!-- Word text and info -->
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/tv_word_display"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="amik-amak"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="@color/text_main" />
+
+            <TextView
+                android:id="@+id/tv_badge_ish"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:background="@drawable/badge_active"
+                android:paddingHorizontal="6dp"
+                android:paddingVertical="2dp"
+                android:text="ISH STANDARD"
+                android:textSize="9sp"
+                android:textStyle="bold"
+                android:textColor="@color/badge_active_text"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/tv_badge_custom"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:background="@drawable/bg_badge_custom"
+                android:paddingHorizontal="6dp"
+                android:paddingVertical="2dp"
+                android:text="CUSTOM"
+                android:textSize="9sp"
+                android:textStyle="bold"
+                android:textColor="@color/badge_active_text"
+                android:visibility="visible" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_word_meta"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:text="Typed 14 times"
+            android:textSize="12sp"
+            android:textColor="@color/text_hint" />
+    </LinearLayout>
+
+    <!-- Frequency badge -->
+    <TextView
+        android:id="@+id/tv_freq_badge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_badge_freq"
+        android:paddingHorizontal="10dp"
+        android:paddingVertical="4dp"
+        android:text="14×"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:textColor="@color/text_sub"
+        android:layout_marginEnd="12dp" />
+
+    <!-- Multi-select checkbox (visible only in delete mode) -->
+    <ImageView
+        android:id="@+id/iv_word_select"
+        android:layout_width="26dp"
+        android:layout_height="26dp"
+        android:src="@drawable/ic_circle_outline"
+        android:visibility="gone"
+        android:contentDescription="Select word" />
+</LinearLayout>

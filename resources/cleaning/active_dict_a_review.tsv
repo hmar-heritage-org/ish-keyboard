@@ -1,0 +1,301 @@
+word	action	suggested_split	stem	freq_in_dict	category	notes
+ama	KEEP	ama	am	11575	Inviolate Root	inviolate root / lexeme
+dinga	PRUNE_AND_MAP	ding a	ding	8914	Conjoined stem + a	decoupled to ding a
+kuoma	PRUNE_AND_MAP	kuom a	kuom	7838	Conjoined stem + a	decoupled to kuom a
+laia	PRUNE_AND_MAP	lai a	lai	6294	Conjoined stem + a	decoupled to lai a
+chunga	PRUNE_AND_MAP	chung a	chung	5543	Conjoined stem + a	decoupled to chung a
+taka	PRUNE_AND_MAP	tak a	tak	3770	Conjoined stem + a	decoupled to tak a
+rama	PRUNE_AND_MAP	ram a	ram	3724	Anthroponym + Clitic a	decoupled to ram a
+anga	PRUNE_AND_MAP	ang a	ang	3051	Conjoined stem + a	decoupled to ang a
+inthawka	PRUNE_AND_MAP	inthawk a	inthawk	2924	Conjoined stem + a	decoupled to inthawk a
+inthoka	PRUNE_AND_MAP	inthok a	inthok	2290	Conjoined stem + a	decoupled to inthok a
+loa	PRUNE_AND_MAP	lo a	lo	2264	Conjoined stem + a	decoupled to lo a
+leia	PRUNE_AND_MAP	lei a	lei	2250	Conjoined stem + a	decoupled to lei a
+chutaka	PRUNE_AND_MAP	chu tak a	chutak	2036	Special Split / Compound	special decoupling to chu tak a
+sunga	PRUNE_AND_MAP	sung a	sung	1968	Conjoined stem + a	decoupled to sung a
+krista	KEEP	krista	krist	1918	Inviolate Root	inviolate root / lexeme
+tienga	PRUNE_AND_MAP	tieng a	tieng	1902	Conjoined stem + a	decoupled to tieng a
+hnuoia	PRUNE_AND_MAP	hnuoi a	hnuoi	1778	Conjoined stem + a	decoupled to hnuoi a
+inla	PRUNE_AND_MAP	in la	inl	1681	Special Split / Compound	special decoupling to in la
+ina	PRUNE_AND_MAP	in a	in	1562	Conjoined stem + a	decoupled to in a
+hnunga	PRUNE_AND_MAP	hnung a	hnung	1475	Conjoined stem + a	decoupled to hnung a
+tia	PRUNE_AND_MAP	ti a	ti	1459	Conjoined stem + a	decoupled to ti a
+nawna	PRUNE_AND_MAP	nawn a	nawn	1390	Conjoined stem + a	decoupled to nawn a
+tina	PRUNE_AND_MAP	tin a	tin	1384	Conjoined stem + a	decoupled to tin a
+nia	PRUNE_AND_MAP	ni a	ni	1314	Conjoined stem + a	decoupled to ni a
+nina	KEEP	nina	nin	1295	Nominalization (-na)	verb + bound nominalizer -na
+neka	PRUNE_AND_MAP	nek a	nek	1255	Conjoined stem + a	decoupled to nek a
+hmanga	PRUNE_AND_MAP	hmang a	hmang	1197	Conjoined stem + a	decoupled to hmang a
+khuoa	PRUNE_AND_MAP	khuo a	khuo	1142	Conjoined stem + a	decoupled to khuo a
+upa	KEEP	upa	up	1047	Inviolate Root	inviolate root / lexeme
+kuta	PRUNE_AND_MAP	kut a	kut	1045	Conjoined stem + a	decoupled to kut a
+hmuna	PRUNE_AND_MAP	hmun a	hmun	941	Conjoined stem + a	decoupled to hmun a
+panga	KEEP	panga	pang	888	Inviolate Root	inviolate root / lexeme
+chena	PRUNE_AND_MAP	chen a	chen	881	Conjoined stem + a	decoupled to chen a
+tlanga	PRUNE_AND_MAP	tlang a	tlang	874	Conjoined stem + a	decoupled to tlang a
+saula	PRUNE_AND_MAP	saul a	saul	868	Anthroponym + Clitic a	decoupled to saul a
+khawma	PRUNE_AND_MAP	khawm a	khawm	863	Conjoined stem + a	decoupled to khawm a
+india	KEEP	india	indi	852	Inviolate Root	inviolate root / lexeme
+tuta	KEEP	tuta	tut	846	Inviolate Root	inviolate root / lexeme
+poa	PRUNE_AND_MAP	po a	po	836	Conjoined stem + a	decoupled to po a
+paula	PRUNE_AND_MAP	paul a	paul	831	Anthroponym + Clitic a	decoupled to paul a
+ṭawnga	PRUNE_AND_MAP	ṭawng a	ṭawng	775	Conjoined stem + a	decoupled to ṭawng a
+khawvela	PRUNE_AND_MAP	khawvel a	khawvel	758	Conjoined stem + a	decoupled to khawvel a
+thua	PRUNE_AND_MAP	thu a	thu	691	Conjoined stem + a	decoupled to thu a
+ngeia	PRUNE_AND_MAP	ngei a	ngei	685	Conjoined stem + a	decoupled to ngei a
+vela	PRUNE_AND_MAP	vel a	vel	679	Conjoined stem + a	decoupled to vel a
+jerusalema	PRUNE_AND_MAP	Jerusalem a	jerusalem	657	Special Split / Compound	special decoupling to Jerusalem a
+khoma	PRUNE_AND_MAP	khom a	khom	632	Conjoined stem + a	decoupled to khom a
+thina	KEEP	thina	thin	628	Nominalization (-na)	verb + bound nominalizer -na
+vana	PRUNE_AND_MAP	van a	van	627	Conjoined stem + a	decoupled to van a
+chuonga	PRUNE_AND_MAP	chuong a	chuong	602	Conjoined stem + a	decoupled to chuong a
+lungrila	PRUNE_AND_MAP	lungril a	lungril	594	Conjoined stem + a	decoupled to lungril a
+huna	PRUNE_AND_MAP	hun a	hun	568	Conjoined stem + a	decoupled to hun a
+bula	PRUNE_AND_MAP	bul a	bul	525	Conjoined stem + a	decoupled to bul a
+keia	PRUNE_AND_MAP	kei a	kei	511	Conjoined stem + a	decoupled to kei a
+iengdinga	PRUNE_AND_MAP	ieng ding a	iengding	482	Special Split / Compound	special decoupling to ieng ding a
+peia	PRUNE_AND_MAP	pei a	pei	477	Conjoined stem + a	decoupled to pei a
+hminga	PRUNE_AND_MAP	hming a	hming	469	Conjoined stem + a	decoupled to hming a
+danga	PRUNE_AND_MAP	dang a	dang	458	Conjoined stem + a	decoupled to dang a
+indona	KEEP	indona	indon	453	Nominalization (-na)	verb + bound nominalizer -na
+inkara	PRUNE_AND_MAP	inkar a	inkar	431	Conjoined stem + a	decoupled to inkar a
+beiseina	KEEP	beiseina	beisein	418	Nominalization (-na)	verb + bound nominalizer -na
+zawnga	PRUNE_AND_MAP	zawng a	zawng	416	Conjoined stem + a	decoupled to zawng a
+hranga	PRUNE_AND_MAP	hrang a	hrang	415	Conjoined stem + a	decoupled to hrang a
+zawna	PRUNE_AND_MAP	zawn a	zawn	414	Conjoined stem + a	decoupled to zawn a
+thlalera	PRUNE_AND_MAP	thlaler a	thlaler	399	Conjoined stem + a	decoupled to thlaler a
+mithmua	PRUNE_AND_MAP	mit hmu a	mithmu	398	Special Split / Compound	special decoupling to mit hmu a
+khata	PRUNE_AND_MAP	khat a	khat	391	Conjoined stem + a	decoupled to khat a
+lema	PRUNE_AND_MAP	lem a	lem	385	Conjoined stem + a	decoupled to lem a
+lampuia	PRUNE_AND_MAP	lampui a	lampui	380	Conjoined stem + a	decoupled to lampui a
+ela	PRUNE_AND_MAP	el a	el	354	Conjoined stem + a	decoupled to el a
+khawpuia	PRUNE_AND_MAP	khawpui a	khawpui	353	Conjoined stem + a	decoupled to khawpui a
+zinga	PRUNE_AND_MAP	zing a	zing	352	Conjoined stem + a	decoupled to zing a
+khopa	PRUNE_AND_MAP	khop a	khop	350	Conjoined stem + a	decoupled to khop a
+nanga	PRUNE_AND_MAP	nang a	nang	337	Conjoined stem + a	decoupled to nang a
+tuma	PRUNE_AND_MAP	tum a	tum	336	Conjoined stem + a	decoupled to tum a
+kara	PRUNE_AND_MAP	kar a	kar	333	Conjoined stem + a	decoupled to kar a
+hnama	PRUNE_AND_MAP	hnam a	hnam	332	Conjoined stem + a	decoupled to hnam a
+jeremia	PRUNE_AND_MAP	jeremi a	jeremi	332	Anthroponym + Clitic a	decoupled to jeremi a
+fena	KEEP	fena	fen	328	Nominalization (-na)	verb + bound nominalizer -na
+neia	PRUNE_AND_MAP	nei a	nei	325	Conjoined stem + a	decoupled to nei a
+nawa	PRUNE_AND_MAP	naw a	naw	310	Conjoined stem + a	decoupled to naw a
+zana	PRUNE_AND_MAP	zan a	zan	305	Conjoined stem + a	decoupled to zan a
+editha	PRUNE_AND_MAP	edith a	edith	300	Anthroponym + Clitic a	decoupled to edith a
+elisha	PRUNE_AND_MAP	elish a	elish	300	Anthroponym + Clitic a	decoupled to elish a
+sapṭawnga	PRUNE_AND_MAP	sapṭawng a	sapṭawng	297	Conjoined stem + a	decoupled to sapṭawng a
+changa	PRUNE_AND_MAP	chang a	chang	292	Conjoined stem + a	decoupled to chang a
+inthienga	PRUNE_AND_MAP	inthieng a	inthieng	287	Conjoined stem + a	decoupled to inthieng a
+kawla	PRUNE_AND_MAP	kawl a	kawl	287	Conjoined stem + a	decoupled to kawl a
+dana	PRUNE_AND_MAP	dan a	dan	283	Conjoined stem + a	decoupled to dan a
+thlaraua	PRUNE_AND_MAP	thlarau a	thlarau	278	Conjoined stem + a	decoupled to thlarau a
+senga	PRUNE_AND_MAP	seng a	seng	274	Conjoined stem + a	decoupled to seng a
+kawnga	PRUNE_AND_MAP	kawng a	kawng	270	Conjoined stem + a	decoupled to kawng a
+chungthua	PRUNE_AND_MAP	chungthu a	chungthu	269	Conjoined stem + a	decoupled to chungthu a
+inza	KEEP	inza	inz	269	Inviolate Root	inviolate root / lexeme
+sala	PRUNE_AND_MAP	sal a	sal	260	Conjoined stem + a	decoupled to sal a
+sira	PRUNE_AND_MAP	sir a	sir	254	Conjoined stem + a	decoupled to sir a
+inhma	KEEP	inhma	inhm	254	Inviolate Root	inviolate root / lexeme
+chatuona	PRUNE_AND_MAP	chatuon a	chatuon	251	Conjoined stem + a	decoupled to chatuon a
+thila	PRUNE_AND_MAP	thil a	thil	251	Conjoined stem + a	decoupled to thil a
+tira	PRUNE_AND_MAP	tir a	tir	250	Conjoined stem + a	decoupled to tir a
+zara	PRUNE_AND_MAP	zar a	zar	247	Conjoined stem + a	decoupled to zar a
+suoka	PRUNE_AND_MAP	suok a	suok	246	Conjoined stem + a	decoupled to suok a
+china	PRUNE_AND_MAP	chin a	chin	245	Conjoined stem + a	decoupled to chin a
+kawtkhara	PRUNE_AND_MAP	kawtkhar a	kawtkhar	238	Conjoined stem + a	decoupled to kawtkhar a
+meia	PRUNE_AND_MAP	mei a	mei	237	Conjoined stem + a	decoupled to mei a
+ṭhea	PRUNE_AND_MAP	ṭhe a	ṭhe	237	Conjoined stem + a	decoupled to ṭhe a
+puma	PRUNE_AND_MAP	pum a	pum	235	Conjoined stem + a	decoupled to pum a
+davida	PRUNE_AND_MAP	david a	david	234	Anthroponym + Clitic a	decoupled to david a
+ngaia	PRUNE_AND_MAP	ngai a	ngai	234	Conjoined stem + a	decoupled to ngai a
+siena	KEEP	siena	sien	230	Nominalization (-na)	verb + bound nominalizer -na
+kumkhuoa	PRUNE_AND_MAP	kumkhuo a	kumkhuo	225	Conjoined stem + a	decoupled to kumkhuo a
+tawpa	PRUNE_AND_MAP	tawp a	tawp	223	Conjoined stem + a	decoupled to tawp a
+renga	PRUNE_AND_MAP	reng a	reng	222	Conjoined stem + a	decoupled to reng a
+sia	PRUNE_AND_MAP	si a	si	221	Conjoined stem + a	decoupled to si a
+hienga	PRUNE_AND_MAP	hieng a	hieng	218	Conjoined stem + a	decoupled to hieng a
+chaua	PRUNE_AND_MAP	chau a	chau	217	Conjoined stem + a	decoupled to chau a
+huona	PRUNE_AND_MAP	huon a	huon	216	Conjoined stem + a	decoupled to huon a
+laka	PRUNE_AND_MAP	lak a	lak	212	Conjoined stem + a	decoupled to lak a
+tukhawma	PRUNE_AND_MAP	tu khawm a	tukhawm	212	Special Split / Compound	special decoupling to tu khawm a
+zieka	PRUNE_AND_MAP	ziek a	ziek	212	Conjoined stem + a	decoupled to ziek a
+pathiena	PRUNE_AND_MAP	Pathien a	pathien	210	Special Split / Compound	special decoupling to Pathien a
+pakhata	PRUNE_AND_MAP	pakhat a	pakhat	209	Conjoined stem + a	decoupled to pakhat a
+deua	PRUNE_AND_MAP	deu a	deu	204	Conjoined stem + a	decoupled to deu a
+lekhabua	PRUNE_AND_MAP	lekhabu a	lekhabu	204	Conjoined stem + a	decoupled to lekhabu a
+ṭuma	PRUNE_AND_MAP	ṭum a	ṭum	204	Conjoined stem + a	decoupled to ṭum a
+baibula	PRUNE_AND_MAP	Baibul a	baibul	203	Special Split / Compound	special decoupling to Baibul a
+tluka	PRUNE_AND_MAP	tluk a	tluk	203	Conjoined stem + a	decoupled to tluk a
+noa	PRUNE_AND_MAP	no a	no	201	Conjoined stem + a	decoupled to no a
+inthla	PRUNE_AND_MAP	inthl a	inthl	198	Conjoined stem + a	decoupled to inthl a
+mita	PRUNE_AND_MAP	mit a	mit	197	Conjoined stem + a	decoupled to mit a
+uma	PRUNE_AND_MAP	um a	um	195	Conjoined stem + a	decoupled to um a
+thawa	PRUNE_AND_MAP	thaw a	thaw	194	Conjoined stem + a	decoupled to thaw a
+tuia	PRUNE_AND_MAP	tui a	tui	193	Conjoined stem + a	decoupled to tui a
+hrila	PRUNE_AND_MAP	hril a	hril	192	Conjoined stem + a	decoupled to hril a
+tukvera	PRUNE_AND_MAP	tukver a	tukver	192	Conjoined stem + a	decoupled to tukver a
+thawna	PRUNE_AND_MAP	thawn a	thawn	191	Conjoined stem + a	decoupled to thawn a
+inzoma	PRUNE_AND_MAP	inzom a	inzom	183	Conjoined stem + a	decoupled to inzom a
+pawla	PRUNE_AND_MAP	pawl a	pawl	183	Anthroponym + Clitic a	decoupled to pawl a
+sawma	PRUNE_AND_MAP	sawm a	sawm	174	Anthroponym + Clitic a	decoupled to sawm a
+hlataka	PRUNE_AND_MAP	hlatak a	hlatak	173	Conjoined stem + a	decoupled to hlatak a
+puta	PRUNE_AND_MAP	put a	put	173	Conjoined stem + a	decoupled to put a
+zoa	PRUNE_AND_MAP	zo a	zo	173	Anthroponym + Clitic a	decoupled to zo a
+damna	KEEP	damna	damn	173	Nominalization (-na)	verb + bound nominalizer -na
+nasataka	PRUNE_AND_MAP	nasatak a	nasatak	172	Conjoined stem + a	decoupled to nasatak a
+thilinhlana	PRUNE_AND_MAP	thilinhlan a	thilinhlan	171	Conjoined stem + a	decoupled to thilinhlan a
+ngirhmuna	PRUNE_AND_MAP	ngirhmun a	ngirhmun	170	Conjoined stem + a	decoupled to ngirhmun a
+baptisma	KEEP	baptisma	baptism	165	Inviolate Root	inviolate root / lexeme
+fiena	KEEP	fiena	fien	165	Nominalization (-na)	verb + bound nominalizer -na
+daia	PRUNE_AND_MAP	dai a	dai	164	Conjoined stem + a	decoupled to dai a
+nuna	PRUNE_AND_MAP	nun a	nun	163	Conjoined stem + a	decoupled to nun a
+hrieta	PRUNE_AND_MAP	hriet a	hriet	162	Conjoined stem + a	decoupled to hriet a
+pana	PRUNE_AND_MAP	pan a	pan	162	Conjoined stem + a	decoupled to pan a
+thuma	PRUNE_AND_MAP	thum a	thum	160	Anthroponym + Clitic a	decoupled to thum a
+thara	PRUNE_AND_MAP	thar a	thar	154	Conjoined stem + a	decoupled to thar a
+mizorama	PRUNE_AND_MAP	Mizoram a	mizoram	153	Special Split / Compound	special decoupling to Mizoram a
+theia	PRUNE_AND_MAP	thei a	thei	153	Conjoined stem + a	decoupled to thei a
+ruola	PRUNE_AND_MAP	ruol a	ruol	150	Conjoined stem + a	decoupled to ruol a
+hlaka	PRUNE_AND_MAP	hlak a	hlak	146	Conjoined stem + a	decoupled to hlak a
+idea	PRUNE_AND_MAP	ide a	ide	146	Conjoined stem + a	decoupled to ide a
+chara	PRUNE_AND_MAP	char a	char	141	Conjoined stem + a	decoupled to char a
+lua	PRUNE_AND_MAP	lu a	lu	139	Conjoined stem + a	decoupled to lu a
+peka	PRUNE_AND_MAP	pek a	pek	138	Conjoined stem + a	decoupled to pek a
+siema	PRUNE_AND_MAP	siem a	siem	138	Conjoined stem + a	decoupled to siem a
+suola	PRUNE_AND_MAP	suol a	suol	138	Conjoined stem + a	decoupled to suol a
+kawlhnama	PRUNE_AND_MAP	kawlhnam a	kawlhnam	136	Conjoined stem + a	decoupled to kawlhnam a
+lawma	PRUNE_AND_MAP	lawm a	lawm	136	Anthroponym + Clitic a	decoupled to lawm a
+maichama	PRUNE_AND_MAP	maicham a	maicham	134	Conjoined stem + a	decoupled to maicham a
+ringa	PRUNE_AND_MAP	ring a	ring	134	Conjoined stem + a	decoupled to ring a
+khuma	PRUNE_AND_MAP	khum a	khum	132	Anthroponym + Clitic a	decoupled to khum a
+tawka	PRUNE_AND_MAP	tawk a	tawk	132	Conjoined stem + a	decoupled to tawk a
+ruoma	PRUNE_AND_MAP	ruom a	ruom	130	Conjoined stem + a	decoupled to ruom a
+tura	PRUNE_AND_MAP	tur a	tur	130	Conjoined stem + a	decoupled to tur a
+lala	PRUNE_AND_MAP	lal a	lal	129	Anthroponym + Clitic a	decoupled to lal a
+kona	KEEP	kona	kon	129	Nominalization (-na)	verb + bound nominalizer -na
+rala	PRUNE_AND_MAP	ral a	ral	128	Conjoined stem + a	decoupled to ral a
+vara	PRUNE_AND_MAP	var a	var	127	Conjoined stem + a	decoupled to var a
+tinrenga	PRUNE_AND_MAP	tinreng a	tinreng	125	Conjoined stem + a	decoupled to tinreng a
+indiana	KEEP	indiana	indian	124	Inviolate Root	inviolate root / lexeme
+iengtiziea	PRUNE_AND_MAP	iengtizie a	iengtizie	121	Conjoined stem + a	decoupled to iengtizie a
+vadunga	PRUNE_AND_MAP	vadung a	vadung	120	Conjoined stem + a	decoupled to vadung a
+ienga	PRUNE_AND_MAP	ieng a	ieng	119	Conjoined stem + a	decoupled to ieng a
+hrima	PRUNE_AND_MAP	hrim a	hrim	114	Conjoined stem + a	decoupled to hrim a
+khela	PRUNE_AND_MAP	khel a	khel	114	Conjoined stem + a	decoupled to khel a
+lia	PRUNE_AND_MAP	li a	li	113	Conjoined stem + a	decoupled to li a
+chanpuola	PRUNE_AND_MAP	chanpuol a	chanpuol	112	Conjoined stem + a	decoupled to chanpuol a
+tupa	KEEP	tupa	tup	112	Nominalization (-na)	verb + bound nominalizer -na
+chawia	PRUNE_AND_MAP	chawi a	chawi	111	Conjoined stem + a	decoupled to chawi a
+costa	KEEP	costa	cost	111	Inviolate Root	inviolate root / lexeme
+isua	PRUNE_AND_MAP	isu a	isu	111	Anthroponym + Clitic a	decoupled to isu a
+hmua	PRUNE_AND_MAP	hmu a	hmu	110	Conjoined stem + a	decoupled to hmu a
+dama	PRUNE_AND_MAP	dam a	dam	109	Anthroponym + Clitic a	decoupled to dam a
+hrana	PRUNE_AND_MAP	hran a	hran	109	Conjoined stem + a	decoupled to hran a
+luka	PRUNE_AND_MAP	luk a	luk	109	Anthroponym + Clitic a	decoupled to luk a
+sina	PRUNE_AND_MAP	sin a	sin	109	Conjoined stem + a	decoupled to sin a
+besana	PRUNE_AND_MAP	besan a	besan	107	Conjoined stem + a	decoupled to besan a
+zata	PRUNE_AND_MAP	zat a	zat	107	Conjoined stem + a	decoupled to zat a
+lawnga	PRUNE_AND_MAP	lawng a	lawng	106	Conjoined stem + a	decoupled to lawng a
+thawka	PRUNE_AND_MAP	thawk a	thawk	106	Conjoined stem + a	decoupled to thawk a
+tlaka	PRUNE_AND_MAP	tlak a	tlak	106	Conjoined stem + a	decoupled to tlak a
+josefa	PRUNE_AND_MAP	josef a	josef	103	Anthroponym + Clitic a	decoupled to josef a
+latina	PRUNE_AND_MAP	latin a	latin	103	Conjoined stem + a	decoupled to latin a
+lota	PRUNE_AND_MAP	lot a	lot	102	Anthroponym + Clitic a	decoupled to lot a
+kea	PRUNE_AND_MAP	ke a	ke	101	Conjoined stem + a	decoupled to ke a
+thisena	PRUNE_AND_MAP	thisen a	thisen	101	Conjoined stem + a	decoupled to thisen a
+ṭina	KEEP	ṭina	ṭin	101	Nominalization (-na)	verb + bound nominalizer -na
+kohrana	PRUNE_AND_MAP	kohran a	kohran	100	Conjoined stem + a	decoupled to kohran a
+epha	PRUNE_AND_MAP	eph a	eph	100	Conjoined stem + a	decoupled to eph a
+asia	KEEP	asia	asi	99	Inviolate Root	inviolate root / lexeme
+hiela	PRUNE_AND_MAP	hiel a	hiel	99	Conjoined stem + a	decoupled to hiel a
+nuoma	PRUNE_AND_MAP	nuom a	nuom	99	Conjoined stem + a	decoupled to nuom a
+sipa	PRUNE_AND_MAP	sip a	sip	99	Conjoined stem + a	decoupled to sip a
+hmana	PRUNE_AND_MAP	hman a	hman	98	Conjoined stem + a	decoupled to hman a
+nangnia	PRUNE_AND_MAP	nangni a	nangni	98	Conjoined stem + a	decoupled to nangni a
+ringota	PRUNE_AND_MAP	ringot a	ringot	98	Conjoined stem + a	decoupled to ringot a
+mihriema	PRUNE_AND_MAP	mihriem a	mihriem	97	Conjoined stem + a	decoupled to mihriem a
+thlana	PRUNE_AND_MAP	thlan a	thlan	97	Conjoined stem + a	decoupled to thlan a
+usa	KEEP	usa	us	97	Inviolate Root	inviolate root / lexeme
+alberta	PRUNE_AND_MAP	albert a	albert	96	Anthroponym + Clitic a	decoupled to albert a
+baka	PRUNE_AND_MAP	bak a	bak	96	Conjoined stem + a	decoupled to bak a
+chauha	PRUNE_AND_MAP	chauh a	chauh	96	Conjoined stem + a	decoupled to chauh a
+khanga	PRUNE_AND_MAP	khang a	khang	96	Conjoined stem + a	decoupled to khang a
+manipura	PRUNE_AND_MAP	Manipur a	manipur	96	Special Split / Compound	special decoupling to Manipur a
+boka	PRUNE_AND_MAP	bok a	bok	95	Conjoined stem + a	decoupled to bok a
+sura	PRUNE_AND_MAP	sur a	sur	95	Conjoined stem + a	decoupled to sur a
+thata	PRUNE_AND_MAP	that a	that	94	Conjoined stem + a	decoupled to that a
+nawka	PRUNE_AND_MAP	nawk a	nawk	93	Conjoined stem + a	decoupled to nawk a
+tuola	PRUNE_AND_MAP	tuol a	tuol	93	Conjoined stem + a	decoupled to tuol a
+ngaithla	KEEP	ngaithla	ngaithl	93	Inviolate Root	inviolate root / lexeme
+ngana	KEEP	ngana	ngan	93	Nominalization (-na)	verb + bound nominalizer -na
+hnaia	PRUNE_AND_MAP	hnai a	hnai	92	Conjoined stem + a	decoupled to hnai a
+iengkima	PRUNE_AND_MAP	iengkim a	iengkim	92	Conjoined stem + a	decoupled to iengkim a
+sara	PRUNE_AND_MAP	sar a	sar	92	Anthroponym + Clitic a	decoupled to sar a
+thlawna	PRUNE_AND_MAP	thlawn a	thlawn	92	Conjoined stem + a	decoupled to thlawn a
+cuba	KEEP	cuba	cub	91	Inviolate Root	inviolate root / lexeme
+puola	PRUNE_AND_MAP	puol a	puol	91	Conjoined stem + a	decoupled to puol a
+joba	PRUNE_AND_MAP	job a	job	90	Anthroponym + Clitic a	decoupled to job a
+thupuia	PRUNE_AND_MAP	thupui a	thupui	90	Conjoined stem + a	decoupled to thupui a
+lunga	PRUNE_AND_MAP	lung a	lung	89	Conjoined stem + a	decoupled to lung a
+dawta	PRUNE_AND_MAP	dawt a	dawt	88	Conjoined stem + a	decoupled to dawt a
+rica	KEEP	rica	ric	88	Inviolate Root	inviolate root / lexeme
+kienga	PRUNE_AND_MAP	kieng a	kieng	87	Conjoined stem + a	decoupled to kieng a
+bawia	PRUNE_AND_MAP	bawi a	bawi	87	Conjoined stem + a	decoupled to bawi a
+dena	KEEP	dena	den	86	Nominalization (-na)	verb + bound nominalizer -na
+tuipuia	PRUNE_AND_MAP	tuipui a	tuipui	86	Conjoined stem + a	decoupled to tuipui a
+jona	PRUNE_AND_MAP	jon a	jon	85	Anthroponym + Clitic a	decoupled to jon a
+kuma	PRUNE_AND_MAP	kum a	kum	85	Conjoined stem + a	decoupled to kum a
+mania	PRUNE_AND_MAP	mani a	mani	85	Conjoined stem + a	decoupled to mani a
+bela	PRUNE_AND_MAP	bel a	bel	84	Conjoined stem + a	decoupled to bel a
+hlima	PRUNE_AND_MAP	hlim a	hlim	84	Anthroponym + Clitic a	decoupled to hlim a
+khawpa	PRUNE_AND_MAP	khawp a	khawp	84	Conjoined stem + a	decoupled to khawp a
+ngama	PRUNE_AND_MAP	ngam a	ngam	84	Conjoined stem + a	decoupled to ngam a
+puka	PRUNE_AND_MAP	puk a	puk	84	Conjoined stem + a	decoupled to puk a
+rila	PRUNE_AND_MAP	ril a	ril	84	Conjoined stem + a	decoupled to ril a
+saka	PRUNE_AND_MAP	sak a	sak	84	Conjoined stem + a	decoupled to sak a
+suma	PRUNE_AND_MAP	sum a	sum	84	Conjoined stem + a	decoupled to sum a
+awma	PRUNE_AND_MAP	awm a	awm	83	Conjoined stem + a	decoupled to awm a
+hrea	PRUNE_AND_MAP	hre a	hre	83	Conjoined stem + a	decoupled to hre a
+vawisuna	PRUNE_AND_MAP	vawisun a	vawisun	83	Conjoined stem + a	decoupled to vawisun a
+ziona	PRUNE_AND_MAP	Zion a	zion	83	Special Split / Compound	special decoupling to Zion a
+persia	KEEP	persia	persi	83	Inviolate Root	inviolate root / lexeme
+tiema	PRUNE_AND_MAP	tiem a	tiem	82	Conjoined stem + a	decoupled to tiem a
+banga	PRUNE_AND_MAP	bang a	bang	81	Conjoined stem + a	decoupled to bang a
+cheua	PRUNE_AND_MAP	cheu a	cheu	81	Conjoined stem + a	decoupled to cheu a
+asera	PRUNE_AND_MAP	aser a	aser	80	Anthroponym + Clitic a	decoupled to aser a
+sanga	PRUNE_AND_MAP	sang a	sang	80	Anthroponym + Clitic a	decoupled to sang a
+sungkuoa	PRUNE_AND_MAP	sungkuo a	sungkuo	80	Conjoined stem + a	decoupled to sungkuo a
+changtienga	PRUNE_AND_MAP	changtieng a	changtieng	79	Conjoined stem + a	decoupled to changtieng a
+mega	KEEP	mega	meg	79	Inviolate Root	inviolate root / lexeme
+tuisuorieta	PRUNE_AND_MAP	tuisuoriet a	tuisuoriet	79	Conjoined stem + a	decoupled to tuisuoriet a
+lina	KEEP	lina	lin	79	Nominalization (-na)	verb + bound nominalizer -na
+pindana	PRUNE_AND_MAP	pindan a	pindan	78	Conjoined stem + a	decoupled to pindan a
+sula	PRUNE_AND_MAP	sul a	sul	78	Conjoined stem + a	decoupled to sul a
+suna	PRUNE_AND_MAP	sun a	sun	78	Conjoined stem + a	decoupled to sun a
+nuhmeia	PRUNE_AND_MAP	nuhmei a	nuhmei	77	Conjoined stem + a	decoupled to nuhmei a
+taphawta	PRUNE_AND_MAP	taphawt a	taphawt	77	Conjoined stem + a	decoupled to taphawt a
+uria	PRUNE_AND_MAP	uri a	uri	77	Anthroponym + Clitic a	decoupled to uri a
+hmaia	PRUNE_AND_MAP	hmai a	hmai	76	Conjoined stem + a	decoupled to hmai a
+khura	PRUNE_AND_MAP	khur a	khur	75	Conjoined stem + a	decoupled to khur a
+rochunga	PRUNE_AND_MAP	rochung a	rochung	75	Conjoined stem + a	decoupled to rochung a
+ema	PRUNE_AND_MAP	em a	em	74	Conjoined stem + a	decoupled to em a
+inthima	PRUNE_AND_MAP	inthim a	inthim	74	Conjoined stem + a	decoupled to inthim a
+mika	PRUNE_AND_MAP	mik a	mik	74	Conjoined stem + a	decoupled to mik a
+thena	PRUNE_AND_MAP	then a	then	73	Conjoined stem + a	decoupled to then a
+thinga	PRUNE_AND_MAP	thing a	thing	72	Conjoined stem + a	decoupled to thing a
+kora	PRUNE_AND_MAP	kor a	kor	71	Conjoined stem + a	decoupled to kor a
+kula	PRUNE_AND_MAP	kul a	kul	71	Conjoined stem + a	decoupled to kul a
+chungtienga	PRUNE_AND_MAP	chungtieng a	chungtieng	70	Conjoined stem + a	decoupled to chungtieng a
+inkhawma	PRUNE_AND_MAP	inkhawm a	inkhawm	70	Conjoined stem + a	decoupled to inkhawm a
+kawtthlera	PRUNE_AND_MAP	kawtthler a	kawtthler	70	Conjoined stem + a	decoupled to kawtthler a
+pahnia	PRUNE_AND_MAP	pahni a	pahni	70	Conjoined stem + a	decoupled to pahni a
+ṭana	PRUNE_AND_MAP	ṭan a	ṭan	70	Anthroponym + Clitic a	decoupled to ṭan a
+rawna	PRUNE_AND_MAP	rawn a	rawn	70	Anthroponym + Clitic a	decoupled to rawn a
+andrea	PRUNE_AND_MAP	andre a	andre	69	Anthroponym + Clitic a	decoupled to andre a
+hmartienga	PRUNE_AND_MAP	hmartieng a	hmartieng	69	Conjoined stem + a	decoupled to hmartieng a
+una	PRUNE_AND_MAP	un a	un	69	Conjoined stem + a	decoupled to un a
+helena	PRUNE_AND_MAP	helen a	helen	68	Anthroponym + Clitic a	decoupled to helen a
+metallica	KEEP	metallica	metallic	68	Inviolate Root	inviolate root / lexeme
+sungrila	PRUNE_AND_MAP	sungril a	sungril	68	Conjoined stem + a	decoupled to sungril a
+thilthawa	PRUNE_AND_MAP	thilthaw a	thilthaw	68	Conjoined stem + a	decoupled to thilthaw a
+tiha	PRUNE_AND_MAP	tih a	tih	68	Conjoined stem + a	decoupled to tih a

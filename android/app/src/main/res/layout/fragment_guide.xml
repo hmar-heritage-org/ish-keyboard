@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_page">
+
+    <!-- Top Action Bar -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:background="@color/surface_card"
+        android:elevation="2dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ISH Orthography Guide"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/brand_emerald" />
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/scroll_guide"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- Card 1: Retroflex Consonants (tr ➔ ṭ, thr ➔ ṭh) -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card"
+                android:padding="16dp"
+                android:elevation="1dp"
+                android:layout_marginBottom="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="1. RETROFLEX CONSONANTS (Ṭ &amp; ṬH)"
+                    android:textSize="11sp"
+                    android:textStyle="bold"
+                    android:letterSpacing="0.08"
+                    android:textColor="@color/brand_emerald" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="How to type ṭ and ṭh effortlessly"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_main"
+                    android:layout_marginTop="2dp"
+                    android:layout_marginBottom="8dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="On ISH Keyboard, you never need to hunt for special characters. Simply type normal letters and they convert automatically:"
+                    android:textSize="13sp"
+                    android:textColor="@color/text_main"
+                    android:lineSpacingExtra="2dp"
+                    android:layout_marginBottom="12dp" />
+
+                <!-- Rule Box A -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:background="@drawable/bg_card_notice"
+                    android:padding="12dp"
+                    android:gravity="center_vertical"
+                    android:layout_marginBottom="8dp">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Type: tr  ➔  becomes: ṭ"
+                        android:textSize="14sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/brand_emerald" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="e.g. trawng ➔ ṭawng"
+                        android:textSize="12sp"
+                        android:textColor="@color/text_sub" />
+                </LinearLayout>
+
+                <!-- Rule Box B -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:background="@drawable/bg_card_notice"
+                    android:padding="12dp"
+                    android:gravity="center_vertical">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Type: thr  ➔  becomes: ṭh"
+                        android:textSize="14sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/brand_emerald" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="e.g. thra ➔ ṭha"
+                        android:textSize="12sp"
+                        android:textColor="@color/text_sub" />
+                </LinearLayout>
+
+                <!-- Escape Rule for English / Borrowed Words -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:background="@drawable/bg_card_notice"
+                    android:padding="12dp"
+                    android:layout_marginTop="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Typing Literal 'tr' &amp; 'thr' (English Words):"
+                        android:textSize="13sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/brand_emerald" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="To type English or borrowed words with literal 'tr' or 'thr', simply double-tap 'r':\n• To type 'tree', type trr  ➔  tr (e.g. trree ➔ tree, trrain ➔ train)\n• For 'three', type thrr ➔  thr (e.g. thrree ➔ three)"
+                        android:textSize="12sp"
+                        android:textColor="@color/text_main"
+                        android:lineSpacingExtra="3dp"
+                        android:layout_marginTop="3dp" />
+                </LinearLayout>
+
+                <!-- Automatic Tonal Transform Notice -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:background="@drawable/bg_card_notice"
+                    android:padding="12dp"
+                    android:layout_marginTop="12dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Notice on Automatic Tonals:"
+                        android:textSize="12sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/brand_emerald" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Automatic tonal conversions (e.g. tawm ➔ tâwm or suong ➔ sûong) are not implemented yet.\n\nTo type circumflex vowels, use the dedicated Tone Modifier key (♪) on the bottom row, or press and hold any vowel."
+                        android:textSize="12sp"
+                        android:textColor="@color/text_main"
+                        android:lineSpacingExtra="2dp"
+                        android:layout_marginTop="3dp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <!-- Card 2: Tone Modifier Shortcut (♪) -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card"
+                android:padding="16dp"
+                android:elevation="1dp"
+                android:layout_marginBottom="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="2. TONE SHORTCUT KEY (♪)"
+                    android:textSize="11sp"
+                    android:textStyle="bold"
+                    android:letterSpacing="0.08"
+                    android:textColor="@color/brand_emerald" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Instant Tonal Accent Modifier (♪)"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_main"
+                    android:layout_marginTop="2dp"
+                    android:layout_marginBottom="8dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ISH Keyboard includes a dedicated Tone Key marked with a musical note (♪) next to ?123 on the bottom row for effortless tonal typing:"
+                    android:textSize="13sp"
+                    android:textColor="@color/text_main"
+                    android:lineSpacingExtra="2dp"
+                    android:layout_marginBottom="12dp" />
+
+                <!-- Step 1 -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:background="@drawable/bg_card_notice"
+                    android:padding="12dp"
+                    android:gravity="center_vertical"
+                    android:layout_marginBottom="8dp">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="1. Tap the Tone Key (♪)"
+                        android:textSize="13sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/brand_emerald" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Vowels switch to â, ê, î, ô, û"
+                        android:textSize="12sp"
+                        android:textColor="@color/text_sub" />
+                </LinearLayout>
+
+                <!-- Step 2 -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:background="@drawable/bg_card_notice"
+                    android:padding="12dp"
+                    android:gravity="center_vertical"
+                    android:layout_marginBottom="8dp">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="2. Tap your vowel"
+                        android:textSize="13sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/brand_emerald" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Types tone &amp; resets automatically"
+                        android:textSize="12sp"
+                        android:textColor="@color/text_sub" />
+                </LinearLayout>
+
+                <!-- Step 3 -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:background="@drawable/bg_card_notice"
+                    android:padding="12dp"
+                    android:gravity="center_vertical">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="3. Shift / Caps Lock"
+                        android:textSize="13sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/brand_emerald" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Types uppercase Â, Ê, Î, Ô, Û"
+                        android:textSize="12sp"
+                        android:textColor="@color/text_sub" />
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="• One-Shot: The tone key activates for a single vowel, then immediately returns to normal lowercase letters.\n• Quick Cancel: Tap ♪ again or any non-vowel key to dismiss tone mode.\n• Double-tap Shift: Locks the keyboard to all-caps mode."
+                    android:textSize="12sp"
+                    android:textColor="@color/text_sub"
+                    android:lineSpacingExtra="3dp"
+                    android:layout_marginTop="12dp" />
+            </LinearLayout>
+
+            <!-- Card 3: Long-Press Popup Accents -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card"
+                android:padding="16dp"
+                android:elevation="1dp"
+                android:layout_marginBottom="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="3. PRESS &amp; HOLD ACCENTS"
+                    android:textSize="11sp"
+                    android:textStyle="bold"
+                    android:letterSpacing="0.08"
+                    android:textColor="@color/brand_emerald" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Long-Press Popup Menu"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_main"
+                    android:layout_marginTop="2dp"
+                    android:layout_marginBottom="8dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="As an alternative to the tone key, you can simply press and hold any vowel key (a, e, i, o, u) to display its accented forms (â, ê, î, ô, û) and slide your finger to choose."
+                    android:textSize="13sp"
+                    android:textColor="@color/text_main"
+                    android:lineSpacingExtra="2dp" />
+            </LinearLayout>
+
+            <!-- Card 4: Decoupled Suffixes & Auto-Split -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card"
+                android:padding="16dp"
+                android:elevation="1dp"
+                android:layout_marginBottom="24dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="4. SUFFIX DECOUPLING &amp; SPACING"
+                    android:textSize="11sp"
+                    android:textStyle="bold"
+                    android:letterSpacing="0.08"
+                    android:textColor="@color/brand_emerald" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Automatic Spacebar Splitting"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_main"
+                    android:layout_marginTop="2dp"
+                    android:layout_marginBottom="8dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Internet Standard Hmar decouples grammatical particles with a space so that modern search, spell check, and AI work cleanly.\n\nThe keyboard automatically splits them when you tap Spacebar:"
+                    android:textSize="13sp"
+                    android:textColor="@color/text_main"
+                    android:lineSpacingExtra="2dp"
+                    android:layout_marginBottom="12dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="• Plural: hmangaihai  ➔  hmangai hai\n• Subject/Locative: saruoka  ➔  saruok a\n• Instrumental: chemtein  ➔  chemte in\n• Directional: khawpuiah  ➔  khawpui ah"
+                    android:textSize="13sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/brand_emerald"
+                    android:lineSpacingExtra="6dp" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

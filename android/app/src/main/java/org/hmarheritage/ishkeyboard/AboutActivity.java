@@ -20,6 +20,11 @@ public class AboutActivity extends AppCompatActivity {
             }
         });
 
+        android.widget.TextView tvDetails = findViewById(R.id.tv_about_project_details);
+        if (tvDetails != null) {
+            tvDetails.setText("• Maintained by: Hmar Heritage Foundation\n• Project Direction: Donal Muolhoi & Stephen Huolngo\n• Website: hmarheritage.pages.dev\n• Open Source: github.com/hmar-heritage-org\n• Contact: donalmuolhoi@gmail.com\n• Version: " + BuildConfig.VERSION_NAME + "\n• Lexicon: 64,813 words, 101,978 phrase transitions");
+        }
+
         android.widget.Button btnVisit = findViewById(R.id.btn_visit_website);
         if (btnVisit != null) {
             btnVisit.setOnClickListener(new View.OnClickListener() {

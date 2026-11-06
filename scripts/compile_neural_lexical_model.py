@@ -34,7 +34,7 @@ def load_fused_manifest():
         'anih': 'a nih', 'ani': 'a ni', 'alo': 'a lo', 'ahung': 'a hung', 'aum': 'a um',
         'athra': 'a ṭha', 'atha': 'a ṭha', 'apawimaw': 'a pawimaw', 'apawimawh': 'a pawimawh',
         'aphat': 'a phat', 'ati': 'a ti', 'ahriet': 'a hriet', 'anei': 'a nei', 'ala': 'a la',
-        'afe': 'a fe', 'ana': 'a na', 'asawt': 'a sawt', 'athawk': 'a ṭhawk', 'aṭhawk': 'a ṭhawk',
+        'afe': 'a fe', 'ana': 'a na', 'asawt': 'a sawt', 'athawk': 'a thawk', 'aṭhawk': 'a thawk',
         'anvaia': 'an vai a', 'anvaiah': 'an vai ah', 'anvaiin': 'an vai in',
         'anmani': 'an mani', 'anfe': 'an fe', 'anti': 'an ti', 'anlo': 'an lo',
         'anhung': 'an hung', 'anum': 'an um', 'anthra': 'an ṭha', 'anṭha': 'an ṭha',
@@ -49,7 +49,10 @@ def load_fused_manifest():
         'inih': 'i nih', 'ini': 'i ni', 'ihung': 'i hung', 'ilo': 'i lo', 'ium': 'i um',
         'iti': 'i ti', 'ife': 'i fe', 'inei': 'i nei', 'ihriet': 'i hriet', 'ila': 'i la',
         'innih': 'in nih', 'inni': 'in ni', 'inhung': 'in hung', 'inlo': 'in lo',
-        'inum': 'in um', 'inti': 'in ti', 'infe': 'in fe'
+        'inum': 'in um', 'inti': 'in ti', 'infe': 'in fe',
+        # Possessive pronouns with genitive ta
+        'kata': 'ka ta', 'ita': 'i ta', 'ata': 'a ta', 'eita': 'ei ta',
+        'kanta': 'kan ta', 'inta': 'in ta', 'anta': 'an ta'
     }
     fused_map.update(prefixes)
 
@@ -84,7 +87,22 @@ def load_fused_manifest():
                         target = item.get('ish_form', f"{word[:-len(p)]} {p}").lower()
                         fused_map[word] = target
 
-    print(f"Total verified fused mappings loaded: {len(fused_map):,}")
+    # 5. Alphabet-specific manual decoupled manifests (e.g. decoupled_a_manifest.json, etc.)
+    for dec_file in CLEANING_DIR.glob('decoupled_*_manifest.json'):
+        with open(dec_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            for k, v in data.items():
+                fused_map[k.lower()] = v.lower()
+
+    # 6. Phonetic loanword corrections (e.g. apawsṭawfi -> apostrophe, awksizen -> oxygen)
+    loan_path = CLEANING_DIR / 'loanword_corrections.json'
+    if loan_path.exists():
+        with open(loan_path, 'r', encoding='utf-8') as f:
+            loans = json.load(f)
+            for k, v in loans.items():
+                fused_map[k.lower()] = v.lower()
+
+    print(f"Total verified fused & loanword mappings loaded: {len(fused_map):,}")
     return fused_map
 
 def main():
@@ -124,6 +142,12 @@ def main():
     fused_map = load_fused_manifest()
     fused_json = json.dumps(fused_map, ensure_ascii=False, separators=(',', ':'))
     print(f"Compact fused map payload size: {len(fused_json.encode('utf-8')) / 1024:.2f} KB")
+
+    fused_json_path = REPO_ROOT / "android" / "app" / "src" / "main" / "assets" / "models" / "fused_map.json"
+    fused_json_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(fused_json_path, "w", encoding="utf-8") as f:
+        f.write(fused_json)
+    print(f"Saved fused map to {fused_json_path}")
 
     # 3. Read current file from SOURCE_MODEL_JS (which kmc compiled)
     with open(SOURCE_MODEL_JS, "r", encoding="utf-8") as f:
@@ -276,29 +300,9 @@ HmarHybridModel.prototype.predict = function(transform, context) {{
     isBoundary = true;
   }}
   
-  // 1. Boundary: Auto-Split on Space or Next-Word Prediction
+  // 1. Boundary: Next-Word Prediction after space or boundary
   if (isBoundary && left.trim().length > 0) {{
     var words = left.trim().split(/\\s+/);
-    var prevWord = words[words.length - 1];
-    
-    // Auto-split when space is pressed right after a fused word
-    var autoSplit = getMorphologicalSplit(prevWord, this.fusedMap);
-    if (autoSplit) {{
-      var casedAuto = matchCase(prevWord, autoSplit) + " ";
-      // When space was typed, delOffset is -1.
-      // delOffset + prevWord.length + 1 = prevWord.length!
-      // This deletes strictly prevWord from preInput without consuming the preceding space.
-      var delLenAuto = Math.max(0, delOffset + prevWord.length + 1);
-      return [{{
-        sample: {{
-          transform: {{ insert: casedAuto, deleteLeft: delLenAuto }},
-          displayAs: casedAuto.trim(),
-          p: 1.0
-        }},
-        p: 1.0
-      }}];
-    }}
-    
     var cleanWords = words.map(function(w) {{
       return w.replace(/[^\\w\\u00C0-\\u024F\\u1E6C\\u1E6D]/g, "").toLowerCase();
     }}).filter(Boolean);
@@ -342,9 +346,8 @@ HmarHybridModel.prototype.predict = function(transform, context) {{
     var split = getMorphologicalSplit(lastWord, this.fusedMap);
     if (split) {{
       var casedSplit = matchCase(lastWord, split);
-      // delLenWord = delOffset + lastWord.length ensures preInput deletion matches
-      // the exact prefix in preInput, preserving the preceding space!
-      var delLenWord = Math.max(0, delOffset + lastWord.length);
+      // delLenWord must delete the entire lastWord so that no leading characters remain
+      var delLenWord = lastWord.length;
       
       // EXACTLY 2 OPTIONS ONLY:
       // Option 1 (Left): Literal fused version as typed
@@ -352,9 +355,11 @@ HmarHybridModel.prototype.predict = function(transform, context) {{
         sample: {{
           transform: {{ insert: lastWord, deleteLeft: delLenWord }},
           displayAs: lastWord,
-          p: 0.1
+          p: 0.1,
+          isLiteral: true
         }},
-        p: 0.1
+        p: 0.1,
+        isLiteral: true
       }};
       
       // Option 2 (Right): Canonical ISH Split (Primary / Default)

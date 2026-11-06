@@ -268,9 +268,10 @@
                     android:textColor="@color/brand_emerald" />
 
                 <TextView
+                    android:id="@+id/tv_about_project_details"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="• Maintained by: Hmar Heritage Foundation\n• Project Direction: Donal Muolhoi &amp; Stephen Huolngo\n• Website: hmarheritage.pages.dev\n• Open Source: github.com/hmar-heritage-org\n• Contact: donalmuolhoi@gmail.com\n• Version: 1.1.1-alpha\n• Lexicon: 64,813 words, 101,978 phrase transitions"
+                    android:text="• Maintained by: Hmar Heritage Foundation\n• Project Direction: Donal Muolhoi &amp; Stephen Huolngo\n• Website: hmarheritage.pages.dev\n• Open Source: github.com/hmar-heritage-org\n• Contact: donalmuolhoi@gmail.com\n• Version: 1.2.7\n• Lexicon: 64,813 words, 101,978 phrase transitions"
                     android:textSize="13sp"
                     android:textColor="@color/text_main"
                     android:layout_marginTop="8dp"

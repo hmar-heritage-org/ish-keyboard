@@ -191,11 +191,38 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="If you ever need an actual 'tr' or 'thr' (for words like 'train' or 'three'), just tap 'r' a second time:\n• t + r + r  ➔  tr\n• t + h + r + r  ➔  thr"
+                    android:text="To type English or borrowed words like 'tree' or 'three', simply double-tap 'r':\n• For 'tree', type trr  ➔  tr (e.g. trree ➔ tree, trrain ➔ train)\n• For 'three', type thrr ➔  thr (e.g. thrree ➔ three)"
                     android:textSize="12sp"
                     android:textStyle="italic"
                     android:textColor="@color/text_hint"
                     android:layout_marginTop="10dp" />
+
+                <!-- Automatic Tonal Transform Notice -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:background="@drawable/bg_card_notice"
+                    android:padding="12dp"
+                    android:layout_marginTop="12dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Notice on Automatic Tonals:"
+                        android:textSize="12sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/brand_emerald" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Automatic tonal conversions (e.g. tawm ➔ tâwm or suong ➔ sûong) are not implemented yet. Use the tone shortcut key (♪) on the bottom row or press and hold any vowel to insert tonal variants."
+                        android:textSize="12sp"
+                        android:textColor="@color/text_main"
+                        android:lineSpacingExtra="2dp"
+                        android:layout_marginTop="3dp" />
+                </LinearLayout>
 
             </LinearLayout>
 

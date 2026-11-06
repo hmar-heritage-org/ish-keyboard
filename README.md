@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/hmar-heritage-org/ish-keyboard/releases"><img src="https://img.shields.io/badge/version-1.1.1-064e3b?style=flat-square&logo=android" alt="Version 1.1.1"/></a>
+  <a href="https://github.com/hmar-heritage-org/ish-keyboard/releases"><img src="https://img.shields.io/badge/version-1.2.3-064e3b?style=flat-square&logo=android" alt="Version 1.2.3"/></a>
   <a href="https://hmarheritage.pages.dev"><img src="https://img.shields.io/badge/community-Hmar_Heritage_Foundation-34d399?style=flat-square" alt="HHF"/></a>
   <a href="#"><img src="https://img.shields.io/badge/platform-Android_5.0_--_14-blue?style=flat-square&logo=android" alt="Platform"/></a>
   <a href="#"><img src="https://img.shields.io/badge/privacy-100%25_Offline-success?style=flat-square" alt="100% Offline"/></a>
